@@ -1,0 +1,40 @@
+﻿de,en,zh,status,note
+Kultus,cult,崇拜,ok,"沿用同章既有译法（14.p7 块 11『崇拜中的现实行动』；13.p48／13.p54 均作 崇拜），本单元同此"
+Epos,epic,史诗,ok,"14.p7 块 11 已定译 史诗本身，本单元同此"
+Sänger,singer,歌者,ok,"14.p7 块 11 已定译 歌者；本单元一律从之，不另用 歌手（本单元草稿曾出现一处 歌手，已改）"
+Pathos,pathos,激情,ok,"14.p7 块 11 已定译 激情；通行美学译名另作 情致，本卷从 14.p7"
+übertägig,above-ground (living),地面之上的,unsicher,"字面 白昼之上的；与块 12 句 4『离去的精灵』（冥界）对举，指活人。备选：白昼之上的／世间的"
+selbstisch,of selfhood,自身性的,unsicher,"die selbstische Seite（自身性的一面）与 die allgemeine Seite（普遍的一面）对举；备选：自我的"
+Kraft / Kräfte,force,力,ok,"上下文包政策：Kraft＝力，禁 力量；本单元 个体性的力、不可战胜的神力、纯粹的力、力和美 均照此"
+Macht / Mächte,power,力量,ok,"与 w3-14-7.glossar.csv 一致：Macht 不受 Kraft 之限，作 力量；本单元 普遍的力量、实体性的力量、最后的力量。政治义的 Macht 在 12.json 译 权力，本单元不涉"
+Element,element,元素,ok,"沿用全库既有译法（chunk 12／13 均作 元素）；与 Moment＝环节 分开"
+Notwendigkeit,necessity,必然性,ok,共享词表已收
+göttliches Bestehen,divine subsistence,神性的持存,ok,"Bestehen 沿用 13.p54『对象性的持存』"
+Selbstvergessenheit,self-forgetfulness,自我遗忘,unsicher,块 13 句 4；备选：自忘／忘却自身
+Vieldeutigkeit,ambiguity,多义性,unsicher,块 13 句 5；备选：歧义性
+Eigentümlichkeit,peculiarity,独特性,ok,
+Aufspreizen,self-inflation,自我膨胀,unsicher,"字面 自我撑开；块 13 句 6。备选：虚张声势／自我吹胀"
+Begebenheit,event,事件,ok,
+Extremität,extremity,极端,ok,块 14 句 3；与 14.p7 的 Extrem＝极端 一致
+Widerstreit,conflict,争执,unsicher,"与 Widerspruch＝矛盾、Gegensatz＝对立 并列区分；备选：冲突"
+Inkonsequenz,inconsistency,前后不一,unsicher,"块 12 句 8、块 13 句 6、块 14 句 1 三见；备选：不一致"
+Überfluß,superfluity,多余,ok,
+beseelt,animated,赋予灵魂,unsicher,"durch das Blut beseelt＝被血赋予灵魂；备选：被血赋予生气"
+Anteil haben an,to have a share in,有份,unsicher,"块 14 句 4、句 5 两见；备选：参与／分有"
+Mitte,middle,中间,unsicher,"块 14 指必然性与歌者两个极端之间的中间位置；非 14.p7 块 11 推论意义上的 中项，故不套用"
+losgebunden,unbound,摆脱了束缚,unsicher,"块 14 句 2；备选：无拘无束地"
+sich ordnen,to order itself,自行归整,unsicher,"块 14 句 1；备选：自行得到整理"
+zur ändern,(原文如此),另一面,ok,"输入与项目德文原文（data/_raw/.../HE03-047.html）同作 zur ändern，显系 zur andern 之讹；按 另一面 译，未改原文"
+an die Extremität ausgeschlossen,excluded from the extremity,被排斥在极端之外,unsicher,"原文介词用 an + Akk.，非惯用的 von；按 被排斥在极端之外 译。本单元无先例可循，待父会话核定"
+elementarische Naturen,elemental natures,元素性的自然,unsicher,"块 12 句 13；与块 13 句 3 的 bestimmte Elemente（规定的元素）呼应"
+betätigtes Verhältnis,activated relation,起作用的关系,unsicher,"块 12 句 13；备选：现实的关系／激活了的关系（须避开与 Wirklichkeit＝现实性 撞词）"
+Elastizität,elasticity,弹性,ok,"与 Punktualität（点状性）对举"
+Punktualität,pointedness,点状性,unsicher,"块 12 句 13；指行动者作为个别点的离散性格，与普遍统一的弹性相对。备选：棱角／尖锐性"
+Figuration,figuration,形态,unsicher,"块 12 句 13；备选：构形"
+Flüssigkeit,fluidity,流动性,ok,
+Geschehen,happening,发生,unsicher,"块 13 句 8；与 Begebenheit＝事件 分工。备选：事变"
+selbstlos,without self,无自身地,unsicher,"块 13 句 8；切勿译成 无私（汉语指利他，与 selbstlos 的 无自身 义不通）"
+Leere,emptiness,虚无,ok,"begrifflose Leere der Notwendigkeit＝必然性的无概念的虚无"
+Reinheit,purity,纯粹性,ok,
+das Positive,the positive,肯定的东西,ok,"与 das Allgemeine（普遍的东西）并列"
+Sterblichen,mortals,凡人,ok,"块 12 句 12、块 13 句 8 两见"

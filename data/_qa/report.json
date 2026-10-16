@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-16T15:50:59.919Z",
- "blocks": 2931,
- "sentences": 10996,
+ "generated": "2026-10-16T17:40:06.749Z",
+ "blocks": 3057,
+ "sentences": 11665,
  "issues": [
   {
    "sev": "minor",
@@ -4842,11 +4842,276 @@
    "sev": "minor",
    "where": "w3/12#51",
    "msg": "sentence 8: \"Individualität\" is not rendered as “个体性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/13#8",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/13#11",
+   "msg": "sentence 5: “vorgestellt” (family Vorstellung) does not keep the family root “表象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/13#15",
+   "msg": "sentence 5: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/13#15",
+   "msg": "sentence 10: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/13#18",
+   "msg": "sentence 5: \"Gestalt\" is not rendered as “形态”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/13#19",
+   "msg": "sentence 5: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/13#19",
+   "msg": "sentence 5: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/13#28",
+   "msg": "sentence 1: en/de word ratio 1.64 (18/11)"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/13#30",
+   "msg": "sentence 3: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/13#47",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/13#47",
+   "msg": "sentence 3: \"Ding\" is not rendered as “物”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/13#48",
+   "msg": "sentence 2: \"Gestalt\" is not rendered as “形态”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#2",
+   "msg": "sentence 1: repeated Chinese fragment “那种紧张的夜”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#4",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#5",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#7",
+   "msg": "sentence 5: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#12",
+   "msg": "sentence 3: \"Geist\" is not rendered as “精神”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/14#12",
+   "msg": "sentence 3: “Geist” (family Geist) does not keep the family root “精神”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#15",
+   "msg": "sentence 3: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#18",
+   "msg": "sentence 1: \"Gestalt\" is not rendered as “形态”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#18",
+   "msg": "sentence 4: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#19",
+   "msg": "sentence 1: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#19",
+   "msg": "sentence 7: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#19",
+   "msg": "sentence 10: \"Geist\" is not rendered as “精神”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/14#19",
+   "msg": "sentence 10: “Geist” (family Geist) does not keep the family root “精神”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#20",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#21",
+   "msg": "sentence 2: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#21",
+   "msg": "sentence 3: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#21",
+   "msg": "sentence 7: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#22",
+   "msg": "sentence 2: \"Gestalt\" is not rendered as “形态”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#22",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#23",
+   "msg": "sentence 2: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#24",
+   "msg": "sentence 0: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#24",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#28",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#33",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#36",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#36",
+   "msg": "sentence 6: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#36",
+   "msg": "sentence 8: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#40",
+   "msg": "sentence 3: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/14#41",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#49",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#53",
+   "msg": "sentence 2: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#57",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “规律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#59",
+   "msg": "sentence 6: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#63",
+   "msg": "sentence 2: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/14#63",
+   "msg": "sentence 2: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#68",
+   "msg": "sentence 9: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#70",
+   "msg": "sentence 3: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/14#70",
+   "msg": "sentence 3: “Wissen” (family Wissen) does not keep the family root “知”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#70",
+   "msg": "sentence 4: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "major",
+   "where": "w3/14#70",
+   "msg": "sentence 4: “Wissen” (family Wissen) does not keep the family root “知”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/14#70",
+   "msg": "sentence 5: \"Wesen\" is not rendered as “本质”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 120,
-  "minor": 848
+  "major": 129,
+  "minor": 892
  }
 }

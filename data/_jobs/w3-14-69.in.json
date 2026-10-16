@@ -1,0 +1,51 @@
+{
+ "id": "w3-14-69",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 14,
+ "chunkTitle": "b. Das lebendige Kunstwerk",
+ "heading": "b. Das lebendige Kunstwerk",
+ "blocks": [
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "b9gech1yjs",
+   "sents": [
+    "So ist also der Geist sich selbst wissender Geist; er weiß sich, das, was ihm Gegenstand ist, ist, oder seine Vorstellung ist der wahre absolute Inhalt, er drückt, wie wir sahen, den Geist selbst aus.",
+    "Er ist zugleich nicht nur Inhalt des Selbstbewußtseins und nicht nur für es Gegenstand, sondern er ist auch wirklicher Geist.",
+    "Er ist dies, indem er die drei Elemente seiner Natur durchläuft; diese Bewegung durch sich selbst hindurchmacht seine Wirklichkeit aus; – was sich bewegt, ist er, er ist das Subjekt der Bewegung, und er ist ebenso das Bewegen selbst oder die Substanz, durch welche das Subjekt hindurchgeht.",
+    "Wie uns der Begriff des Geistes geworden war, als wir in die Religion eintraten, nämlich als die Bewegung des seiner selbst gewissen Geistes, der dem Bösen verzeiht und darin zugleich von seiner eigenen Einfachheit und harten Unwandelbarkeit abläßt, oder die Bewegung, daß das absolut Entgegengesetzte sich als dasselbe erkennt und dies Erkennen als das Ja zwischen diesen Extremen hervorbricht, – diesen Begriff schaut das religiöse Bewußtsein, dem das absolute Wesen offenbar [ist], an und hebt die Unterscheidung seines Selbsts von seinem Angeschauten auf, – ist, wie es das Subjekt ist, so auch die Substanz und ist also selbst der Geist, eben weil und insofern es diese Bewegung ist."
+   ]
+  },
+  {
+   "bi": 70,
+   "k": "p",
+   "hash": "1lqdvz11b3",
+   "sents": [
+    "Vollendet aber ist diese Gemeinde noch nicht in diesem ihrem Selbstbewußtsein; ihr Inhalt ist überhaupt in der Form des Vorstellens für sie, und diese Entzweiung hat auch die wirkliche Geistigkeit derselben, ihre Rückkehr aus ihrem Vorstellen, noch an ihr, wie das Element des reinen Denkens selbst damit behaftet war.",
+    "Sie hat nicht auch das Bewußtsein über das, was sie ist; sie ist das geistige Selbstbewußtsein, das sich nicht als dieses Gegenstand ist oder sich nicht zum Bewußtsein seiner selbst aufschließt; sondern insofern sie Bewußtsein ist, hat sie Vorstellungen, die betrachtet wurden.",
+    "– Wir sehen das Selbstbewußtsein auf seinem letzten Wendungspunkte sich innerlich werden und zum Wissen des Insichseins gelangen; wir sehen es sein natürliches Dasein entäußern und die reine Negativität gewinnen.",
+    "Aber die positive Bedeutung, daß nämlich diese Negativität oder reine Innerlichkeit des Wissens ebensosehr das sichselbstgleiche Wesen ist – oder daß die Substanz hierin dazu gelangt, absolutes Selbstbewußtsein zu sein, dies ist ein Anderes für das andächtige Bewußtsein.",
+    "Es ergreift diese Seite, daß das reine Innerlichwerden des Wissens an sich die absolute Einfachheit oder die Substanz ist, als die Vorstellung von etwas, das nicht dem Begriffe nach so ist, sondern als die Handlung einer fremden Genugtuung.",
+    "Oder es ist nicht dies für es, daß diese Tiefe des reinen Selbsts die Gewalt ist, wodurch das abstrakte Wesen aus seiner Abstraktion herabgezogen und durch die Macht dieser reinen Andacht zum Selbst erhoben wird.",
+    "– Das Tun des Selbsts behält dadurch diese negative Bedeutung gegen es, weil die Entäußerung der Substanz von ihrer Seite ein Ansich für jenes ist, das es nicht ebenso erfaßt und begreift oder nicht in seinem Tun als solchem findet.",
+    "– Indem an sich diese Einheit des Wesens und des Selbsts zustande gekommen, so hat das Bewußtsein auch noch diese Vorstellung seiner Versöhnung, aber als Vorstellung.",
+    "Es erlangt die Befriedigung dadurch, daß es seiner reinen Negativität die positive Bedeutung der Einheit seiner mit dem Wesen äußerlich hinzufügt; seine Befriedigung bleibt also selbst mit dem Gegensatze eines Jenseits behaftet.",
+    "Seine eigene Versöhnung tritt daher als ein Fernes in sein Bewußtsein ein, als ein Fernes der Zukunft, wie die Versöhnung, die das andere Selbst vollbrachte, als eine Ferne der Vergangenheit erscheint.",
+    "So wie der einzelne göttliche Mensch einen ansichseienden Vater und nur eine wirkliche Mutter hat, so hat auch der allgemeine göttliche Mensch, die Gemeinde, ihr eigenes Tun und Wissen zu ihrem Vater, zu ihrer Mutter aber die ewige Liebe, die sie nur fühlt, nicht aber in ihrem Bewußtsein als wirklichen unmittelbaren Gegenstand anschaut.",
+    "Ihre Versöhnung ist daher in ihrem Herzen, aber mit ihrem Bewußtsein noch entzweit und ihre Wirklichkeit noch gebrochen.",
+    "Was als das Ansich oder die Seite der reinen Vermittlung in ihr Bewußtsein tritt, ist die jenseits liegende Versöhnung; was aber als gegenwärtig, als die Seite der Unmittelbarkeit und des Daseins, ist die Welt, die ihre Verklärung noch zu gewarten hat.",
+    "Sie ist wohl an sich versöhnt mit dem Wesen; und vom Wesen wird wohl gewußt, daß es den Gegenstand nicht mehr als sich entfremdet erkennt, sondern in seiner Liebe als sich gleich.",
+    "Aber für das Selbstbewußtsein hat diese unmittelbare Gegenwart noch nicht Geistsgestalt.",
+    "Der Geist der Gemeinde ist so in seinem unmittelbaren Bewußtsein getrennt von seinem religiösen, das zwar es ausspricht, daß sie an sich nicht getrennt seien, aber ein Ansich, das nicht realisiert oder noch nicht ebenso absolutes Fürsichsein geworden."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/14.p69.json"
+}

@@ -1,0 +1,41 @@
+﻿de,en,zh,status,note
+Beseelung,ensouling / ensoulment,赋予灵魂,unsicher,"紧邻先例 13.p38/p43 作「赋予灵魂／获得灵魂」，本单元从之（44.S3 名物化、45.S4 形容词）；备选「赋灵」（13.p41 对 Beseelung des Organischen 用过）"
+Bekenntnis,confession,自白,unsicher,"chunk12 词表登记 bekennen 族→「忏悔」（与 gestehen 族「坦白」分开）；本句是「赋予灵魂」向艺术家表明自己不是其同类，无负罪忏悔义，取「自白」避开宗教负义；若全库要统一 bekennen 族请裁决"
+Freudigkeit,cheerfulness,欢悦,unsicher,"与 Lust（快乐）分开；备选「愉悦」"
+Ansteckung,contagion,传染,unsicher,"allgemeine Ansteckung 普遍传染；备选「感染」"
+Besonderung,particularization,特殊化,ok,
+Flüssigkeit,fluidity,流动性,ok,
+Hervorgang,emergence,产生过程,unsicher,"指神从创造之夜堕入外在性的那个产生方式；备选「出场」「显现方式」"
+Äußerlichkeit,externality,外在性,ok,"与 Entäußerung（外化）严格分开；备选「外部性」"
+selbstbewußtlos,devoid of self-consciousness,没有自我意识的,ok,
+Gegenständlichwerden,becoming-object,对象化,unsicher,"与 Gegenstand（对象）同根；备选「成为对象」"
+Tätigkeit,activity,活动,ok,"先例 13.p38/p43「纯粹的活动」"
+Seele,soul,灵魂,ok,"与 Geist（精神）分开；45.S3「作为灵魂而存在的灵魂」"
+Gemeine,congregation,教团,unsicher,"共享词表 Gemeine→congregation→教团（unsicher，亦作会众）；本单元 46.S4/S5 指神的教团，取「教团」与卷包 Gemeinde=教团 一致"
+Orakel,oracle,神谕,unsicher,"备选「神示」；通行「神谕」"
+Aufgang,rising,升起,unsicher,"指自然宗教光明本质（Lichtwesen）的升起；备选「日出」「东升」；47.S1 aufgehenden Lichtwesens 同根作「升起的光明本质」"
+das Ansichseiende,the in-itself,自在者,unsicher,"卷包 das Ansich=自在、Ansichsein=自在存在；名物化形容词取「自在者」，备选「自在的东西」；chunk12 词表对形容词 ansichseiend 作「自在的」"
+offenbaren (geoffenbart),to reveal,启示,unsicher,"动词取「启示」；卷包禁的只是「启示宗教」（offenbare Religion=天启宗教），动词不受此限"
+Gesetz (der Götter),law (of the gods),法则,unsicher,"卷包：Gesetz 默认「规律」，道德语境「法则」；此处「不成文的诸神法则」属宗教伦理语境故取「法则」，备选「规律」"
+Pathos,pathos,激情,ok,"先例 13.p38「他的激情」"
+Lichtwesen,being of light,光明本质,ok,"卷包定名"
+wissende Denken,knowing thought,知道的思维,unsicher,"备选「有所知的思维」；不用「认识着的思维」，守住 Erkenntnis=认识 与 Wissen=知 的分界"
+Dämon,daemon,精灵,unsicher,"苏格拉底式内在精灵，非人格神；备选「戴蒙」（音译）「神灵」"
+gärend,fermenting,发酵的,ok,"共享词表 gärend→发酵般的"
+Besonnenheit,composure,清醒,unsicher,"与同句 Unbesonnene（不清醒的）对举，取「清醒」保住对偶；备选「沉着」「审慎」"
+Würfeln,dicing,掷骰子,ok,
+Gesinnung (sittliche),ethical disposition,伦理的心态,unsicher,"共享词表 Gesinnung→意向（variante，原条目作「信念」，注「指心态/意向」）；本句搭配 Gleichgültigkeit（漠然）取「心态」更贴；备选「意向」「情怀」"
+Los,lot,拈阄,unsicher,"des Loses 与 Orakel 并列；备选「抽签」"
+Überlegung,deliberation,考虑,ok,
+realisiert,realized,实现,ok,"术语政策登记的例外（realisieren=实现；政策词族表 verwirklichlichen=实现）；本处为体系语境（概念→实现），备选「现实化」，按政策例外登记作「实现」"
+Bildung,formation / culture,教养,unsicher,"44.S4「他教养与孕育的痛苦」、46.S7「继续教养自身」、47.S1「进一步教养出来的」：按词族一致取「教养」；备选「形成」「养成」（共享词表 Bildung=教养）"
+Einzelheit,individuality / singleness,个别性,unsicher,"与卷包 Individualität=个体性 分开，避免一个中文词对应两个德文词；45.S7「自我意识的个别性」、47.S2「个别性一般」"
+Tat,deed,行为,ok,"共享词表 851 行 Tat=行为（ok，沿用 12.p22 惯例）；44.S5「他的行为比他们的理解和言谈要多得多」"
+Handlung,action,行动,ok,"共享词表 850 行 Handlung=行动（ok，与 Tun=行动 同译系 chunk12 既有惯例）；47.S6「经过考虑的行动」"
+Meister,master,主人,unsicher,"紧邻先例 13.p38「Meister darüber werdend」→「成为它的主人」，本单元从之；chunk12 词表另登记「主宰」（über alle Tat und Wirklichkeit 语境），两处并存待共享词表裁定"
+sich fortbilden,to go on forming itself,继续教养自身,unsicher,"Bildung 词族；46.S7 搭配 weiter sich fortbildenden Selbstbewußtsein；备选「继续塑造自身」"
+Menge (bewundernde),admiring crowd,赞叹的人群,ok,
+Substanz,substance,实体,ok,"卷包定名"
+trivial,trivial,平庸,unsicher,"与 erhaben（崇高）对举；备选「浅俗」"
+Element,element,要素,ok,
+substantieller Inhalt,substantial content,实质性的内容,ok,

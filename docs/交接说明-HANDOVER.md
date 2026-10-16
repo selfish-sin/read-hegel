@@ -111,20 +111,35 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 |---|---|
 | Bd. 1 早期著作 | ✅ 22/22 节 · 3,740 句 |
 | Bd. 2 耶拿著作 | ✅ 15/15 节 · 3,270 句 |
-| Bd. 3 精神现象学 | 10/17 节 · 3,088 句（序言→理性前半；w3/2–w3/6 已逐章审校） |
-| 合计 | **10,098 / 92,117 句 = 10.96%**（另有第 29 波在跑，约 +500 句） |
+| Bd. 3 精神现象学 | 15/17 节 · 4,655 句（序言→天启宗教前半；w3/2–w3/6 已逐章审校） |
+| 合计 | **11,665 / 92,117 句 = 12.66%** |
 
-覆盖率另有按段落的数字：2,553 / 17,948 = 14.22%。
+覆盖率另有按段落的数字：2,814 / 17,948 = 15.68%。
+
+**第 31 波刚完成**（2026-10-17，24 单元 / 126 块 / 669 句）：w3/13 全节 + w3/14 全节
+（宗教章「b. 活的艺术作品」整节，艺术宗教→天启宗教）。下一波从 **w3/15** 开始。
+
+### 远端布局（重要）
+
+| remote | 指向 |
+|---|---|
+| `origin` | `git@github.com:ismism-learner/read-hegel.git`（原仓库，**私有**） |
+| `fork` | `git@github.com:selfish-sin/read-hegel.git`（本次工作推送到这里） |
+
+推送走 `fork`：`git push fork main`。SSH 身份约束见下文 §七。
 
 ### 下一步（按优先级）
 
-1. **继续《精神现象学》**：`make-jobs` 会自动接着 w3/11 往后；每译完一章跑一次逐章审校。
+1. **继续《精神现象学》**：`make-jobs` 会自动接着 w3/15 往后；每译完一章跑一次逐章审校。
 2. **收尾第 3 卷后进入第 4 卷**（纽伦堡与海德堡时期著作）：**先为 w4 建上下文包**
    （`scripts/agents/PROMPTS.md` 的 build-context 提示词），否则术语失去权威。
 3. **未审校章节**：w1（22 节）、w2（15 节）整卷尚未逐章审校——它们译于词族政策之前，
    可用 `make-review-jobs` 分批补审；也可用 `apply-families.mjs` 先做一次词族归一。
 4. **遗留待复核**：约 17 处词族断裂、约 10 处背靠背重复（经核实多为原文复沓）、
    以及 `qa-trans.mjs` 末尾列出的可疑词条。
+5. **w3/13、w3/14 的术语草表**尚未人工过目（`merge-glossar.mjs` 已把新条目并入
+   `glossary/hegel_glossar.csv`，其中 `status=unsicher` 的条目集中在宗教章：
+   `Entzweiung`、`Verklärung`、`Menschwerdung`、`Begeistung`、`Erstehen` 等）。
 
 ## 六、仓库里**没有**的东西（有意排除）
 
@@ -152,3 +167,10 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
    公开部署前跑 `node scripts/build.mjs --drop-editorial`（已实测：263 → 0，正文与句数不变）。
 7. **PowerShell 5.1 限制**：不支持 `ForEach-Object -Parallel` 与三元 `? :`；`node -e` 里的引号
    易被吞（复杂脚本请写成文件再跑）；`>` 重定向默认 UTF-16LE，读回时要处理 BOM。
+8. **CDP 类验收脚本要先起本地服务**：`verify-paragraph-align.mjs`、`verify-hover-sweep.mjs`
+   走 `http://127.0.0.1:8788` 的 CDP。服务没起时它们**不报错，而是全部显示 ✗ 且 `pairs=0 / errors=0`**——
+   极易误判成"新译的章渲染坏了"。先 `node scripts/serve.mjs --port 8788` 再跑。
+9. **`make-jobs.mjs` 的 `--limit` 是分节粗截断，不是单元数**：`--limit 13` 实测切出 24 个单元
+   （整节切完才停）。别按参数名字面意思规划波次规模。另外**不要把 `--help` 当参数传**，
+   它会被当成 prefix，误生成一波任务文件并**覆盖同名 tracked 文件**
+   （本次就覆盖并删掉了上游跟踪的 `data/_jobs/jobs-wave1.json`，靠 `git checkout --` 恢复）。

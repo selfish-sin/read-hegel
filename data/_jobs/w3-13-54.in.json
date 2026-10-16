@@ -1,0 +1,31 @@
+{
+ "id": "w3-13-54",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 13,
+ "chunkTitle": "(CC) Die Religion",
+ "heading": "(CC) Die Religion",
+ "blocks": [
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "vdrg3m19td",
+   "sents": [
+    "Dieser Kultus ist übrigens zwar eine wirkliche Handlung, ihre Bedeutung liegt jedoch mehr nur in der Andacht; was dieser angehört, ist nicht gegenständlich hervorgebracht, so wie das Resultat im Genüsse sich selbst seines Daseins beraubt.",
+    "Der Kultus geht daher weiter und ersetzt diesen Mangel zunächst dadurch, daß er seiner Andacht ein gegenständliches Bestehen gibt, indem er die gemeinsame oder einzelne, jedem tunliche Arbeit ist, welche die Wohnung und den Putz des Gottes ihm zu Ehren hervorbringt.",
+    "– Es wird dadurch teils die Gegenständlichkeit der Bildsäule aufgehoben, denn durch diese Weihung seiner Geschenke und Arbeiten macht der Arbeitende den Gott sich geneigt und schaut sein Selbst ihm angehörig an; teils auch ist dies Tun nicht das einzelne Arbeiten des Künstlers, sondern diese Besonderheit ist in der Allgemeinheit aufgelöst.",
+    "Es ist aber nicht nur die Ehre des Gottes, die zustande kommt, und der Segen seiner Geneigtheit fließt nicht nur in der Vorstellung auf den Arbeiter, sondern die Arbeit hat auch die umgekehrte Bedeutung gegen die erste der Entäußerung und der fremden Ehre.",
+    "Die Wohnungen und Hallen des Gottes sind für den Gebrauch des Menschen, die Schätze, die in jenen aufbewahrt sind, im Notfalle die seinigen; die Ehre, die jener in seinem Schmucke genießt, ist die Ehre des kunstreichen und großmütigen Volkes.",
+    "Am Feste schmückt dieses ebenso seine eigenen Wohnungen und Bekleidungen sowie seine Verrichtungen mit zierlichem Geräte.",
+    "Es empfängt auf diese Weise für seine Gaben die Erwiderung von dem dankbaren Gotte und die Beweise seiner Geneigtheit, in der es sich mit ihm durch die Arbeit verband, nicht in der Hoffnung und einer späten Wirklichkeit, sondern hat in der Ehrenbezeugung und Darbringung der Gaben unmittelbar den Genuß seines eigenen Reichtumes und Putzes."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/13.p54.json"
+}

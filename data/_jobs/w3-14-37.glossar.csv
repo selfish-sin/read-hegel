@@ -1,0 +1,29 @@
+﻿de,en,zh,status,note
+Hervorgang,emergence,出场,ok,沿用本卷 p25 对 hervortreten/auftreten 的译法（"出场"）
+Totalität,totality,总体性,ok,上下文包：与 das Ganze（整体）分开
+Körperlichkeit,corporeality,形体,ok,沿用 p25"活的美形体"（lebendige schöne Körperlichkeit）
+selbstisch,self-like,自体的,unsicher,黑格尔罕用形容词；或作"自身的""自我的"；"schöne selbstische Körperlichkeit"指属于自我本性的美的形体
+Kultus,cult,崇拜,ok,沿用 w3-14-25 草表（13.p48 同）
+Begeisterung,enthusiasm,热情,ok,共享词表 variante；与 Schwärmerei（狂热）分列
+Akzidentalität,accidentality,偶性,unsicher,沿用 w3-14-25 草表；与 Zufälligkeit（偶然性）有别
+Peripherie,periphery,外围,ok,与 Mittelpunkt（中心）对举
+Geburtswehe,birth-pang,产痛,ok,与 Geburtsstätte（出生地）同根
+haltlos,groundless,无所依持的,unsicher,字面"无所依恃"；或作"无根的""不安定的"
+Wildheit,wildness,野性,ok,"verwüstende Wildheit der freigelassenen Elemente"指绝对自由与恐怖中内容元素被释放后的毁坏性
+gedachte Person,thought person,被思维的人格,ok,斯多葛主义的人格只是被思维的、非现实的，与 wirklicher Mensch 对举
+Sehnsucht,longing,渴望,ok,与 Schmerz（痛苦）并列
+Schwärmerei,fanaticism,狂热,unsicher,Begeisterung（热情）的贬义亲缘词；或作"痴想""宗教狂热"
+Einbildung;einbilden,imagining;to imagine,臆想,ok,沿用 w3 卷 0.json 序言对 Einbildung 的译法（"臆想"）
+Blöße,nakedness,赤裸,ok,"die Blöße der Erscheinung"＝现象的赤裸
+Verehrung,veneration,崇敬,ok,共享词表
+Verzückung,rapture,迷狂,unsicher,或作"狂喜""出神"；此处与"沉沉黑夜"对举，取"迷狂"
+Weltgeist,world-spirit,世界精神,ok,本卷通行的世界精神概念
+daseiend,existent,定在着的,ok,Dasein 的分词，按词根一致取"定在着的"；忌用"实存"（那是 Existenz 的禁译词）； seiend（Sein 的分词）另作"现存的"
+Dingheit,thinghood,物性,unsicher,黑格尔抽象造词；或作"事物性"；与 Ding（物）同根，与 Sache（事情）分开
+Offenbarsein;offenbar;geoffenbart,revealedness;revealed,天启;天启的,unsicher,按政策词族与 offenbare Religion＝天启宗教 同根，避开禁译"启示"；副词 offenbar（显然）另译"显然"
+Menschwerdung,becoming-human,变成人,ok,沿用 p25"神性本质的这种变成人"
+Zeugung,procreation,生育,ok,"aus der natürlichen Zeugung hergenommene Verhältnisse"＝从自然生育取来的关系
+Prädikat,predicate,谓词,ok,与 Subjekt（主体）对举
+Schöpfer Himmels und der Erde,creator of heaven and earth,天地的创造者,ok,神学谓词
+usf.,and so forth,等等,ok,德文缩写，不在 doNotTranslate 表内，按"等等"译
+Selbstmacht（连写，实为 Selbst + macht）,to make oneself into the universal self,使自己成为普遍的自我,unsicher,原文"zum allgemeinen Selbstmacht"系 Selbst 与动词 macht 连写；同卷 12.json"Dies Selbstmacht daher ... aus"＝"Dies Selbst macht daher ... aus"可证；本句读作"sich ... zum allgemeinen Selbst macht"，勿误作名词 Selbstmacht
