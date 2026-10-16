@@ -1,0 +1,77 @@
+{
+ "id": "w3-12-0",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 12,
+ "chunkTitle": "b. Die Verstellung",
+ "heading": "b. Die Verstellung",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "jugxbsjg25",
+   "text": "b. Die Verstellung"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1udgzwces4",
+   "sents": [
+    "In der moralischen Weltanschauung sehen wir einesteils das Bewußtsein selbst seinen Gegenstand mit Bewußtsein erzeugen; wir sehen es denselben weder als ein Fremdes vorfinden noch auch ihn bewußtlos ihm werden, sondern es verfährt überall nach einem Grunde, aus welchem es das gegenständliche Wesen setzt; es weiß dasselbe also als sich selbst, denn es weiß sich als das tätige, das es erzeugt.",
+    "Es scheint somit hier zu seiner Ruhe und Befriedigung zu kommen, denn diese kann es nur da finden, wo es über seinen Gegenstand nicht mehr hinauszugehen braucht, weil dieser nicht mehr über es hinausgeht.",
+    "Auf der ändern Seite aber setzt es selbst ihn vielmehr außer sich hinaus, als ein Jenseits seiner.",
+    "Aber dies Anundfürsichseiende ist ebenso als ein solches gesetzt, das nicht frei vom Selbstbewußtsein, sondern zum Behuf des letzteren und durch dasselbe sei."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "oroetjur16",
+   "sents": [
+    "Die moralische Weltanschauung ist daher in der Tat nichts anderes als die Ausbildung dieses zum Grunde liegenden Widerspruchs nach seinen verschiedenen Seiten; sie ist, um einen Kantischen Ausdruck hier, wo er am passendsten ist, zu gebrauchen, ein ganzes Nest gedankenloser Widersprüche.",
+    "Das Bewußtsein verhält sich in dieser Entwicklung so, daß es ein Moment festsetzt und von da unmittelbar zum anderen übergeht und das erste aufhebt; wie es aber nun dies zweite aufgestellt hat, verstellt es auch dasselbe wieder und macht vielmehr das Gegenteil zum Wesen.",
+    "Zugleich ist es sich seines Widerspruchs und Verstellen; auch bewußt, denn es geht von einem Momente unmittelbar in Beziehung auf dieses selbst zu dem entgegengesetzten über; weil ein Moment keine Realität für es hat, setzt es eben dasselbe als reell, oder, was dasselbe ist, um ein Moment als an sich seiend zu behaupten, behauptet es das entgegengesetzte als das ansichseiende.",
+    "Es bekennt damit, daß es ihm in der Tat mit keinem derselben Ernst ist.",
+    "Dies ist in den Momenten dieser schwindelnden Bewegung näher zu betrachten."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "a9jtdx1vo3",
+   "sents": [
+    "Lassen wir die Voraussetzung, daß es ein wirkliches moralisches Bewußtsein gibt, zuerst auf sich beruhen, weil sie unmittelbar nicht in Beziehung auf etwas Vorhergehendes gemacht wird, und wenden uns an die Harmonie der Moralität und der Natur, das erste Postulat.",
+    "Sie soll an sich sein, nicht für das wirkliche Bewußtsein, nicht gegenwärtig; sondern die Gegenwart ist vielmehr nur der Widerspruch beider.",
+    "In der Gegenwart ist die Moralität als vorhanden angenommen und die Wirklichkeit so gestellt, daß sie nicht in Harmonie mit ihr sei.",
+    "Das wirkliche moralische Bewußtsein aber ist ein handelndes; darin besteht eben die Wirklichkeit seiner Moralität.",
+    "Im Handeln selbst aber ist jene Stellung unmittelbar verstellt; denn das Handeln ist nichts anderes als die Verwirklichung des inneren moralischen Zwecks, nichts anderes als die Hervorbringung einer durch den Zweck bestimmten Wirklichkeit oder der Harmonie des moralischen Zwecks und der Wirklichkeit selbst.",
+    "Zugleich ist die Vollbringung der Handlung für das Bewußtsein, sie ist die Gegenwart dieser Einheit der Wirklichkeit und des Zwecks; und weil in der vollbrachten Handlung das Bewußtsein sich als dieses Einzelne verwirklicht oder das Dasein in es zurückgekehrt anschaut und der Genuß hierin besteht, so ist in der Wirklichkeit des moralischen Zwecks zugleich auch diejenige Form derselben enthalten, welche Genuß und Glückseligkeit genannt wird.",
+    "– Das Handeln erfüllt also in der Tat unmittelbar dasjenige, was nicht stattzufinden aufgestellt war und nur ein Postulat, nur jenseits sein sollte.",
+    "Das Bewußtsein spricht es also durch die Tat aus, daß es mit dem Postulieren nicht Ernst ist, weil der Sinn des Handelns vielmehr dieser ist, das zur Gegenwart zu machen, was nicht in der Gegenwart sein sollte.",
+    "Und indem um des Handelns willen die Harmonie postuliert wird – was nämlich durch das Handeln wirklich werden soll, muß an sich so sein, sonst wäre die Wirklichkeit nicht möglich –, so ist der Zusammenhang des Handelns und des Postulats so beschaffen, daß um des Handelns, d.h. um der wirklichen Harmonie des Zwecks und der Wirklichkeit willen diese Harmonie als nicht wirklich, als jenseits gesetzt wird."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "1k07pc2skk",
+   "sents": [
+    "Indem gehandelt wird, ist es also mit der Unangemessenheit des Zwecks und der Wirklichkeit überhaupt nicht Ernst; dagegen scheint es mit dem Handeln selbst Ernst zu sein.",
+    "Aber in der Tat ist die wirkliche Handlung nur Handlung des einzelnen Bewußtseins, also selbst nur etwas Einzelnes und das Werk zufällig.",
+    "Der Zweck der Vernunft aber als der allgemeine, alles umfassende Zweck ist nichts Geringeres als die ganze Welt; ein Endzweck, der weit über den Inhalt dieser einzelnen Handlung hinausgeht und daher überhaupt über alles wirkliche Handeln hinauszustellen ist.",
+    "Weil das allgemeine Beste ausgeführt werden soll, wird nichts Gutes getan.",
+    "In der Tat aber ist die Nichtigkeit des wirklichen Handelns und die Realität nur des ganzen Zwecks, die jetzt aufgestellt sind, nach allen Seiten auch wieder verstellt.",
+    "Die moralische Handlung ist nicht etwas Zufälliges und Beschränktes, denn sie hat die reine Pflicht zu ihrem Wesen; diese macht den einzigen ganzen Zweck aus, und die Handlung also als Verwirklichung desselben ist bei aller sonstigen Beschränkung des Inhalts die Vollbringung des ganzen absoluten Zwecks.",
+    "Oder wenn wieder die Wirklichkeit als Natur, die ihre eigenen Gesetze hat und der reinen Pflicht entgegengesetzt ist, genommen wird, so daß also die Pflicht ihr Gesetz nicht in ihr realisieren kann, so ist es, indem die Pflicht als solche das Wesen ist, in der Tat nicht um die Vollbringung der reinen Pflicht, welche der ganze Zweck ist, zu tun; denn die Vollbringung hätte vielmehr nicht die reine Pflicht, sondern das ihr Entgegengesetzte, die Wirklichkeit, zum Zwecke.",
+    "Aber daß es nicht um die Wirklichkeit zu tun sei, ist wieder verstellt; denn nach dem Begriffe des moralischen Handelns ist die reine Pflicht wesentlich tätiges Bewußtsein; es soll also allerdings gehandelt, die absolute Pflicht in der ganzen Natur ausgedrückt und das Moralgesetz Naturgesetz werden."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/12.p0.json"
+}
