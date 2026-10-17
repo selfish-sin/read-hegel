@@ -173,6 +173,13 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 
 推送走 `fork`：`git push fork main`。SSH 身份约束见下文 §七。
 
+> **origin 的真实状态（第 34 波核实，纠正此前误记）**：原仓库 main 停在 `f8cd477`
+> 「补上交接缺口：workflow 工具的脚本模板」（2026-10-14，即**第 29 波**节点），
+> 既未前进也未被重写。fork 从该点接续，`git rev-list --count f8cd477..HEAD` = 6
+> （wave30–34），是干净的 fast-forward，无分叉。
+> **不要把本地／fork 的 HEAD 当成 origin 的 HEAD**——此前记录「origin HEAD = 64b7dc8」有误，
+> 64b7dc8 是 fork/本地的第 33 波交接提交。若日后要回哺原仓库，需先从 origin fetch 再比差异。
+
 ### 下一步（按优先级）
 
 1. **续派第 34 波剩余 2 单元**（54 句，Token Plan 恢复后）：`w4-1-177`、`w4-1-195`，

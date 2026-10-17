@@ -196,3 +196,10 @@
   verify-coverage/audit-sentences 全 exit 0、verify-paragraph-align 8/8 通过；
   w4/0 与 w4/1 浏览器实测 pairs 260/260 与 200/200，JS 错误 0、空中文 0。
 - **远端**：wave34 推送到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）未动。
+### 第 34 波补记：远端关系核实（纠正此前误记）
+- **origin（ismism-learner/read-hegel）main 停在 `f8cd477`**「补上交接缺口：workflow 工具的脚本模板」
+  （2026-10-14，即第 29 波节点），既未前进也未被重写。
+- fork 从该点接续，`git rev-list --count f8cd477..HEAD` = 6（wave30–34），干净 fast-forward、无分叉。
+- **教训**：此前记录「origin HEAD = 64b7dc8」是把本地/fork 的 HEAD 当成了 origin 的 HEAD。
+  判据：要确认原仓库状态只能用 `gh api repos/<owner>/<repo>/commits/main --jq .sha` 单独查，
+  再 `git merge-base --is-ancestor <origin-sha> HEAD` 验证是否为祖先，不能凭本地 log 推断。
