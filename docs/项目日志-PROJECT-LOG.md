@@ -203,3 +203,16 @@
 - **教训**：此前记录「origin HEAD = 64b7dc8」是把本地/fork 的 HEAD 当成了 origin 的 HEAD。
   判据：要确认原仓库状态只能用 `gh api repos/<owner>/<repo>/commits/main --jq .sha` 单独查，
   再 `git merge-base --is-ancestor <origin-sha> HEAD` 验证是否为祖先，不能凭本地 log 推断。
+### 第 34 波收尾：补齐 w4-1-177 / w4-1-195，w4/1 分节 100% 完成（2026-10-17）
+- **配额恢复后续派 2 单元**（18+4 块 / 25+9 句）落盘，合并后覆盖率 13.51% → **13.54%**
+  （12,477 / 92,117 句）。**w4/1「Zweiter Abschnitt Physik」199 个可译块全部译出**
+  （块 199 是 k="fn" 编者注，make-jobs 本就跳过，与 w4/0 b259 同层）。
+- **新增 34 句质检仅 4 条 minor / 0 major**，逐条三语核对后确认**全部是守卫词形误报**：
+  `freies Wesen`（自由的存在，Wesen 单数存在者义，非「本质」）、`mit Wissen`（明知，副词义，
+  非「知识」）、`bestehen`（在于，动词义，非「存在」）。已补进上下文包 Wesen 的 note。
+- **worker 自述以磁盘为准（第三次实测）**：bg_239e68dd 的 task final result 只到翻译草稿阶段，
+  但磁盘文件已完整落盘（18 块全对齐、无政策违规词）。独立写核验脚本逐块断言后才合并。
+- **merge-glossar 报 2 条 uncertain 新词已复核**：`Natureinigkeit`→自然统一（黑格尔造词，
+  Natur＋Einigkeit，词根一致）、`menschliche Natur`→人的本性（共享词表先例 Natur des Geistes→本性）。
+  两者合理，保留 unsicher 待统一。
+- **浏览器验收**：w4/1 实测 pairs=200/200、JS 错误 0、空中文 0。

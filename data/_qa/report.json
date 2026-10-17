@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-17T02:49:49.521Z",
- "blocks": 3518,
- "sentences": 12443,
+ "generated": "2026-10-17T03:24:05.578Z",
+ "blocks": 3540,
+ "sentences": 12477,
  "issues": [
   {
    "sev": "minor",
@@ -5437,11 +5437,31 @@
    "sev": "minor",
    "where": "w4/1#172",
    "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#189",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#189",
+   "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#191",
+   "msg": "sentence 2: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#193",
+   "msg": "sentence 0: \"Sein\" is not rendered as “存在”"
   }
  ],
  "bySev": {
   "critical": 0,
   "major": 148,
-  "minor": 939
+  "minor": 943
  }
 }
