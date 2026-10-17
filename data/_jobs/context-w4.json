@@ -90,7 +90,7 @@
    "en": "reality",
    "zh": "实在性",
    "type": "term",
-   "note": "与 Idealität（观念性）对举；严禁“现实性”"
+   "note": "与 Idealität（观念性）对举；严禁“现实性” wave34 核查附注：reell（实在的）与 Realität（实在性）是不同词形，守卫按 Realität 家族匹配 reell 会误报 major；译文作“实在的”即为正确（#155）"
   },
   {
    "source": "real",
@@ -139,7 +139,7 @@
    "en": "spirit",
    "zh": "精神",
    "type": "term",
-   "note": "与 Seele（灵魂）、Bewußtsein（意识）区分；不作“心灵”“灵魂”"
+   "note": "与 Seele（灵魂）、Bewußtsein（意识）区分；不作“心灵”“灵魂” wave34 核查例外：Geistern（复数）在神秘学语境指精灵／神灵（Umgang mit höheren Geistern），不作“精神”（#96）"
   },
   {
    "source": "geistig",
@@ -209,7 +209,7 @@
    "en": "essence",
    "zh": "本质",
    "type": "term",
-   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法"
+   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172）"
   },
   {
    "source": "Erscheinung",
@@ -230,7 +230,7 @@
    "en": "necessity",
    "zh": "必然性",
    "type": "term",
-   "note": "共享词表；与 Zufälligkeit（偶然性）对举"
+   "note": "共享词表；与 Zufälligkeit（偶然性）对举 wave34 补注：物理语境“自然的必然性与规律”同作“必然性”，不拆为“必要”"
   },
   {
    "source": "Substanz",
@@ -748,7 +748,7 @@
    "en": "formation / culture",
    "zh": "教养",
    "type": "term",
-   "note": "共享词表 Bildung→教养；Geistesbildung＝精神教养；Sittenbildung＝风纪教养；本卷教育语境高频"
+   "note": "共享词表 Bildung→教养；Geistesbildung＝精神教养；Sittenbildung＝风纪教养；本卷教育语境高频 wave34 核查例外：Bildung des Erdindividuums（大地个体的形成）取普通义“形成”，不作“教养”（#28）"
   },
   {
    "source": "Religionslehre",
@@ -910,6 +910,104 @@
    "zh": "内含量数",
    "type": "term",
    "note": "与 extensives Quantum（外延量数）对举。"
+  },
+  {
+   "source": "Intelligenz",
+   "en": "intelligence",
+   "zh": "理智",
+   "type": "term",
+   "note": "主观精神理论段的核心词（理智回忆／设想／记忆）。通行贺麟、杨祖陶均作“理智”；与 Verstand（知性）、Vernunft（理性）构成精神哲学三分，故不取“智力”。注意：forbidden 中 Verstand 禁“理智”，其义为“Verstand 不许译成理智”，并不禁止本词使用“理智”"
+  },
+  {
+   "source": "Körper",
+   "en": "body",
+   "zh": "物体",
+   "type": "term",
+   "note": "与 Materie（物质）、Organismus（有机体）三分；亦不作“形体”“身体”。本波 5 处一致 wave34 核查例外：人类学语境 organischer Körper（有机身体）作“有机身体”，不机械改“有机物体”（#46）"
+  },
+  {
+   "source": "Materie",
+   "en": "matter",
+   "zh": "物质",
+   "type": "term",
+   "note": "与 Körper（物体）分开；不取“质料”（留待 Materialität，本卷未见）"
+  },
+  {
+   "source": "Totalität",
+   "en": "totality",
+   "zh": "总体性",
+   "type": "term",
+   "note": "例外：物理语境“物体……被导回整体统一体之中”（b76 一带）作意译“整体统一体”，不强制统一为“总体性”；其余一律“总体性” wave34 核查确认：物理语境“导回整体统一体”作意译，其余一律“总体性”（#25）"
+  },
+  {
+   "source": "Licht",
+   "en": "light",
+   "zh": "光",
+   "type": "term",
+   "note": "物理学“光”环节；不作“亮光”；亦防假朋友“点亮／光顾”"
+  },
+  {
+   "source": "Element",
+   "en": "element",
+   "zh": "要素",
+   "type": "term",
+   "note": "黑格尔四元素（土水火气）语境；备选“元素”。与 Moment（环节）分开 wave34 核查例外：physische Elemente／Tiergeschlechter hervorkommen in Elementen 的四元素（土水火气）义作“元素”，不作“要素”（#23、#32）"
+  },
+  {
+   "source": "Gefühl",
+   "en": "feeling",
+   "zh": "感觉",
+   "type": "term",
+   "note": "主观精神起点；与 Affektion（感受）分开。本波 12 处一致 wave34 核查：Gefühl 一律“感觉”，曾有两处误作“感受”（与 Affektion 混），已改回（#165）"
+  },
+  {
+   "source": "Affektion",
+   "en": "affection",
+   "zh": "感受",
+   "type": "term",
+   "note": "被动受动义；不作“情感”（留给 Gefühl 的日常义） wave34 核查：Affektion 作“感受”，与 Gefühl（感觉）严格分开；#46 有机身体的感受即 Affektionen"
+  },
+  {
+   "source": "Potenz",
+   "en": "potence",
+   "zh": "潜能",
+   "type": "term",
+   "note": "潜能阶次（第一潜能／第二潜能）；与 Potentialität（潜在性，本卷未见）分开 wave34 核查例外：unorganische Potenzen（无组织的自然力）作“诸种力”，不强制“潜能”（#34）"
+  },
+  {
+   "source": "Erde",
+   "en": "earth",
+   "zh": "大地",
+   "type": "term",
+   "note": "指作为个体的大地／地球（地质学语境）。备选“地球”；本波取“大地”，与“地上的物体”同区"
+  },
+  {
+   "source": "Waffen",
+   "en": "weapons",
+   "zh": "武器",
+   "type": "term",
+   "note": "上下文包未收。指动物据以相互区别／争斗的构造（角、牙、爪）。备选：兵器／争斗器官。不译“争斗器官”（会增补原文没有的解释）"
+  },
+  {
+   "source": "Außereinandersein",
+   "en": "being-outside-one-another",
+   "zh": "彼此分离",
+   "type": "term",
+   "note": "与 Äußerlichkeit（外在性）、Außersichsein（在外存在）三分；描述诸环节在外部彼此并存的状态"
+  },
+  {
+   "source": "Beschaffenheit",
+   "en": "constitution / quality",
+   "zh": "性质",
+   "type": "term",
+   "note": "指事物的构造、性质（岩类／判断的性质）；不作“状态”"
+  },
+  {
+   "source": "Existenz",
+   "en": "existence",
+   "zh": "存在",
+   "type": "term",
+   "note": "与 Dasein（定在）严格分开；物理语境“无差别存在”仍作“存在”"
   }
  ],
  "forbidden": [
@@ -1218,6 +1316,42 @@
    "forbid": "某事",
    "prefer": "某物",
    "why": "逻辑学的「某物」不是日常「某事」。"
+  },
+  {
+   "source": "Intelligenz",
+   "forbidden": "智力",
+   "prefer": "理智",
+   "why": "本卷已统一“理智”（与 Verstand 知性／Vernunft 理性构成三分）。“智力”是日常心理学词，会丢掉体系义"
+  },
+  {
+   "source": "Körper",
+   "forbidden": "形体",
+   "prefer": "物体",
+   "why": "Körper 与 Materie（物质）、Organismus（有机体）三分；“形体”易与 Gestalt（形态）混"
+  },
+  {
+   "source": "Körper",
+   "forbidden": "身体",
+   "prefer": "物体",
+   "why": "自然哲学语境 Körper 指物理物体，不作人身“身体”"
+  },
+  {
+   "source": "Materie",
+   "forbidden": "质料",
+   "prefer": "物质",
+   "why": "Materie 一律“物质”；“质料”留待 Materialität（本卷未见）"
+  },
+  {
+   "source": "Gefühl",
+   "forbidden": "情感",
+   "prefer": "感觉",
+   "why": "主观精神起点 Gefühl 作“感觉”；“情感”留给日常义，防与 Affektion（感受）混"
+  },
+  {
+   "source": "Totalität",
+   "forbidden": "全体",
+   "prefer": "总体性",
+   "why": "黑格尔术语 Totalität＝总体性；“全体”是日常词"
   }
  ],
  "doNotTranslate": [

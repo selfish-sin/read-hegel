@@ -1,0 +1,186 @@
+{
+ "id": "w4-1-0",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Zweiter Abschnitt Physik",
+ "heading": "Zweiter Abschnitt Physik",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "kuwhnbxcie",
+   "text": "Zweiter Abschnitt Physik"
+  },
+  {
+   "bi": 1,
+   "k": "h",
+   "hash": "10yqh7s2ca",
+   "text": "I. Mechanik"
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1y0uqmw4v8",
+   "sents": [
+    "§ 110"
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "t0tavgaz76",
+   "sents": [
+    "Die reine Anschauung, aus ihrer Unmittelbarkeit in das Anundfürsichsein übergegangen, oder der erfüllte Raum und Zeit ist die Materie.",
+    "Das Außereinander des Raums und das Insichsein der Zeit, absolut in eins gesetzt, gibt den Begriff der Materie überhaupt."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "1yaucbv160",
+   "sents": [
+    "§ 111"
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "1widsnl13d",
+   "sents": [
+    "Nach dem Moment des Insichseins wäre die Materie vereinzelter Punkt; nach dem Momente des Außersichseins wäre sie zunächst eine Menge sich ausschließender Atome.",
+    "Indem diese sich aber durch das Ausschließen ebensosehr aufeinander beziehen, hat das Atom keine Wirklichkeit und das Atomistische sowohl als die absolute Kontinuität oder die unendliche Teilbarkeit nur eine Möglichkeit in ihr."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "1ykty0u85j",
+   "sents": [
+    "§ 112"
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "1cnnu951l7",
+   "sents": [
+    "Die Materie hat als für sich seiend das Moment der Vereinzelung, aber dieselbe erhält sich ebensosehr im Ansichsein und ist nur eine wesentliche Kontinuität, die Schwere, welche das allgemeine Prädikat des Körpers ausmacht, der die Materie in der Form des Subjekts ist."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1yutjpt19b",
+   "sents": [
+    "§ 113"
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "pol8tm1lh7",
+   "sents": [
+    "Der Körper enthält die Beziehung der ideellen Momente des Raums und der Zeit, welche Beziehung als Bewegung und die Schwere als deren Grund erscheint."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "3p3fookywc",
+   "sents": [
+    "§ 114"
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "10g0ng6805",
+   "sents": [
+    "Die freie Bewegung kommt den Körpern zu, die ein eigenes Zentrum der Schwere in sich haben.",
+    "Durch die Beziehung solcher Mittelpunkte entsteht das freie System der kreisenden Bewegung der Himmelskörper, dahingegen die anderen Körper ohne eigenes Zentrum der Zentrifugalkraft entbehren und der Zentripetalkraft unterliegen, wodurch sie fallen."
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "dop4n1pqo3",
+   "sents": [
+    "§ 115"
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "fhaup4mcif",
+   "sents": [
+    "In der Größe der Bewegung ist außer Raum und Zeit die Masse ein Moment, so wie auch Raum und Zeit in Kraft übergehen und, wie die Masse, Momente der Kraft sind."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "h",
+   "hash": "n6f7p13cbb",
+   "text": "II. Physik des Unorganischen"
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "noatmrv992",
+   "sents": [
+    "§ 116"
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "g029jvwkpb",
+   "sents": [
+    "Das durch das Licht individualisiert und in qualitative Unterschiede aufgeschlossen werdende Schwere ist die konkrete oder physische Natur und Gegenstand der Physik überhaupt."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "xnwil1t0yg",
+   "sents": [
+    "§ 117"
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1g462q1114",
+   "sents": [
+    "Die Schwere ist der Gegensatz des zum Insichsein nur strebenden Außersichseins.",
+    "Die Materie ist dies Dasein des Strebens, dessen Gegensatz sich nur in den Momenten des Raums und der Zeit ausdrückt in einem bloß idealen Mittelpunkt.",
+    "Jenes Werden des Außersichseins zum Insichsein, die intensive einfache Einheit der Schwere, ist ein ihr gegenübertretendes Dasein, das frei existierende Selbst der Materie, das Licht.",
+    "Das Licht ist als das sich selbst gleiche Insichsein das Prinzip der Individualisierung und Besonderung der Materie.",
+    "Seine Beziehung auf das ihm bloß Negative, auf das Dunkle, macht die Farbe aus."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "1vsxx34i0e",
+   "sents": [
+    "§ 118"
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "1ql0wxgon1",
+   "sents": [
+    "Das erste Moment des besonderen Daseins der physischen Natur ist der Magnetismus, die Diremtion des individuellen Einheitspunktes in den Gegensatz, der aber noch im Begriffe eingeschlossen bleibt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/1.p0.json"
+}

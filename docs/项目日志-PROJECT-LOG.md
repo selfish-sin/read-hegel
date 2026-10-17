@@ -163,3 +163,36 @@
   make-jobs 本就跳过 fn 块（与版权三层的编者校注同层处理）。
 - **全套验收**：trans-index ALIGNMENT OK、check-policy exit 0、validate/integrity/verify-coverage/
   audit-sentences 全 exit 0、verify-paragraph-align 8/8、w4/0 阅读器实测 pairs=260/260、JS 错误 0。
+
+## 阶段十三 · 第 34 波：w4/1「Zweiter Abschnitt Physik」自然哲学讲稿（2026-10-17）
+- **本波 11/13 单元落盘**（177 块 / 280 句），覆盖率 13.20% → **13.51%**（12,443 / 92,117 句；
+  按段落 3,225 / 17,948 = 17.97%）。分节切分健康：13 单元 / 314 句，最大单元 27 句。
+- **两个单元因账号 Token Plan 用量上限失败**（错误码 2067「当前已达到 Token Plan 用量上限」，
+  非瞬时限流）：`w4-1-177`、`w4-1-195`，共 54 句，待套餐恢复后按已有 in.json 续派。
+  **同批的 `w4-1-143`／`w4-1-161` 报同一错误但落盘前已写完文件**——磁盘实测 11/13。
+  **教训：失败 ≠ 未落盘，必须实测磁盘再决定是否重派**（本波若按叙述重派这 2 个单元就是白跑）。
+- **自然哲学术语层先建后译**：上下文包 entries 127→**141**、forbidden 51→**57**。
+  新增 Intelligenz→理智、Körper→物体、Materie→物质、Totalität→总体性、Licht→光、Element→要素、
+  Gefühl→感觉、Affektion→感受、Potenz→潜能、Erde→大地、Waffen→武器、
+  Außereinandersein→彼此分离、Beschaffenheit→性质、Existenz→存在。
+  词族表中这些词均无 systematic 行，故可自由裁定且 check-policy 不会误报。
+- **修掉 6 处真缺陷**（逐条三语对照后判定，不照机器报的改）：
+  `#23` wirkliche Individualität 误作「实在的」（应「现实的」，wirklich≠reell）；
+  `#141` wirkliche Stufe 误作「真正阶段」（应「现实阶段」）；
+  `#102` Person 在神学语境误作「神中的一个人」（应「神性中的一位位格」，三位一体义）；
+  `#102` Vorstellung 残句意译丢失词根（补回「表象」）；
+  `#165` 两处 Gefühl 误作「感受」（与 Affektion 撞车，改回「感觉」）。
+- **统一同词两译**：Intelligenz 4 处中 2 处「理智」/ 2 处「智力」→ 一律「理智」
+  （与 Verstand 知性、Vernunft 理性构成主观精神三分；贺麟、杨祖陶均作「理智」）。
+- **守卫误报 6 条逐条登记为例外**（已写进上下文包 note，后续不必再复核）：
+  `#46` organischer Körper＝有机身体（人类学语境，非物理物体）；`#96` höheren Geistern＝更高精灵
+  （神秘学复数，非「精神」）；`#155` 实为 reell（实在的）被按 Realität 家族误报；
+  `#72`／`#93` 英译自然长于德文（ratio 阈值，非缺陷）；`#96` 短句 zh/de 比 0.21（非漏译）。
+  另登记语境例外：Element 四元素义作「元素」、Potenz 的 unorganische Potenzen 作「诸种力」、
+  Totalität 物理语境作「整体统一体」、Bildung 普通义作「形成」、Wesen 作「存在／存在者」。
+- **质检密度**：32 条 → 修复后 25 条 / 280 句 = **0.0893**，接近全库均值 0.0874；
+  major 10 → 6（剩余 6 条全部是上述已登记误报），critical 0。
+- **全套验收全绿**：trans-index ALIGNMENT OK、check-policy exit 0、validate/integrity/
+  verify-coverage/audit-sentences 全 exit 0、verify-paragraph-align 8/8 通过；
+  w4/0 与 w4/1 浏览器实测 pairs 260/260 与 200/200，JS 错误 0、空中文 0。
+- **远端**：wave34 推送到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）未动。

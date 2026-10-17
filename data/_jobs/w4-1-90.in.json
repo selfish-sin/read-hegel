@@ -1,0 +1,105 @@
+{
+ "id": "w4-1-90",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Zweiter Abschnitt Physik",
+ "heading": "Zweiter Abschnitt Physik",
+ "blocks": [
+  {
+   "bi": 90,
+   "k": "p",
+   "hash": "e6o8a1y0wr",
+   "sents": [
+    "§ 149"
+   ]
+  },
+  {
+   "bi": 91,
+   "k": "p",
+   "hash": "185sb741gd",
+   "sents": [
+    "Die Bestimmung der Verknüpfung kann ein mehr oder weniger oberflächlicher oder gründlicher Zusammenhang sein: bloße Gleichzeitigkeit oder gleicher Ort zweier Vorstellungen, - oder irgendeine Ähnlichkeit, auch Kontrast derselben, Verhältnis als Ganzes und Teile, Ursache und Wirkung, Grund und Folge usw., überhaupt jede Art sinnlicher oder geistiger Beziehung.",
+    "Dieser Zusammenhang steht vornehmlich unter der Herrschaft eines Interesses des Gemüts, einer Leidenschaft, oder des geistigen Charakters überhaupt."
+   ]
+  },
+  {
+   "bi": 92,
+   "k": "p",
+   "hash": "1vtcqosav8",
+   "sents": [
+    "§ 150"
+   ]
+  },
+  {
+   "bi": 93,
+   "k": "p",
+   "hash": "1met6gqv2r",
+   "sents": [
+    "Der Unterschied der Bilder von den Anschauungen ist im Bisherigen angegeben.",
+    "Das gewöhnliche Bewußtsein macht ihn unmittelbar im wachen und gesunden Zustande.",
+    "Aber im Schlaf, in außerordentlichen Zuständen, in Krankheit fällt dieser Unterschied für dasselbe hinweg, und die Einbildungskraft beherrscht es gegen die Anschauung und gegen höhere geistige Kräfte."
+   ]
+  },
+  {
+   "bi": 94,
+   "k": "p",
+   "hash": "1w3ccdr1c0",
+   "sents": [
+    "§ 151"
+   ]
+  },
+  {
+   "bi": 95,
+   "k": "p",
+   "hash": "1uj8ml1yjo",
+   "sents": [
+    "a. Das Träumen.",
+    "Im Traumschlaf kommen uns Reihen von Vorstellungen vor, die wir nicht von Anschauungen unterscheiden, welche durch Erinnerungen oder auch durch gegenwärtige Empfindungen veranlaßt sind, übrigens aber auf das Zufälligste und Willkürlichste vermischt und aneinandergehängt werden. - Den Ahnungen, Visionen, der Schwärmerei usf. liegen zwar tiefere Interessen oder Kräfte zugrunde als die bloße Einbildungskraft, aber sie sind mit einer besonderen Erhöhung derselben verknüpft, welche innere, dunklere Gefühle zu Bildern macht und ihnen die Stärke von Anschauungen gibt."
+   ]
+  },
+  {
+   "bi": 96,
+   "k": "p",
+   "hash": "1vj6nkblhh",
+   "sents": [
+    "(Sympathie mit der Natur.",
+    "Sogenanntes Voraussehen.",
+    "In der Wirklichkeit schläft die Zukunft.",
+    "Die Wirklichkeit ist zugleich die Möglichkeit des Folgenden.",
+    "Orakel, Prophezeiung aus Vogelflug, den Eingeweiden der Tiere.",
+    "Allgemeine Stimmung durch die Natur, wie die Tiere die Erdbeben vorherempfinden.",
+    "Völker, die mehr in der Einheit mit der Natur leben, haben einen stärkeren Zusammenhang mit ihr als wir, die wir von der Natur uns losgerissen haben. - Inneres Licht; Umgang mit höheren Geistern; Hexensalbe von Hyoscyamus; die Hexen betäubten sich und gerieten in eine fürchterliche Phantasie, welche epidemisch wurde.",
+    "Sie sind zu Tausenden verbrannt worden. - Gespenster; oft äußerliche Erscheinungen als Veranlassung, welche die Phantasie aufgreift.",
+    "Das böse Gewissen, von der Qual des Verbrechens gefoltert, macht sich durch gespenstige Gestalten objektiv. - Verabredungen, im Leben nach dem Tode sich zu erscheinen. - Schwärmerei; Fanatismus, religiöse Vorstellungen höher zu achten als alles Sittliche im Leben und als Begriffsverhältnisse.",
+    "Die Schwärmerei fällt in den Wahn, ein bildloses Gestalten der handgreiflichen Äußerlichkeit nachzusetzen.",
+    "Das Sinnliche soll höher stehen als das Geistige.",
+    "Das Absolute soll sich in die Äußerlichkeit legen.",
+    "Im Dinge will man Gott sehen, ohne die Kunst; oder man will sich das absolute Wesen zur inneren Anschauung vor die Phantasie bringen; man will Gott ins Zeitliche, Sinnliche rücken. - Wahrhafte Übermacht der Vorstellung über die Anschauung durch den Willen, z. B. Mucius Scaevola.)"
+   ]
+  },
+  {
+   "bi": 97,
+   "k": "p",
+   "hash": "1wdby2qe5i",
+   "sents": [
+    "§ 152"
+   ]
+  },
+  {
+   "bi": 98,
+   "k": "p",
+   "hash": "j4an4f73e4",
+   "sents": [
+    "b) Ein höherer Grad des in die Phantasie sich einschließenden Lebens ist der Somnambulismus, das eigentliche Nachtwandeln, oder andere Zustände dieser Art, in welchen bei schwächerer oder stärkerer äußerer Empfindung der Geist eine mehr innerliche Anschauung des Äußeren hat, überhaupt in sich tätig ist und zu ganzen Reihen äußerlicher Verrichtungen, wie man sie im Wachen vornimmt, fortgeht."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/1.p90.json"
+}

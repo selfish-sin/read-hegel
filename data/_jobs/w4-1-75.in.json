@@ -1,0 +1,146 @@
+{
+ "id": "w4-1-75",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Zweiter Abschnitt Physik",
+ "heading": "B. Einbildungskraft",
+ "blocks": [
+  {
+   "bi": 75,
+   "k": "p",
+   "hash": "1wxeayn1gk",
+   "sents": [
+    "§ 142"
+   ]
+  },
+  {
+   "bi": 76,
+   "k": "p",
+   "hash": "1aopffa129",
+   "sents": [
+    "Ferner wird die konkrete Anschauung in ihren mannigfaltigen Bestimmungen oder in ihrer Einheit aufbewahrt, aber ebenso auch von dem Bande ihrer Einzelheit befreit.",
+    "Die Teilbestimmungen fallen auseinander und werden zu Abstraktionen, die für sich ohne den sinnlichen Zusammenhang, in welchem sie dem Subjekt zuerst erschienen sind, bestehend vorgestellt werden."
+   ]
+  },
+  {
+   "bi": 77,
+   "k": "p",
+   "hash": "1wnep9off8",
+   "sents": [
+    "§ 143"
+   ]
+  },
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "h9fg1uc9mb",
+   "sents": [
+    "Erinnerung.",
+    "Die Vorstellung als die erinnerte oder allgemein gemachte Anschauung verhält sich zur unmittelbaren Anschauung als Bleibendes und Allgemeines zum Einzelnen.",
+    "Die Erinnerung ist nicht sowohl eine Vergleichung zweier einzelner Anschauungen, als daß die jetzige einzelne Anschauung unter die bereits allgemein gemachte oder die Vorstellung subsumiert wird.",
+    "Die Dieselbigkeit, die ich erkenne, ist einerseits die Identität ihres Inhalts, anderseits erkenne ich in der jetzigen Anschauung die Identität meiner mit mir selbst oder erinnere mich in ihr."
+   ]
+  },
+  {
+   "bi": 79,
+   "k": "p",
+   "hash": "1wdf3kptkx",
+   "sents": [
+    "§ 144"
+   ]
+  },
+  {
+   "bi": 80,
+   "k": "p",
+   "hash": "ite4e71fjf",
+   "sents": [
+    "Das Bild oder die Vorstellung wird nicht dadurch zu etwas Allgemeinem, daß dieselbe Anschauung öfter wiederholt würde und diese mehreren Anschauungen in ein Bild, das mehr oder weniger abstrakt wäre, zusammenfielen, entweder bewußter oder so, daß man sich bei jeder einzelnen Anschauung an die vorhergehende erinnerte, sondern die Anschauung erhält unmittelbar dadurch, daß Ich sie aufnehme, die Form der Allgemeinheit.",
+    "Sie ist daher eine Subsumtion.",
+    "In der Erinnerung wird durch eine gegenwärtige Anschauung oder Vorstellung das Bild von einer vergangenen hervorgerufen, welche die nämliche war als die gegenwärtige.",
+    "Jene vorhergehende ist das Dauernde und Allgemeine, unter welches ich die jetzige einzelne subsumiere."
+   ]
+  },
+  {
+   "bi": 81,
+   "k": "h",
+   "hash": "ciuq8d1oro",
+   "text": "B. Einbildungskraft"
+  },
+  {
+   "bi": 82,
+   "k": "p",
+   "hash": "1w3fhvq1rg",
+   "sents": [
+    "§ 145"
+   ]
+  },
+  {
+   "bi": 83,
+   "k": "p",
+   "hash": "1i7cvm1rxd",
+   "sents": [
+    "In der Erinnerung fällt die Vorstellung der ehemaligen Anschauung und die jetzige unmittelbar ineinander.",
+    "Ich habe nicht zweierlei vor mir, die Anschauung und die Vorstellung, sondern nur, daß ich sie schon gehabt habe, daß sie schon die meinige ist; insofern ich nun auch die Vorstellung als verschieden von der Anschauung vor mir habe, ist dies die Einbildungskraft.",
+    "Insofern kann aber Anschauung und Vorstellung auch gänzlich verschieden sein."
+   ]
+  },
+  {
+   "bi": 84,
+   "k": "p",
+   "hash": "1vtfw6rwv7",
+   "sents": [
+    "§ 146"
+   ]
+  },
+  {
+   "bi": 85,
+   "k": "p",
+   "hash": "1y8nuty179",
+   "sents": [
+    "Reproduktion der Vorstellung überhaupt.",
+    "Die Einbildungskraft als Reproduktion der Vorstellung überhaupt ruft die Bilder und Vorstellungen ohne die gegenwärtige, ihnen entsprechende Anschauung wieder hervor und läßt sie für sich ins Bewußtsein treten."
+   ]
+  },
+  {
+   "bi": 86,
+   "k": "p",
+   "hash": "1vjgahs1uq",
+   "sents": [
+    "§ 147"
+   ]
+  },
+  {
+   "bi": 87,
+   "k": "p",
+   "hash": "ogcwruttqs",
+   "sents": [
+    "Als tätig bringt die Einbildungskraft die aufbewahrten Bilder und Vorstellungen in mannigfaltigen Zusammenhang miteinander, welcher von demjenigen verschieden ist, den sie als Anschauungen hatten."
+   ]
+  },
+  {
+   "bi": 88,
+   "k": "p",
+   "hash": "o69x9105hx",
+   "sents": [
+    "§ 148"
+   ]
+  },
+  {
+   "bi": 89,
+   "k": "p",
+   "hash": "bunugf1cjr",
+   "sents": [
+    "Diese Verknüpfung kann nach mancherlei Bestimmungen, welche die Vorstellungen enthalten, geschehen.",
+    "Die verschiedenen Verknüpfungsweisen sind sehr uneigentlich Gesetze der Ideenassoziation genannt worden."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/1.p75.json"
+}

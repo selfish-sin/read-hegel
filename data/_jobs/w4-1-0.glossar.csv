@@ -1,0 +1,58 @@
+de,en,zh,status,note
+Zweiter Abschnitt Physik,Second Section Physics,第二节 物理学,ok,块0 标题；「节」保留本卷体例（Rechtslehre 等同）
+Mechanik,Mechanics,力学,ok,块1
+Physik des Unorganischen,Physics of the Inorganic,无机物的物理学,ok,块14 标题
+Anschauung,intuition,直观,ok,forbidden 表 Anschauung 严禁「直觉」用「直观」
+Unmittelbarkeit,immediacy,直接性,ok,共享词表 forbidden 表亦作「直接性」
+Anundfürsichsein,being-in-and-for-itself,自在自为存在,unsicher,上下文包只有 Ansichsein/Fürsichsein/Außersichsein 三档；本句 An- und Fürsichsein 合写，取「自在自为存在」。备选「自在且自为存在」。建议上游补词条
+Insichsein,being-within-itself,自身内存在,ok,政策 §三 明确与 Ansichsein 自在存在分开；本卷高频（§111/117）
+An- und Fürsichsein,being-in-and-for-itself,自在自为存在,ok,与 Anundfürsichsein 同词，分写形式
+Ansichsein,being-in-itself,自在存在,ok,上下文包 entries
+Außersichsein,being-outside-itself,在外存在,ok,上下文包 entries（补档第33波）
+erfüllter Raum und Zeit,filled space and time,充实的空间和时间,ok,块3 句1；erfüllt＝充实的（被充满的）
+Außereinander,being-outside-each-other,相互外在,unsicher,上下文包无此词；naturephilosophy 义＝彼此外在。备选「彼此分离／在外」。建议上游补词条
+das Eins / in eins setzen,set into one,合为一,ok,上下文包 das Eins＝一；本句动词短语作「绝对地合为一」
+Materie,matter,物质,variante,★冲突登记：共享词表 Materie＝质料（为与 Form 成对），但本任务指令与「自然哲学词」裁定作「物质」；物理义 §110-117 讲的是质料而非质料-形式对举，故取「物质」。建议上游在 w4 上下文包补 Materie＝物质并注明「与 Kant 形式/质料对举语境另作质料」
+Wirklichkeit,actuality,现实性,ok,entries 明确 Wirklichkeit＝现实性；Realität 才作实在性（atom 无 Wirklichkeit＝原子没有现实性）
+Vereinzelung,individualization,个别化,ok,块7；与 §118 Individualisierung 同根「个别」
+Atom / Atomistisches,atom / the atomistic,原子 / 原子式的,ok,块5 句2
+ausschließen,to exclude one another,彼此排除,ok,排除义（非扬弃）；注意与 aufheben 分开
+Kontinuität,continuity,连续性,ok,共享词表 ok，与 Diskretion＝离散 对举
+Teilbarkeit,divisibility,可分性,ok,unendliche Teilbarkeit＝无限可分性
+Menge,multitude,一堆,ok,§111「一堆互相排斥的原子」，讲稿白话
+Schwere,gravity,重力,ok,★上下文包未收（自然哲学核心词，§110-117 反复出现）。备选「沉重」；取「重力」因与 Zentrum der Schwere 重心、Schwerpunkt 系列一致。建议上游补词条
+Zentrum der Schwere,centre of gravity,重力中心,ok,上下文包未收；备选「重心」。本单元译「重力中心」以与 Schwere 重力同根显见（见 note）
+Körper,body,物体,ok,上下文包未收
+Bewegung,movement,运动,ok,共享词表 ok
+Prädikat,predicate,谓项,ok,与 Subjekt 主体 对举
+Subjekt,subject,主体,ok,forbidden 表严禁「主观」
+formell/Form des Subjekts,in the form of the subject,在主体的形式上,ok,块7；Form＝形式（与 Materie 物质 相对，本句不取「质料」）
+ideell,ideal (of ideality),观念的,ok,★政策禁「理想的」；块9「空间的观念环节」
+Moment,moment,环节,ok,forbidden 严禁「时刻」
+Gegenstand,object,对象,ok,块16「物理学总的对象」
+qualitative Unterschiede,qualitative differences,质的差异,ok,Qualität＝质（entries）；块16
+individualisieren,to individualize,个别化,ok,块7/块16
+physische Natur,physical nature,物理的自然,ok,区分 physisch 物理的（自然的自然物义）与 Natur＝自然
+Unorganisches,the inorganic,无机物,ok,标题「无机物的物理学」
+Grund,ground,根据,ok,entries Grund＝根据（与 Ursache 原因分开）
+an- und fürsich (Block 7),as being-for-itself,作为自为存在,ok,块7「als für sich seiend」；Fürsichsein＝自为存在（上下文包 entries）
+Zentrifugalkraft,centrifugal force,离心力,ok,★上下文包未收；备选「离心力」无异，直接取通行译名
+Zentripetalkraft,centripetal force,向心力,ok,★上下文包未收
+kreisende Bewegung,circling movement,环绕运动,ok,块11 句2；备选「圆周运动」，取「环绕」以显「绕中心」
+Himmelskörper,heavenly bodies,天体,ok,上下文包未收
+Größe,magnitude,大小,ok,★上下文包未收；避免与 Maß＝度、Quantität＝量 相撞，故不用「尺度／量级」。备选「尺度」
+Masse,mass,质量,ok,上下文包未收；注意与 Materie 物质 分开
+Kraft,force,力,ok,共享词表 ok，禁「力量」
+Streben,striving,趋向,ok,★上下文包未收；备选「努力」
+Dasein,determinate being,定在,ok,forbidden 严禁「存在」
+intensive,intensive,内含的,ok,★上下文包只有 intensives Quantum＝内含量数；本句 intensive einfache Einheit 取「内含的」以与 extensive 外延 成对
+Einheit,unity,统一,ok,共享词表 Einheit＝统一；本句「单纯统一」= einfache Einheit
+individueller Einheitspunkt,individual point of unity,个别统一点,ok,★上下文包未收；备选「个体的统一点」
+Gegen- (Gegensatz),the opposite,反面 / 对立面,ok,★上下文包未收。裁定：作名词指对立概念时用「对立面」（块18 句2/块20），作 der Gegensatz 指辩证的反面时用「反面」（块18 句1）。建议上游补 Gegensatz＝对立面 词条并注此分用
+Magnetismus,magnetism,磁,ok,★上下文包未收；块20
+Diremtion,direction,方向,ok,★上下文包未收；Diremtion（= directio，方向/指向）。备选「指向」。建议上游补词条
+Farbe,color,颜色,ok,上下文包未收
+dunkel / das Dunkle,dark / the dark,暗 / 暗者,ok,块18 句5
+Individualisierung,individualization,个别化,ok,与 Vereinzelung 同根
+Besonderung,particularization,特殊化,unsicher,★上下文包未收；备选「个性化／分化」。取「特殊化」以与个别化（Individualisierung）分立；与 negativer Particularität 的关系需上游裁定
+intensives Quantum,intensive quantum,内含量数,ok,见上下文包 entries；本单元未出现，仅备查

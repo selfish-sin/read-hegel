@@ -1,0 +1,54 @@
+{
+ "id": "w4-1-195",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 1,
+ "chunkTitle": "Zweiter Abschnitt Physik",
+ "heading": "Zweiter Abschnitt Physik",
+ "blocks": [
+  {
+   "bi": 195,
+   "k": "p",
+   "hash": "16ml3ff1h0",
+   "sents": [
+    "Das Familienverhältnis ist die Natureinigkeit von Individuen.",
+    "Das Band dieser natürlichen Gesellschaft ist Liebe und Vertrauen, das Wissen dieser ursprünglichen Einigkeit und des Handelns im Sinne desselben.",
+    "Nach ihrer besonderen Bestimmung kommen den Individuen, die diese Gesellschaft ausmachen, besondere Rechte zu; insofern diese aber in der Form von Rechten behauptet würden, so wäre das moralische Band dieser Gesellschaft zerrissen, worin jeder wesentlich aus der Gesinnung der Liebe das erhält, was ihm an sich zukommt."
+   ]
+  },
+  {
+   "bi": 196,
+   "k": "p",
+   "hash": "1ue8h0p1gu",
+   "sents": [
+    "§ 193"
+   ]
+  },
+  {
+   "bi": 197,
+   "k": "p",
+   "hash": "esdxmai8ou",
+   "sents": [
+    "Das moralische Verhältnis zu anderen überhaupt gründet sich auf die ursprüngliche Identität der menschlichen Natur.",
+    "Die Pflichten der allgemeinen Menschenliebe bestehen in wohlwollender Gesinnung, in den allgemeinen, wesentlichen Dienstleistungen nach dem Zufall eines Verhältnisses.",
+    "Moralische Pflichten zu näheren und dauernden Dienstleistungen entspringen aus dem in freiem Willen gegründeten Verhältnis von Bekanntschaft und Freundschaft."
+   ]
+  },
+  {
+   "bi": 198,
+   "k": "p",
+   "hash": "rcs32310jd",
+   "sents": [
+    "(Hier sind die letzten Grenzen der Endlichkeit.",
+    "Es kommt auf den Augenblick an.)"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/1.p195.json"
+}
