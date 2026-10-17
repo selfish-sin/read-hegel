@@ -1,0 +1,84 @@
+{
+ "id": "w4-4-278",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "[Neuer Ansatz] Logik",
+ "blocks": [
+  {
+   "bi": 278,
+   "k": "p",
+   "hash": "foffxtpdbr",
+   "sents": [
+    "§ 49"
+   ]
+  },
+  {
+   "bi": 279,
+   "k": "p",
+   "hash": "12o0yzpdll",
+   "sents": [
+    "Zweitens macht im quantitativen Schluß die Einzelheit nicht als ein Einzelnes, sondern als alle Einzelnen die Mitte aus.",
+    "Insofern zugleich allen irgendeine Qualität zukommt, so wird diese als Qualität jener allgemeinen Sphäre oder Gattung selbst, welcher die Einzelnen angehören, ausgesprochen; Schluß der Induktion."
+   ]
+  },
+  {
+   "bi": 280,
+   "k": "p",
+   "hash": "eujscvkr8e",
+   "sents": [
+    "§ 50"
+   ]
+  },
+  {
+   "bi": 281,
+   "k": "p",
+   "hash": "p9q0xy136d",
+   "sents": [
+    "Der Schluß, worin das Allgemeine die Mitte ist, schließt durch Analogie, daß bei zwei Subjekten, welche ihrer allgemeinen Bestimmung nach dasselbe sind, eine besondere Bestimmung, die dem einen zukommt, auch dem anderen zukomme."
+   ]
+  },
+  {
+   "bi": 282,
+   "k": "p",
+   "hash": "1ic2zzqdr1",
+   "sents": [
+    "(a. Mehrere Einzelne haben eine allgemeine Natur."
+   ]
+  },
+  {
+   "bi": 283,
+   "k": "p",
+   "hash": "yo582i1uoc",
+   "sents": [
+    "b. Eines der Einzelnen hat eine Qualität."
+   ]
+  },
+  {
+   "bi": 284,
+   "k": "p",
+   "hash": "19pst0c5yq",
+   "sents": [
+    "c. Also auch die anderen Einzelnen haben diese Qualität.)"
+   ]
+  },
+  {
+   "bi": 285,
+   "k": "p",
+   "hash": "dv328m11qv",
+   "sents": [
+    "(Bei der Induktion kommt es darauf an, was Subjekt oder Prädikat im Schlußsatz werden soll, z. B. was sich frei bewegt, - ist ein Tier; oder: ein Tier ist, - was sich frei bewegt. - Der Löwe - ist ein Säugetier; oder: was ein Säugetier ist, - ist ein Löwe.",
+    "Bei der Analogie hingegen liegt die Vermittlung darin, daß ein anderes Einzelnes dieselbe allgemeine Natur hat, wogegen bei der Induktion die besondere Bestimmtheit der allgemeinen Natur im Einzelnen gegründet ist.",
+    "Die Analogie schließt von der allgemeinen Natur auf die besondere Bestimmtheit des Einzelnen, z. B.: die Erde hat Bewegung; der Mond ist eine Erde; also hat der Mond Bewegung.)"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p278.json"
+}

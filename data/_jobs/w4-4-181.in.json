@@ -1,0 +1,154 @@
+{
+ "id": "w4-4-181",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "II. Urteil",
+ "blocks": [
+  {
+   "bi": 181,
+   "k": "p",
+   "hash": "1mr9f9qiwe",
+   "sents": [
+    "Die Besonderung des Allgemeinen, d. h. Bestimmungen, welche eine und dieselbe allgemeine Sphäre haben, sowie die Einzelnen, welche unter dieselbe Besonderheit oder Allgemeinheit subsumiert sind, sind einander koordiniert, so wie das Subsumierte demjenigen subordiniert ist, von dem es subsumiert ist."
+   ]
+  },
+  {
+   "bi": 182,
+   "k": "p",
+   "hash": "1lniefyjqo",
+   "sents": [
+    "§ 8"
+   ]
+  },
+  {
+   "bi": 183,
+   "k": "p",
+   "hash": "13pbslzvar",
+   "sents": [
+    "Die koordinierten besonderen Bestimmungen des Allgemeinen sind einander entgegengesetzt, und indem die eine nur als die negative der anderen genommen wird, sind sie kontradiktorisch; indem die andere aber auch eine Positivität hat, wodurch sie zugleich unter dieselbe allgemeine Sphäre fällt, sind sie nur konträr entgegengesetzt.",
+    "Solche in dem Allgemeinen koordinierte Bestimmungen können nicht in dem Einzelnen zugleich sein, sondern die in diesem koordinierten sind verschieden, d. h. sie haben in ihrem Unterschiede nicht dieselbe allgemeine Sphäre und sind in Beziehung auf das Einzelne einstimmig."
+   ]
+  },
+  {
+   "bi": 184,
+   "k": "p",
+   "hash": "1lxi04x1hm",
+   "sents": [
+    "§ 9"
+   ]
+  },
+  {
+   "bi": 185,
+   "k": "p",
+   "hash": "rvqwdqcezr",
+   "sents": [
+    "Die koordinierten Bestimmungen des Allgemeinen näher betrachtet, sind sie 1. die eine die negative der anderen überhaupt, unbestimmt, ob sie dieselbe allgemeine Sphäre haben oder nicht; 2. insofern sie dieselbe Sphäre gemeinschaftlich haben und die eine Bestimmung positiv, die andere negativ ist, so daß diese Negativität gegen die erste deren Natur ausmacht, sind sie eigentlich kontradiktorisch entgegengesetzt; 3. insofern sie in derselben allgemeinen Sphäre entgegengesetzt sind oder die eine auf dieselbe Weise auch positiv ist als die andere, jede somit ebensogut als positiv oder negativ in Beziehung auf die andere ausgesprochen werden kann, sind sie konträr."
+   ]
+  },
+  {
+   "bi": 186,
+   "k": "p",
+   "hash": "1gkmx3f1mn",
+   "sents": [
+    "§ 10"
+   ]
+  },
+  {
+   "bi": 187,
+   "k": "p",
+   "hash": "1k07unc1pr",
+   "sents": [
+    "Mit der konträren Bestimmung, welche gleichgültig gegen den Gegensatz des Positiven und Negativen ist, geschieht der Übergang in das Nichtbestimmtsein durch ein Anderes, in das An-und-für-sich-Bestimmtsein, wodurch die Gemeinschaftlichkeit der Sphäre verschieden48) und die Einzelheit [gesetzt] ist, deren Bestimmungen verschieden ohne allgemeine Sphäre und in der sie als an und für sich bestimmte sind."
+   ]
+  },
+  {
+   "bi": 188,
+   "k": "h",
+   "hash": "1wzqmqo15a",
+   "text": "II. Urteil"
+  },
+  {
+   "bi": 189,
+   "k": "p",
+   "hash": "1ganbegoro",
+   "sents": [
+    "§ 11"
+   ]
+  },
+  {
+   "bi": 190,
+   "k": "p",
+   "hash": "npvz5gphd9",
+   "sents": [
+    "Das Urteil ist die Darstellung eines Gegenstandes in den unterschiedenen Momenten des Begriffs.",
+    "Es enthält denselben a) in der Bestimmung der Einzelheit als Subjekt, b) seine Bestimmung der Allgemeinheit oder sein Prädikat, wobei jedoch auch das Subjekt zum Prädikat sich wie Einzelheit zur Besonderheit und wie Besonderheit zur Allgemeinheit verhalten kann; c) die einfache, inhaltslose Beziehung des Prädikates auf das Subjekt, das Ist, ist die Kopula."
+   ]
+  },
+  {
+   "bi": 191,
+   "k": "p",
+   "hash": "1h4m4hd1px",
+   "sents": [
+    "§ 12"
+   ]
+  },
+  {
+   "bi": 192,
+   "k": "p",
+   "hash": "1gem8e16ad",
+   "sents": [
+    "Vom Urteil ist der Satz zu unterscheiden, in welchem von einem Subjekte etwas ganz Einzelnes, Geschehenes ausgesagt wird oder auch wie in den allgemeinen Sätzen etwas, mit welchem es nach der Notwendigkeit zusammenhängt, zu dem es wird und sich wesentlich als Entgegengesetztes verhält.",
+    "Weil im Begriff die Momente als in einer Einheit befaßt sind, so ist auch im Urteil als der Darstellung des Begriffs zwar Bestimmung, aber nicht als Werden oder Entgegensetzung.",
+    "Die niedrigere Bestimmung, das Subjekt, erhebt sich zu der von ihr verschiedenen Allgemeinheit, dem Prädikat, oder ist unmittelbar dasselbe."
+   ]
+  },
+  {
+   "bi": 193,
+   "k": "p",
+   "hash": "1gumises1z",
+   "sents": [
+    "§ 13"
+   ]
+  },
+  {
+   "bi": 194,
+   "k": "p",
+   "hash": "6u1ml0d3ux",
+   "sents": [
+    "In der Logik wird das Urteil seiner reinen Form nach betrachtet, ohne Rücksicht auf irgendeinen bestimmten, empirischen Inhalt.",
+    "Die Urteile unterscheiden sich durch das Verhalten, welches das Subjekt und das Prädikat in der Rücksicht zueinander hat, inwiefern ihre Beziehung durch und in dem Begriff oder eine Beziehung der Gegenständlichkeit auf den Begriff ist.",
+    "Von der Art dieser Beziehung hängt die höhere oder absolute Wahrheit des Urteils ab.",
+    "Die Wahrheit ist Übereinstimmung des Begriffs mit seiner Gegenständlichkeit.",
+    "Im Urteil fängt diese Darstellung des Begriffs und seiner Gegenständlichkeit, somit das Gebiet der Wahrheit an."
+   ]
+  },
+  {
+   "bi": 195,
+   "k": "p",
+   "hash": "1holbvb1t7",
+   "sents": [
+    "§ 14"
+   ]
+  },
+  {
+   "bi": 196,
+   "k": "p",
+   "hash": "jfjse872a7",
+   "sents": [
+    "Indem das Urteil die Darstellung eines Gegenstandes in den verschiedenen Momenten des Begriffs ist, so ist es umgekehrt die Darstellung des Begriffs in seinem Dasein, nicht sowohl wegen des bestimmten Inhalts, den die Begriffsmomente haben, als weil sie im Urteil aus ihrer Einheit treten.",
+    "Wie das ganze Urteil den Begriff in seinem Dasein darstellt, so wird dieser Unterschied auch wieder zur Form des Urteils selbst.",
+    "Das Subjekt ist der Gegenstand und das Prädikat die Allgemeinheit desselben, welches ihn als Begriff ausdrücken soll.",
+    "Die Bewegung des Urteils durch seine verschiedenen Arten hindurch erhebt diese Allgemeinheit in die höhere Stufe, worin sie dem Begriff so entsprechend wird, als sie überhaupt sein kann, insofern sie überhaupt Prädikat ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p181.json"
+}

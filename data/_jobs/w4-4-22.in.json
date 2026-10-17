@@ -1,0 +1,174 @@
+{
+ "id": "w4-4-22",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "I. Vom Begriffe",
+ "blocks": [
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "ncr9yo1rdh",
+   "sents": [
+    "§ [11]"
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "1cs9rl58yy",
+   "sents": [
+    "Der Raum ist die Beziehung des ruhigen Außer- und Nebeneinanderseins der Dinge, die Zeit die Beziehung des Verschwindens oder der Veränderung derselben."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "170fjw419i",
+   "sents": [
+    "Raum ist die qualitative Grenze der Zeit und Zeit die Grenze des Raums.",
+    "Im leeren Raum keine Bewegung, denn Bewegung [ist nur] in Vergleichung eines verschiedenen Ortes.",
+    "Ein Ortsunterschied, also kein Raum - Wenn ich an Ich, Tugend, - Zeit denke, stelle ich mir keinen Raum vor."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1bd0jedfe1",
+   "sents": [
+    "§ [12]42)"
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "ibezhhtmjw",
+   "sents": [
+    "Der Gegenstand enthält ferner Bestimmungen, welche dem Verstand angehören und allgemeine unsinnliche Formen sind und Kategorien heißen."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "167ty4uokp",
+   "sents": [
+    "§ [13]"
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "rw6w4x1mk1",
+   "sents": [
+    "Über der Kategorie steht noch der Begriff, welcher nicht nur eine allgemeine Denkbestimmung ist, sondern die bestimmte Natur eines Gegenstandes ausdrückt und mit den Urteilen und Schlüssen in der gewöhnlichen sogenannten Logik abgehandelt wird.",
+    "Sie zerfällt in die Lehre von den Begriffen, den Urteilen und Schlüssen."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "h",
+   "hash": "1lhjv7ya5n",
+   "text": "I. Vom Begriffe"
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "167ia15h21",
+   "sents": [
+    "§ [14]"
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "z6wfw9cani",
+   "sents": [
+    "Der Begriff enthält nicht die mannigfaltigen und sinnlichen Bestimmungen eines Gegenstandes, sondern denselben 1. nach seinem allgemeinen Wesen, 2. nach seiner wesentlichen Besonderheit; 3. das Dasein des Begriffs macht das Moment der Einzelheit aus."
+   ]
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "ncenysmooe",
+   "sents": [
+    "§ [15]"
+   ]
+  },
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "fxl9dn1p1q",
+   "sents": [
+    "Das allgemeine Wesen und die Besonderheit eines Gegenstandes, wodurch er sich von anderen unterscheidet und welche eine Einschränkung des Allgemeinen ist, gehören zu den Begriffsmerkmalen eines Gegenstandes."
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "nc2zv31qfj",
+   "sents": [
+    "§ [16]"
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "zet7e01hnm",
+   "sents": [
+    "Das Allgemeine wird in der Besonderheit eingeschränkt, ohne daß es dadurch aber eine Veränderung erlitte, ebenso das Besondere vom Einzelnen.",
+    "Hingegen umgekehrt das Einzelne, das zum Besonderen, sowie das Besondere, das zum Allgemeinen erweitert wird, verliert dadurch von seinem Inhalte."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "og4k4yhzzr",
+   "sents": [
+    "§ [17]"
+   ]
+  },
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "13es94akei",
+   "sents": [
+    "Das Allgemeine befaßt das Besondere und Einzelne, so wie das Besondere das Einzelne unter sich.",
+    "Das Besondere und Einzelne ist unter das Allgemeine, so wie das Einzelne unter das Besondere subsumiert.",
+    "Was vom Allgemeinen gilt, gilt auch vom Besonderen und Einzelnen; und was vom Besonderen gilt, auch vom Einzelnen.",
+    "Aber nicht umgekehrt."
+   ]
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "1675o191be",
+   "sents": [
+    "§ [18]"
+   ]
+  },
+  {
+   "bi": 39,
+   "k": "p",
+   "hash": "44relk9315",
+   "sents": [
+    "Das Einzelne befaßt dagegen die Besonderheit und Allgemeinheit und das Besondere die Allgemeinheit in sich, oder die Besonderheit und Allgemeinheit inhäriert dem Einzelnen; wie auch die Allgemeinheit dem Besonderen."
+   ]
+  },
+  {
+   "bi": 40,
+   "k": "p",
+   "hash": "153aerc1h0",
+   "sents": [
+    "§ [19]"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p22.json"
+}

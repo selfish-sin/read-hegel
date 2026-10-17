@@ -1,0 +1,12 @@
+de,en,zh,status,note
+Angemessenheit / Nichtangemessenheit,appropriateness / inappropriateness,相宜 / 不相宜,ok,上下文包与共享词表均未收；本单元 §64「定在与概念相宜或不相宜」。备选：适当性 / 不适当性、契合 / 不契合
+Bestimmung,determination,规定,ok,上下文包与共享词表只有 Bestimmtheit＝规定性；此处名词 Bestimmung 单数作「一种规定」不另立词根
+Modalitätsurteil,modal judgment,模态判断,ok,上下文包未收；共享词表有 Modalität＝模态；本单元 §64「Dieses Modalitätsurteil」。备选：模态的判断
+Prämissen,premises,前提,ok,上下文包与共享词表均未收；共享词表 Schluß＝推论，本词为推论的「前提」。备选：前件（易与条件句混淆，不取）
+subsumierend / subsumiert,subsuming / subsumed,归摄的 / 被归摄的,ok,共享词表只有 Subsumtion＝归摄、subsumieren＝归摄（variante）；此处为分词形式，按同一词根译。备选：摄 / 被摄
+termini extremi,termini extremi,（原样保留）,ok,拉丁术语；卷级 styleGuide 第 12 条规定拉丁术语不译不动、必要时括注中文。括注：两端／极端
+terminus medius,terminus medius,（原样保留）,ok,同上；括注：中项。与共享词表 Mitte＝中项 配套
+terminus maior,terminus maior,（原样保留）,ok,同上；括注：大项。任务书裁定 major terminus＝大项；本单元原文作「Extrem der Allgemeinheit（terminus maior）」，故按原文逐字译作「普遍性这一极端」并括注原文，不代改为「大项」
+propositio maior / [propositio] minor,propositio maior / [propositio] minor,（原样保留）,ok,同上；括注：大前提 / 小前提。与 terminus maior／minor（大项／小项）不同，propositio 指句子而非项，原文方括号缺字照残句保留
+conclusio,conclusio,（原样保留）,ok,同上；括注：推论句。与共享词表 Schlußsatz＝推论句 配套
+formelles Recht,formal right,形式权利,unsicher,上下文包 Recht 条把 das formelle Recht（成文制度义）定为「法」；本单元为逻辑学语境，指主张一个断言的形式权利，非成文制度义，故取「权利」。备选：形式法。须由用户裁定是否拉平

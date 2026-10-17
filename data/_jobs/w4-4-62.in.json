@@ -1,0 +1,202 @@
+{
+ "id": "w4-4-62",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "II. Urteilskraft",
+ "blocks": [
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "1fvpfhr1it",
+   "sents": [
+    "§ [30]"
+   ]
+  },
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "d91w3x1xhq",
+   "sents": [
+    "d) Die Einheit Entgegengesetzter oder der Grund.",
+    "Die Entgegengesetzten, indem sie in einer Beziehung sind, ohne welche sie nicht sind, haben eine gemeinschaftliche wesentliche Einheit.",
+    "Ein Dasein, insofern es zugleich an sich ein anderes enthält, ist der Grund dieses anderen Daseins; da nun jedes Dasein etwas Bestimmtes ist, so ist es auf ein anderes bezogen und an sich in diesem anderen enthalten; es folgt daher das Gesetz: Was ist, da es ein wesentlich Bestimmtes und Entgegengesetztes ist, hat seinen zureichenden Grund."
+   ]
+  },
+  {
+   "bi": 64,
+   "k": "p",
+   "hash": "1gzqzrmadt",
+   "sents": [
+    "§ [31]"
+   ]
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "1kz1mve1an",
+   "sents": [
+    "Die angegebenen Bestimmtheiten haben eine notwendige Ordnung zueinander, und in der Vergleichung mehrerer Bestimmungen, die sich zunächst nur konträr, d. h. gleichgültig ohne ein innerliches Verhältnis zu verhalten scheinen, ist zu versuchen, ob sie nicht eine notwendige Ordnung zueinander haben."
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "z8jkvd9fvd",
+   "sents": [
+    "§ [32]"
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "1cf1aq4r91",
+   "sents": [
+    "Die Beschreibung enthält die mannigfaltigen sowohl zufälligen als wesentlichen Eigenschaften und Bestimmungen eines Gegenstandes und drückt nicht sowohl den Begriff desselben aus als das Bild für die Vorstellung."
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "1vuk5gq87k",
+   "sents": [
+    "Dichterische Beschreibung des Aufgangs der Sonne; Gottes - Tier, Blume"
+   ]
+  },
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "1fvyvzof2i",
+   "sents": [
+    "§ [33]"
+   ]
+  },
+  {
+   "bi": 70,
+   "k": "p",
+   "hash": "ypyktayd3s",
+   "sents": [
+    "Die Definition dagegen drückt die oben erwähnten Begriffsmerkmale eines Gegenstands aus; seine allgemeine Natur und dann die Besonderheit desselben, wodurch er sich von anderen, welche dieselbe allgemeine Natur haben, unterscheidet."
+   ]
+  },
+  {
+   "bi": 71,
+   "k": "p",
+   "hash": "kuc47gkwlq",
+   "sents": [
+    "Figur Dreieck Rose - rot und Blume auch allg. nächste allgemeine Natur, Gattung, nicht Bes.",
+    "Art; von einzelnen Dingen nur Beschreibungen"
+   ]
+  },
+  {
+   "bi": 72,
+   "k": "p",
+   "hash": "1fw21hn17i",
+   "sents": [
+    "§ [34]"
+   ]
+  },
+  {
+   "bi": 73,
+   "k": "p",
+   "hash": "mfh3zfzfj7",
+   "sents": [
+    "Die Division oder Einteilung drückt von einem Allgemeinen aus, wie eine Bestimmung desselben (der Einteilungsgrund) sich in ihren Verschiedenheiten darstellt, welche Verschiedenheiten entweder nur zufällig sind oder aber nach den notwendigen, oben angegebenen Unterschieden zueinander [sich] verhalten."
+   ]
+  },
+  {
+   "bi": 74,
+   "k": "h",
+   "hash": "e3pmjpwfwb",
+   "text": "II. Urteilskraft"
+  },
+  {
+   "bi": 75,
+   "k": "p",
+   "hash": "z8v8z2zzhq",
+   "sents": [
+    "§ [35]"
+   ]
+  },
+  {
+   "bi": 76,
+   "k": "p",
+   "hash": "pzs0yk120g",
+   "sents": [
+    "Das Urteil ist die Beziehung zweier Begriffsbestimmungen aufeinander, deren die eine sich als Einzelnes zu einer anderen als dem Besonderen oder dem Allgemeinen oder als Besonderes zu dem Allgemeinen verhält."
+   ]
+  },
+  {
+   "bi": 77,
+   "k": "p",
+   "hash": "z8yeh1z1jp",
+   "sents": [
+    "§ [36]"
+   ]
+  },
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "b3nj6o1715",
+   "sents": [
+    "Von der engeren und weiteren Bestimmung, die aufeinander bezogen sind, ist jene das Subjekt, diese aber das Prädikat; die Beziehung beider, das Ist, [ist] die Kopula."
+   ]
+  },
+  {
+   "bi": 79,
+   "k": "p",
+   "hash": "1fwdplc3r5",
+   "sents": [
+    "§ [37]"
+   ]
+  },
+  {
+   "bi": 80,
+   "k": "p",
+   "hash": "1yysts61kw",
+   "sents": [
+    "Die Logik abstrahiert von allem empirischen Inhalte und betrachtet nur denjenigen Inhalt, der durch die Form des Verhältnisses selbst gesetzt ist; sonach heißt das logische Urteil eigentlich: Ein Einzelnes ist ein Besonderes oder Allgemeines, oder das Besondere ist ein Allgemeines."
+   ]
+  },
+  {
+   "bi": 81,
+   "k": "p",
+   "hash": "y3nfhzd5pd",
+   "sents": [
+    "§ [38]"
+   ]
+  },
+  {
+   "bi": 82,
+   "k": "p",
+   "hash": "1q65e06hd2",
+   "sents": [
+    "Nicht jeder Satz ist ein Urteil, sondern nur ein solcher, der oder insofern sein Inhalt jenes Verhältnis zueinander hat."
+   ]
+  },
+  {
+   "bi": 83,
+   "k": "p",
+   "hash": "1gyzk625n6",
+   "sents": [
+    "§ [39]"
+   ]
+  },
+  {
+   "bi": 84,
+   "k": "p",
+   "hash": "kqkx4o80fv",
+   "sents": [
+    "Ferner, indem im Urteile die Begriffsbestimmungen auseinandertreten und sich in ihrer Beziehung als verschieden zueinander verhalten, so ist nur derjenige Satz ein Urteil, in welchem das Prädikat für sich vorgestellt und durch Vergleichung mit dem Subjekt verbunden wird."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p62.json"
+}

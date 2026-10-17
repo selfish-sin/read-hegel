@@ -1,0 +1,216 @@
+{
+ "id": "w4-4-85",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "[I.] Urteile der Inhärenz oder Qualität",
+ "blocks": [
+  {
+   "bi": 85,
+   "k": "p",
+   "hash": "1ldkj411k8",
+   "sents": [
+    "Ich sehe einen Menschen, Farbe in der Ferne Magnetische Kraft äußert sich in zwei Polen; Erfahrungssatz.",
+    "Da ist mein guter Freund vorbeigegangen Das Allgemeine frei an und für sich, gleichgültig gegen die Einzelheit (dies Ding ist rot; hier ist etwas Rotes)."
+   ]
+  },
+  {
+   "bi": 86,
+   "k": "p",
+   "hash": "xnj41a1kd2",
+   "sents": [
+    "§ [40]"
+   ]
+  },
+  {
+   "bi": 87,
+   "k": "p",
+   "hash": "12ouqdz15h",
+   "sents": [
+    "Das Prädikat des Urteils näher betrachtet, so ist es α) eine Bestimmung überhaupt gegen das Subjekt oder sonstige Bestimmungen und hat nach dieser Seite einen Inhalt; β) ist es dem Subjekt ungleich, als Allgemeines gegen das Einzelne; γ) als bezogen auf das Subjekt ist es auf dasselbe eingeschränkt und kann angesehen werden als nur von dem Umfange, von dem das Subjekt ist."
+   ]
+  },
+  {
+   "bi": 88,
+   "k": "p",
+   "hash": "1eapwjv1eq",
+   "sents": [
+    "§ [41]"
+   ]
+  },
+  {
+   "bi": 89,
+   "k": "p",
+   "hash": "2n770e1g5m",
+   "sents": [
+    "Das Subjekt ist gleichfalls α) von anderen Subjekten verschieden, β) ist es vom Prädikat gleichfalls verschieden als ein unter dasselbe subsumiertes, γ) ist es [dem] Prädikate gleich, das seinen Inhalt ausdrückt, so daß im Urteil vom Subjekte eigentlich nichts ausgedrückt ist, als was das Prädikat enthält."
+   ]
+  },
+  {
+   "bi": 90,
+   "k": "h",
+   "hash": "1u5d9phpr4",
+   "text": "[I.] Urteile der Inhärenz oder Qualität"
+  },
+  {
+   "bi": 91,
+   "k": "p",
+   "hash": "1eb1knk1fo",
+   "sents": [
+    "§ [42]"
+   ]
+  },
+  {
+   "bi": 92,
+   "k": "p",
+   "hash": "u4vvpl3ihl",
+   "sents": [
+    "Das Prädikat in dem Urteile ist zuerst eine Qualität, irgendeine einfache unmittelbare Bestimmtheit oder Eigenschaft, die dem Subjekte inhäriert und deren dieses mehrere in sich enthält."
+   ]
+  },
+  {
+   "bi": 93,
+   "k": "p",
+   "hash": "xnm9j9p2t3",
+   "sents": [
+    "§ [43]"
+   ]
+  },
+  {
+   "bi": 94,
+   "k": "p",
+   "hash": "1er7dtl2yx",
+   "sents": [
+    "Indem im qualitativen Urteil das Prädikat vom Subjekte bejaht wird, ist es ein positives Urteil."
+   ]
+  },
+  {
+   "bi": 95,
+   "k": "p",
+   "hash": "1feeutu10d",
+   "sents": [
+    "§ [44]"
+   ]
+  },
+  {
+   "bi": 96,
+   "k": "p",
+   "hash": "908cb7nw6l",
+   "sents": [
+    "Das Prädikat ist von weiterem Umfang als das Subjekt; wenn also das positive Urteil geradezu umgekehrt, d. h. das Prädikat zum Subjekte und das Subjekt zum Prädikat gemacht würde, so würde das nunmehrige Prädikat enger sein als das Subjekt, was gegen den Begriff des Urteils ist."
+   ]
+  },
+  {
+   "bi": 97,
+   "k": "p",
+   "hash": "1eadajzuqm",
+   "sents": [
+    "§ [45]"
+   ]
+  },
+  {
+   "bi": 98,
+   "k": "p",
+   "hash": "k2qqs010y8",
+   "sents": [
+    "Ein positives Urteil kann daher nur insofern umgekehrt werden, als das Prädikat in der Einschränkung auf das Subjekt genommen und ausgedrückt wird."
+   ]
+  },
+  {
+   "bi": 99,
+   "k": "p",
+   "hash": "1eamr1w1qz",
+   "sents": [
+    "§ [46]"
+   ]
+  },
+  {
+   "bi": 100,
+   "k": "p",
+   "hash": "jnckml131z",
+   "sents": [
+    "Ein negatives Urteil ist, worin ein Prädikat von einem Subjekte überhaupt negiert wird."
+   ]
+  },
+  {
+   "bi": 101,
+   "k": "p",
+   "hash": "xn7fxl1yi8",
+   "sents": [
+    "§ [47]"
+   ]
+  },
+  {
+   "bi": 102,
+   "k": "p",
+   "hash": "lep66c1mhk",
+   "sents": [
+    "Das Prädikat, näher betrachtet, hat die zwei Momente an ihm der Bestimmtheit gegen andere und dann der allgemeinen Sphäre; im negativen Urteil wird nur das Prädikat als Bestimmtheit negiert, nicht aber die allgemeine Sphäre desselben."
+   ]
+  },
+  {
+   "bi": 103,
+   "k": "p",
+   "hash": "1fe01861up",
+   "sents": [
+    "§ [48]"
+   ]
+  },
+  {
+   "bi": 104,
+   "k": "p",
+   "hash": "tf277xivjd",
+   "sents": [
+    "Oder im negativen Urteil ist das Subjekt auf das Prädikat negativ bezogen; es ist also mit der Negation zugleich eine Position des Prädikats vorhanden, und zwar desselben als allgemeiner Sphäre."
+   ]
+  },
+  {
+   "bi": 105,
+   "k": "p",
+   "hash": "winwk31p2x",
+   "sents": [
+    "§ [49]"
+   ]
+  },
+  {
+   "bi": 106,
+   "k": "p",
+   "hash": "15u9c9y17t",
+   "sents": [
+    "Ein negatives Urteil kann geradezu umgekehrt werden."
+   ]
+  },
+  {
+   "bi": 107,
+   "k": "p",
+   "hash": "kxp8rd1p0s",
+   "sents": [
+    "§ [50]"
+   ]
+  },
+  {
+   "bi": 108,
+   "k": "p",
+   "hash": "1g2gfbxrl3",
+   "sents": [
+    "Ein unendliches Urteil ist ein solches, worin nicht nur die Bestimmtheit des Prädikats, sondern auch die allgemeine Sphäre negiert ist."
+   ]
+  },
+  {
+   "bi": 109,
+   "k": "p",
+   "hash": "22lmp01unf",
+   "sents": [
+    "§ [51]"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p85.json"
+}

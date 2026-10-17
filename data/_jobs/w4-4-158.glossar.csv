@@ -1,0 +1,10 @@
+de,en,zh,status,note
+Untersatz,minor premise,小前提,ok,三段论（Schluß）术语；与 Obersatz（大前提）对举。本卷上下文包未收
+Obersatz,major premise,大前提,ok,三段论（Schluß）术语；与 Untersatz（小前提）对举。本卷上下文包未收
+Medius terminus,middle term (Latin kept),中项（拉丁原文保留）,ok,拉丁术语按体例不译，zh 括注中项；与共享词表 Mitte＝中项 同指
+partikulär,particular,特称,ok,与共享词表 partikuläres Urteil＝特称判断 同根；此处指中项/结论不得为特称
+Proposition,proposition,命题,ok,三段论语境指“结论命题”；本卷上下文包未收
+Lehre vom Begriff,doctrine of the concept,关于概念的理论,ok,Begriffslehre 的迂回写法（第 1 部分），与标题词 Begriffslehre＝概念论 同指
+objektive Logik,objective logic,客观逻辑,ok,与 subjektive Logik（主观逻辑）对举；本卷逻辑讲稿三分的第 1 支
+subjektive Logik,subjective logic,主观逻辑,ok,与 objektive Logik（客观逻辑）对举；即本卷 Begriffslehre
+an sich,in itself,自在,ok,与 Ansichsein＝自在存在 同根；des Begriffs an sich＝自在的概念

@@ -1,0 +1,195 @@
+{
+ "id": "w4-4-0",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "[Neuer Ansatz] Logik",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1123zbjxgl",
+   "text": "[Neuer Ansatz] Logik"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1jpl6l51ur",
+   "sents": [
+    "§ 1"
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "pgjrcfmluk",
+   "sents": [
+    "Die Philosophie ist die Wissenschaft des absoluten Grundes der Dinge, und zwar derselben nicht in ihrer Einzelheit oder Besonderheit, sondern in ihrer Allgemeinheit."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "1ivmdi816q",
+   "sents": [
+    "§ 2"
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "10xywcb1w2",
+   "sents": [
+    "Das Denken betrachtet das Allgemeine der Dinge.",
+    "Die Logik ist die Wissenschaft des Denkens."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "1j5lz775kz",
+   "sents": [
+    "§ 3"
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "rzgglc10ie",
+   "sents": [
+    "Empfindung ist die Art, wie und insofern wir von einem Gegenstande affiziert werden."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "okhqsm144c",
+   "sents": [
+    "Gefallen, Mißfallen, Schönheit.",
+    "Bewunderung, Liebe, Furcht, Haß, Abneigung sind innere Empfindungen; was wir bei solchen Gegenständen sind; insofern sprechen wir nicht vom Gegenstand als ... subjektiv; worin wir darin sind."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1kjjzo213g",
+   "sents": [
+    "§ 4"
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "rg9fv1177n",
+   "sents": [
+    "Im Vorstellen trennen wir uns von dem Gegenstande und schreiben ihm Bestimmungen zu, die er habe, ohne darauf zu sehen, ob wir davon affiziert sind oder nicht.41)"
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "21ceedsnz8",
+   "sents": [
+    "§ [5]"
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "klzd2iykp8",
+   "sents": [
+    "Ein sinnlicher Gegenstand wird unmittelbar von uns wahrgenommen und ist ein einzelner von mannigfaltigen sinnlichen Bestimmungen oder Eigenschaften, die der Empfindung angehören und in der Vorstellung zu etwas Gegenständlichem werden."
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "2198weofqu",
+   "sents": [
+    "§ [6]"
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "a9ya0t1aqi",
+   "sents": [
+    "Eine solche Bestimmung, für sich herausgenommen und von den übrigen, mit welchen sie im Gegenstande verbunden war, abgetrennt, ist eine abstrakte sinnliche Vorstellung."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "1i7167f1vg",
+   "sents": [
+    "§ [7]"
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "1a3cqcj18z",
+   "sents": [
+    "Eine solche Bestimmung kommt nicht nur irgendeinem einzelnen Gegenstande, sondern mehreren zu oder ist ihnen gemeinschaftlich, also eine allgemeine sinnliche Vorstellung."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "wd3j0qbmxk",
+   "sents": [
+    "§ [8]"
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1ukrgjh1pi",
+   "sents": [
+    "Sie ist zugleich nicht mehr ganz unmittelbar, wie sie in der Empfindung war, sondern ist zugleich ein Vermitteltes; da sie nämlich durch die Abtrennung von den anderen Bestimmungen und von dem einzelnen Gegenstande entstanden ist."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1ja1udt1n0",
+   "sents": [
+    "§ [9]"
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "ksch6qintj",
+   "sents": [
+    "Es ist eine Seite derselben, welche der Empfindung angehört, nämlich die sinnliche Einzelheit.",
+    "Sie haben aber auch eine Seite, welche die sinnliche Allgemeinheit ausmacht und die Form der Sinnlichkeit ist.",
+    "Diese Form ist die gedoppelte, Raum und Zeit."
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "167x3mt1lq",
+   "sents": [
+    "§ [10]"
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "17biwsn1sq",
+   "sents": [
+    "Beide sind untrennbare Kontinua, in welchen die Unterschiede und Einschränkungen, die in ihnen gesetzt werden, keine wahrhafte Grenze, sondern nur eine quantitative Grenze ausmachen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p0.json"
+}

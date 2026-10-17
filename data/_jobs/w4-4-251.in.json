@@ -1,0 +1,136 @@
+{
+ "id": "w4-4-251",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "III. Schluß",
+ "blocks": [
+  {
+   "bi": 251,
+   "k": "p",
+   "hash": "1i2cic5lk7",
+   "sents": [
+    "Gegen die Versicherung des assertorischen Urteils kann daher ebensosehr die entgegengesetzte behauptet werden, und das Prädikat drückt nur eine jener entgegengesetzten Bestimmtheiten aus, deren das Subjekt, als allgemeine Sphäre betrachtet, beide enthalten kann.",
+    "Dieses Urteil geht daher in das problematische über, welches nur die Möglichkeit ausspricht, daß das Dasein dem Begriffe angemessen sei oder auch nicht."
+   ]
+  },
+  {
+   "bi": 252,
+   "k": "p",
+   "hash": "fxx2j56zen",
+   "sents": [
+    "§ 38"
+   ]
+  },
+  {
+   "bi": 253,
+   "k": "p",
+   "hash": "iychqvza96",
+   "sents": [
+    "Die Allgemeinheit des Subjekts ist daher mit einer Einschränkung gesetzt, welche die Beschaffenheit ausdrückt, worin die Angemessenheit oder Unangemessenheit des Daseins mit dem Begriffe liegt.",
+    "Das Prädikat drückt nichts anderes als diese Gleichheit oder Ungleichheit der Beschaffenheit und des Begriffs der Sache aus.",
+    "Dies Urteil ist apodiktisch."
+   ]
+  },
+  {
+   "bi": 254,
+   "k": "h",
+   "hash": "c109u19rt8",
+   "text": "III. Schluß"
+  },
+  {
+   "bi": 255,
+   "k": "p",
+   "hash": "fnxgu61epo",
+   "sents": [
+    "§ 39"
+   ]
+  },
+  {
+   "bi": 256,
+   "k": "p",
+   "hash": "lzo2wa4adc",
+   "sents": [
+    "Der Schluß ist die vollständige Darstellung des Begriffs.",
+    "Er enthält überhaupt das Urteil mit seinem Grunde.",
+    "Es sind darin zwei Bestimmungen zusammengeschlossen durch eine dritte, welche deren Einheit ist.",
+    "Es ist ein Begriff vorhanden in seiner Einheit, der Mitte des Schlusses, und in seiner Entzweiung, den Extremen des Schlusses."
+   ]
+  },
+  {
+   "bi": 257,
+   "k": "p",
+   "hash": "d6j0p21qj0",
+   "sents": [
+    "§ 40"
+   ]
+  },
+  {
+   "bi": 258,
+   "k": "p",
+   "hash": "1tj4ez81a3",
+   "sents": [
+    "Die Beziehung der beiden Extreme des Schlusses auf die Mitte ist eine unmittelbare; ihre Beziehung aufeinander aber ist vermittelt durch die Mitte.",
+    "Jene beiden unmittelbaren Beziehungen sind die Urteile, welche Prämissen heißen; die Beziehung, welche vermittelt ist, heißt der Schlußsatz."
+   ]
+  },
+  {
+   "bi": 259,
+   "k": "p",
+   "hash": "dgime112ih",
+   "sents": [
+    "§ 41"
+   ]
+  },
+  {
+   "bi": 260,
+   "k": "p",
+   "hash": "13oyo711jf",
+   "sents": [
+    "Zunächst drückt der Schluß seine Momente durch die bloße Form aus, so daß die Mitte eine eigene Bestimmtheit gegen die Extreme und der Grund oder die Einheit der Momente noch eine subjektive ist.",
+    "Das an sich Ursprüngliche ist hier ein Erschlossenes und hat die Bedeutung einer Folge."
+   ]
+  },
+  {
+   "bi": 261,
+   "k": "h",
+   "hash": "1d7rvaj15l",
+   "text": "A. Schlüsse der Qualität oder der Inhärenz"
+  },
+  {
+   "bi": 262,
+   "k": "p",
+   "hash": "cmjtb41crz",
+   "sents": [
+    "§ 42"
+   ]
+  },
+  {
+   "bi": 263,
+   "k": "p",
+   "hash": "t3ck61gejg",
+   "sents": [
+    "Die Form dieses Schlusses, E - B - A, daß das Einzelne mit dem Allgemeinen durch das Besondere zusammengeschlossen ist, ist die allgemeine Regel des Schlusses überhaupt. - Im ersten unmittelbaren Schlusse ist das Besondere oder die Mitte eine Qualität oder Bestimmtheit des Einzelnen, ebenso auch das Allgemeine eine Bestimmtheit des Besonderen.",
+    "Daher kann von dem Einzelnen durch eine andere seiner Bestimmtheiten, deren es mehrere hat, ebenso von derselben zu einem anderen Allgemeinen übergegangen werden, sowie vom Besonderen zu einem anderen Allgemeinen, da das Besondere gleichfalls verschiedene Bestimmungen in sich enthält.",
+    "Dieser Schluß erscheint demnach seiner Form nach zwar richtig, seinem Inhalt nach aber als willkürlich und zufällig.",
+    "(Grün ist eine angenehme Farbe.",
+    "Dies Blatt ist grün.",
+    "Also ist es angenehm. - Das Sinnliche ist weder gut noch böse.",
+    "Nun ist der Mensch sinnlich.",
+    "Also ist er weder gut noch böse. - Tapferkeit ist eine Tugend.",
+    "Alexander besaß Tapferkeit.",
+    "Also war er tugendhaft. - Trunkenheit ist ein Laster.",
+    "Alexander war dem Trunk ergeben.",
+    "Also war er lasterhaft, usf.)"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p251.json"
+}

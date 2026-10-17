@@ -1,0 +1,200 @@
+{
+ "id": "w4-4-158",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "6. Begriffslehre für die Oberklasse47)",
+ "blocks": [
+  {
+   "bi": 158,
+   "k": "p",
+   "hash": "u82udl1wd5",
+   "sents": [
+    "Der Untersatz kann nicht negativ sein"
+   ]
+  },
+  {
+   "bi": 159,
+   "k": "p",
+   "hash": "bqi40slp76",
+   "sents": [
+    "Proposition nichts Partikulär[es]"
+   ]
+  },
+  {
+   "bi": 160,
+   "k": "p",
+   "hash": "gtbfz61r3u",
+   "sents": [
+    "Der Medius terminus im Obersatz nicht partikulär."
+   ]
+  },
+  {
+   "bi": 161,
+   "k": "h",
+   "hash": "1584cx01re",
+   "text": "6. Begriffslehre für die Oberklasse47)"
+  },
+  {
+   "bi": 162,
+   "k": "p",
+   "hash": "1yblrfq1l6",
+   "sents": [
+    "(1809/10)"
+   ]
+  },
+  {
+   "bi": 163,
+   "k": "p",
+   "hash": "1jpl6l51ur",
+   "sents": [
+    "§ 1"
+   ]
+  },
+  {
+   "bi": 164,
+   "k": "p",
+   "hash": "tiuhpn156i",
+   "sents": [
+    "Die objektive Logik ist die Wissenschaft des Begriffs an sich oder der Kategorien.",
+    "Die subjektive Logik, welche hier abgehandelt wird, ist die Wissenschaft des Begriffs als Begriff oder des Begriffs von Etwas.",
+    "Sie teilt sich in drei Teile:"
+   ]
+  },
+  {
+   "bi": 165,
+   "k": "p",
+   "hash": "1vyi032qic",
+   "sents": [
+    "1. in die Lehre vom Begriff,"
+   ]
+  },
+  {
+   "bi": 166,
+   "k": "p",
+   "hash": "f7dv1rnuh8",
+   "sents": [
+    "2. in die Lehre von seiner Realisierung,"
+   ]
+  },
+  {
+   "bi": 167,
+   "k": "p",
+   "hash": "14mjsrmv1b",
+   "sents": [
+    "3. in die Lehre von der Idee."
+   ]
+  },
+  {
+   "bi": 168,
+   "k": "h",
+   "hash": "cxt48015kw",
+   "text": "Erster Abschnitt Begriffslehre"
+  },
+  {
+   "bi": 169,
+   "k": "h",
+   "hash": "15uzibp1ia",
+   "text": "I. Begriff"
+  },
+  {
+   "bi": 170,
+   "k": "p",
+   "hash": "1ivmdi816q",
+   "sents": [
+    "§ 2"
+   ]
+  },
+  {
+   "bi": 171,
+   "k": "p",
+   "hash": "1jrd8aj1yb",
+   "sents": [
+    "Der Begriff ist das Allgemeine, das zugleich bestimmt ist, das [aber] in seiner Bestimmung dasselbe Ganze, Allgemeine bleibt, oder die Bestimmtheit, welche die verschiedenen Bestimmungen einer Sache als Einheit in sich befaßt."
+   ]
+  },
+  {
+   "bi": 172,
+   "k": "p",
+   "hash": "1j5lz775kz",
+   "sents": [
+    "§ 3"
+   ]
+  },
+  {
+   "bi": 173,
+   "k": "p",
+   "hash": "1nxjvod1ux",
+   "sents": [
+    "Die Momente des Begriffs sind die Allgemeinheit, Besonderheit und Einzelheit.",
+    "Er ist ihre Einheit."
+   ]
+  },
+  {
+   "bi": 174,
+   "k": "p",
+   "hash": "1kjjzo213g",
+   "sents": [
+    "§ 4"
+   ]
+  },
+  {
+   "bi": 175,
+   "k": "p",
+   "hash": "1eh2ku01qs",
+   "sents": [
+    "Das Allgemeine ist diese Einheit als positive, sich selbst gleiche unbestimmte Einheit; - die Besonderheit ist die Bestimmung des Allgemeinen, aber so, daß sie im Allgemeinen aufgehoben ist oder das Allgemeine in ihr bleibt, was es ist; - die Einzelheit ist die negative Einheit oder die Bestimmung, die sich in Selbstbestimmung zusammenfaßt."
+   ]
+  },
+  {
+   "bi": 176,
+   "k": "p",
+   "hash": "1ktjld12ap",
+   "sents": [
+    "§ 5"
+   ]
+  },
+  {
+   "bi": 177,
+   "k": "p",
+   "hash": "1ousm5r1xl",
+   "sents": [
+    "Das Allgemeine befaßt das Besondere und Einzelne sowie das Besondere auch das Einzelne unter sich, dagegen das Einzelne die Besonderheit und Allgemeinheit und das Besondere die Allgemeinheit in sich befaßt.",
+    "Das Allgemeine ist weiter als die Besonderheit und Einzelheit, dagegen die Besonderheit und Einzelheit mehr in sich befaßt als das Allgemeine, welches dadurch, daß es in der Einzelheit befaßt ist, wieder eine Bestimmtheit wird.",
+    "Das Allgemeine inhäriert dem Besonderen und Einzelnen, dagegen es das Besondere und Einzelne unter sich subsumiert."
+   ]
+  },
+  {
+   "bi": 178,
+   "k": "p",
+   "hash": "1jzksa4n0y",
+   "sents": [
+    "§ 6"
+   ]
+  },
+  {
+   "bi": 179,
+   "k": "p",
+   "hash": "1syv0v7bpk",
+   "sents": [
+    "Wie der Begriff die Momente der Einzelheit, Besonderheit und Allgemeinheit in sich enthält, so ist er selbst danach in seinem Inhalt verschieden bestimmt und Begriff von etwas Einzelnem, Besonderem oder Allgemeinem."
+   ]
+  },
+  {
+   "bi": 180,
+   "k": "p",
+   "hash": "1k9kdz31kw",
+   "sents": [
+    "§ 7"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p158.json"
+}

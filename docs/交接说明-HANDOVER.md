@@ -112,10 +112,49 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 | Bd. 1 早期著作 | ✅ 22/22 节 · 3,740 句 |
 | Bd. 2 耶拿著作 | ✅ 15/15 节 · 3,270 句 |
 | Bd. 3 精神现象学 | ✅ **正文 100%**（序言→绝对知识，w3/0–15 正文 15/15 分节 · 4,800 句） |
-| Bd. 4 纽伦堡与海德堡时期著作 | 4/16 分节 · 1,408 句（w4/0 逻辑学、w4/1 自然哲学、w4/2 国家篇、w4/3 **均 100%**） |
-| 合计 | **13,218 / 92,117 句 = 14.35%** |
+| Bd. 4 纽伦堡与海德堡时期著作 | 5/16 分节 · 1,777 句（w4/0 逻辑学、w4/1 自然哲学、w4/2 国家篇、w4/3 本质范畴、w4/4 逻辑学第二种尝试 **均 100%**） |
+| 合计 | **13,587 / 92,117 句 = 14.75%** |
 
-覆盖率另有按段落的数字：3,725 / 17,948 = 20.75%。
+覆盖率另有按段落的数字：3,992 / 17,948 = 22.24%。
+
+**第 37 波刚完成**（2026-10-17）：w4/4「[Neuer Ansatz] Logik」（第二种尝试·逻辑学，1809/10 讲稿）
+**15 单元 / 286 块 / 369 句全分节 100%**，覆盖率 14.35% → **14.75%**。本节走完判断逻辑
+（质的/量的/关系的/模态的判断）→ 推论逻辑（E-B-A / A-E-B / B-A-E 三形式与归纳、类比）。
+
+> **★ 本波起子代理有第二种失败模式：BYOK 月度配额耗尽**（`w4-4-251`／`w4-4-264` 报
+> "exceeded the monthly usage quota … reset at 2026-10-23"，与 wave34/35 的账号 Token Plan
+> 上限 2067 是两回事）。该错误**不会短时间恢复**（要等到 10-23），立即重派必再失败。
+> 处置：这 2 个单元改由**主代理直接翻译**（同节有 `4.p136.json` 平行先例可循），
+> 产出与机器自检标准与 worker 完全一致。其余 13 单元由子代理完成。
+> 另：`w4-4-110` 任务报 failed **但磁盘已完整落盘**（第 N 次验证「失败 ≠ 未落盘」）——
+> 实测 26/26 块结构与 ns 全对齐，直接合并未重译。**判据永远是以磁盘为准**。
+
+> **本波最重要的术语裁定：`Gleichheit`→等同、`Ungleichheit`→不等同**（共享词表 ③），
+> 覆盖卷内先例的「相等／不相等」（④）。块 49/53/130 原循词表作「等同」，
+> 而 p85/p110/214/251 循 sibling 先例作「相等」——**用户政策的权威序是
+> 词族政策 > 卷级上下文包 > 共享词表 > 通行译名，同卷先例不在权威序内**（最多算第四档
+> 「通行译名＋同卷先例」），故合并后把 10 处「相等」拉平回词表译法。
+> 同类拉平还有：`Tugend` 德性→美德、`Natur`「规定了的自然」→「规定了的本性」、
+> `Angemessenheit` 三译并存（适切性／相称／相宜）→ **相宜**（同块 p136 先例＋已入册＋块内多数）。
+> **教训：worker 有权在 glossar 里登记"从卷内先例"的偏离，但主代理合并时必须按权威序复核**——
+> 这类偏离若当时不拦，会在同一分节里留下两种译法。
+
+> **逻辑学术语层已入上下文包**：entries 141 → **199**（`Schluß`→推论、`Schlußsatz`→推论句、
+> `Prämisse`→前提、`Obersatz/Untersatz`→大/小前提、`Extrem`→极端、`Mitte`→中项、
+> `das Einzelne/Besondere/Allgemeine`→个别者/特殊者/普遍者、`Inhärenz`→固有、
+> `subsumieren`→归摄、`Angemessenheit`→相宜、`assertorisch/problematisch/apodiktisch`→
+> 断言的/有问题的/断言式的、`singuläres/partikuläres/unendliches/identisches Urteil`→
+> 单称/特称/无限/同一判断、`Reflexionsprädikat`→反思谓词、`Folge`→后果、`Größe`→量、
+> `Figur`→格、`Satz`→命题 等）。w4/5 起的关系范畴（`Ursache`→原因、`Substanz`→实体、
+> `Akzidenz`→偶性）可直接沿用。
+> 两条已登记例外：`Wesen` 实体义作「存在者」（上下文包条例外含单数 `endliches Wesen`）；
+> `Erde` 天文类比义作「地球」（地质学义仍是「大地」）。
+
+> **全套验收全绿**：trans-index ALIGNMENT OK、check-policy exit 0、validate/integrity/
+> verify-coverage/audit-sentences 全 exit 0；w4/4 浏览器实测 **pairs=287**（286 译块＋1 个 fn 块）、
+> **369 句三语全渲染**、missing/mismatch/空中文/JS 错误全 0；固定 8 页回归 8/8。
+> qa-trans critical 0；w4/4 余 5 条全部已裁定（#43 英译长度比良性、#71 `Figur` 日常义
+> 「形状」误报、#270 `Wesen` 实体义例外、#285 `Erde` 天文义例外）。
 
 **第 36 波刚完成**（2026-10-17）：w4/3「2. Dialektik der Kategorien des Wesens」**14 单元 / 235 块 / 354 句全分节 100%**，
 覆盖率 13.96% → **14.35%**。本节跨本质范畴辩证法 → 判断逻辑 → 意识诸阶段（感觉/知觉/自我意识/主人与奴隶/理性）。
@@ -204,9 +243,12 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 ### 下一步（按优先级）
 
 1. **继续第 4 卷**：`make-jobs --vol w4` 会自动接着 w4/4 往后（上下文包已在手，可直接开译）。
-   w4/4 是「[Neuer Ansatz] Logik」（第二种尝试·逻辑学），之后 w4/5「C. Schlüsse der Relation」、
-   w4/6「B. Ursache」（关系范畴的推论与原因），w4/7「Erster Abschnitt Rechtslehre」才是法权学说。
-   注意 `Ursache`→原因、`Substanz`→实体、`Akzidenz`→偶性、`Gesetz`→规律 的区分。
+   **w4/4 已完成**；下一节 w4/5「C. Schlüsse der Relation」（关系范畴的推论）、
+   w4/6「B. Ursache」（原因），w4/7「Erster Abschnitt Rechtslehre」才是法权学说。
+   注意 `Ursache`→原因、`Substanz`→实体、`Akzidenz`→偶性、`Gesetz`→规律 的区分；
+   推论节术语（中项/极端/前提/单称·特称判断等）已在 context-w4 条目 199 条内。
+   另注意：**子代理若再报配额类错误（2067 或 monthly quota），不要立即重派**——
+   先判因，额度不恢复的（monthly quota）直接改由主代理译，参照第 37 波 251/264 的做法。
 2. **未审校章节**：w1（22 节）、w2（15 节）整卷尚未逐章审校——它们译于词族政策之前，
    可用 `make-review-jobs` 分批补审；也可用 `apply-families.mjs` 先做一次词族归一。
    w3/13–w3/15（宗教章与绝对知识章）也尚未逐章审校。

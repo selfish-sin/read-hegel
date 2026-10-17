@@ -1,0 +1,141 @@
+{
+ "id": "w4-4-264",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "B. Schlüsse der Quantität oder Reflexion",
+ "blocks": [
+  {
+   "bi": 264,
+   "k": "p",
+   "hash": "cwjf03z86t",
+   "sents": [
+    "§ 43"
+   ]
+  },
+  {
+   "bi": 265,
+   "k": "p",
+   "hash": "arhz0p7wd9",
+   "sents": [
+    "Der Form nach sind die beiden Prämissen unmittelbare Beziehungen.",
+    "Die Form des Schlusses enthält aber die Forderung, daß sie gleichfalls vermittelt oder, nach dem gewöhnlichen Ausdruck, daß die Prämissen bewiesen werden sollen. - Aber der Beweis durch diese Form des Schlusses würde nur eine Wiederholung der nämlichen Form sein, bei der auch dieselbe Forderung ins Unendliche hin sich wiederholte."
+   ]
+  },
+  {
+   "bi": 266,
+   "k": "p",
+   "hash": "eahfgy1x3l",
+   "sents": [
+    "§ 44"
+   ]
+  },
+  {
+   "bi": 267,
+   "k": "p",
+   "hash": "10xvy10mf1",
+   "sents": [
+    "Die Vermittlung, und zwar der Besonderheit und Allgemeinheit, muß also durch das Moment der Einzelheit geschehen.",
+    "Dies gibt die zweite Form des Schlusses: A - E - B. Dieser Schluß ist fürs erste nur insofern richtig, als A - E ein gültiges Urteil ist.",
+    "Daß dies der Fall sei, muß A partikulär sein.",
+    "Auf diese Weise ist nicht eigentlich das Einzelne die Mitte.",
+    "Der Schluß ist auf die Form des ersten zurückgebracht, aber der Schlußsatz partikulär.",
+    "(Manche Logiker sagen, daß es nicht nötig sei, die andere Figur auf die erste zurückzubringen, indem in ihr geschlossen werden könne, in der Tat aber kraft dieser Form.) - Fürs andere aber hat dieser Schluß überhaupt die Bedeutung, daß unmittelbare Bestimmungen oder Qualitäten durch die Einzelheit und insofern zufällig zusammengeschlossen sind."
+   ]
+  },
+  {
+   "bi": 268,
+   "k": "p",
+   "hash": "ekh15xisr2",
+   "sents": [
+    "§ 45"
+   ]
+  },
+  {
+   "bi": 269,
+   "k": "p",
+   "hash": "1bkontj1k7",
+   "sents": [
+    "Das Einzelne mit dem Besonderen durch das Allgemeine zusammengeschlossen, gibt die dritte Form des Schlusses: B - A - E. Das Allgemeine ist hier die vermittelnde Bestimmung und in den beiden Prämissen Prädikat.",
+    "Aber so wie daraus, daß zwei Bestimmungen demselben Einzelnen inhärieren, nicht folgt, daß sie dasselbe sind, so auch folgt daraus, daß zwei Bestimmungen unter dasselbe Allgemeine subsumiert sind, nicht, daß sie als Subjekt und Prädikat verbunden werden können.",
+    "Nur insofern der Obersatz negativ ist und also umgekehrt werden kann, läßt sich dieser Schluß auf den ersten zurückführen und hat damit die richtige Form."
+   ]
+  },
+  {
+   "bi": 270,
+   "k": "p",
+   "hash": "1stmby11qu",
+   "sents": [
+    "(Kein endliches Wesen ist heilig.",
+    "Gott ist kein endliches Wesen.",
+    "Also ist Gott heilig.)"
+   ]
+  },
+  {
+   "bi": 271,
+   "k": "p",
+   "hash": "dqi8301go5",
+   "sents": [
+    "§ 46"
+   ]
+  },
+  {
+   "bi": 272,
+   "k": "p",
+   "hash": "1kj7leya3v",
+   "sents": [
+    "Die objektive Bedeutung dieses Schlusses ist, daß die Vereinigung der Besonderheit mit der Einzelheit ihren Grund nur in der identischen Natur beider hat."
+   ]
+  },
+  {
+   "bi": 273,
+   "k": "p",
+   "hash": "e0htrzfigp",
+   "sents": [
+    "§ 47"
+   ]
+  },
+  {
+   "bi": 274,
+   "k": "p",
+   "hash": "1nraork1o4",
+   "sents": [
+    "In der Reihe dieser Schlüsse hat jede der drei Bestimmungen erstens die Mitte ausgemacht.",
+    "Die Zurückführung der zweiten und dritten Schlußform ist das Aufheben des Qualitativen.",
+    "Zweitens ist wohl jede unmittelbare Beziehung des ersten Schlusses durch die folgenden vermittelt worden, aber jeder von diesen setzt den vorhergehenden, d. h. die vermittelte Einheit [setzt] die unmittelbare Gleichheit voraus."
+   ]
+  },
+  {
+   "bi": 275,
+   "k": "h",
+   "hash": "1u7eycj1s0",
+   "text": "B. Schlüsse der Quantität oder Reflexion"
+  },
+  {
+   "bi": 276,
+   "k": "p",
+   "hash": "fefu8u1ddv",
+   "sents": [
+    "§ 48"
+   ]
+  },
+  {
+   "bi": 277,
+   "k": "p",
+   "hash": "3630w1n2s2",
+   "sents": [
+    "Der unmittelbar qualitätslose Schluß ist der mathematische.",
+    "Die Mitte ist darin nur ein solches, das zwei Anderen gleich ist.",
+    "Als Satz ausgedrückt heißt er: Wenn zwei Größen einer dritten gleich sind, so sind sie unter sich gleich."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p264.json"
+}

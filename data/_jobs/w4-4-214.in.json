@@ -1,0 +1,160 @@
+{
+ "id": "w4-4-214",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "B. Quantität der Urteile oder Urteile der Reflexion",
+ "blocks": [
+  {
+   "bi": 214,
+   "k": "p",
+   "hash": "cvqgx411xf",
+   "sents": [
+    "Im identischen und unendlichen Urteil ist das Verhältnis von Subjekt und Prädikat aufgehoben.",
+    "Dies ist zunächst als diejenige Seite des Urteils zu nehmen, nach welcher Subjekt und Prädikat mit Abstraktion von ihrem Unterschied durch die Kopula, als in einer Beziehung der Gleichheit stehend, betrachtet werden können.",
+    "In dieser Rücksicht kann das positive Urteil umgekehrt werden, insofern das Prädikat nur in der Bedeutung des mit dem Subjekt identischen Umfanges genommen wird."
+   ]
+  },
+  {
+   "bi": 215,
+   "k": "p",
+   "hash": "clyopi1g1h",
+   "sents": [
+    "§ 22"
+   ]
+  },
+  {
+   "bi": 216,
+   "k": "p",
+   "hash": "14doq3f3y4",
+   "sents": [
+    "Das negative Urteil enthält die Trennung einer Bestimmtheit und eines Subjekts so, daß jedoch das Subjekt auf die allgemeine, nicht ausgedrückte Sphäre der Bestimmtheit positiv bezogen ist.",
+    "Indem das negierte Prädikat zum Subjekt gemacht wird, fällt von selbst jene allgemeine Sphäre hinweg, und es ist nur überhaupt die Ungleichheit zweier Bestimmungen vorhanden, von welchen es insofern gleichgültig ist, welche zum Subjekt oder welche zum Prädikat gemacht wird.",
+    "Das negative Urteil kann daher, so wie ohnehin auch das identische, umgekehrt werden."
+   ]
+  },
+  {
+   "bi": 217,
+   "k": "h",
+   "hash": "1du7edbwgy",
+   "text": "B. Quantität der Urteile oder Urteile der Reflexion"
+  },
+  {
+   "bi": 218,
+   "k": "p",
+   "hash": "cvyaehlgd1",
+   "sents": [
+    "§ 23"
+   ]
+  },
+  {
+   "bi": 219,
+   "k": "p",
+   "hash": "16dr60c171",
+   "sents": [
+    "Bei der Umkehrung der Urteile wird von dem Unterschiede des Subjekts und Prädikats abstrahiert.",
+    "Dieser Unterschied ist aber, nachdem er nun als qualitativ aufgehoben, quantitativ zu nehmen."
+   ]
+  },
+  {
+   "bi": 220,
+   "k": "p",
+   "hash": "d5xw3g1jbr",
+   "sents": [
+    "§ 24"
+   ]
+  },
+  {
+   "bi": 221,
+   "k": "p",
+   "hash": "kk084s8f8v",
+   "sents": [
+    "Indem sich die einzelnen Bestimmtheiten, die das Prädikat enthielten, aufheben, hat dasselbe die mannigfaltigen Bestimmungen des Subjekts zusammenfassend zu enthalten.",
+    "Hierdurch hört die Allgemeinheit auf, eine bloße Gemeinschaftlichkeit mit anderen zu sein.",
+    "Sie ist die eigene Allgemeinheit des Subjekts, welche somit dies zugleich enthält, daß das Subjekt in seinem Prädikat in sich selbst zurückgekehrt ist."
+   ]
+  },
+  {
+   "bi": 222,
+   "k": "p",
+   "hash": "dfxhsf1xhg",
+   "sents": [
+    "§ 25"
+   ]
+  },
+  {
+   "bi": 223,
+   "k": "p",
+   "hash": "1dh3eq07hk",
+   "sents": [
+    "Ein solches Urteil ist somit ein Urteil der Reflexion, indem Reflektieren überhaupt das Fortgehen zu mehreren Bestimmungen eines Gegenstandes und das dadurch zustande kommende Zusammenfassen derselben in einer Einheit ist."
+   ]
+  },
+  {
+   "bi": 224,
+   "k": "p",
+   "hash": "dpx3hewbrf",
+   "sents": [
+    "§ 26"
+   ]
+  },
+  {
+   "bi": 225,
+   "k": "p",
+   "hash": "14v6vq81u3",
+   "sents": [
+    "Insofern sich am Subjekt seine Gleichheit mit dem Prädikat darstellt, ist dasselbe ein Allgemeines, das durch Einschränkung zunächst auf die Einzelheit Subjekt ist.",
+    "Das qualitative Urteil ist also 1. ein singuläres, welches zur Bestimmung des Subjektes die vollkommene Einzelheit hat, ein dieses Allgemeine ist."
+   ]
+  },
+  {
+   "bi": 226,
+   "k": "p",
+   "hash": "dzwp6d1qmx",
+   "sents": [
+    "§ 27"
+   ]
+  },
+  {
+   "bi": 227,
+   "k": "p",
+   "hash": "1d8sgmxucg",
+   "sents": [
+    "Ein Dieses aber ist unendlich vielfach bestimmt, d. h. unbestimmt bestimmbar.",
+    "Das Reflexionsprädikat, da es ein Zusammenfassen ist, drückt nicht nur die allgemeine Bestimmung aus von einem Diesen, sondern auch von anderen Diesen; oder das singuläre Urteil geht in das partikuläre über."
+   ]
+  },
+  {
+   "bi": 228,
+   "k": "p",
+   "hash": "e9wavczm1s",
+   "sents": [
+    "§ 28"
+   ]
+  },
+  {
+   "bi": 229,
+   "k": "p",
+   "hash": "p8qsxt13cb",
+   "sents": [
+    "Das partikuläre Urteil, in welchem das Subjekt als Einiges bestimmt ist, ist ein nur bestimmtes Urteil, das unmittelbar ebensosehr positiv als negativ ausgesagt werden kann."
+   ]
+  },
+  {
+   "bi": 230,
+   "k": "p",
+   "hash": "ejvwkb50xa",
+   "sents": [
+    "§ 29"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p214.json"
+}

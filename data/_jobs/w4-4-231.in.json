@@ -1,0 +1,180 @@
+{
+ "id": "w4-4-231",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "C. Relation der Urteile oder Urteile der Notwendigkeit",
+ "blocks": [
+  {
+   "bi": 231,
+   "k": "p",
+   "hash": "us4yo4ekuo",
+   "sents": [
+    "Das Subjekt erhält seine vollkommene Bestimmung dem Umfang der Form nach durch die Allheit in dem universellen Urteil.",
+    "Indem die Allheit an die Stelle der Partikularität tritt und zugleich den Umfang von dieser hat, so muß der Umfang des Inhalts des Subjektes danach beschränkt werden."
+   ]
+  },
+  {
+   "bi": 232,
+   "k": "p",
+   "hash": "dq08zd1svd",
+   "sents": [
+    "§ 30"
+   ]
+  },
+  {
+   "bi": 233,
+   "k": "p",
+   "hash": "9on1yd1gfy",
+   "sents": [
+    "Das Subjekt wird hierdurch teils ein besonderes gegen sein Prädikat, teils tritt damit eine Beziehung der Notwendigkeit von Subjekt und Prädikat ein."
+   ]
+  },
+  {
+   "bi": 234,
+   "k": "h",
+   "hash": "p4m4y4xytf",
+   "text": "C. Relation der Urteile oder Urteile der Notwendigkeit"
+  },
+  {
+   "bi": 235,
+   "k": "p",
+   "hash": "dg0nae11kj",
+   "sents": [
+    "§ 31"
+   ]
+  },
+  {
+   "bi": 236,
+   "k": "p",
+   "hash": "1gn86f22w0",
+   "sents": [
+    "Durch das Aufheben der qualitativen und quantitativen Bestimmung ist die Einheit des Inhalts von Subjekt und Prädikat gesetzt, welche nur durch die Form unterschieden sind, so daß derselbe Gegenstand das eine Mal nur in der Bestimmung des Subjekts, das andere Mal in der Bestimmung des Prädikats gesetzt ist."
+   ]
+  },
+  {
+   "bi": 237,
+   "k": "p",
+   "hash": "d611lf3p4a",
+   "sents": [
+    "§ 32"
+   ]
+  },
+  {
+   "bi": 238,
+   "k": "p",
+   "hash": "130fk0l1v5",
+   "sents": [
+    "Indem das Subjekt ein besonderes gegen sein Prädikat ist, so ist umgekehrt gegen das qualitative Urteil nunmehr das Subjekt eine Bestimmtheit des Prädikats und unmittelbar unter dasselbe subsumiert.",
+    "Die Allgemeinheit des Prädikats drückt also nicht bloß ein Zusammenfassen der Bestimmtheiten des Subjektes wie das Reflexionsprädikat, sondern die allgemeine innere Natur des Subjekts aus; kategorisches Urteil."
+   ]
+  },
+  {
+   "bi": 239,
+   "k": "p",
+   "hash": "7bqcmoiwoa",
+   "sents": [
+    "(Der Körper ist schwer.",
+    "Gold ist Metall.",
+    "Der Geist ist vernünftig.)"
+   ]
+  },
+  {
+   "bi": 240,
+   "k": "p",
+   "hash": "cw1fwgya8s",
+   "sents": [
+    "§ 33"
+   ]
+  },
+  {
+   "bi": 241,
+   "k": "p",
+   "hash": "17uecra175",
+   "sents": [
+    "Insofern Subjekt und Prädikat auch unterschieden sind, muß ihre Einheit auch als Einheit Entgegengesetzter, d. h. als notwendige Beziehung ausgedrückt werden; hypothetisches Urteil."
+   ]
+  },
+  {
+   "bi": 242,
+   "k": "p",
+   "hash": "etynr9etxm",
+   "sents": [
+    "§ 34"
+   ]
+  },
+  {
+   "bi": 243,
+   "k": "p",
+   "hash": "1df86ji1m5",
+   "sents": [
+    "Die Identität des Inhaltes, die im kategorischen Urteil stattfindet, und die Beziehung Entgegengesetzter oder Anderer im hypothetischen Urteil ist im disjunktiven Urteil vereinigt, worin das Subjekt eine allgemeine Sphäre ist oder in Rücksicht einer solchen betrachtet wird, welche gleichfalls das Prädikat ausmacht und deren Besonderung oder verschiedene Bestimmungen dieses ausdrückt.",
+    "Von diesen kommt dem Allgemeinen sowohl die eine als die andere zu.",
+    "Nach ihrer Besonderung und in Rücksicht auf das Subjekt aber schließen sie sich gegenseitig aus."
+   ]
+  },
+  {
+   "bi": 244,
+   "k": "h",
+   "hash": "rvn9mcl885",
+   "text": "D. Modalität der Urteile oder Urteile der Beziehung des Begriffs auf das Dasein"
+  },
+  {
+   "bi": 245,
+   "k": "p",
+   "hash": "ejz22a1853",
+   "sents": [
+    "§ 35"
+   ]
+  },
+  {
+   "bi": 246,
+   "k": "p",
+   "hash": "kf6gzdxnwp",
+   "sents": [
+    "Im disjunktiven Urteil ist ein Dasein in den vollständigen Momenten des Begriffs gesetzt.",
+    "Modalität der Urteile besteht nun darin, daß ein Daseiendes auf seinen Begriff als solchen bezogen ist und das Prädikat die Angemessenheit oder Unangemessenheit beider ausspricht."
+   ]
+  },
+  {
+   "bi": 247,
+   "k": "p",
+   "hash": "e9zgdba9oz",
+   "sents": [
+    "§ 36"
+   ]
+  },
+  {
+   "bi": 248,
+   "k": "p",
+   "hash": "1soowtp1y9",
+   "sents": [
+    "Das erste Urteil der Modalität ist das assertorische, welches insofern eine bloße Versicherung enthält, als die Beschaffenheit des Subjekts, die mit dem Begriff verglichen werden soll, und der Begriff selbst noch nicht ausgedrückt ist, somit jenes Urteil nur erst eine subjektive Bewährung hat."
+   ]
+  },
+  {
+   "bi": 249,
+   "k": "p",
+   "hash": "1sqelasix7",
+   "sents": [
+    "(Diese Handlung ist schlecht; diese Rede ist wahr.)"
+   ]
+  },
+  {
+   "bi": 250,
+   "k": "p",
+   "hash": "dzzuoc14ut",
+   "sents": [
+    "§ 37"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p231.json"
+}

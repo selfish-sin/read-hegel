@@ -1,0 +1,221 @@
+{
+ "id": "w4-4-110",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "II. Urteile der Quantität oder der Reflexion",
+ "blocks": [
+  {
+   "bi": 110,
+   "k": "p",
+   "hash": "1uhou8xu0f",
+   "sents": [
+    "Das unendliche Urteil schließt den weiteren Sinn in sich, daß das, was ein Subjekt ist, nicht erschöpft ist in einem Prädikat, welches eine Qualität desselben ausdrückt, weder insofern diese Qualität eine nächste Bestimmtheit ausdrückt, noch weniger insofern sie eine weitere Bestimmtheit, die der allgemeinen Sphäre, enthält."
+   ]
+  },
+  {
+   "bi": 111,
+   "k": "h",
+   "hash": "1ikelhp141",
+   "text": "II. Urteile der Quantität oder der Reflexion"
+  },
+  {
+   "bi": 112,
+   "k": "p",
+   "hash": "229ylbzd69",
+   "sents": [
+    "§ [52]"
+   ]
+  },
+  {
+   "bi": 113,
+   "k": "p",
+   "hash": "e13q79zff7",
+   "sents": [
+    "Reflektieren heißt, über etwas Unmittelbares hinaus und zu anderem fortgehen und die sich ergebende Mannigfaltigkeit in eine Einheit zusammenfassen."
+   ]
+  },
+  {
+   "bi": 114,
+   "k": "p",
+   "hash": "kxm39e1pyq",
+   "sents": [
+    "§ [53]"
+   ]
+  },
+  {
+   "bi": 115,
+   "k": "p",
+   "hash": "15r95ifhcn",
+   "sents": [
+    "Eine Reflexionsbestimmung enthält also teils eine Vergleichung [eines Gegenstandes] mit anderen und die Seite, nach welcher er in seinen Qualitäten denselben gleich ist oder sich davon unterscheidet, teils ein Zusammenfassen seiner eigenen Bestimmungen, welche jedoch nur eine äußerliche Allgemeinheit und Gemeinschaftlichkeit oder auch bloße Vollständigkeit ausdrückt."
+   ]
+  },
+  {
+   "bi": 116,
+   "k": "p",
+   "hash": "36thytuohn",
+   "sents": [
+    "§ [54]"
+   ]
+  },
+  {
+   "bi": 117,
+   "k": "p",
+   "hash": "177z9bl1rs",
+   "sents": [
+    "Das individuelle Urteil drückt von einem Subjekt ein solches Prädikat aus, welches nur demselben zukommt und wodurch es sich von allen anderen unterscheidet; das Subjekt ist insofern gleichfalls ein einzelnes."
+   ]
+  },
+  {
+   "bi": 118,
+   "k": "p",
+   "hash": "1udrdxtigs",
+   "sents": [
+    "Klassifikation der Naturwesen, nach Zahlenunterschieden, äußerliches Unterscheidungszeichen."
+   ]
+  },
+  {
+   "bi": 119,
+   "k": "p",
+   "hash": "22y8ow10b4",
+   "sents": [
+    "§ [55]"
+   ]
+  },
+  {
+   "bi": 120,
+   "k": "p",
+   "hash": "1q12tck189",
+   "sents": [
+    "Ein individuelles Urteil kann in weiterem Sinne auch ein solches genannt werden, wenn dessen Subjekt ein einzelnes ist, obschon von ihm ein allgemeines Prädikat ausgesagt wird, das aber wenigstens dazu dient, es von anderen, die in Rücksicht kommen, zu unterscheiden."
+   ]
+  },
+  {
+   "bi": 121,
+   "k": "p",
+   "hash": "jtzcl750v6",
+   "sents": [
+    "§ [56]"
+   ]
+  },
+  {
+   "bi": 122,
+   "k": "p",
+   "hash": "1whnb58hv3",
+   "sents": [
+    "Ein partikuläres Urteil hat zum Subjekt einige Einzelne."
+   ]
+  },
+  {
+   "bi": 123,
+   "k": "p",
+   "hash": "1ouyntu1p6",
+   "sents": [
+    "Im universellen Urteil ist das Subjekt ein Zusammenfassen aller Einzelnen einer Art; dieses Zusammenfassen ist die Allheit, oder die Allgemeinheit der Reflexion, [und] das Prädikat, das einem solchen Subjekt zukommt, ist gleichfalls das Allgemeine dieser Einzelnen, nämlich als das Gemeinschaftliche derselben."
+   ]
+  },
+  {
+   "bi": 124,
+   "k": "h",
+   "hash": "10wf3621gm",
+   "text": "III. Urteile der Relation oder der Notwendigkeit"
+  },
+  {
+   "bi": 125,
+   "k": "p",
+   "hash": "ky0wv21wjg",
+   "sents": [
+    "§ [57]"
+   ]
+  },
+  {
+   "bi": 126,
+   "k": "p",
+   "hash": "1nuhkk1141",
+   "sents": [
+    "Subjekt und Prädikat [gehören hier] notwendig zusammen durch ihren Inhalt."
+   ]
+  },
+  {
+   "bi": 127,
+   "k": "p",
+   "hash": "kwxt5tc6jf",
+   "sents": [
+    "§ [58]"
+   ]
+  },
+  {
+   "bi": 128,
+   "k": "p",
+   "hash": "1x4pvd71hf",
+   "sents": [
+    "Kategorisches Urteil.",
+    "Das Prädikat drückt die Natur oder das wahrhaft Allgemeine des Subjekts aus, und beide haben denselben wesentlichen Inhalt (und das Subjekt ist nur eine Besonderheit des Prädikats).",
+    "Die weitere Bestimmung, die das Subjekt außer dem, was ein solches Prädikat enthält, noch hat, sind unwesentliche Eigenschaften oder nur Einschränkungen desselben."
+   ]
+  },
+  {
+   "bi": 129,
+   "k": "p",
+   "hash": "jt2jvw5yt7",
+   "sents": [
+    "§ [59]"
+   ]
+  },
+  {
+   "bi": 130,
+   "k": "p",
+   "hash": "1d9ny0zmz4",
+   "sents": [
+    "Im hypothetischen Urteile liegt die Notwendigkeit nicht in der Gleichheit des Inhalts, sondern dieser ist vielmehr verschieden, und es wird in diesem Urteile nur dies ausgesprochen, daß zwei Bestimmungen, als Grund und Folge, in einem notwendigen Zusammenhange stehen."
+   ]
+  },
+  {
+   "bi": 131,
+   "k": "p",
+   "hash": "1oq68agyv2",
+   "sents": [
+    "§ [60]"
+   ]
+  },
+  {
+   "bi": 132,
+   "k": "p",
+   "hash": "5crkwkb3vk",
+   "sents": [
+    "Im disjunktiven Urteil wird das Subjekt als allgemeine Sphäre betrachtet, welches insofern verschiedene Bestimmungen haben könne, aber, weil diese sich gegenseitig ausschließen, notwendig nur eine derselben mit Ausschließung der übrigen haben müsse."
+   ]
+  },
+  {
+   "bi": 133,
+   "k": "h",
+   "hash": "szqu8st9iz",
+   "text": "IV. Modalität"
+  },
+  {
+   "bi": 134,
+   "k": "p",
+   "hash": "1pu1hkd16d",
+   "sents": [
+    "§ [61]"
+   ]
+  },
+  {
+   "bi": 135,
+   "k": "p",
+   "hash": "5fzlhdbcsy",
+   "sents": [
+    "Urteile nach ihrer Modalität [betrachten heißt prüfen, ob das] Prädikat [die] Angemessenheit des Begriffs und Dasein[s] des Subjekts [ausdrückt]."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p110.json"
+}

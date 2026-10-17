@@ -1,0 +1,195 @@
+{
+ "id": "w4-4-136",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "III. Schluß",
+ "blocks": [
+  {
+   "bi": 136,
+   "k": "p",
+   "hash": "182nro62mq",
+   "sents": [
+    "§ [62]"
+   ]
+  },
+  {
+   "bi": 137,
+   "k": "p",
+   "hash": "10ats7s18o",
+   "sents": [
+    "Assertorische [Urteile].",
+    "Beschaffenheit des Subjekts noch nicht entwickelt."
+   ]
+  },
+  {
+   "bi": 138,
+   "k": "p",
+   "hash": "1opwrsj1w1",
+   "sents": [
+    "§ [63]"
+   ]
+  },
+  {
+   "bi": 139,
+   "k": "p",
+   "hash": "fxap4n1ens",
+   "sents": [
+    "Gegen die bloße unentwickelte44) Versicherung des assertorischen Urteils kann mit demselben formellen Rechte die entgegengesetzte Versicherung behauptet werden.",
+    "Insofern dadurch nur die Möglichkeit vorhanden ist, daß dem Subjekt das eine oder das entgegengesetzte Prädikat zukomme, so ist das Urteil problematisch."
+   ]
+  },
+  {
+   "bi": 140,
+   "k": "p",
+   "hash": "1optmaknjq",
+   "sents": [
+    "§ [64]"
+   ]
+  },
+  {
+   "bi": 141,
+   "k": "p",
+   "hash": "1wbeyq81up",
+   "sents": [
+    "Das Subjekt45) ist daher mit einer Bestimmung zu setzen, welche seine Beschaffenheit ausdrückt, worin die Angemessenheit oder Nichtangemessenheit des Daseins mit dem Begriffe liegt.",
+    "Dieses Modalitätsurteil ist apodiktisch."
+   ]
+  },
+  {
+   "bi": 142,
+   "k": "h",
+   "hash": "c109u19rt8",
+   "text": "III. Schluß"
+  },
+  {
+   "bi": 143,
+   "k": "p",
+   "hash": "182eb691qd",
+   "sents": [
+    "§ [65]"
+   ]
+  },
+  {
+   "bi": 144,
+   "k": "p",
+   "hash": "7u0fm8m98h",
+   "sents": [
+    "Im Urteil werden zwei Momente des Begriffes unmittelbar aufeinander bezogen; der Schluß enthält ihre Vermittlung oder ihren Grund; es sind darin zwei Bestimmungen zusammengeschlossen durch eine dritte, die ihre Einheit ist."
+   ]
+  },
+  {
+   "bi": 145,
+   "k": "p",
+   "hash": "1dsis8j12l",
+   "sents": [
+    "§ [66]46)"
+   ]
+  },
+  {
+   "bi": 146,
+   "k": "p",
+   "hash": "116gjrfkzg",
+   "sents": [
+    "Die beiden zusammengeschlossenen Bestimmungen sind die Extreme, termini extremi; die sie verbindende Bestimmung ist ihre Mitte, terminus medius."
+   ]
+  },
+  {
+   "bi": 147,
+   "k": "p",
+   "hash": "1ophy6vmls",
+   "sents": [
+    "§ [67]"
+   ]
+  },
+  {
+   "bi": 148,
+   "k": "p",
+   "hash": "1n06zaz1js",
+   "sents": [
+    "Die beiden Extreme verhalten sich wie Einzelheit und Allgemeinheit zueinander, die Mitte als Besonderheit."
+   ]
+  },
+  {
+   "bi": 149,
+   "k": "p",
+   "hash": "16zpb3k1mm",
+   "sents": [
+    "§ [68]"
+   ]
+  },
+  {
+   "bi": 150,
+   "k": "p",
+   "hash": "xnq75i1net",
+   "sents": [
+    "Die Mitte verhält sich als subsumierend gegen die Einzelheit, als subsumiert gegen die Allgemeinheit."
+   ]
+  },
+  {
+   "bi": 151,
+   "k": "p",
+   "hash": "1pusx5xw13",
+   "sents": [
+    "§ [69]"
+   ]
+  },
+  {
+   "bi": 152,
+   "k": "p",
+   "hash": "135o93khju",
+   "sents": [
+    "Indem das Allgemeine das Besondere, das Besondere aber das Einzelne unter sich subsumiert, so subsumiert auch das Allgemeine das Einzelne unter sich, und jenes ist Prädikat von diesem.",
+    "Oder umgekehrt indem das Einzelne die Bestimmung des Besonderen, das Besondere aber die Bestimmtheit des Allgemeinen in sich enthält, so enthält das Einzelne auch das Allgemeine in sich."
+   ]
+  },
+  {
+   "bi": 153,
+   "k": "p",
+   "hash": "ulhkmbt4dq",
+   "sents": [
+    "§ [70]"
+   ]
+  },
+  {
+   "bi": 154,
+   "k": "p",
+   "hash": "9a1dbs1ts9",
+   "sents": [
+    "Die Beziehungen der beiden Extreme auf die Mitte sind unmittelbar; diese Beziehungen als Sätze oder Urteile ausgedrückt heißen die Prämissen des Schlusses, und zwar diejenige, welche das Extrem der Allgemeinheit (terminus maior) enthält, die propositio maior, die, welche das Extrem der Einzelheit enthält, die [propositio] minor."
+   ]
+  },
+  {
+   "bi": 155,
+   "k": "p",
+   "hash": "vpj4w6lluz",
+   "sents": [
+    "§ [71]"
+   ]
+  },
+  {
+   "bi": 156,
+   "k": "p",
+   "hash": "1d9u15bjpu",
+   "sents": [
+    "Die Beziehung der beiden Extreme aufeinander ist die vermittelte und heißt der Schlußsatz, conclusio."
+   ]
+  },
+  {
+   "bi": 157,
+   "k": "p",
+   "hash": "dydxlp1is0",
+   "sents": [
+    "§ [72]"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p136.json"
+}

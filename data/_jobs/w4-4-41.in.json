@@ -1,0 +1,189 @@
+{
+ "id": "w4-4-41",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 4,
+ "chunkTitle": "[Neuer Ansatz] Logik",
+ "heading": "[Neuer Ansatz] Logik",
+ "blocks": [
+  {
+   "bi": 41,
+   "k": "p",
+   "hash": "3fmvcl112o",
+   "sents": [
+    "Das Allgemeine ist weiter als [das] Besondere und Einzelne und das Besondere weiter als das Einzelne oder hat eine ausgedehntere Sphäre; dagegen das Besondere und Einzelne mehr Eigenschaften in sich befaßt als das Allgemeine und das Einzelne mehr als das Besondere.",
+    "Das Einzelne oder Konkrete ist reicher an Mannigfaltigkeit der Bestimmtheiten als das Besondere und Allgemeine; dagegen das Allgemeine mehr unter sich enthält als das Besondere und Einzelne und das Besondere mehr als das Einzelne."
+   ]
+  },
+  {
+   "bi": 42,
+   "k": "p",
+   "hash": "aza16s8jwe",
+   "sents": [
+    "§ [20]"
+   ]
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "cmj5s213m4",
+   "sents": [
+    "Besondere Bestimmungen desselben Allgemeinen sowie die mannigfaltigen Bestimmtheiten des Einzelnen sind einander koordiniert.",
+    "Die koordinierten Bestimmungen des Allgemeinen sind einander kontradiktorisch entgegengesetzt, insofern die [eine] nur als das Negative der anderen genommen wird; insofern die andere aber außerdem noch etwas Positives ist, sind sie einander konträr entgegengesetzt."
+   ]
+  },
+  {
+   "bi": 44,
+   "k": "p",
+   "hash": "1tcys1lg2f",
+   "sents": [
+    "§ [21]"
+   ]
+  },
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "18cnvml115",
+   "sents": [
+    "Unter einer kontradiktorischen Bestimmung ist nicht bloß der Mangel irgendeiner Bestimmung verstanden.",
+    "Von den kontradiktorischen Bestimmungen erfordert ferner jede zu ihrem Begriffe die andere."
+   ]
+  },
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "1tcvmjm1gy",
+   "sents": [
+    "§ [22]"
+   ]
+  },
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "1wh3d2w1ev",
+   "sents": [
+    "Die konträren Bestimmungen sind dagegen gleichgültig gegeneinander, und jede erscheint als eine solche, der die andere nicht notwendig [ist] und die stattfände, wenn auch die andere nicht wäre."
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "ayyd337lyd",
+   "sents": [
+    "§ [23]"
+   ]
+  },
+  {
+   "bi": 49,
+   "k": "p",
+   "hash": "1fzqztdy15",
+   "sents": [
+    "Näher die allgemeinen Bestimmungen, welche den Inhalt des Begriffs betreffen, und in der Form von Gesetzen betrachtet, so ist a) die wesentliche Bestimmung eines Gegenstands überhaupt die Gleichheit mit sich selbst oder seine Identität."
+   ]
+  },
+  {
+   "bi": 50,
+   "k": "p",
+   "hash": "azmn6o1nl7",
+   "sents": [
+    "§ [24]"
+   ]
+  },
+  {
+   "bi": 51,
+   "k": "p",
+   "hash": "i2ot5d3y8b",
+   "sents": [
+    "Diese Bestimmung als Gesetz ausgedrückt heißt das Gesetz der Identität oder des Widerspruchs: Jedes Ding ist sich selbst gleich, oder A kann nicht zugleich Nicht-A sein."
+   ]
+  },
+  {
+   "bi": 52,
+   "k": "p",
+   "hash": "c3hwglrdrm",
+   "sents": [
+    "§ [25]"
+   ]
+  },
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "1uq7jqo86a",
+   "sents": [
+    "b) Die Verschiedenheit ist der Unterschied, insofern das Unterschiedene sich nicht durch sich selbst auf ein Anderes bezieht; die Verschiedenheit gegen ein Anderes fällt damit in ein drittes Vergleichendes, das die Gleichheit oder Ungleichheit der Dinge ausspricht."
+   ]
+  },
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "1td88ji1s9",
+   "sents": [
+    "§ [26]"
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "4c0bd4los8",
+   "sents": [
+    "Die Verschiedenheit als solche überhaupt ist die bloße Vielheit, so daß von den Vielen jedes nur Eines überhaupt, somit dasselbe ist, was die anderen, und hiermit eigentlich kein Unterschied gesetzt ist."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "1s96o9n1mn",
+   "sents": [
+    "§ [27]"
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "acg48p1qn7",
+   "sents": [
+    "Die Verschiedenheit ist daher erst in den Bestimmtheiten vorhanden, und durch diese sind die Dinge voneinander unterschieden.",
+    "Das Gesetz, das hieraus hergeleitet wird, heißt daher: es gibt nicht 2 Dinge, die einander vollkommen gleich sind, d. h. die nicht durch irgendeine Eigenschaft, Umstand oder sonstige Bestimmung voneinander unterschieden wären."
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "1s8c364iwe",
+   "sents": [
+    "§ [28]"
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "1bdvbuv1m4",
+   "sents": [
+    "c) In der Entgegensetzung ist die Verschiedenheit so, daß Eines nur ist, insofern es nicht das Andere ist, und zugleich nicht ist, als insofern das Andere ist oder in seinem Begriff unmittelbar dies sein Entgegengesetztes liegt."
+   ]
+  },
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "1tc7cg1qex",
+   "sents": [
+    "§ [29]"
+   ]
+  },
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "ledcj215jh",
+   "sents": [
+    "Die Entgegensetzung als Gesetz ausgesprochen: Von entgegengesetzten Bestimmungen kommt einem Dinge nur eine zu: A ist entweder B oder nicht B, und es gibt kein Drittes."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/4.p41.json"
+}

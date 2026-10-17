@@ -209,7 +209,7 @@
    "en": "essence",
    "zh": "本质",
    "type": "term",
-   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改"
+   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270）"
   },
   {
    "source": "Erscheinung",
@@ -1008,6 +1008,412 @@
    "zh": "存在",
    "type": "term",
    "note": "与 Dasein（定在）严格分开；物理语境“无差别存在”仍作“存在”"
+  },
+  {
+   "source": "Schlußsatz",
+   "en": "syllogistic conclusion",
+   "zh": "推论句",
+   "type": "term",
+   "note": "推论的结论句；与 Prämissen（前提）对举"
+  },
+  {
+   "source": "Prämisse",
+   "en": "premise",
+   "zh": "前提",
+   "type": "term",
+   "note": "推论中两个直接的关系（判断）；复数 Prämissen"
+  },
+  {
+   "source": "Obersatz",
+   "en": "major premise",
+   "zh": "大前提",
+   "type": "term",
+   "note": "与 Untersatz（小前提）对举；传统逻辑学术语"
+  },
+  {
+   "source": "Untersatz",
+   "en": "minor premise",
+   "zh": "小前提",
+   "type": "term",
+   "note": "与 Obersatz（大前提）对举"
+  },
+  {
+   "source": "Extrem",
+   "en": "extreme",
+   "zh": "极端",
+   "type": "term",
+   "note": "推论两端的规定；复数 Extreme；与 Mitte（中项）对举"
+  },
+  {
+   "source": "Mitte",
+   "en": "middle",
+   "zh": "中项",
+   "type": "term",
+   "note": "推论的中间规定（terminus medius）；与 Extreme（极端）对举"
+  },
+  {
+   "source": "Inhärenz",
+   "en": "inherence",
+   "zh": "固有",
+   "type": "term",
+   "note": "Urteile der Inhärenz＝固有的判断；动词 inhärieren→固有于"
+  },
+  {
+   "source": "inhärieren",
+   "en": "inhere",
+   "zh": "固有于",
+   "type": "term",
+   "note": "与 Inhärenz（固有）一致"
+  },
+  {
+   "source": "subsumieren",
+   "en": "subsume",
+   "zh": "归摄",
+   "type": "term",
+   "note": "中项对个别性为归摄方、对普遍性为被归摄方；共享词表 variante"
+  },
+  {
+   "source": "das Einzelne",
+   "en": "the individual",
+   "zh": "个别者",
+   "type": "term",
+   "note": "名词化用法；与 das Besondere（特殊者）、das Allgemeine（普遍者）成套；形容词义作 个别的"
+  },
+  {
+   "source": "das Besondere",
+   "en": "the particular",
+   "zh": "特殊者",
+   "type": "term",
+   "note": "名词化；与个别者／普遍者成套"
+  },
+  {
+   "source": "das Allgemeine",
+   "en": "the universal",
+   "zh": "普遍者",
+   "type": "term",
+   "note": "名词化；与个别者／特殊者成套"
+  },
+  {
+   "source": "Einzelheit",
+   "en": "individuality",
+   "zh": "个别性",
+   "type": "term",
+   "note": "与 Besonderheit（特殊性）、Allgemeinheit（普遍性）构成推论的三个环节"
+  },
+  {
+   "source": "Besonderheit",
+   "en": "particularity",
+   "zh": "特殊性",
+   "type": "term",
+   "note": "同上"
+  },
+  {
+   "source": "Allgemeinheit",
+   "en": "universality",
+   "zh": "普遍性",
+   "type": "term",
+   "note": "同上"
+  },
+  {
+   "source": "Partikularität",
+   "en": "particularity",
+   "zh": "特称性",
+   "type": "term",
+   "note": "特称判断的量；与 Partikularität 对举的普遍性侧"
+  },
+  {
+   "source": "Angemessenheit",
+   "en": "adequacy",
+   "zh": "相宜",
+   "type": "term",
+   "note": "Dasein 与 Begriff 的相宜；Unangemessenheit→不相宜；angemessen→相宜的"
+  },
+  {
+   "source": "Unangemessenheit",
+   "en": "inadequacy",
+   "zh": "不相宜",
+   "type": "term",
+   "note": "与 Angemessenheit（相宜）对举"
+  },
+  {
+   "source": "assertorisch",
+   "en": "assertive",
+   "zh": "断言的",
+   "type": "term",
+   "note": "断言式判断；与 problematisch（有问题的）、apodiktisch（断言式的）构成模态三分"
+  },
+  {
+   "source": "problematisch",
+   "en": "problematic",
+   "zh": "有问题的",
+   "type": "term",
+   "note": "或然的判断；模态三分之一"
+  },
+  {
+   "source": "apodiktisch",
+   "en": "apodictic",
+   "zh": "断言式的",
+   "type": "term",
+   "note": "必然的判断；模态三分之一"
+  },
+  {
+   "source": "singuläres Urteil",
+   "en": "singular judgment",
+   "zh": "单称判断",
+   "type": "term",
+   "note": "与 partikuläres（特称判断）、positives/negatives（肯定/否定判断）、unendliches（无限判断）、identisches（同一判断）成套"
+  },
+  {
+   "source": "partikuläres Urteil",
+   "en": "particular judgment",
+   "zh": "特称判断",
+   "type": "term",
+   "note": "同上"
+  },
+  {
+   "source": "unendliches Urteil",
+   "en": "infinite judgment",
+   "zh": "无限判断",
+   "type": "term",
+   "note": "同上"
+  },
+  {
+   "source": "identisches Urteil",
+   "en": "identical judgment",
+   "zh": "同一判断",
+   "type": "term",
+   "note": "同上"
+  },
+  {
+   "source": "qualitatives Urteil",
+   "en": "qualitative judgment",
+   "zh": "质的判断",
+   "type": "term",
+   "note": "与 quantitatives Urteil（量的判断）对举"
+  },
+  {
+   "source": "Reflexionsprädikat",
+   "en": "reflection-predicate",
+   "zh": "反思谓词",
+   "type": "term",
+   "note": "Reflexion＋Prädikat 合成；反思判断的谓词"
+  },
+  {
+   "source": "Urteile der Reflexion",
+   "en": "judgments of reflection",
+   "zh": "反思判断",
+   "type": "term",
+   "note": "量的判断节标题；Reflexion→反思"
+  },
+  {
+   "source": "Folge",
+   "en": "consequence",
+   "zh": "后果",
+   "type": "term",
+   "note": "Grund und Folge＝根据与后果；推论中「被推论出来的东西」具有后果的意义"
+  },
+  {
+   "source": "Erschlossenes",
+   "en": "what is inferred",
+   "zh": "被推论出来的东西",
+   "type": "term",
+   "note": "erschließen＝推论出来；与 Folge（后果）对举"
+  },
+  {
+   "source": "Entzweiung",
+   "en": "diremption",
+   "zh": "分裂",
+   "type": "term",
+   "note": "概念在极端中的自身分裂；共享词表 unsicher，此处从共享词表"
+  },
+  {
+   "source": "Darstellung",
+   "en": "presentation",
+   "zh": "表述",
+   "type": "term",
+   "note": "vollständige Darstellung des Begriffs＝概念的完整表述"
+  },
+  {
+   "source": "Versicherung",
+   "en": "assertion",
+   "zh": "断言",
+   "type": "term",
+   "note": "本卷逻辑语境＝「断言／肯定宣称」，与 p136 平行句一致；共享词表通用条「保证」（保证义）在本语境不适用"
+  },
+  {
+   "source": "willkürlich",
+   "en": "arbitrary",
+   "zh": "任意的",
+   "type": "term",
+   "note": "与 zufällig（偶然的）对举"
+  },
+  {
+   "source": "zufällig",
+   "en": "contingent",
+   "zh": "偶然的",
+   "type": "term",
+   "note": "与 willkürlich 对举"
+  },
+  {
+   "source": "Satz",
+   "en": "proposition",
+   "zh": "命题",
+   "type": "term",
+   "note": "逻辑术语；als Satz ausgedrückt＝作为命题表达出来；勿与 Schlußsatz 混"
+  },
+  {
+   "source": "Figur",
+   "en": "figure (of syllogism)",
+   "zh": "格",
+   "type": "term",
+   "note": "推理格（第一格／第二格／第三格）；共享词表通用条「图形」指几何图形，逻辑语境用「格」"
+  },
+  {
+   "source": "Größe",
+   "en": "magnitude",
+   "zh": "量",
+   "type": "term",
+   "note": "与 Quantum（量数）、Quantität（量）分层；zwei Größen＝两个量"
+  },
+  {
+   "source": "qualitätslos",
+   "en": "qualityless",
+   "zh": "无质的",
+   "type": "term",
+   "note": "der unmittelbar qualitätslose Schluß＝直接地无质的推论"
+  },
+  {
+   "source": "mathematisch",
+   "en": "mathematical",
+   "zh": "数学的",
+   "type": "term",
+   "note": "无质的推论即数学的推论"
+  },
+  {
+   "source": "Sphäre",
+   "en": "sphere",
+   "zh": "领域",
+   "type": "term",
+   "note": "allgemeine Sphäre＝一般领域；共享词表 variante"
+  },
+  {
+   "source": "Gleichheit",
+   "en": "equality",
+   "zh": "等同",
+   "type": "term",
+   "note": "共享词表 Gleichheit→等同（ok，按对偶需要）；w4/4 早期单元曾循卷内先例作「相等」，本波已拉平为词表译法"
+  },
+  {
+   "source": "Ungleichheit",
+   "en": "inequality",
+   "zh": "不等同",
+   "type": "term",
+   "note": "与 Gleichheit（等同）对举；共享词表 unsicher 条，取「不等同」"
+  },
+  {
+   "source": "Kopula",
+   "en": "copula",
+   "zh": "连系词",
+   "type": "term",
+   "note": "判断中联系主谓的词；共享词表 unsicher，卷内已统一"
+  },
+  {
+   "source": "Umkehrung",
+   "en": "reversal",
+   "zh": "颠倒",
+   "type": "term",
+   "note": "判断的颠倒；动词义 umkehren→颠倒过来"
+  },
+  {
+   "source": "Tugend",
+   "en": "virtue",
+   "zh": "美德",
+   "type": "term",
+   "note": "与 Laster（恶习）对举；Tapferkeit（勇敢）是一种美德"
+  },
+  {
+   "source": "Laster",
+   "en": "vice",
+   "zh": "恶习",
+   "type": "term",
+   "note": "与 Tugend（美德）对举；lasterhaft→有恶习的"
+  },
+  {
+   "source": "Tapferkeit",
+   "en": "courage",
+   "zh": "勇敢",
+   "type": "term",
+   "note": "tugendhaft→有美德的"
+  },
+  {
+   "source": "heilig",
+   "en": "holy",
+   "zh": "神圣的",
+   "type": "term",
+   "note": "神学语境例证（上帝／有限的存在者）"
+  },
+  {
+   "source": "gültig",
+   "en": "valid",
+   "zh": "有效的",
+   "type": "term",
+   "note": "ein gültiges Urteil＝一个有效的判断"
+  },
+  {
+   "source": "Forderung",
+   "en": "demand",
+   "zh": "要求",
+   "type": "term",
+   "note": "推论的形式包含着前提须被证明的要求"
+  },
+  {
+   "source": "Wiederholung",
+   "en": "repetition",
+   "zh": "重复",
+   "type": "term",
+   "note": "证明若以同一形式进行只会是重复"
+  },
+  {
+   "source": "objektiv",
+   "en": "objective",
+   "zh": "客观的",
+   "type": "term",
+   "note": "die objektive Bedeutung＝客观意义"
+  },
+  {
+   "source": "Bedeutung",
+   "en": "significance",
+   "zh": "意义",
+   "type": "term",
+   "note": "与 objektiv 连用"
+  },
+  {
+   "source": "Reihe",
+   "en": "series",
+   "zh": "系列",
+   "type": "term",
+   "note": "in der Reihe dieser Schlüsse＝在这一系列推论中"
+  },
+  {
+   "source": "Vereinigung",
+   "en": "union",
+   "zh": "结合",
+   "type": "term",
+   "note": "die Vereinigung der Besonderheit mit der Einzelheit＝特殊性与个别性的结合"
+  },
+  {
+   "source": "Natur",
+   "en": "nature",
+   "zh": "本性",
+   "type": "term",
+   "note": "identische Natur beider＝两者的同一本性"
+  },
+  {
+   "source": "Einiges",
+   "en": "some",
+   "zh": "某一些",
+   "type": "term",
+   "note": "特称判断的主语（若干个别者）；与 Einzelne 分层"
   }
  ],
  "forbidden": [
