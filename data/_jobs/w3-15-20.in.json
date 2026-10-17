@@ -1,0 +1,72 @@
+{
+ "id": "w3-15-20",
+ "volume": {
+  "id": "w3",
+  "bands": [
+   3
+  ],
+  "de": "Phänomenologie des Geistes",
+  "zh": "精神现象学"
+ },
+ "chunk": 15,
+ "chunkTitle": "(DD) Das absolute Wissen",
+ "heading": "Biographie",
+ "blocks": [
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "1l230r8ucx",
+   "sents": [
+    "Die Wissenschaft enthält in ihr selbst diese Notwendigkeit, der Form des reinen Begriffs sich zu entäußern, und den Obergang des Begriffs ins Bewußtsein.",
+    "Denn der sich selbst wissende Geist, eben darum, daß er seinen Begriff erfaßt, ist er die unmittelbare Gleichheit mit sich selbst, welche in ihrem Unterschiede die Gewißheit vom Unmittelbaren ist, oder das sinnliche Bewußtsein, – der Anfang, von dem wir ausgegangen; dieses Entlassen seiner aus der Form seines Selbsts ist die höchste Freiheit und Sicherheit seines Wissens von sich."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "okp2kwfcw5",
+   "sents": [
+    "Doch ist diese Entäußerung noch unvollkommen; sie drückt die Beziehung der Gewißheit seiner selbst auf den Gegenstand aus, der eben darin, daß er in der Beziehung ist, seine völlige Freiheit nicht gewonnen hat.",
+    "Das Wissen kennt nicht nur sich, sondern auch das Negative seiner selbst oder seine Grenze.",
+    "Seine Grenze wissen heißt, sich aufzuopfern wissen.",
+    "Diese Aufopferung ist die Entäußerung, in welcher der Geist sein Werden zum Geiste in der Form des freien zufälligen Geschehens darstellt, sein reines Selbst als die Zeit außer ihm und ebenso sein Sein als Raum anschauend.",
+    "Dieses sein letzteres Werden, die Natur, ist sein lebendiges unmittelbares Werden; sie, der entäußerte Geist, ist in ihrem Dasein nichts als diese ewige Entäußerung ihres Bestehens und die Bewegung, die das Subjekt herstellt."
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "a3ey70787i",
+   "sents": [
+    "Die andere Seite aber seines Werdens, die Geschichte, ist das wissende, sich vermittelnde Werden – der an die Zeit entäußerte Geist; aber diese Entäußerung ist ebenso die Entäußerung ihrer selbst; das Negative ist das Negative seiner selbst.",
+    "Dies Werden stellt eine trage Bewegung und Aufeinanderfolge von Geistern dar, eine Galerie von Bildern, deren jedes, mit dem vollständigen Reichtume des Geistes ausgestattet, eben darum sich so träge bewegt, weil das Selbst diesen ganzen Reichtum seiner Substanz zu durchdringen und zu verdauen hat.",
+    "Indem seine Vollendung darin besteht, das, was er ist, seine Substanz, vollkommen zu wissen, so ist dies Wissen sein Insichgehen, in welchem er sein Dasein verläßt und seine Gestalt der Erinnerung übergibt.",
+    "In seinem Insichgehen ist er in der Nacht seines Selbstbewußtseins versunken, sein verschwundenes Dasein aber ist in ihr aufbewahrt; und dies aufgehobene Dasein – das vorige, aber aus dem Wissen neugeborene – ist das neue Dasein, eine neue Welt und Geistesgestalt.",
+    "In ihr hat er ebenso unbefangen von vorn bei ihrer Unmittelbarkeit anzufangen und sich von ihr auf wieder großzuziehen, als ob alles Vorhergehende für ihn verloren wäre und er aus der Erfahrung der früheren Geister nichts gelernt hätte.",
+    "Aber die Erinnerung hat sie aufbewahrt und ist das Innere und die in der Tat höhere Form der Substanz.",
+    "Wenn also dieser Geist seine Bildung, von sich nur auszugehen scheinend, wieder von vorn anfängt, so ist es zugleich auf einer höheren Stufe, daß er anfängt.",
+    "Das Geisterreich, das auf diese Weise sich in dem Dasein gebildet, macht eine Aufeinanderfolge aus, worin einer den anderen ablöste und jeder das Reich der Welt von dem vorhergehenden übernahm.",
+    "Ihr Ziel ist die Offenbarung der Tiefe, und diese ist der absolute Begriff, diese Offenbarung ist hiermit das Aufheben seiner Tiefe oder seine Ausdehnung, die Negativität dieses insichseienden Ich, welche seine Entäußerung oder Substanz ist, – und seine Zeit, daß diese Entäußerung sich an ihr selbst entäußert und so in ihrer Ausdehnung ebenso in ihrer Tiefe, dem Selbst ist.",
+    "Das Ziel, das absolute Wissen, oder der sich als Geist wissende Geist hat zu seinem Wege die Erinnerung der Geister, wie sie an ihnen selbst sind und die Organisation ihres Reichs vollbringen.",
+    "Ihre Aufbewahrung nach der Seite ihres freien, in der Form der Zufälligkeit erscheinenden Daseins ist die Geschichte, nach der Seite ihrer begriffenen Organisation aber die Wissenschaft des erscheinenden Wissens; beide zusammen, die begriffene Geschichte, bilden die Erinnerung und die Schädelstätte des absoluten Geistes, die Wirklichkeit, Wahrheit und Gewißheit seines Throns, ohne den er das leblose Einsame wäre; nur –"
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "kk5jkf3pra",
+   "sents": [
+    "aus dem Kelche dieses Geisterreiches"
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "1kf7gii8je",
+   "sents": [
+    "schäumt ihm seine Unendlichkeit."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w3/15.p20.json"
+}

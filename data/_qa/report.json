@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-16T17:40:06.749Z",
- "blocks": 3057,
- "sentences": 11665,
+ "generated": "2026-10-17T01:52:03.851Z",
+ "blocks": 3082,
+ "sentences": 11810,
  "issues": [
   {
    "sev": "minor",
@@ -5107,11 +5107,26 @@
    "sev": "minor",
    "where": "w3/14#70",
    "msg": "sentence 5: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/15#2",
+   "msg": "sentence 7: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/15#7",
+   "msg": "sentence 7: \"Hier\" is not rendered as “这里”"
+  },
+  {
+   "sev": "minor",
+   "where": "w3/15#16",
+   "msg": "sentence 5: \"Unterschied\" is not rendered as “差别”"
   }
  ],
  "bySev": {
   "critical": 0,
   "major": 129,
-  "minor": 892
+  "minor": 895
  }
 }

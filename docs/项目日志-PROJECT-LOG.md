@@ -118,3 +118,20 @@
   宗教章复数 `Geister` →「精灵」（本波 3 处）与全库 `Geist`→「精神」（861 处）并存，属语境分歧，待人工裁定。
 - **空段落块不是漏译**：w3/13 b55 是 `<p id="...">` 锚点段（`ns=0`），无句可译；
   w3/13 因此译了 55/56 块，w3/14 是 71/71。
+
+## 阶段十一 · 第 32 波与《精神现象学》正文完结（2026-10-17）
+
+- **第 32 波**：w3/15「VIII. 绝对知识」全章正文（5 单元 / 25 块 / 145 句），覆盖率 12.66% → **12.82%**
+  （11,810 / 92,117 句；按段落 2,837 / 17,948 = 15.81%）。**《精神现象学》正文自此 100% 完成**
+  （w3/0–15 全部译出，含全书结尾席勒引语残句「aus dem Kelche dieses Geisterreiches…」）。
+- **编者附庸不译（有意排除）**：w3/15 末尾传记年表（bi25-26，126 句）+ w3/16「Lektürehinweise」
+  书目（33 句）是 Suhrkamp 版编者附庸，保留德文。原因：① 非黑格尔正文（与 fn 编者校注同层）；
+  ② 126 句表格块被 make-jobs 并进 146 句超单元，违背流水线契约。若日后补译需手工拆单元。
+- **qa-trans 本波 w3/15 仅 3 条 minor、0 major / 0 critical**（in Wahrheit→真正地、
+  Hierin→于此、Unterschied→区分），均属全库既有"家族词根未保留"翻译惯例模式，非缺陷。
+- **术语裁决**：w3-15-0 worker 对 Wesenheit 取「本质性」（variante，偏离共享词表「实质性」，
+  理由为同源可见），已登记草表，待统一；indizieren→归属于、Kelch→酒杯（席勒引语白话处理）
+  等 unsicher 条目留待人工裁定。
+- **全套验收**：trans-index ALIGNMENT OK、check-policy exit 0、validate/integrity/verify-coverage/
+  audit-sentences 全 exit 0、verify-paragraph-align 8/8 通过、w3/15 阅读器实测 pairs=27/27、JS 错误 0。
+- **远端**：wave32 推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）未动。
