@@ -1,0 +1,241 @@
+{
+ "id": "w4-2-180",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "III. Der Staat (Realer Geist)",
+ "heading": "III. [Vernunft]",
+ "blocks": [
+  {
+   "bi": 180,
+   "k": "h",
+   "hash": "15kbpzkbrv",
+   "text": "III. [Vernunft]"
+  },
+  {
+   "bi": 181,
+   "k": "p",
+   "hash": "1fvyvzof2i",
+   "sents": [
+    "§ [33]"
+   ]
+  },
+  {
+   "bi": 182,
+   "k": "p",
+   "hash": "vt447818mb",
+   "sents": [
+    "Die Vernunft erkennt die Wahrheit, indem die Wahrheit die Übereinstimmung des Begriffs mit dem Dasein ist, die Bestimmungen der Vernunft aber ebensosehr eigene Gedanken sind als Bestimmungen des Wesens der Dinge. - In der vernünftigen Betrachtung fällt daher der bisherige Unterschied des Bewußtseins und des Gegenstandes hinweg; es ist darin ebensosehr die Gewißheit meiner selbst als die Gegenständlichkeit enthalten.16)"
+   ]
+  },
+  {
+   "bi": 183,
+   "k": "h",
+   "hash": "1jzr2mv121",
+   "text": "3. Logik für die Mittelklasse17)"
+  },
+  {
+   "bi": 184,
+   "k": "p",
+   "hash": "1us28eb1n4",
+   "sents": [
+    "(1808/09)"
+   ]
+  },
+  {
+   "bi": 185,
+   "k": "p",
+   "hash": "t9pick11z8",
+   "sents": [
+    "§ [1/33]18)"
+   ]
+  },
+  {
+   "bi": 186,
+   "k": "p",
+   "hash": "6vlh5qoo2w",
+   "sents": [
+    "Die Vernunft erkennt die Wahrheit, indem die Wahrheit die Übereinstimmung des Begriffs mit dem Dasein ist, die Bestimmungen der Vernunft aber ebensosehr eigene Gedanken sind als Bestimmungen des Wesens der Dinge. - In der vernünftigen Betrachtung fällt daher der bisherige Unterschied des Bewußtseins und des Gegenstandes hinweg; es ist darin ebensosehr die Gewißheit meiner selbst als die Gegenständlichkeit enthalten."
+   ]
+  },
+  {
+   "bi": 187,
+   "k": "p",
+   "hash": "p4fi6a1yoi",
+   "sents": [
+    "§ [2/34]"
+   ]
+  },
+  {
+   "bi": 188,
+   "k": "p",
+   "hash": "1b9ywsq1g4",
+   "sents": [
+    "Die logischen Bestimmungen sind die allgemeinen Bestimmungen, Gesetze und Bewegungen dieses Denkens, und sind von gedoppelter Art, das einemal insofern sie dem Seienden, das anderemal insofern sie dem Denken als solchem zugeschrieben werden, wobei jedoch die Vernunft das Bewußtsein hat, daß diese Bestimmungen jeder dieser beiden Seiten zukommen."
+   ]
+  },
+  {
+   "bi": 189,
+   "k": "p",
+   "hash": "6ujjlk61l4",
+   "sents": [
+    "§ [3/35]"
+   ]
+  },
+  {
+   "bi": 190,
+   "k": "p",
+   "hash": "1yh59g8c0o",
+   "sents": [
+    "Die Logik teilt sich in Logik des Objektiven, des Subjektiven und der Idee.19)"
+   ]
+  },
+  {
+   "bi": 191,
+   "k": "h",
+   "hash": "ox877p8dy9",
+   "text": "I. Teil Objektive Logik"
+  },
+  {
+   "bi": 192,
+   "k": "p",
+   "hash": "1wm6hwyn2g",
+   "sents": [
+    "§ [4/36]"
+   ]
+  },
+  {
+   "bi": 193,
+   "k": "p",
+   "hash": "ti15yq1qct",
+   "sents": [
+    "Die logischen Bestimmungen als vom Seienden ausgesagt sind Kategorien genannt worden, als Beziehungen der Urteilskraft, in ihrer dialektischen Natur der Vernunft."
+   ]
+  },
+  {
+   "bi": 194,
+   "k": "h",
+   "hash": "16gilnp31k",
+   "text": "A. Verstand"
+  },
+  {
+   "bi": 195,
+   "k": "p",
+   "hash": "1th88cb2tk",
+   "sents": [
+    "§ [5/37]"
+   ]
+  },
+  {
+   "bi": 196,
+   "k": "p",
+   "hash": "1kdxttsmcm",
+   "sents": [
+    "Der Verstand im engeren Sinne ist das Denken, welches an der festgesetzten Bestimmung, der Kategorie, hält."
+   ]
+  },
+  {
+   "bi": 197,
+   "k": "p",
+   "hash": "ebcl1eul0s",
+   "sents": [
+    "§ [6/38]"
+   ]
+  },
+  {
+   "bi": 198,
+   "k": "p",
+   "hash": "1ojgir71q2",
+   "sents": [
+    "Die Kategorien sind Kategorien des Seins, Wesens und des selbständigen Verhältnisses."
+   ]
+  },
+  {
+   "bi": 199,
+   "k": "p",
+   "hash": "yovy5csj9x",
+   "sents": [
+    "§ [7/39]"
+   ]
+  },
+  {
+   "bi": 200,
+   "k": "p",
+   "hash": "plx2paatx4",
+   "sents": [
+    "a) Die Kategorien des Seins sind die Qualität, Quantität und Unendlichkeit."
+   ]
+  },
+  {
+   "bi": 201,
+   "k": "p",
+   "hash": "4b0o4h3oty",
+   "sents": [
+    "§ [8/40]"
+   ]
+  },
+  {
+   "bi": 202,
+   "k": "p",
+   "hash": "js0hlc1pgu",
+   "sents": [
+    "Die Qualität ist die Bestimmtheit, als an sich seiend, mit deren Veränderung auch dasjenige verändert wird20) , dessen Bestimmtheit sie ist."
+   ]
+  },
+  {
+   "bi": 203,
+   "k": "p",
+   "hash": "13u3dqz1aa",
+   "sents": [
+    "§ [9/41]"
+   ]
+  },
+  {
+   "bi": 204,
+   "k": "p",
+   "hash": "n8ia2z1gj6",
+   "sents": [
+    "Die Quantität ist die Bestimmtheit, als äußerlich, gegen deren Veränderung dasjenige, dem sie angehört, gleichgültig ist, oder eine Bestimmtheit, die zugleich keine ist."
+   ]
+  },
+  {
+   "bi": 205,
+   "k": "p",
+   "hash": "6q1ijg16op",
+   "sents": [
+    "§ [10/42]"
+   ]
+  },
+  {
+   "bi": 206,
+   "k": "p",
+   "hash": "yye2q6lo9j",
+   "sents": [
+    "Die Unendlichkeit ist das sich auf sich beziehende Selbstbestimmen, das Setzen einer immanenten, eigenen Bestimmtheit, welche ebensosehr in dem Setzenden gleichgültiges Dasein ist."
+   ]
+  },
+  {
+   "bi": 207,
+   "k": "p",
+   "hash": "clauejymtb",
+   "sents": [
+    "(Freiheit in seiner Bestimmung, Begrenzung.)"
+   ]
+  },
+  {
+   "bi": 208,
+   "k": "p",
+   "hash": "cx67hi5h20",
+   "sents": [
+    "§ [11/43]"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/2.p180.json"
+}

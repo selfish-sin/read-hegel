@@ -1,0 +1,130 @@
+{
+ "id": "w4-2-37",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "III. Der Staat (Realer Geist)",
+ "heading": "III. Die Wissenschaft",
+ "blocks": [
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "1fv1eihepc",
+   "sents": [
+    "Die Versöhnung Gottes mit dem Menschen als an und für sich geschehen, nicht als ein Zufall, als eine Willkür Gottes, wird in der Kirche gewußt.",
+    "Dies zu wissen, ist der heilige Geist der Gemeinde. - Das Reich Gottes ist zunächst die unsichtbare Kirche, die alle Zonen und verschiedene Religionen umfaßt; dann die äußerliche Kirche. -"
+   ]
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "1kwzjyrxyc",
+   "sents": [
+    "- In der katholischen Kirche ist die Gemeinde in sich getrennt als Priester und Laien.",
+    "Jene sind die Bevollmächtigten und üben Gewalt aus.",
+    "Die Versöhnung mit Gott wird zum Teil äußerlich gemacht; überhaupt herrscht bei den Katholiken eine ungeistigere Wirklichkeit der Religion. - Bei den Protestanten sind die Priester nur Lehrer.",
+    "Alle sind in der Gemeinde vor Gott als dem gegenwärtigen Geist der Gemeinde gleich.",
+    "Die Werke als solche sind kraftlos.",
+    "Auf den Glauben, auf die Gesinnung kommt es an.",
+    "Das Böse wird als ein an und für sich Nichtiges gewußt.",
+    "Dieser Schmerz muß den Menschen durchdringen.",
+    "Er muß die Gnade Gottes, sich mit ihm trotz des Bösen, wenn er es aufgibt und aus ihm sich zurücknimmt, zu vereinen, frei ergreifen.",
+    "Nur im Gemüt kommt es zur wirklichen Gemeinschaft mit Gott.",
+    "In ihm verklärt sich auch die sinnliche Form der Sakramente.)"
+   ]
+  },
+  {
+   "bi": 39,
+   "k": "h",
+   "hash": "cirgio1wr3",
+   "text": "III. Die Wissenschaft"
+  },
+  {
+   "bi": 40,
+   "k": "p",
+   "hash": "1c3pl5k4bn",
+   "sents": [
+    "§ 208"
+   ]
+  },
+  {
+   "bi": 41,
+   "k": "p",
+   "hash": "1ieesw6u92",
+   "sents": [
+    "Die Wissenschaft ist die begreifende Erkenntnis des absoluten Geistes.",
+    "Indem er in Begriffsform aufgefaßt wird, ist alles Fremdsein im Wissen aufgehoben, und dies hat die vollkommene Gleichheit mit sich selbst erlangt.",
+    "Es ist der Begriff, der sich selbst zum Inhalt hat und sich begreift."
+   ]
+  },
+  {
+   "bi": 42,
+   "k": "h",
+   "hash": "d52h3xint3",
+   "text": "2. Bewußtseinslehre für die Mittelklasse5)"
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "1us28eb1n4",
+   "sents": [
+    "(1808/09)"
+   ]
+  },
+  {
+   "bi": 44,
+   "k": "h",
+   "hash": "9kpwns11h8",
+   "text": "[Erster Ansatz] Pneumatologie"
+  },
+  {
+   "bi": 45,
+   "k": "h",
+   "hash": "8te3hrs1u8",
+   "text": "Von den Arten des Bewußtseins, Wissens und Erkennens"
+  },
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "1jpl6l51ur",
+   "sents": [
+    "§ 1"
+   ]
+  },
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "ephyafcuj8",
+   "sents": [
+    "Das einfache sinnliche Bewußtsein ist die unmittelbare Gewißheit von einem äußerlichen Gegenstande.",
+    "Ein solcher Gegenstand hat zunächst die Bestimmung, ein Dieser zu sein, Jetzt der Zeit nach, Hier dem Raume nach.",
+    "(Dieses Jetzt verschwindet und ist zugleich bleibend; so wie dieses Hier viele Hier auf eine einfache Weise in sich faßt; oder beide sind als Allgemeines, das zugleich Unterschiede an ihm hat.)"
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "1ivmdi816q",
+   "sents": [
+    "§ 2"
+   ]
+  },
+  {
+   "bi": 49,
+   "k": "p",
+   "hash": "w0qjwnq10q",
+   "sents": [
+    "Das Wahrnehmen hat einen zwar äußerlichen, sinnlichen, aber vermittelten Gegenstand, - eine Vermischung von sinnlichen oder Gefühlsbestimmungen und Verstandesbestimmungen.",
+    "Die sinnlichen oder Gefühlsbestimmungen sind die Bestimmungen der Farbe, des Tons, des Geruchs, des Geschmacks und des Betastens.",
+    "Die Verstandesbestimmungen sind die Einzelheit und die Verschiedenheit von Eigenschaften, welche allgemeine sind und zugleich in der Einzelheit befaßt sind, die hierdurch ein Ding ausmacht."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/2.p37.json"
+}

@@ -1,0 +1,16 @@
+de,en,zh,status,note
+Thesis,thesis,命题,ok,块274、278、282；康德式二律背反的正面命题；上下文包与共享词表均无此条（共享词表 Synthese 条的附注只提到 Antithese）
+Antithesis,antithesis,反命题,unsicher,块278；共享词表 Synthese 条附注作“反题”，此处按中文词面统一取“反命题”，与 Thesis（命题）成对；备选“反题”
+Beweis,proof,证明,ok,块275、279；共享词表只有 Beweis vom Dasein Gottes 一条复合词，无独立条目
+begrenzt / unbegrenzt,limited / unlimited,有界限的／无界限的,ok,块274、275、278、279；与 endlich（有限的）、Begrenzung／Grenze（界限）区分：begrenzt 只说有界限，不等于“有限”
+Aggregat,aggregate,聚合体,ok,块275；指诸物由外在并列凑成的集合；与 Synthese（综合）成对；备选“集合体”（未取）
+abgelaufen,elapsed,已流逝,ok,块275、276、282；作分词时“已经流逝过的”；与 Ablauf（历程）同词根
+Nichtdaseiendes,non-being,非定在者,ok,块282、283；共享词表已有 das Nichtdasein（非定在），此条补其定在形式；与 Nichtdasein（非定在）严格分开
+Entstehen,coming-to-be,产生,ok,块282；刻意避开“生成”，因 Werden 已定为“生成”；备选“发生”（未取）
+Anfang,beginning,开端,ok,块282；与 Ursprung（起源）区分
+Ewigkeit,eternity,永恒,ok,块282；作“一个永恒已经流逝”解，与 Jetzt（这时）相对
+antinomisch,antinomic,二律背反的,ok,块281；词根接 Antinomie（二律背反）
+transzendent,transcendent,超验的,variante,块276；沿用共享词表 transzendent＝超验的、先验的 一组区分；此处“ohne transzendent zu werden”取“不至于成为超验的”；备选“超越的”（与“超验”易混，未取）
+positiv（logisch）,positive,肯定的,ok,块283；此处为逻辑义（与否定相对），接共享词表 positives Urteil＝肯定判断；不作“实证的”（那是 positiv 指由权威给定之义）
+gegeben,given,给定的,ok,块275；“als ein gegebenes Ganzes angesehen werden”＝“被看作一个给定的整体”；备选“已有的”（未取）
+Welt,world,世界,ok,块274—283 全单元；共享词表只有 Weltgeist、übersinnliche Welt 等复合词，无独立条目

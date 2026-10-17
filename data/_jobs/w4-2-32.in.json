@@ -1,0 +1,79 @@
+{
+ "id": "w4-2-32",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "III. Der Staat (Realer Geist)",
+ "heading": "II. Die Religion",
+ "blocks": [
+  {
+   "bi": 32,
+   "k": "h",
+   "hash": "19r3xc8wgi",
+   "text": "II. Die Religion"
+  },
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "1btpzgl18r",
+   "sents": [
+    "§ 207"
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "yb7u371hdd",
+   "sents": [
+    "Die Religion gibt die Darstellung des absoluten Geistes nicht bloß für Anschauung und Vorstellung, sondern auch für den Gedanken und die Erkenntnis.",
+    "Ihre Hauptbestimmung ist, das Individuum zu dem Gedanken Gottes zu erheben, seine Einigkeit mit ihm hervorzubringen und es derselben zu vergewissern."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "e48w7d1fth",
+   "sents": [
+    "(Die Religion ist die Wahrheit, wie sie für alle Menschen ist.",
+    "Das Wesen der wahrhaften Religion ist die Liebe.",
+    "Sie ist wesentlich Gesinnung als Erkenntnis der Wahrheit des menschlichen Willens.",
+    "Die religiöse Liebe ist nicht nur die natürliche Anhängigkeit oder nur moralisches Wohlwollen, nicht eine unbestimmt allgemeine schwachsinnige Empfindung, sondern [sie] bewährt sich im Einzelnen mit absoluter Aufopferung.",
+    "\"Liebet euch untereinander, wie ich Euch geliebt habe.\"4) - Die religiöse Liebe ist die unendliche Macht über alles Endliche des Geistes, über Schlechtes, Böses, Verbrechen, auch positive Gesetze usf.",
+    "Christus ließ seine Jünger am Sabbat Ähren ausraufen und heilte eine kranke Hand.",
+    "Die göttliche Liebe vergibt die Sünde, macht für den Geist Geschehenes ungeschehen.",
+    "Der Maria Magdalena wird viel vergeben, weil sie viel geliebt hat.",
+    "Die Liebe ist selbst über die Rücksichten der Moral hinaus: Maria salbt Christus, statt es den Armen zu geben, und Christus billigt dies. - Das substantielle Verhältnis des Menschen zu Gott ist die Vergebung der Sünden.",
+    "Der Grund der Liebe ist das Bewußtsein von Gott und seinem Wesen als der Liebe und sie daher zugleich die höchste Demut.",
+    "Ich soll mir nicht die Objektivität in der Liebe sein, sondern Gott, aber in seinem Erkennen soll ich mich selbst vergessen. - Die Vergebung der Sünde ist nicht ein Zeitliches, keine Folge äußerlicher Strafe, sondern eine ewige, innere in Geist und Gemüt.",
+    "Das Vernichten seiner Nichtigkeit ist die Hoheit der Liebe. - Das substantielle Verhältnis des Menschen zu Gott scheint in seiner Wahrheit ein Jenseits zu sein, aber die Liebe Gottes zum Menschen und des Menschen zu Gott hebt die Trennung des Diesseits von dem als einem Jenseits Vorgestellten auf und ist das ewige Leben."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "87og04y327",
+   "sents": [
+    "Diese Identität wird angeschaut in Christus.",
+    "Als Menschensohn ist er Gottessohn.",
+    "Für den Gottmenschen ist kein Jenseits.",
+    "Nicht als dieser einzelne, sondern als allgemeiner, als der wahrhafte Mensch gilt er.",
+    "Die äußerliche Seite seiner Geschichte muß von der religiösen unterschieden werden.",
+    "Er ist durch die Wirklichkeit, Niedrigkeit, Schmählichkeit hindurchgegangen, gestorben.",
+    "Sein Schmerz war die Tiefe der Einheit der göttlichen und menschlichen Natur im Leben und Leiden.",
+    "Die seligen Götter der Heiden wurden als in einem Jenseits vorgestellt; durch Christus ist die gemeine Wirklichkeit, diese Niedrigkeit, die nicht verächtlich ist, selbst geheiligt.",
+    "Seine Auferstehung und Himmelfahrt sind nur für den Glauben: Stephanus sah ihn im Gesicht zur Rechten Gottes.",
+    "Gottes ewiges Leben ist dies, die Rückkehr in sich.",
+    "Zweifel aus Umständen, aus Einzelheiten aufzubringen, ob dies eine äußerliche Wirklichkeit, ist läppisch, erbärmlich.",
+    "Es kommt dem Glauben auf das sinnliche Geschehen gar nicht an, sondern auf das, was ewig geschieht.",
+    "Geschichte Gottes."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/2.p32.json"
+}

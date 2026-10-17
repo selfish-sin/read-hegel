@@ -1,0 +1,219 @@
+{
+ "id": "w4-2-50",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "III. Der Staat (Realer Geist)",
+ "heading": "[Zweiter Ansatz] Geisteslehre",
+ "blocks": [
+  {
+   "bi": 50,
+   "k": "p",
+   "hash": "1j5lz775kz",
+   "sents": [
+    "§ 3"
+   ]
+  },
+  {
+   "bi": 51,
+   "k": "p",
+   "hash": "1d4ov8u17c",
+   "sents": [
+    "Das Verhältnis dieser Bestimmungen näher gegeneinander betrachtet, so sind die Eigenschaften, als jede frei für sich, ungestört von den anderen, besonderen Materien, und das Ding ist der allgemeine sie enthaltende Umfang, aber es ist zugleich als einfache Einzelheit das Negative der freien Gleichgültigkeit dieser Materien; sie sind somit nicht freie Materien, sondern aufgehobene, nicht für sich seiende, nur Momente; ihr Fürsichsein ist die Einzelheit, welche nur dem Dinge zukommt."
+   ]
+  },
+  {
+   "bi": 52,
+   "k": "h",
+   "hash": "sfepae128g",
+   "text": "[Zweiter Ansatz] Geisteslehre"
+  },
+  {
+   "bi": 53,
+   "k": "h",
+   "hash": "1o1exlr177",
+   "text": "Bewußtsein[s]- und Seelenlehre"
+  },
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "11hz5uyr5g",
+   "sents": [
+    "I. Der Geist nach den verschiedenen Arten seines Gegenstandes; II. nach den verschiedenen Arten seiner Tätigkeit."
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "1i57l3c1ez",
+   "sents": [
+    "I. Von den Arten des Bewußtseins."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "1qh263y2x3",
+   "sents": [
+    "II.",
+    "Von den Arten der inneren Tätigkeit des Geistes."
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "h",
+   "hash": "zrnkamnp1w",
+   "text": "I."
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "1jpl6l51ur",
+   "sents": [
+    "§ 1"
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "2ohyup62l9",
+   "sents": [
+    "Das Bewußtsein ist überhaupt das Wissen von einem Gegenstande; indem es wesentlich die Beziehung auf einen solchen ist, ist es verschieden nach den verschiedenen Gegenständen, die es hat."
+   ]
+  },
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "1ivmdi816q",
+   "sents": [
+    "§ 2"
+   ]
+  },
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "15n39glxmp",
+   "sents": [
+    "Umgekehrt, indem der Gegenstand, wie es auch der Name Gegenstand ausdrückt, wesentlich durch sein Verhältnis zum Bewußtsein bestimmt ist, wird er mit der Fortbildung des Bewußtseins verschieden."
+   ]
+  },
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "19ozmch1b1",
+   "sents": [
+    "A. Das Bewußtsein von abstrakten Gegenständen."
+   ]
+  },
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "vgqdi215xj",
+   "sents": [
+    "B. Das Bewußtsein von der Welt des endlichen Geistes."
+   ]
+  },
+  {
+   "bi": 64,
+   "k": "p",
+   "hash": "2hghxm15el",
+   "sents": [
+    "C. Das Bewußtsein von dem absoluten Geiste."
+   ]
+  },
+  {
+   "bi": 65,
+   "k": "h",
+   "hash": "1ym0r5b7j1",
+   "text": "[Dritter Ansatz] Geisteslehre als Einleitung in die Philosophie"
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "1jpl6l51ur",
+   "sents": [
+    "§ 1"
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "1i8xilwujn",
+   "sents": [
+    "Eine Einleitung in die Philosophie hat vornehmlich die verschiedenen Beschaffenheiten und Tätigkeiten des Geistes zu betrachten, durch welche er hindurchgeht, um zur Wissenschaft zu gelangen.",
+    "Indem diese geistigen Beschaffenheiten und Tätigkeiten in einem notwendigen Zusammenhange stehen, [macht] diese Selbsterkenntnis gleichfalls eine Wissenschaft aus."
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "1ivmdi816q",
+   "sents": [
+    "§ 2"
+   ]
+  },
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "tq1bi21jep",
+   "sents": [
+    "Die Geisteslehre betrachtet den Geist nach den verschiedenen Arten seines Bewußtseins und nach den verschiedenen Arten seiner Tätigkeit.",
+    "Jene Betrachtung kann die Lehre von dem Bewußtsein, diese die Seelenlehre genannt werden."
+   ]
+  },
+  {
+   "bi": 70,
+   "k": "p",
+   "hash": "1j5lz775kz",
+   "sents": [
+    "§ 3"
+   ]
+  },
+  {
+   "bi": 71,
+   "k": "p",
+   "hash": "vjot6718l4",
+   "sents": [
+    "Das Bewußtsein ist überhaupt das Wissen von einem Gegenstande, er sei ein äußerer oder innerer, ohne Rücksicht darauf, ob er sich ohne Zutun des Geistes ihm darbiete oder aber durch diesen hervorgebracht sei.",
+    "Nach seinen Tätigkeiten wird der Geist betrachtet, insofern die Bestimmungen seines Bewußtseins ihm selbst zugeschrieben werden."
+   ]
+  },
+  {
+   "bi": 72,
+   "k": "p",
+   "hash": "1c76anck80",
+   "sents": [
+    "[Am Rande:] man weiß etwas, denkt aber nicht daran; so besitzt man es, hat es aber nicht im Bewußtsein, nicht als Gegenstand.6)"
+   ]
+  },
+  {
+   "bi": 73,
+   "k": "h",
+   "hash": "1jsy3o1wj6",
+   "text": "Erster Teil Die Lehre von dem Bewußtsein"
+  },
+  {
+   "bi": 74,
+   "k": "p",
+   "hash": "1kjjzo213g",
+   "sents": [
+    "§ 4"
+   ]
+  },
+  {
+   "bi": 75,
+   "k": "p",
+   "hash": "9g1xyg1991",
+   "sents": [
+    "Da das Bewußtsein wesentlich in Beziehung auf einen Gegenstand besteht, ist es verschieden nach den verschiedenen Gegenständen, die es hat."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/2.p50.json"
+}

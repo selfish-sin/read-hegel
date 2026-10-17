@@ -1,0 +1,42 @@
+{
+ "id": "w4-2-284",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "III. Der Staat (Realer Geist)",
+ "heading": "III. Der Staat (Realer Geist)",
+ "blocks": [
+  {
+   "bi": 284,
+   "k": "p",
+   "hash": "j427ec1844",
+   "sents": [
+    "Neugierde infin[ito] actu, imaginationis.",
+    "Unendliche Selbstbestimmung, Mittelpunkt, das Aufheben der Peripherie bezogen darauf; Kreis."
+   ]
+  },
+  {
+   "bi": 285,
+   "k": "p",
+   "hash": "166vouw1w6",
+   "sents": [
+    "§ [42/74]"
+   ]
+  },
+  {
+   "bi": 286,
+   "k": "p",
+   "hash": "s4fdi11pmc",
+   "sents": [
+    "Da also weder das Endliche als solches, noch das nur negative oder dem Endlichen entgegengesetzte Unendliche Wahrheit hat, so ist ihre Wahrheit das in sich selbst endliche Unendliche oder das in sich selbst unendliche Endliche; d. h. die freie Selbstbestimmung, welche sich in sich unterscheidet, hiermit ihre Schranken selbst setzt (Seiten der Endlichkeit), aber ebensosehr aufhebt und darin in sich zurückkehrt (Seite der Unendlichkeit)."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/2.p284.json"
+}

@@ -1,0 +1,119 @@
+{
+ "id": "w4-2-273",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "III. Der Staat (Realer Geist)",
+ "heading": "III. Der Staat (Realer Geist)",
+ "blocks": [
+  {
+   "bi": 273,
+   "k": "p",
+   "hash": "m9bci71jli",
+   "sents": [
+    "§ [39/71]"
+   ]
+  },
+  {
+   "bi": 274,
+   "k": "p",
+   "hash": "qjlmdp11zc",
+   "sents": [
+    "II.",
+    "Thesis: Die Welt ist dem Raum nach begrenzt."
+   ]
+  },
+  {
+   "bi": 275,
+   "k": "p",
+   "hash": "g9obss2rk1",
+   "sents": [
+    "Beweis: Man nehme an, sie sei unbegrenzt, so ist sie ein unendliches gegebenes Ganzes von zugleich existierenden Dingen, und sie ist auch überhaupt ein Gegenstand.",
+    "Ein solches Ganzes kann nur durch die Synthesis der enthaltenen Teile als vollendet angesehen werden.",
+    "Zu dieser Vollendung aber gehörte eine unendliche Zeit, welche als abgelaufen angenommen werden müßte, was unmöglich ist.",
+    "Demnach kann ein unendliches Aggregat existierender Dinge nicht als ein gegebenes, mithin nicht als ein zugleich gegebenes Ganzes angesehen werden; die Welt ist folglich nicht unendlich, sondern in Grenzen eingeschlossen."
+   ]
+  },
+  {
+   "bi": 276,
+   "k": "p",
+   "hash": "1o8ysuo1dd",
+   "sents": [
+    "Der Beweis wird auf den vorigen von der Zeit, durch das Auffassen, das in der Zeit geschieht, zurückgeführt, kann aber unmittelbar vom Raume geführt werden wie der vorige von der Zeit; im vorigen nämlich eine abgelaufene Zeit im gegenwärtigen Augenblicke, im Jetzt, das (empirisch) angenommen wird; Jetzt ist diese absolute Zeitgrenze, also Grenze überhaupt (wie dies Rot Rot überhaupt).",
+    "So im Raume ein Hier, dieselbe absolute Grenze, also Grenze überhaupt (ohne transzendent zu werden)."
+   ]
+  },
+  {
+   "bi": 277,
+   "k": "p",
+   "hash": "mmgplsn4v9",
+   "sents": [
+    "§ [40/72]"
+   ]
+  },
+  {
+   "bi": 278,
+   "k": "p",
+   "hash": "12pxuxd1w5",
+   "sents": [
+    "Antithesis: Die Welt ist dem Raume nach unbegrenzt."
+   ]
+  },
+  {
+   "bi": 279,
+   "k": "p",
+   "hash": "1jfotum3ve",
+   "sents": [
+    "Beweis: Man nehme an, die Welt sei begrenzt, so befindet sie sich in einem leeren unbegrenzten Raume.",
+    "Die Welt hätte also ein Verhältnis zu dem leeren Raume.",
+    "Dies wäre ein Verhältnis zu keinem Gegenstande; ein solches Verhältnis aber, mithin das der Welt zum leeren Raume, ist nichts.",
+    "Mithin ist die Welt unendlich."
+   ]
+  },
+  {
+   "bi": 280,
+   "k": "p",
+   "hash": "1yzlzx611q",
+   "sents": [
+    "§ [41/73]"
+   ]
+  },
+  {
+   "bi": 281,
+   "k": "p",
+   "hash": "1j58ehbrcr",
+   "sents": [
+    "Die Beweise dieser antinomischen Sätze können directe geführt werden, oder sie reduzieren sich auf folgenden Gegensatz:"
+   ]
+  },
+  {
+   "bi": 282,
+   "k": "p",
+   "hash": "9vaihv71r9",
+   "sents": [
+    "Die Welt in Raum und Zeit ist 1. endlich oder hat eine absolute Grenze, eigentlich das Jetzt - oben in der I. Thesis der gegenwärtige Moment, in welchem eine Ewigkeit abgelaufen wäre - und das Hier, statt dessen in der II.",
+    "Thesis von der räumlichen Welt bloß diese Begrenzung oder Beziehung auf Anderes, daß sie Gegenstand ist, in Betracht gezogen wird.",
+    "Diese absoluten Grenzen, Jetzt und Hier, schließen es in sich, Grenzen überhaupt zu sein, was also einen Anfang der Welt und eine Raumgrenze derselben gibt. - Oder indem die absolute Grenze auf das Dasein als solches bezogen wird, so hat das Daseiende einen absoluten Gegensatz an dem Nichtdaseienden; es ist über das Dasein hinauszugehen zum Nichtdasein und umgekehrt über das Nichtdasein zum Dasein; also der Zeit nach ein Entstehen oder ein Anfang, dem Raume nach eine Grenze zu setzen."
+   ]
+  },
+  {
+   "bi": 283,
+   "k": "p",
+   "hash": "1jxz4i11nm",
+   "sents": [
+    "Aber die absolute Grenze, das Jetzt und Hier, ist nur eine solche, welche sich selbst unmittelbar aufhebt; die Grenze als aufgehobene oder gleichgültige Grenze ist die quantitative Grenze, also Fortgang ins Unendliche gesetzt.",
+    "Ebenso in Beziehung auf das Dasein hat dasselbe in dem Nichtdaseienden nicht eine absolute Grenze; es ist auf sein Entgegengesetztes auch positiv bezogen.",
+    "Dies Entgegengesetzte ist also auch ein Dasein, nur ein anderes.",
+    "Somit ist der Fortgang von einem Daseienden nur zu anderem Daseienden - ins Unendliche.",
+    "Also [ist] die Welt in Raum und Zeit unendlich."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/2.p273.json"
+}

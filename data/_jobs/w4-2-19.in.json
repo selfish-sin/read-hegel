@@ -1,0 +1,132 @@
+{
+ "id": "w4-2-19",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "III. Der Staat (Realer Geist)",
+ "heading": "Dritter Abschnitt Der Geist in seiner reinen Darstellung",
+ "blocks": [
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "1ptrwaz1yv",
+   "sents": [
+    "(Es zählen nicht alle Völker in der Weltgeschichte.",
+    "Jedes hat nach seinem Prinzip seinen Punkt, Moment.",
+    "Dann tritt es, wie es scheint, für immer ab.",
+    "Nicht zufällig kommt seine Reihe.)"
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "h",
+   "hash": "13hod8nqu7",
+   "text": "Dritter Abschnitt Der Geist in seiner reinen Darstellung"
+  },
+  {
+   "bi": 21,
+   "k": "h",
+   "hash": "ijf4uln30g",
+   "text": "I. Die Kunst"
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "1aprkopp1x",
+   "sents": [
+    "§ 203"
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "1uubvr417x",
+   "sents": [
+    "Die Kunst stellt den Geist in Individualität und zugleich gereinigt vom zufälligen Dasein und dessen Veränderungen und von äußeren Bedingungen dar, und zwar objektiv für die Anschauung und Vorstellung.",
+    "Das Schöne an und für sich ist Gegenstand der Kunst, nicht die Nachahmung der Natur, die selbst eine nur zeitliche und unfreie Nachahmung der Idee ist.",
+    "Die Ästhetik betrachtet die näheren Formen dieser schönen Darstellung."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "2n0q6x15go",
+   "sents": [
+    "(Kunst hängt davon ab, welches substantielle Bewußtsein der Geist ist.",
+    "Wir studieren die griechischen Werke, sind darum keine Griechen.",
+    "Die Vorstellung tut's nicht, sondern das innere produktive Leben, - daß wir das selbst sind.",
+    "Die Volksphantasie ist nicht Aberglaube an etwas, sondern der eigene Geist; das sogenannte Wunderbare ist eine läppische Maschinerie; Mißgriff Klopstocks mit seinen Engeln, nordischen Göttern.",
+    "Die lebendige Mythologie eines Volkes macht daher den Grund und Gehalt seiner Kunst aus.)"
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1azr6doaw8",
+   "sents": [
+    "§ 204"
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "wo5pa6yz1n",
+   "sents": [
+    "Es sind zwei Hauptformen oder Stile der Kunst zu unterscheiden, der antike und moderne.",
+    "Der Charakter der ersten ist plastisch, objektiv, der der anderen romantisch, subjektiv.",
+    "Der antike stellt die Individualität zugleich als allgemeinen, wesentlichen Charakter dar, ohne daß er darum zur Abstraktion und Allegorie wird, sondern lebendige Totalität bleibt.",
+    "In der objektiven Klarheit und Haltung löscht er das Zufällige und Willkürliche des Subjektiven aus."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "1b9qs2n1c1",
+   "sents": [
+    "§ 205"
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "wv84b3uu6j",
+   "sents": [
+    "Die Künste unterscheiden sich nach Gattungen durch das Element, worin sie das Schöne darstellen und wodurch auch der Gegenstand und Geist dieser Darstellung näher bestimmt wird.",
+    "Für die äußere Anschauung gibt die Malerei eine farbige Gestaltung auf einer Fläche, die Bildhauerkunst eine farblose Gestaltung in körperlicher Form.",
+    "Für die innere Anschauung stellt die Musik in vorstellungslosen Tönen, die Poesie durch die Sprache dar."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "ai8ivq19bo",
+   "sents": [
+    "(Redekunst, Baukunst, Gartenkunst usf. sind nicht reine schöne Künste, weil ihnen noch ein anderer Zweck zugrunde liegt als die Darstellung des Schönen.)"
+   ]
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "1bjqdrm7ly",
+   "sents": [
+    "§ 206"
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "y4rvj4191f",
+   "sents": [
+    "Die Hauptgattungen der Poesie sind die epische, lyrische und dramatische.",
+    "Die erstere stellt einen Gegenstand als eine äußerliche Begebenheit dar, die zweite eine einzelne Empfindung oder die subjektive, im Gemüt vorgehende Bewegung, die dritte die eigentliche Handlung als Wirkung des Willens."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/2.p19.json"
+}

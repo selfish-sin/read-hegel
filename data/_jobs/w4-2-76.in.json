@@ -1,0 +1,152 @@
+{
+ "id": "w4-2-76",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 2,
+ "chunkTitle": "III. Der Staat (Realer Geist)",
+ "heading": "A. Das Bewußtsein abstrakter Gegenstände7)",
+ "blocks": [
+  {
+   "bi": 76,
+   "k": "p",
+   "hash": "1ktjld12ap",
+   "sents": [
+    "§ 5"
+   ]
+  },
+  {
+   "bi": 77,
+   "k": "p",
+   "hash": "1hyvz7h1dj",
+   "sents": [
+    "Zugleich aber ist der Gegenstand wesentlich durch das Verhältnis des Bewußtseins zu ihm bestimmt, und er wird mit der Fortbildung des Bewußtseins verschieden."
+   ]
+  },
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "1jzksa4n0y",
+   "sents": [
+    "§ 6"
+   ]
+  },
+  {
+   "bi": 79,
+   "k": "p",
+   "hash": "1ba4u221ev",
+   "sents": [
+    "Das Bewußtsein teilt sich in drei Hauptstufen: α) das Bewußtsein von abstrakten oder unvollständigen Gegenständen, β) das Bewußtsein von der Welt des endlichen Geistes, γ) das Bewußtsein von dem absoluten Geiste."
+   ]
+  },
+  {
+   "bi": 80,
+   "k": "h",
+   "hash": "r519948liw",
+   "text": "A. Das Bewußtsein abstrakter Gegenstände7)"
+  },
+  {
+   "bi": 81,
+   "k": "h",
+   "hash": "65x8qlppaq",
+   "text": "[I. Bewußtsein]"
+  },
+  {
+   "bi": 82,
+   "k": "p",
+   "hash": "ke2p4i1txe",
+   "sents": [
+    "a) Sinnliches Bewußtsein"
+   ]
+  },
+  {
+   "bi": 83,
+   "k": "p",
+   "hash": "1k9kdz31kw",
+   "sents": [
+    "§ 7"
+   ]
+  },
+  {
+   "bi": 84,
+   "k": "p",
+   "hash": "nqz4r1i5w5",
+   "sents": [
+    "Das einfache sinnliche Bewußtsein ist die unmittelbare Gewißheit von einem äußerlichen Gegenstande.",
+    "Der Ausdruck für die Unmittelbarkeit eines solchen Gegenstandes ist, daß er Dieser ist; Jetzt der Zeit nach; Hier dem Raume nach, jedes durchaus von allen anderen unterschieden und nicht vermittels eines anderen bestimmt.",
+    "Aber sowohl das Jetzt als das Hier verschwindet und zeigt sich als ein anderes, und was bleibt, ist nur das Allgemeine, welches die Beziehung auf Anderes und die Vermittlung in sich enthält."
+   ]
+  },
+  {
+   "bi": 85,
+   "k": "p",
+   "hash": "1o6qg78ive",
+   "sents": [
+    "α) [das] Sinnliche ist abstrakt nur diese arme Bestimmung; [das] Sinnliche das Abstrakteste; weiß es nicht.",
+    "Dies ist; diese einfache Unmittelbarkeit.",
+    "Zeit und Raum Formen, allgemeine sinnliche Abstrakta.",
+    "Jetzt ist Tag; auch nicht Tag; negatives.",
+    "Jetzt bleibt als allgemeines, das vermittelt, daß nicht Tag nicht Nacht ist, einfach wie vorher; weder dieses noch jenes und sowohl dieses als jenes ist.",
+    "Hier ist ein Tisch; hier ist nicht ein Tisch; auch Hier nicht ein Tisch. - Allgemeines.",
+    "Selbst dieses Ich [ist] nur allgemeines - Ich, sie sagen ebensowohl: Ich.",
+    "Oder wenn ich Jetzt und Hier festhalte - Jetzt ist gewesen; ist nicht; Jetzt bleibt. - fließend - ein anderes Hier unendlich teilbar; ist nicht; rechts oder links.",
+    "Punkt, Gedankending."
+   ]
+  },
+  {
+   "bi": 86,
+   "k": "p",
+   "hash": "1hbrz1n1a1",
+   "sents": [
+    "b) Wahrnehmen"
+   ]
+  },
+  {
+   "bi": 87,
+   "k": "p",
+   "hash": "1lniefyjqo",
+   "sents": [
+    "§ 8"
+   ]
+  },
+  {
+   "bi": 88,
+   "k": "p",
+   "hash": "n7f25o1quh",
+   "sents": [
+    "Das Wahrnehmen hat zwar das Sinnliche, aber darin zugleich das Allgemeine zum Gegenstand, eine Vermischung von sinnlichen und Verstandesbestimmungen."
+   ]
+  },
+  {
+   "bi": 89,
+   "k": "p",
+   "hash": "1lxi04x1hm",
+   "sents": [
+    "§ 9"
+   ]
+  },
+  {
+   "bi": 90,
+   "k": "p",
+   "hash": "1cieeli1m5",
+   "sents": [
+    "Die sinnlichen Eigenschaften sind unmittelbar in dem Gefühle, aber zugleich bestimmt durch Beziehung auf andere, und vermittelt.",
+    "Die allgemeinsten Verstandesbestimmungen sind die Einzelheit des Dinges, in welcher die Eigenschaften befaßt sind, und die Allgemeinheit derselben, nach welcher sie über das einzelne Ding hinausgehen und voneinander unabhängig sind.8)"
+   ]
+  },
+  {
+   "bi": 91,
+   "k": "p",
+   "hash": "1gkmx3f1mn",
+   "sents": [
+    "§ 10"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/2.p76.json"
+}

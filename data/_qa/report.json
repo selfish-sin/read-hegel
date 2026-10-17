@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-17T03:24:05.578Z",
- "blocks": 3540,
- "sentences": 12477,
+ "generated": "2026-10-17T06:51:11.997Z",
+ "blocks": 3827,
+ "sentences": 12864,
  "issues": [
   {
    "sev": "minor",
@@ -5457,11 +5457,91 @@
    "sev": "minor",
    "where": "w4/1#193",
    "msg": "sentence 0: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#10",
+   "msg": "sentence 0: \"Klasse\" is not rendered as “班级”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#18",
+   "msg": "sentence 2: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#24",
+   "msg": "sentence 4: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/2#36",
+   "msg": "sentence 5: zh/de length ratio 0.22 (17/79)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#36",
+   "msg": "sentence 6: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#36",
+   "msg": "sentence 8: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#37",
+   "msg": "sentence 1: \"Geist\" is not rendered as “精神”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/2#37",
+   "msg": "sentence 1: “Geist” (family Geist) does not keep the family root “精神”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/2#38",
+   "msg": "sentence 9: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/2#67",
+   "msg": "sentence 0: zh/de length ratio 0.20 (34/167)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#90",
+   "msg": "sentence 0: \"Gefühl\" is not rendered as “感觉”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/2#114",
+   "msg": "sentence 0: zh/de length ratio 0.22 (12/55)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#138",
+   "msg": "sentence 0: \"Dasein\" is not rendered as “定在”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/2#164",
+   "msg": "sentence 0: en/de word ratio 1.64 (18/11)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#170",
+   "msg": "sentence 1: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#250",
+   "msg": "sentence 1: \"Ursache\" is not rendered as “原因”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 148,
-  "minor": 943
+  "major": 154,
+  "minor": 953
  }
 }
