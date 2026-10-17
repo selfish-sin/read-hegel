@@ -1,0 +1,119 @@
+{
+ "id": "w4-3-26",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 3,
+ "chunkTitle": "2. Dialektik der Kategorien des Wesens 26)",
+ "heading": "2. Dialektik der Kategorien des Wesens26)",
+ "blocks": [
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "1qyw1ih1ef",
+   "sents": [
+    "Möglichkeit schließt alle Bedingungen selbst in sich, daß in dem bedingten Verhältnis die Bedingungen dem Existierenden gegenübertreten, es kann etwas möglich sein ohne ...",
+    "Möglichkeit will bloß die unvollständige Einfachheit des Inhalts der Bedingungen andeuten.",
+    "Möglichkeit und Wirklichkeit ist also nicht bloß Unterschied der Form des Daseins, sondern des Inhalts.",
+    "Das Treten ins Dasein erscheint als eine Zufälligkeit (ein Funke, der auf Pulver fällt) - Reife zur Revolution. - im Verstande Gottes ist das Mögliche unmittelbar auch wirklich, im endlichen Verstande ist es anders, d. h. eingebildete Möglichkeit.",
+    "Die wahre Möglichkeit ist auch wirklich.",
+    "Begreifen [heißt] etwas aus seinen Bedingungen, aus seiner Möglichkeit [entwickeln]; alle Bedingungen einsehen."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "1ntxcmum5q",
+   "sents": [
+    "§ [51/83]"
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "14k9yc41q9",
+   "sents": [
+    "Die Substanz ist das in aller Bestimmung und Veränderung des Daseins beharrliche Sein; die Bestimmungen des Daseins machen das Akzidentelle aus, und die Veränderung kommt nur diesem zu.",
+    "Jedes einzelne Ding ist eine besondere Substanz, denn es ist als seiend überhaupt, in reiner unbestimmter Gleichheit mit sich selbst, die seine einfache Materie ausmacht; in diese Gleichheit mit sich aber fällt keine Veränderung, sondern sie ist das Substrat alles Wechsels des Daseins.",
+    "Das sich gleiche Sein des einzelnen Dinges ist wesentlich ein bestimmtes, denn sonst wäre es nicht das Sein dieses Dinges, so aber ist es der Veränderung unterworfen.",
+    "Indem das substantielle Sein unbestimmt sein soll, um zu beharren, so ist aller Unterschied der besonderen Dinge aufgehoben; die besonderen Dinge als solche sind somit keine Substanzen, und es ist nur eine Substanz."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "dbtf2mlkmj",
+   "sents": [
+    "Substanz - Ding verbrennen, Akzident[elles] seiner Existenz [ad 1] α) Einzelheit, β) Einzelheit ist Bestimmtheit [ad 2] Alle Bestimmung, Raum, gleichgültiges Dasein"
+   ]
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "1ir5ngs1ai",
+   "sents": [
+    "§ [52/84]"
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "xgyv9w13hx",
+   "sents": [
+    "In der einen Substanz ist alle Besonderheit und Einzelheit überhaupt nur etwas Akzidentelles und in ihr Aufgehobenes.",
+    "Sie ist das niedrigerstehende Verhältnis, das noch nicht zum Begriffe der Subjektivität gediehen ist.",
+    "Zunächst ist die Substanz, dadurch daß [in] ihr alle Besonderheit aufgehoben ist, negative Einheit; da sie unmittelbar nur das Beharrende, Positive sein und die Bestimmung, Negation ihr nicht zukommen sollte.",
+    "Sie enthält als substantielle negative Einheit die höhere Bestimmung, Ursache zu sein."
+   ]
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "egx1r4126p",
+   "sents": [
+    "an der Substanz verschwindet [alle Besonderheit] - Substanz nicht als Ursache, Macht."
+   ]
+  },
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "1mwspwi4yd",
+   "sents": [
+    "§ [53/85]"
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "5yqcikgd3i",
+   "sents": [
+    "In dem Kausalitätsverhältnis ergibt sich folgende Antinomie:"
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "1oa83nq1gc",
+   "sents": [
+    "Die Kausalität nach Gesetzen der Natur ist nicht die einzige, aus welcher die Erscheinungen der Welt abgeleitet werden können.",
+    "Es ist zur Erklärung derselben noch eine Kausalität durch Freiheit anzunehmen notwendig."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "8xb5u1qw8s",
+   "sents": [
+    "Beweis: Man nehme an, es gebe keine andere Kausalität als nach Gesetzen der Natur; so setzt alles, was geschieht, einen vorigen Zustand voraus, auf den es unausbleiblich nach einer Regel folgt.",
+    "Nun muß aber der vorige Zustand selbst etwas sein, was geschehen ist, weil, wenn es jederzeit gewesen wäre, seine Folge auch nicht erst entstanden, sondern immer gewesen sein würde.",
+    "Indem also die Kausalität der Ursache selbst etwas Geschehenes ist, so ergibt sich ein unendlicher Progreß der Reihe von Ursache und Wirkung, d. h. eine nur unvollständige Reihe, somit nur eine nicht hinreichend bestimmte und begründende Ursache."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/3.p26.json"
+}

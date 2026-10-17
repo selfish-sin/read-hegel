@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-17T06:51:11.997Z",
- "blocks": 3827,
- "sentences": 12864,
+ "generated": "2026-10-17T13:42:18.461Z",
+ "blocks": 4062,
+ "sentences": 13218,
  "issues": [
   {
    "sev": "minor",
@@ -5537,11 +5537,61 @@
    "sev": "minor",
    "where": "w4/2#250",
    "msg": "sentence 1: \"Ursache\" is not rendered as “原因”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#3",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#36",
+   "msg": "sentence 2: \"Wirkung\" is not rendered as “效果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#141",
+   "msg": "sentence 1: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#154",
+   "msg": "sentence 4: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/3#179",
+   "msg": "sentence 4: en/de word ratio 1.82 (20/11)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#181",
+   "msg": "sentence 0: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#201",
+   "msg": "sentence 0: \"Freiheit\" is not rendered as “自由”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#207",
+   "msg": "sentence 1: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#217",
+   "msg": "sentence 0: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#221",
+   "msg": "sentence 0: \"Wissen\" is not rendered as “知识”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 154,
-  "minor": 953
+  "major": 155,
+  "minor": 962
  }
 }

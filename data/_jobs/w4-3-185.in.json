@@ -1,0 +1,139 @@
+{
+ "id": "w4-3-185",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 3,
+ "chunkTitle": "2. Dialektik der Kategorien des Wesens 26)",
+ "heading": "B. Herrschaft und Knechtschaft",
+ "blocks": [
+  {
+   "bi": 185,
+   "k": "p",
+   "hash": "dpx3hewbrf",
+   "sents": [
+    "§ 26"
+   ]
+  },
+  {
+   "bi": 186,
+   "k": "p",
+   "hash": "3soqd1lb4k",
+   "sents": [
+    "Dies Gefühl seines Andersseins widerspricht seiner Gleichheit mit sich selbst.",
+    "Die gefühlte Notwendigkeit, diesen Gegensatz aufzuheben, ist der Trieb.",
+    "Die Negation oder das Anderssein stellt sich ihm als Bewußtsein, als ein äußerliches, von ihm verschiedenes Ding dar, das aber durch das Selbstbewußtsein bestimmt ist 1. als ein dem Trieb gemäßes und 2. als ein an sich Negatives, dessen Bestehen von dem Selbst aufzuheben und in die Gleichheit mit ihm zu setzen ist."
+   ]
+  },
+  {
+   "bi": 187,
+   "k": "p",
+   "hash": "dzwp6d1qmx",
+   "sents": [
+    "§ 27"
+   ]
+  },
+  {
+   "bi": 188,
+   "k": "p",
+   "hash": "1e73pe91ta",
+   "sents": [
+    "Die Tätigkeit der Begierde hebt also das Anderssein des Gegenstandes, dessen Bestehen überhaupt auf und vereinigt ihn mit dem Subjekt, wodurch die Begierde befriedigt ist.",
+    "Diese ist sonach bedingt 1. durch einen äußeren, gegen sie gleichgültig bestehenden Gegenstand oder durch das Bewußtsein; 2. ihre Tätigkeit bringt die Befriedigung nur durch Aufheben des Gegenstandes hervor.",
+    "Das Selbstbewußtsein kommt daher nur zu seinem Selbstgefühl."
+   ]
+  },
+  {
+   "bi": 189,
+   "k": "p",
+   "hash": "e9wavczm1s",
+   "sents": [
+    "§ 28"
+   ]
+  },
+  {
+   "bi": 190,
+   "k": "p",
+   "hash": "i040m31yre",
+   "sents": [
+    "In der Begierde verhält sich das Selbstbewußtsein zu sich als einzelnes.",
+    "Es bezieht sich auf einen selbstlosen Gegenstand, der an und für sich ein anderer [ist] als das Selbstbewußtsein.",
+    "Dies erreicht sich daher in seiner Gleichheit mit sich selbst in Rücksicht auf den Gegenstand nur durch Aufhebung desselben.",
+    "Die Begierde ist überhaupt 1. zerstörend; 2. in der Befriedigung derselben kommt es deshalb nur zu dem Selbstgefühl des Fürsichseins des Subjekts als einzelnen, dem unbestimmten Begriff des mit der Objektivität verbundenen Subjekts."
+   ]
+  },
+  {
+   "bi": 191,
+   "k": "h",
+   "hash": "vhdvike2l7",
+   "text": "B. Herrschaft und Knechtschaft"
+  },
+  {
+   "bi": 192,
+   "k": "p",
+   "hash": "ejvwkb50xa",
+   "sents": [
+    "§ 29"
+   ]
+  },
+  {
+   "bi": 193,
+   "k": "p",
+   "hash": "q03xot14jj",
+   "sents": [
+    "Der Begriff des Selbstbewußtseins als eines Subjekts, das zugleich objektiv ist, gibt das Verhältnis, daß für das Selbstbewußtsein ein anderes Selbstbewußtsein ist."
+   ]
+  },
+  {
+   "bi": 194,
+   "k": "p",
+   "hash": "dq08zd1svd",
+   "sents": [
+    "§ 30"
+   ]
+  },
+  {
+   "bi": 195,
+   "k": "p",
+   "hash": "qj40ofqqhm",
+   "sents": [
+    "Ein Selbstbewußtsein, das für ein anderes ist, ist nicht als bloßes Objekt für dasselbe, sondern als sein anderes Selbst.",
+    "Ich ist keine abstrakte Allgemeinheit, in der als solcher kein Unterschied oder Bestimmung ist.",
+    "Indem Ich also dem Ich Gegenstand ist, ist es ihm nach dieser Seite als dasselbe, was es ist.",
+    "Es schaut im Anderen sich selbst an."
+   ]
+  },
+  {
+   "bi": 196,
+   "k": "p",
+   "hash": "dg0nae11kj",
+   "sents": [
+    "§ 31"
+   ]
+  },
+  {
+   "bi": 197,
+   "k": "p",
+   "hash": "wd46361yqa",
+   "sents": [
+    "Diese Selbstanschauung des einen im anderen ist 1. das abstrakte Moment der Diesselbigkeit.",
+    "Jedes hat aber auch die Bestimmung, für das andere als ein äußerliches Objekt und insofern [als] unmittelbares, sinnliches und konkretes Dasein zu erscheinen.",
+    "Jedes ist absolut für sich und einzeln gegen das andere und fordert auch für das andere, als ein solches zu sein und ihm dafür zu gelten, seine eigene Freiheit als eines fürsichseienden in dem anderen anzuschauen oder von ihm anerkannt zu sein."
+   ]
+  },
+  {
+   "bi": 198,
+   "k": "p",
+   "hash": "d611lf3p4a",
+   "sents": [
+    "§ 32"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/3.p185.json"
+}

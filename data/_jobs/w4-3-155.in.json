@@ -1,0 +1,159 @@
+{
+ "id": "w4-3-155",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 3,
+ "chunkTitle": "2. Dialektik der Kategorien des Wesens 26)",
+ "heading": "B. Das Wahrnehmen",
+ "blocks": [
+  {
+   "bi": 155,
+   "k": "h",
+   "hash": "1oy8bo0wy6",
+   "text": "B. Das Wahrnehmen"
+  },
+  {
+   "bi": 156,
+   "k": "p",
+   "hash": "1gumises1z",
+   "sents": [
+    "§ 13"
+   ]
+  },
+  {
+   "bi": 157,
+   "k": "p",
+   "hash": "tm0jpbk166",
+   "sents": [
+    "Das Wahrnehmen hat nicht mehr das Sinnliche, insofern es unmittelbar, sondern insofern es zugleich als Allgemeines ist, zum Gegenstande.",
+    "Es ist eine Vermischung von sinnlichen und von Reflexionsbestimmungen."
+   ]
+  },
+  {
+   "bi": 158,
+   "k": "p",
+   "hash": "1holbvb1t7",
+   "sents": [
+    "§ 14"
+   ]
+  },
+  {
+   "bi": 159,
+   "k": "p",
+   "hash": "ca0tlo1unt",
+   "sents": [
+    "Der Gegenstand dieses Bewußtseins ist daher das Ding mit seinen Eigenschaften.",
+    "Die sinnlichen Eigenschaften sind α) für sich sowohl unmittelbar in dem Gefühl als auch zugleich bestimmt durch die Beziehung auf andere und vermittelt; β) gehören sie einem Dinge an und sind in dieser Rücksicht einerseits in der Einzelheit desselben befaßt, andererseits haben sie Allgemeinheit, nach welcher sie über dies einzelne Ding hinausgehen und zugleich voneinander unabhängig sind."
+   ]
+  },
+  {
+   "bi": 160,
+   "k": "p",
+   "hash": "1helq6c51y",
+   "sents": [
+    "§ 15"
+   ]
+  },
+  {
+   "bi": 161,
+   "k": "p",
+   "hash": "1ga1xvhzg8",
+   "sents": [
+    "Insofern die Eigenschaften wesentlich vermittelte sind, haben sie ihr Bestehen in einem Anderen und verändern sich.",
+    "Sie sind nur Akzidenzen.",
+    "Die Dinge aber, da sie in ihren Eigenschaften bestehen, indem sie sich dadurch unterscheiden, lösen sich mit der Veränderung derselben auf und sind ein Wechsel des Entstehens und Vergehens."
+   ]
+  },
+  {
+   "bi": 162,
+   "k": "p",
+   "hash": "1i8kj99167",
+   "sents": [
+    "§ 16"
+   ]
+  },
+  {
+   "bi": 163,
+   "k": "p",
+   "hash": "ey5kez18a8",
+   "sents": [
+    "In dieser Veränderung ist es nicht nur etwas, das sich aufhebt und zu einem Anderen wird, sondern auch das Andere vergeht.",
+    "Aber das Andre des Anderen oder die Veränderung des Veränderlichen ist Werden des Bleibenden, an und für sich Bestehenden und Inneren."
+   ]
+  },
+  {
+   "bi": 164,
+   "k": "h",
+   "hash": "as0onievun",
+   "text": "C. Der Verstand"
+  },
+  {
+   "bi": 165,
+   "k": "p",
+   "hash": "1hykxka8c9",
+   "sents": [
+    "§ 17"
+   ]
+  },
+  {
+   "bi": 166,
+   "k": "p",
+   "hash": "1st9opfp7f",
+   "sents": [
+    "Der Gegenstand hat nunmehr die Bestimmung, α) eine schlechthin akzidentelle Seite, aber β) auch eine Wesentlichkeit und ein Bleibendes zu haben.",
+    "Das Bewußtsein, indem der Gegenstand für dasselbe diese Bestimmung hat, ist der Verstand, dem die Dinge der Wahrnehmung nur als Erscheinungen gelten und der das Innere der Dinge betrachtet."
+   ]
+  },
+  {
+   "bi": 167,
+   "k": "p",
+   "hash": "1ecq3jn19h",
+   "sents": [
+    "§ 18"
+   ]
+  },
+  {
+   "bi": 168,
+   "k": "p",
+   "hash": "16gapwpjmf",
+   "sents": [
+    "Das Innere der Dinge ist das an ihnen, was einesteils von der Erscheinung frei ist, nämlich von ihrer Mannigfaltigkeit, die ein gegen sich selbst Äußerliches ausmacht, - andernteils aber das, was durch seinen Begriff darauf bezogen ist.",
+    "Es ist daher 1. die einfache Kraft, welche in das Dasein, die Äußerung übergeht."
+   ]
+  },
+  {
+   "bi": 169,
+   "k": "p",
+   "hash": "1e2qhuobmj",
+   "sents": [
+    "§ 19"
+   ]
+  },
+  {
+   "bi": 170,
+   "k": "p",
+   "hash": "12lobemt1j",
+   "sents": [
+    "Die Kraft bleibt mit diesem Unterschiede in aller sinnlichen Verschiedenheit der Erscheinung dieselbe.",
+    "Das Gesetz der Erscheinung ist ihr ruhiges, allgemeines Abbild.",
+    "Es ist ein Verhältnis von allgemeinen bleibenden Bestimmungen, deren Unterschied am Gesetze zunächst ein äußerlicher ist.",
+    "Die Allgemeinheit und Beständigkeit dieses Verhältnisses führt zwar auf die Notwendigkeit desselben, aber ohne daß der Unterschied ein an sich selbst bestimmter oder innerer wäre, in welchem die eine der Bestimmungen unmittelbar im Begriffe der anderen liegt."
+   ]
+  },
+  {
+   "bi": 171,
+   "k": "p",
+   "hash": "c1zhbk1cr7",
+   "sents": [
+    "§ 20"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/3.p155.json"
+}

@@ -243,3 +243,28 @@
 - **全套验收全绿**：trans-index ALIGNMENT OK、check-policy exit 0、validate/integrity/
   verify-coverage/audit-sentences 全 exit 0；w4/2 浏览器实测 pairs=288/288、JS 错误 0、
   空中文 0；固定 8 页 verify-paragraph-align 回归 8/8 通过。
+## 阶段十五 · 第 36 波：w4/3 本质范畴辩证法 + 意识诸阶段全分节 100%（2026-10-17）
+- **本波 14 单元 / 235 块 / 354 句**，覆盖率 13.96% → **14.35%**（13,218 / 92,117 句；
+  按段落 3,725 / 17,948 = 20.75%）。w4/3 全部 216 段落 + 20 标题译出
+  （块 236 为 k="fn" 编者注）。切分健康：最大 29 句、平均 25.3。
+- **本节跨三块内容**：本质范畴辩证法（b0/17/26/78）→ 判断逻辑与量/反思判断（b37/56/92）→
+  意识诸阶段（b113/136/155/172/185/199/213：面向中产阶级的意识学说、意识一般、知觉、
+  自我意识、主人与奴隶、自我意识的普遍性、理性）。
+- **合并前独立核验 14 个分片**：逐块断言 en/zh 与 vol 的 ns 等长、h 块为非空字符串、
+  无空句/多余块/遗漏块 → **STRUCTURE ALL PASS（235 块 / 374 句）**；
+  **19 个违禁词全表扫描零命中**（优于 wave35 的 3 处误报）。
+- **质检密度 0.0282 条/句，仅全库均值（0.0847）的三分之一**；12 条 issue 中修 1 处真缺陷：
+  `b28` 的 `einfache Materie` 被译「质料」，与 wave34 裁定的 `Materie`→物质、禁「质料」冲突。
+  三语核对确认德文确为 Materie（基底材料），**按上下文包裁定改为「物质」**，
+  并把这条**亚里士多德式本体论的语境张力**登记进 `Materie` 的 note
+  （此语境本可作「质料」，但「质料」留给 `Materialität`；同句的 `Dasein`→定在、
+  `Substrat`→基底勿与 Materie 混）。修正后 10 条 issue / 1 major，剩余 1 条 major
+  （b179 英文略长、中文简洁）三语核对为误报。
+- **merge-glossar 的 16 条 uncertain 新词裁定质量高，无需改动**，几处词根避让尤其到位：
+  `Inbegriff`→总合（明确避开与 Begriff 概念相撞）、`Selbsttätigkeit`→自我活动
+  （避开 Fürsichsein 自为存在的词根）、`Dienst`→服役 与已收的 Dienstleistungen 服务严格分开、
+  `eingebildete Möglichkeit`→想象出来的可能性（明确指出 eingebilden 是「设想」义非 Vorstellung 表象）。
+- **全套验收全绿**：trans-index ALIGNMENT OK、check-policy exit 0、validate/integrity/
+  verify-coverage/audit-sentences 全 exit 0；w4/3 浏览器实测 pairs=236/236、JS 错误 0、
+  空中文 0；固定 8 页 verify-paragraph-align 回归 8/8 通过。
+- **第 4 卷累计 4/16 分节 100%**（w4/0-3），1,408 / 5,501 句；全库 14.35%。

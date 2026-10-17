@@ -1,0 +1,131 @@
+{
+ "id": "w4-3-172",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 3,
+ "chunkTitle": "2. Dialektik der Kategorien des Wesens 26)",
+ "heading": "Zweite Stufe Das Selbstbewußtsein",
+ "blocks": [
+  {
+   "bi": 172,
+   "k": "p",
+   "hash": "v0ne5ax6mk",
+   "sents": [
+    "Dieser Begriff, auf das Bewußtsein selbst angewandt, gibt eine andere Stufe desselben.",
+    "Bisher war es in Beziehung auf seinen Gegenstand als ein Fremdes und Gleichgültiges.",
+    "Indem nun der Unterschied überhaupt zu einem Unterschied geworden ist, der ebensosehr keiner ist, so fällt die bisherige Art des Unterschiedes des Bewußtseins von seinem Gegenstande hinweg.",
+    "Es hat einen Gegenstand und bezieht sich auf ein Anderes, das aber unmittelbar ebensosehr kein Anderes ist, oder es hat sich selbst zum Gegenstande."
+   ]
+  },
+  {
+   "bi": 173,
+   "k": "p",
+   "hash": "cbz30ji62p",
+   "sents": [
+    "§ 21"
+   ]
+  },
+  {
+   "bi": 174,
+   "k": "p",
+   "hash": "rbrbhe1pox",
+   "sents": [
+    "Oder unmittelbar: das Innere der Dinge ist der Gedanke oder Begriff derselben.",
+    "Indem das Bewußtsein das Innere zum Gegenstande hat, hat es den Gedanken oder ebensosehr seine eigene Reflexion oder Form, somit überhaupt sich zum Gegenstande."
+   ]
+  },
+  {
+   "bi": 175,
+   "k": "h",
+   "hash": "1jkqsi41xa",
+   "text": "Zweite Stufe Das Selbstbewußtsein"
+  },
+  {
+   "bi": 176,
+   "k": "p",
+   "hash": "clyopi1g1h",
+   "sents": [
+    "§ 22"
+   ]
+  },
+  {
+   "bi": 177,
+   "k": "p",
+   "hash": "19qemf6118",
+   "sents": [
+    "Als Selbstbewußtsein schaut Ich sich selbst an, und der Ausdruck desselben in seiner Reinheit ist Ich = Ich oder Ich bin Ich."
+   ]
+  },
+  {
+   "bi": 178,
+   "k": "p",
+   "hash": "cvyaehlgd1",
+   "sents": [
+    "§ 23"
+   ]
+  },
+  {
+   "bi": 179,
+   "k": "p",
+   "hash": "t9hq561dgw",
+   "sents": [
+    "Dieser Satz des Selbstbewußtseins ist ohne allen Inhalt.",
+    "Der Trieb des Selbstbewußtseins besteht darin, seinen Begriff zu realisieren und in allem sich das Bewußtsein seiner zu geben.",
+    "Es ist daher 1. tätig, das Anderssein der Gegenstände aufzuheben und sie sich gleichzusetzen, 2. sich seiner selbst zu entäußern und sich dadurch Gegenständlichkeit und Dasein zu geben.",
+    "Beides ist ein und dieselbe Tätigkeit.",
+    "Das Bestimmtwerden des Selbstbewußtseins ist zugleich ein sich Selbstbestimmen und umgekehrt.",
+    "Es bringt sich selbst als Gegenstand hervor."
+   ]
+  },
+  {
+   "bi": 180,
+   "k": "p",
+   "hash": "d5xw3g1jbr",
+   "sents": [
+    "§ 24"
+   ]
+  },
+  {
+   "bi": 181,
+   "k": "p",
+   "hash": "37ted1b421",
+   "sents": [
+    "Das Selbstbewußtsein hat in seiner Bildung oder Bewegung die drei Stufen: 1. der Begierde, insofern es auf andere Dinge, 2. des Verhältnisses von Herrschaft und Knechtschaft, sofern es auf ein anderes, ihm ungleiches Selbstbewußtsein gerichtet ist, 3. des allgemeinen Selbstbewußtseins, das sich in anderen Selbstbewußtsein[en] und zwar ihnen gleich, so wie sie ihm selbst gleich, erkennt."
+   ]
+  },
+  {
+   "bi": 182,
+   "k": "h",
+   "hash": "1dhupdt1ey",
+   "text": "A. Die Begierde"
+  },
+  {
+   "bi": 183,
+   "k": "p",
+   "hash": "dfxhsf1xhg",
+   "sents": [
+    "§ 25"
+   ]
+  },
+  {
+   "bi": 184,
+   "k": "p",
+   "hash": "gkx83n14nl",
+   "sents": [
+    "Beide Seiten des Selbstbewußtseins, die setzende und die aufhebende, sind also unmittelbar miteinander vereinigt.",
+    "Das Selbstbewußtsein setzt sich durch Negation des Andersseins und ist praktisches Bewußtsein.",
+    "Wenn also im eigentlichen Bewußtsein, das auch das theoretische genannt wird, die Bestimmungen desselben und des Gegenstandes sich an sich selbst veränderten, so geschieht dies jetzt durch die Tätigkeit des Bewußtseins selbst und für dasselbe.",
+    "Es ist sich bewußt, daß ihm diese aufhebende Tätigkeit zukommt.",
+    "Im Begriff des Selbstbewußtseins liegt die Bestimmung des noch nicht realisierten Unterschiedes.",
+    "Insofern dieser Unterschied überhaupt in ihm sich hervortut, hat es das Gefühl eines Andersseins in ihm selbst, einer Negation seiner selbst, oder das Gefühl eines Mangels, ein Bedürfnis."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/3.p172.json"
+}

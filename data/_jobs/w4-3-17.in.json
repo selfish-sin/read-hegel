@@ -1,0 +1,104 @@
+{
+ "id": "w4-3-17",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 3,
+ "chunkTitle": "2. Dialektik der Kategorien des Wesens 26)",
+ "heading": "3. Dialektik der unbedingten Verhältnisse",
+ "blocks": [
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1xctm0n18f",
+   "sents": [
+    "Das Ganze besteht aus den Teilen, und die Teile machen das Ganze aus.",
+    "Aber"
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1pjvfhne3f",
+   "sents": [
+    "2. das Ganze besteht nicht aus den Teilen als Teilen, denn das Ganze ist nicht in dem Teile als Teil.",
+    "Die Teile machen somit das Ganze nur aus in ihrem Zusammen.",
+    "Aber das Zusammen der Teile ist das Ganze.",
+    "Es ergeben sich also nur die beiden Tautologien: die Teile als Teile sind nur Teile; nur das Ganze ist das Ganze; oder Teil und Ganzes sind sich gleichgültig, und das Verhältnis fällt auseinander; d. h. es ist kein Verhältnis."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "foerz1a010",
+   "sents": [
+    "§ [48/80]"
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "115qji4148",
+   "sents": [
+    "Die bestimmte Form in ihrer nach außen gehenden Tätigkeit ist die Kraft.",
+    "Die Kraft ist 1. in sich selbst gegründet und aus sich selbst tätig.",
+    "Sie hat einen bestimmten Inhalt; die Form aber ist wesentlich Einheit mit dem Inhalt.",
+    "Sie ist 2. somit als Tätigkeit gleichfalls bestimmt.",
+    "Das Bestimmtsein der Tätigkeit aber als solches ist Bedingtsein.",
+    "Die Kraft ist also sowohl in sich selbst gegründet, als sie eine Bedingung hat.",
+    "Sie ist somit ebensowenig ein absolutes Verhältnis als das Verhältnis des Ganzen und der Teile."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "1xj009d1jo",
+   "sents": [
+    "§ [49/81]"
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "eeokc1rt5e",
+   "sents": [
+    "Die Bedingung der Kraft ist selbst eine Kraft als eine sollizitierende Tätigkeit.",
+    "Dieses, das Bedingende, ist als Kraft selbst bedingt, und zwar durch die erste, oder sie ist nur dadurch sollizitierend, daß sie von der ersten sollizitiert wird, es zu sein.",
+    "Da dieses Bedingtsein somit gegenseitig ist, so ist nur dieses Ganze das Unbedingte."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "h",
+   "hash": "e1luw9xe8a",
+   "text": "3. Dialektik der unbedingten Verhältnisse"
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "1a3363gr2k",
+   "sents": [
+    "§ [50/82]"
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "k2vzfs1nv7",
+   "sents": [
+    "In dem unbedingten Verhältnis tritt der Gegensatz von Möglichkeit und Wirklichkeit ein.",
+    "Das Wirkliche unterscheidet sich nicht durch einen bestimmten Inhalt von seiner Möglichkeit, sondern allein durch das Dasein, als leere Form.29) 1.",
+    "Was wirklich ist, ist möglich.",
+    "Die Möglichkeit aber schließt die Wirklichkeit nicht in sich, und auch Unwirkliches ist möglich.",
+    "Wenn etwas wahrhaft möglich ist, d. h. wenn alle seine Bedingungen vorhanden sind, so ist es notwendig; das Notwendige aber ist wirklich.",
+    "Die bloße Möglichkeit ohne Wirklichkeit unterscheidet sich somit von der wahren Möglichkeit, welche Notwendigkeit ist, wesentlich durch die Mangelhaftigkeit des Inhalts."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/3.p17.json"
+}

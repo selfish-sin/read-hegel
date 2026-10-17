@@ -1,0 +1,8 @@
+de,en,zh,status,note
+Widerschein,reflection (shining back),反映,variante,上下文包与共享词表均未收。卷包 forbidden 把「反映」判给 Widerschein（w2 注明 Reflexion 不是反映即 Widerschein），故取「反映」。备选：反照／映照。理由：sich seinen Widerschein in anderen wissen＝在别人身上看到自己的反照，故不取中性词「反映」以外的译法亦可，但「反照」生僻。
+angeeignet,appropriated,掌握,unsicher,上下文包与共享词表均未收。备选：占有／化为己有。理由：Besitz 在本卷已作「占有」，避让以守一词一译，故取「掌握」。
+durchdrungen,penetrated,贯穿,ok,上下文包与共享词表均未收。durchdrungen 与 angeeignet 并列作自我把握内容的两种方式，取「贯穿」与「掌握」相区分。备选：渗透。
+einsehen,to see into,看出,ok,上下文包与共享词表均未收。was wir durch die Vernunft einsehen＝我们透过理性看出的东西，取「看出」以区别于 bloß einsehen 的日常义「明白」。
+Verstandesvorstellung,representation of understanding,知性表象,ok,上下文包与共享词表均未收。由 Verstand＝知性 与 Vorstellung＝表象 复合而成，两词根均在词表，故为派生词而非新裁定。
+angehörig,belonging,属于,ok,上下文包与共享词表均未收。der Familie angehörig＝是家庭的成员，取「属于」并以「成员」补足原文的归属义。备选：隶属。
+Unterklasse,lower class,低年级,ok,上下文包 Klasse 条的 note 已定 Unterklasse＝低年级（学制语境），本条只作独立词条登记以示与标题块的对应。与共享词表 Mittelklasse＝中产阶级（unsicher）及本卷 bi123 已译作「中产阶级」的做法不同：bi123 的中产阶级出自共享词表且属 1808/09 听讲市民阶层语境；此处 Unterklasse 与低年级／高年级成学制序列，取「低年级」以与 Oberklasse＝高年级（0.json 已用）对称。若用户决定全卷拉平，可改作「下层阶级」，但会与 0.json 的「高年级」冲突。

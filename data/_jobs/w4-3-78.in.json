@@ -1,0 +1,140 @@
+{
+ "id": "w4-3-78",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 3,
+ "chunkTitle": "2. Dialektik der Kategorien des Wesens 26)",
+ "heading": "2. Dialektik der Kategorien des Wesens26)",
+ "blocks": [
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "1svpfuuvfs",
+   "sents": [
+    "§ [67/99]"
+   ]
+  },
+  {
+   "bi": 79,
+   "k": "p",
+   "hash": "7w0hot16fa",
+   "sents": [
+    "Das unmittelbare Urteil, indem seine reine Form als sein bloßer Inhalt ausgedrückt wird, wäre: das Einzelne ist allgemein.",
+    "Positives Urteil überhaupt."
+   ]
+  },
+  {
+   "bi": 80,
+   "k": "p",
+   "hash": "398uwapp7j",
+   "sents": [
+    "noch keine notwendige Beziehung in dem Begriff"
+   ]
+  },
+  {
+   "bi": 81,
+   "k": "p",
+   "hash": "14oelds1g3",
+   "sents": [
+    "§ [68/100]"
+   ]
+  },
+  {
+   "bi": 82,
+   "k": "p",
+   "hash": "uagry1vasd",
+   "sents": [
+    "Aber ebensosehr müßte wegen der Verschiedenheit der Einzelheit und Allgemeinheit das Urteil so ausgesprochen werden: das Einzelne ist nicht allgemein.",
+    "Negatives Urteil überhaupt."
+   ]
+  },
+  {
+   "bi": 83,
+   "k": "p",
+   "hash": "enjkbj1mn8",
+   "sents": [
+    "Dies Urteil kann nicht umgekehrt werden wegen wesentlicher Verschiedenheit des Subjekts und Objekts.",
+    "Das Einzelne ist allgemein: α) Prädikat als solches ist allgemein gegen Subjekt, β) Subjekt ist selbst allgemein, nicht ein Akzidentelles kann sein Prädikat sein."
+   ]
+  },
+  {
+   "bi": 84,
+   "k": "p",
+   "hash": "16wspi81bb",
+   "sents": [
+    "§ [69/101]"
+   ]
+  },
+  {
+   "bi": 85,
+   "k": "p",
+   "hash": "ikjmg158n7",
+   "sents": [
+    "In diesem Urteil ist zwar die Trennung des Prädikats vom Subjekte gesetzt, aber indem diese Trennung zugleich eine Beziehung ist, so ist selbst zunächst noch ein positives Urteil vorhanden; die Negation ist als Bestimmung der vorher leeren Allgemeinheit des Prädikats zu nehmen; und der Ausdruck des Urteils ist: das Einzelne ist ein Besonderes."
+   ]
+  },
+  {
+   "bi": 86,
+   "k": "p",
+   "hash": "9gvzpr1n0o",
+   "sents": [
+    "Der Begriff hat zwar die drei Momente der Einzelheit, Besonderheit und Allgemeinheit.",
+    "Aber das Urteil ist unmittelbar: Einzelheit ist Allgemeinheit.",
+    "Denn [das] Urteil spricht die Trennung aus. - Durch [das] Urteil \"das Einzelne ist Besonderes\" erhält das Urteil einen Inhalt, denn Besonderheit ist die Einheit der Einzelheit und Allgemeinheit.",
+    "Inhalt aber ist die Gleichheit des Subjekts und Objekts.",
+    "(Substantielle Einheit.)"
+   ]
+  },
+  {
+   "bi": 87,
+   "k": "p",
+   "hash": "11fha3dnti",
+   "sents": [
+    "§ [70/102]"
+   ]
+  },
+  {
+   "bi": 88,
+   "k": "p",
+   "hash": "1tvrg6d16n",
+   "sents": [
+    "Indem das Prädikat jetzt als Besonderes ausgedrückt ist, so ist es ein allgemeines, das zugleich ein bestimmtes ist.",
+    "Es ist ein positives Urteil mit einem Inhalte."
+   ]
+  },
+  {
+   "bi": 89,
+   "k": "p",
+   "hash": "zi7anoyqmq",
+   "sents": [
+    "Das Einzelne ist ein Besonderes - α) Besonderes ist Einzelheit, also dieses Besondere.",
+    "Negatives Urteil: Einzelheit ist nicht dieses Besondere, sondern ein anderes (bloß die Bestimmtheit wird negiert). β) Besonderes ist Allgemeinheit, also Besonderes überhaupt.",
+    "Negatives Urteil: Einzelheit ist nicht Besonderes überhaupt (Allgemeinheit negiert, die Sphäre) - unendliches Urteil."
+   ]
+  },
+  {
+   "bi": 90,
+   "k": "p",
+   "hash": "nxpdmh124w",
+   "sents": [
+    "§ [71/103]"
+   ]
+  },
+  {
+   "bi": 91,
+   "k": "p",
+   "hash": "f5o0pn1z12",
+   "sents": [
+    "Hier haben Subjekt und Prädikat die Bestimmtheit gemeinschaftlich, sind aber nach der Einzelheit und Allgemeinheit verschieden.",
+    "Wegen dieser Verschiedenheit muß das Urteil ausgedrückt werden: Das Einzelne ist nicht ein Besonderes."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/3.p78.json"
+}
