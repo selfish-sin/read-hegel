@@ -1,0 +1,166 @@
+{
+ "id": "w4-0-210",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 0,
+ "chunkTitle": "Nürnberger Schriften",
+ "heading": "II. Idee des Erkennens",
+ "blocks": [
+  {
+   "bi": 210,
+   "k": "p",
+   "hash": "1ixrz2c7sa",
+   "sents": [
+    "Als sich realisierende Selbstbewegung ist das Leben der dreifache Prozeß: 1. die Gestaltung des Individuums in sich selbst, 2. seine Selbsterhaltung gegen seine unorganische Natur, 3. die Erhaltung der Gattung."
+   ]
+  },
+  {
+   "bi": 211,
+   "k": "p",
+   "hash": "1h5aeky1wj",
+   "sents": [
+    "§ 88"
+   ]
+  },
+  {
+   "bi": 212,
+   "k": "p",
+   "hash": "zed713132w",
+   "sents": [
+    "Der Prozeß der Gestaltung ist das Verhältnis des Organischen zu sich selbst und besteht darin, daß alle organischen Teile sich gegenseitig fortdauernd hervorbringen und die Erhaltung des einen von der Erhaltung der übrigen abhängt.",
+    "Diese Hervorbringung ist einesteils nur Evolution der an sich vorhandenen Organisation, andernteils die fortdauernde Veränderung derselben.",
+    "Jenes bloße Wachstum oder die quantitative Veränderung ist aber Vermehrungsprozeß durch Intussuszeption, nicht durch Juxtaposition, d. h. nicht eine mechanische Vermehrung."
+   ]
+  },
+  {
+   "bi": 213,
+   "k": "p",
+   "hash": "1hfa09xvdb",
+   "sents": [
+    "§ 89"
+   ]
+  },
+  {
+   "bi": 214,
+   "k": "p",
+   "hash": "1bdr4ov1xg",
+   "sents": [
+    "Der Prozeß der organischen Veränderung ist ebensowenig ein chemischer Prozeß.",
+    "Im Chemismus sind die sich zueinander verhaltenden Materien zwar durch ihren Begriff aufeinander bezogen (chemische Verwandtschaft) und enthalten somit an sich ihr Produkt, welches nicht schon durch das vorher Vorhandene, ihm Gleiche sich erzeugt.",
+    "Seine Hervorbringung aber ist keine Selbsterhaltung.",
+    "Es ist daher nur ein neutrales Produkt, d. h. in welchem die Tätigkeit, die nur den getrennten Materien zukommt, erloschen, nicht selbst produzierend, und wieder in seine Bestandteile, der Qualität und Quantität nach, trennbar ist."
+   ]
+  },
+  {
+   "bi": 215,
+   "k": "p",
+   "hash": "1c5kplfdm2",
+   "sents": [
+    "§ 90"
+   ]
+  },
+  {
+   "bi": 216,
+   "k": "p",
+   "hash": "1fqm0ny1fh",
+   "sents": [
+    "Der organische Ernährungsprozeß ist dagegen eine vollkommene Bestimmung der materiellen Vermehrung durch die innere schon existierende Form, welche als das Subjektive oder als die einfache Form aller Teile sich zu sich selbst oder jeder gegen die übrigen Teile als gegen ein Objektives verhält und nur mit sich im Prozeß ist."
+   ]
+  },
+  {
+   "bi": 217,
+   "k": "p",
+   "hash": "1bvl3wg1er",
+   "sents": [
+    "§ 91"
+   ]
+  },
+  {
+   "bi": 218,
+   "k": "p",
+   "hash": "1dy2u0j1q1",
+   "sents": [
+    "Der Selbsterhaltungsprozeß des Organischen gegen seine unorganische Natur. - Die freie Entgegensetzung des Lebens in Subjektives und Objektives stellt sich als organische und unorganische Natur dar.",
+    "Letztere ist das Leben ohne Individualität, worin das Einzelne für sich existiert, seinen Begriff nur als Gesetz der Naturnotwendigkeit, nicht in subjektiver Form an ihm hat und seine Bedeutung nur ins Ganze fällt.",
+    "Dies Ganze, als Subjekt, ist das Organische, auf welches die unorganische Natur sich wesentlich bezieht und dessen Bedingung ausmacht."
+   ]
+  },
+  {
+   "bi": 219,
+   "k": "p",
+   "hash": "1cpjwzdgwc",
+   "sents": [
+    "§ 92"
+   ]
+  },
+  {
+   "bi": 220,
+   "k": "p",
+   "hash": "bvvjl532k1",
+   "sents": [
+    "Die unorganische Bedingung verhält sich gegen das Organische nicht als Ursache oder als chemisches Moment, sondern was im Organischen durch die Einwirkung des Unorganischen gesetzt wird, ist durch das Organische selbst wesentlich bestimmt und wirkt nur als erregend.",
+    "Das Organische ist die gedoppelte Bewegung des fortdauernden Kampfes, welcher auf der einen Seite das elementarische Werden und das Übergehen ins Entgegengesetzte hemmt, seine Bedingung aufhebt und die objektive Allgemeinheit individualisiert, auf der andern Seite aber das Individuelle oder Subjektive aus sich selbst auflöst und zum unorganischen Dasein herabsetzt."
+   ]
+  },
+  {
+   "bi": 221,
+   "k": "p",
+   "hash": "1cfkbae1i2",
+   "sents": [
+    "§ 93"
+   ]
+  },
+  {
+   "bi": 222,
+   "k": "p",
+   "hash": "htn01t10lw",
+   "sents": [
+    "Der Prozeß der Erhaltung der Gattung ist a) die Realisation der Gattung überhaupt, welche als allgemeines Leben durch die Besonderung der Art zur Wirklichkeit im Einzelnen, zur Individualität, übergeht, b) das Verhältnis des Organischen zu dem ihm gleichen Organischen, wodurch es sich als ein anderes Individuum derselben Gattung produziert, welche sich in diesem Wechsel der Individuen und dem Rückgang der Einzelheit zur Allgemeinheit darstellt."
+   ]
+  },
+  {
+   "bi": 223,
+   "k": "h",
+   "hash": "1shvqar8ct",
+   "text": "II. Idee des Erkennens"
+  },
+  {
+   "bi": 224,
+   "k": "p",
+   "hash": "1d9j4dbk6n",
+   "sents": [
+    "§ 94"
+   ]
+  },
+  {
+   "bi": 225,
+   "k": "p",
+   "hash": "1oeci8jj9h",
+   "sents": [
+    "Die Erkenntnis ist die Darstellung eines Gegenstandes nach seinen daseienden Bestimmungen, wie dieselben in der Einheit seines Begriffs befaßt sind und sich daraus ergeben oder insofern umgekehrt die eigene Wirksamkeit des Begriffs sich seine Bestimmungen gibt.",
+    "Diese Bestimmungen, als im Begriff enthalten gesetzt, sind das Erkennen oder die im Elemente des Denkens sich realisierende Idee."
+   ]
+  },
+  {
+   "bi": 226,
+   "k": "h",
+   "hash": "1t10cqx1ou",
+   "text": "III. Absolute Idee oder das Wissen"
+  },
+  {
+   "bi": 227,
+   "k": "p",
+   "hash": "1czjioc1lc",
+   "sents": [
+    "§ 95"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/0.p210.json"
+}

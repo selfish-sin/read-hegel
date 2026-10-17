@@ -1,0 +1,206 @@
+{
+ "id": "w4-0-0",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 0,
+ "chunkTitle": "Nürnberger Schriften",
+ "heading": "Nürnberger Schriften",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "92eq94wsob",
+   "text": "Nürnberger Schriften"
+  },
+  {
+   "bi": 1,
+   "k": "h",
+   "hash": "1v0gjy01vd",
+   "text": "I. Texte zur Philosophischen Propädeutik"
+  },
+  {
+   "bi": 2,
+   "k": "h",
+   "hash": "1amclqj2hp",
+   "text": "1. Philosophische Enzyklopädie für die Oberklasse1)"
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "ko11uj14na",
+   "sents": [
+    "(1808 ff.)"
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "h",
+   "hash": "1kyiwez1p4",
+   "text": "Einleitung"
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "1jpl6l51ur",
+   "sents": [
+    "§ 1"
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "6idwqv1o9c",
+   "sents": [
+    "Eine Enzyklopädie hat den gesamten Umkreis der Wissenschaften nach dem Gegenstande einer jeden und nach dem Grundbegriffe desselben zu betrachten."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "1ivmdi816q",
+   "sents": [
+    "§ 2"
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "16mkapu12b",
+   "sents": [
+    "Die Mannigfaltigkeit von Erfahrungen über einen allgemeinen Gegenstand zur Einheit allgemeiner Vorstellungen zusammengefaßt und die in der Betrachtung seines Wesens erzeugten Gedanken machen in ihrer Verknüpfung eine besondere Wissenschaft aus."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "1j5lz775kz",
+   "sents": [
+    "§ 3"
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "1prgy0t18o",
+   "sents": [
+    "Wenn dieser Verknüpfung ein empirischer Stoff zugrunde liegt, von dem sie die nur zusammenfassende Allgemeinheit ausmacht, so ist die Wissenschaft mehr historischer Art. Wenn aber das Allgemeine in der Form von Grundbestimmungen und Begriffen vorangeht und das Besondere aus demselben abgeleitet werden soll, so ist die Wissenschaft mehr eigentlich wissenschaftlicher Art."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "1kjjzo213g",
+   "sents": [
+    "§ 4"
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "vkkt0t8xcg",
+   "sents": [
+    "Es gibt keine absoluten Grenzen für einen Umfang von Erkenntnissen, die das Besondere einer Wissenschaft ausmachen soll; denn jeder allgemeine oder konkrete Gegenstand kann in seine Arten oder Teile geteilt und jede solche Art wieder als Gegenstand einer besonderen Wissenschaft betrachtet werden."
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "1ktjld12ap",
+   "sents": [
+    "§ 5"
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "6wxd4913au",
+   "sents": [
+    "In einer gewöhnlichen Enzyklopädie werden die Wissenschaften empirisch aufgenommen, wie sie sich vorfinden.",
+    "Sie sollen darin vollständig aufgeführt und ferner in eine Ordnung dadurch gebracht werden, daß das Ähnliche und unter gemeinschaftlichen Bestimmungen Zusammentreffende nach einer analogen Verwandtschaft zusammengestellt wird."
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "1jzksa4n0y",
+   "sents": [
+    "§ 6"
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "bwbhz41hc2",
+   "sents": [
+    "Die philosophische Enzyklopädie aber ist die Wissenschaft von dem notwendigen, durch den Begriff bestimmten Zusammenhang und von der philosophischen Entstehung der Grundbegriffe und Grundsätze der Wissenschaften."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1k9kdz31kw",
+   "sents": [
+    "§ 7"
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "lyuwoj1txt",
+   "sents": [
+    "Sie ist eigentlich die Darstellung des allgemeinen Inhalts der Philosophie, denn was in den Wissenschaften auf Vernunft gegründet ist, hängt von der Philosophie ab; was dagegen in ihnen auf willkürlichen und äußerlichen Bestimmungen beruht oder, wie es genannt wird, positiv und statutarisch ist, so wie auch das bloß Empirische, liegt außer ihr."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "1lniefyjqo",
+   "sents": [
+    "§ 8"
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "1y0fgkj1gk",
+   "sents": [
+    "Die Wissenschaften sind nach ihrer Erkenntnisweise entweder empirische oder rein rationelle.",
+    "Absolut betrachtet sollen beide denselben Inhalt haben.",
+    "Es ist das Ziel des wissenschaftlichen Bestrebens, das bloß empirisch Gewußte zum immer Wahren, zum Begriff aufzuheben, es rationell zu machen und es dadurch der rationellen Wissenschaft einzuverleiben."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "1lxi04x1hm",
+   "sents": [
+    "§ 9"
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "1eu4bkp233",
+   "sents": [
+    "Die Wissenschaften erweitern sich teils nach der empirischen, teils nach der rationellen Seite hin.",
+    "Das Letztere geschieht, indem das Wesentliche immer mehr herausgehoben, unter allgemeinen Gesichtspunkten aufgefaßt und das bloß Empirische begriffen wird.",
+    "Die rationelle Erweiterung der Wissenschaften ist zugleich eine Erweiterung der Philosophie selbst."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "1gkmx3f1mn",
+   "sents": [
+    "§ 10"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/0.p0.json"
+}

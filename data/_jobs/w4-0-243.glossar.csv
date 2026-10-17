@@ -1,0 +1,47 @@
+de,en,zh,status,note
+Dasein,determinate being,定在,ok,policy: 凡 Dasein 一律定在；禁“存在”
+das Nichtdasein,non-determinacy,非定在,ok,词根一致
+aufgehobenes Dasein,determinate being as sublated,作为扬弃了的定在,ok,aufheben 扬弃；禁“取消/消灭”
+Werden,becoming,生成,ok,词根一致
+unruhiges Werden,unquiet becoming,不息的生成,ok,§ 106
+Gegenwart,present,当下,ok,mit Vergangenheit/Zukunft 三分
+Vergangenheit,past,过去,ok,
+Zukunft,future,将来,ok,
+dazusein,to be there,将要定在,variante,§ 102 b) 用“定在”以免与政策禁译的 Dasein→存在 撞词；备选“要存在”
+real,real,实在的,ok,词根 Realität
+Realität,reality,实在性,variante,§ 106“elementarische Anschauung der Realität”；按 entries 译“实在性”；备选“实在”（此处为日常义，但词族政策优先）
+gleichgültig,indifferent,无关的,variante,空间＝与内容无关的定在；备选“无谓的”（易读成“微不足道”，弃）
+Bestimmung,determinacy,规定性,ok,与 Bestimmtheit 同根
+unbestimmte Bestimmung,indeterminate determinacy,不确定的规定性,ok,同根可见
+Bestimmtheit,determinacy,规定性,ok,绝对的规定性
+Quantität,quantity,量,ok,词根一致
+Größe,magnitude,量,variante,Größe 与 Quantität 同译“量”，学术通行（连续量/离散量/有限量）；备选“量值”，读起来不自然
+Quantum / Quanta,magnitude(s),量（各个量）,variante,同 Größe；en 用 magnitude，中文不复数
+kontinuierlich,continuous,连续的,ok,
+diskret,discrete,离散的,ok,
+Eins,One,一,ok,保留引号“一”
+Begrenzung,limitation,界限,ok,空间界限
+Grenze,limit / boundary,界限,ok,与 Begrenzung 同词根，中文同为“界限”；末句“an ihrer Grenze”＝在其界限处（可读作极限处）
+Richtung,direction,方向,ok,
+Schema,schema,图式,ok,几何讲稿语境（与 Figur 图形对举）
+Figur,figure,图形,ok,
+Geometrie,geometry,几何学,ok,
+Arithmetik,arithmetic,算术学,ok,
+schematisieren,to schematize,图式化,variante,备选“构造为图式”；“图式化”贴合讲稿板书语体
+anschaulich darstellen,to represent intuitively,以直观的方式呈现,ok,Anschauung 观；禁“直觉”
+synthetisch,synthetic,综合的,ok,与 analytisch 对举
+analytisch,analytic,分析的,ok,
+Element,element,要素,variante,备选“元素”；“要素”较合中文讲义语体
+Mannigfaltigkeit,manifold,多样性,ok,
+negativ / negative Quantitätsbestimmung,negative determinacy of quantity,负的量的规定性,ok,
+Wert,value,值,ok,末尾“ihren Wert haben”＝有其值
+Verhältnis,ratio / relation,比例（关系）,ok,letztes Verhältnis 最后比例；关系为同一词根的另一常用义
+unendlich,infinite,无穷的,ok,禁“无限”（与有限对立时用“无穷”更合讲稿）
+endlich,finite,有限的,ok,
+verschwindende Größen,vanishing magnitudes,消失的量,ok,
+Analysis des Unendlichen,analysis of the infinite,对无穷的分析,ok,
+Differential- und Integralrechnung,differential and integral calculus,微分与积分的计算,ok,备选“微分学与积分学”；此处作计算过程，取“计算”
+angewandte Mathematik,applied mathematics,应用数学,ok,
+reine Mathematik,pure mathematics,纯粹数学,ok,
+§,§,§,ok,doNotTranslate 保留
+d. h.,that is,即,ok,未列入 doNotTranslate，按义展开；保留德语缩写会残留原文

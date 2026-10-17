@@ -1,0 +1,151 @@
+{
+ "id": "w4-0-243",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 0,
+ "chunkTitle": "Nürnberger Schriften",
+ "heading": "Nürnberger Schriften",
+ "blocks": [
+  {
+   "bi": 243,
+   "k": "p",
+   "hash": "zmddq393h6",
+   "sents": [
+    "§ 102"
+   ]
+  },
+  {
+   "bi": 244,
+   "k": "p",
+   "hash": "bmyxbb1azf",
+   "sents": [
+    "Die Dimensionen der Zeit sind a) die Vergangenheit, das Dasein als aufgehobenes, als nicht daseiend, b) die Zukunft, das Nichtdasein, aber bestimmt, dazusein, c) die Gegenwart als das unmittelbare Werden und die Vereinigung beider."
+   ]
+  },
+  {
+   "bi": 245,
+   "k": "p",
+   "hash": "zcds1416yw",
+   "sents": [
+    "§ 103"
+   ]
+  },
+  {
+   "bi": 246,
+   "k": "p",
+   "hash": "1ird2hx1fh",
+   "sents": [
+    "Weil der Raum in der Bestimmung eines realen, gleichgültigen Daseins ist, so erscheinen auch reale Grenzen an ihm, und seine Dimensionen, die zunächst nur bloße Richtungen überhaupt sind, machen die Formen dieser seiner Begrenzung aus."
+   ]
+  },
+  {
+   "bi": 247,
+   "k": "p",
+   "hash": "11aazvx1y9",
+   "sents": [
+    "§ 104"
+   ]
+  },
+  {
+   "bi": 248,
+   "k": "p",
+   "hash": "1cz7ge81if",
+   "sents": [
+    "Der Begrenzung des Raums kommt nur die gleichgültige Bestimmung der Quantität zu.",
+    "Die kontinuierliche Größe, welche zunächst die Art seiner Quantität überhaupt ist, ist selbst eine unbestimmte Bestimmung.",
+    "Die absolute Bestimmtheit liegt in der diskreten Größe, deren Prinzip das Eins ist."
+   ]
+  },
+  {
+   "bi": 249,
+   "k": "p",
+   "hash": "110be6yx40",
+   "sents": [
+    "§ 105"
+   ]
+  },
+  {
+   "bi": 250,
+   "k": "p",
+   "hash": "f1uweg1g2w",
+   "sents": [
+    "Der Raum ist der Gegenstand einer (synthetischen) Wissenschaft, der Geometrie, weil in ihm als solchem sich das kontinuierliche Quantum schematisieren, d. h. anschaulich darstellen kann und weil in ihm, als dem Element der gleichgültigen, außereinander seienden Mannigfaltigkeit, die jedoch zugleich kontinuierlich ist, der Begriff eines Gegenstandes sich in realer Gestalt ausdrückt, die mehr in sich enthält als die wesentliche Begriffsbestimmung."
+   ]
+  },
+  {
+   "bi": 251,
+   "k": "p",
+   "hash": "10qbshz2iw",
+   "sents": [
+    "§ 106"
+   ]
+  },
+  {
+   "bi": 252,
+   "k": "p",
+   "hash": "1qrbxzz6oo",
+   "sents": [
+    "Die Zeit jedoch als solche ist nicht fähig, vollständiges Schema oder Figur des Quantums zu sein.",
+    "Sie ist als das unruhige Werden nicht ein Element für synthetische Ganze.",
+    "Indem sie zur Quantität wird, geht sie in die negative Quantitätsbestimmung, in das Eins über, welche das Prinzip für eine (analytische) Wissenschaft des Quantums, die Arithmetik, ist, weil die Verbindung des Eins nicht eine eigene elementarische Anschauung der Realität, sondern so beschaffen ist, wie sie gesetzt wird."
+   ]
+  },
+  {
+   "bi": 253,
+   "k": "p",
+   "hash": "10gc6t010e",
+   "sents": [
+    "§ 107"
+   ]
+  },
+  {
+   "bi": 254,
+   "k": "p",
+   "hash": "e1f1pa4tqk",
+   "sents": [
+    "In der Arithmetik und Geometrie werden die Quanta miteinander verglichen, die, so willkürlich und allgemein ihre Größe sein kann, doch nach dieser ihrer Bestimmung, die ihnen zukommt, insofern sie nicht im Verhältnisse sind, als vollkommen oder für sich bestimmte Quanta, als endliche Größen gelten.",
+    "Die Analysis des Unendlichen, vornehmlich aber die Differential- und Integralrechnung betrachtet unendliche Größen, d. h. solche, die nicht mehr die Bedeutung von endlichen oder für sich vollkommen bestimmten Größen haben, sondern verschwindende Größen sind, welche allein in ihrem letzten Verhältnisse oder an ihrer Grenze, d. h. rein nur im Verhältnisse ihren Wert haben."
+   ]
+  },
+  {
+   "bi": 255,
+   "k": "p",
+   "hash": "xyfrk91rp5",
+   "sents": [
+    "§ 108"
+   ]
+  },
+  {
+   "bi": 256,
+   "k": "p",
+   "hash": "1apkb3c1ja",
+   "sents": [
+    "Die Differentialrechnung findet für eine Formel den Ausdruck des letzten Verhältnisses ihrer veränderlichen, endlichen Größen.",
+    "Die Integralrechnung sucht umgekehrt für Formeln, welche letzte Verhältnisse enthalten, den endlichen Ausdruck."
+   ]
+  },
+  {
+   "bi": 257,
+   "k": "p",
+   "hash": "xog5vaqjg9",
+   "sents": [
+    "§ 109"
+   ]
+  },
+  {
+   "bi": 258,
+   "k": "p",
+   "hash": "1q2w8ez1az",
+   "sents": [
+    "Die angewandte Mathematik wendet die reine Mathematik auf die Größenverhältnisse der Natur an, welche sie aus der Erfahrung aufnimmt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/0.p243.json"
+}

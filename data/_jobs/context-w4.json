@@ -1,0 +1,1260 @@
+{
+ "volume": {
+  "id": "w4",
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作",
+  "bands": [
+   4
+  ]
+ },
+ "styleGuide": [
+  "权威顺序（不可颠倒）：① 用户的词族／术语政策最高，任何其他依据都不得用来推翻它；② 本卷术语包在政策框架内细化，与政策冲突时以政策为准；③ 共享词表；④ 通行译名、学术惯例、其他中译本与读者评论——仅供参考，只能用来改进，绝不能作为改动政策译名的理由。特别提醒：通行译名（如“唯心主义”“理念”）与政策冲突时，一律以政策为准。",
+  "词根一致：同一德文词根的不同形式必须共用一个中文词根——Idee/ideell/Idealität/Idealismus/das Ideelle 一律用“观念”（观念、观念的、观念性、观念论、观念物），严禁“唯心主义”、严禁“理念”；Realität/real/Realismus/das Reelle 一律用“实在”（实在性、实在的、实在论、实在物）；Begriff/begreifen 用“概念”（概念、以概念把握）；Vorstellung 一律“表象”，不得占用“观念”。书名与学派名同样服从（《先验观念论体系》System des transzendentalen Idealismus）。",
+  "本卷 Ideenlehre 是黑格尔自己的观念学说，一律“观念论／观念学说”，严禁照共享词表中柏拉图义的“理念论”来译（共享词表 Ideenlehre→理念论专指柏拉图）；absolute Idee＝绝对观念。",
+  "法哲学与政治术语是本卷命脉，必须保持一词一译、区分到位：Sittlichkeit＝伦理 与 Moralität＝道德 严格分开；Recht 在法哲学讲稿中作“权利”（das Recht an sich、das allgemeine Recht、Rechtsverletzung 侵犯权利），在成文制度与公法语境中作“法”（das formelle Recht、Rechtsprinzip、positive Rechte 实定法）——以“主体间自由与人格”还是“成文制度”为判据，裁定依据见 entries 相应条目；Staat＝国家，Staatsgesellschaft＝国家社会（本卷不用 bürgerliche Gesellschaft），Verfassung＝宪法，Konstitution＝宪章（成文宪章，与 Verfassung 分开），Landstände＝等级议会，Ständeversammlung＝等级会议（议会的会议场次），Stände＝等级。",
+  "课堂讲稿文体（chunks 0–9）：句子往往极短、像板书提纲，常以破折号、分号连接零碎要点，甚至只有短语没有谓语；翻译须保留这种提纲式的松驰结构与分级符号（§、A./B./C.、1. 2. 3.、Erläuterung），不要为“通顺”把它们并成长句、也不要补全省略的谓语。Erläuterung＝诠释／讲解，§＝节。",
+  "官方公文与学监报告文体（chunks 10–12）：措辞庄重、套语密集（allerhöchst 至高的、gnädigst 恩赐的、allergnädigste Befehle 至仁的命令、in Rücksicht auf 就……而言）；保留正式语域与官职称谓（Rektor 校长、Oberschulrat 督学、Königliches Generalkommissariat 王家总署），不口语化，也不生硬逐字。",
+  "政治评论文体（chunks 13–15，符腾堡等级议会评论）：论辩结构强，常以“一方面／另一方面”“并非……而是……”推进，长句多、嵌套深；保留论辩层次与反讽语气（如对 Ständeversammlung 的讥评），不把反讽译平；政治制度名词一律用固定译名（见 entries），不得用“议院”“上院”“地主阶级”等后世概念。",
+  "白话不论文腔：能说“X 就是 Y”就不写“所谓 X 者，乃 Y 也”；不用“盖、故、岂、焉、换言之、不可谓不”这类旧腔，也不用“进行／作出／关于……的问题”这类翻译体套话；但官方公文的敬语与正式语域除外（见第 6 条）。",
+  "长句保留为一整句：德文一句＝中文一句（机器校验），保持逗号、分号、冒号的层级，按原文嵌套层次展开，不拆成一串短句，也不重排语序；不增不删：不漏否定词、不漏被动、不漏半句；一句只译一次，定语从句、插入语都只出现一次。",
+  "术语严格一词一译：一个德文术语只用一个中文译名，一个中文译名也只用于一个德文术语；逻辑学术语（Sein 存在、Nichts 无、Werden 生成、Dasein 定在、Wesen 本质、Begriff 概念、Urteil 判断、Schluß 推论、Aufhebung 扬弃、Moment 环节、Vermittlung 中介、Unmittelbarkeit 直接性）与 w3 及共享词表一致，全卷统一。",
+  "同源可见与例外登记：同一句里出现同族词（如 Sittlichkeit 与 sittlich、Freiheit 与 frei、Idee 与 ideell），中文要让读者看出同源关系；日常义例外（ideal＝理想的、realisieren＝实现、real 在非体系语境）须回词族词根或登记在词表 note 里，体系义必须回到词族词根。",
+  "反身代词与格、主宾关系逐句核对：德语第三格 sich 多数是“对自己／为自己”，不是“自己”；es ist / es gibt 常等于“有”，不要一律译成“它是”；德语长句里分句的主语常发生切换，必须显式处理，不得让前后分句的主语颠倒或含糊。分级符号、公式与引文原样保留：§、A./B./C.、a) b) c)、α) β) γ)、A = A、Ich = Ich、Satz des Widerspruchs 等公式性表达、quaternio terminorum 等拉丁术语、法谚与拉丁/希腊引文不译不动，必要时括注中文；人名、书名、地名用通行中译，首次出现附原文。"
+ ],
+ "entries": [
+  {
+   "source": "Idee",
+   "en": "idea",
+   "zh": "观念",
+   "type": "term",
+   "note": "政策：词族 Idee 的词根是“观念”，严禁“理念”；absolute Idee＝绝对观念"
+  },
+  {
+   "source": "ideell",
+   "en": "ideal (of ideality)",
+   "zh": "观念的",
+   "type": "term",
+   "note": "与 reell（实在的）对举；政策：严禁“理想的”"
+  },
+  {
+   "source": "das Ideelle",
+   "en": "the ideal element",
+   "zh": "观念物",
+   "type": "term",
+   "note": "与 das Reelle（实在物）对举"
+  },
+  {
+   "source": "Idealität",
+   "en": "ideality",
+   "zh": "观念性",
+   "type": "term",
+   "note": "与 Realität（实在性）对举"
+  },
+  {
+   "source": "Idealismus",
+   "en": "idealism",
+   "zh": "观念论",
+   "type": "term",
+   "note": "政策：严禁“唯心主义”；书名同此"
+  },
+  {
+   "source": "idealistisch",
+   "en": "idealistic",
+   "zh": "观念论的",
+   "type": "term",
+   "note": "政策：严禁“唯心的”"
+  },
+  {
+   "source": "Ideenlehre",
+   "en": "doctrine of ideas",
+   "zh": "观念论",
+   "type": "term",
+   "note": "本卷第三部分标题，指黑格尔自己的观念学说；严禁照共享词表中柏拉图义的“理念论”来译（共享词表 Ideenlehre→理念论专指柏拉图，本卷不适用）"
+  },
+  {
+   "source": "absolute Idee",
+   "en": "absolute idea",
+   "zh": "绝对观念",
+   "type": "term",
+   "note": "Idee 词族；本卷逻辑讲稿第三部分“Absolute Idee oder das Wissen”"
+  },
+  {
+   "source": "Idee des Lebens",
+   "en": "idea of life",
+   "zh": "生命的观念",
+   "type": "term",
+   "note": "Ideenlehre 第一节；另节 Idee der Erkenntnis und des Guten＝认识与善的观念"
+  },
+  {
+   "source": "Realität",
+   "en": "reality",
+   "zh": "实在性",
+   "type": "term",
+   "note": "与 Idealität（观念性）对举；严禁“现实性”"
+  },
+  {
+   "source": "real",
+   "en": "real",
+   "zh": "实在的",
+   "type": "term",
+   "note": "与 ideell（观念的）对举；非体系日常义（如“真格的”）须登记例外"
+  },
+  {
+   "source": "das Reelle",
+   "en": "the real element",
+   "zh": "实在物",
+   "type": "term",
+   "note": "与 das Ideelle（观念物）对举"
+  },
+  {
+   "source": "Realismus",
+   "en": "realism",
+   "zh": "实在论",
+   "type": "term",
+   "note": "与 Idealismus（观念论）对举；严禁“现实主义”"
+  },
+  {
+   "source": "Begriff",
+   "en": "concept",
+   "zh": "概念",
+   "type": "term",
+   "note": "与 Vorstellung（表象）、Anschauung（直观）区分；严禁用“观念”"
+  },
+  {
+   "source": "begreifen",
+   "en": "to comprehend",
+   "zh": "以概念把握",
+   "type": "term",
+   "note": "体系义须含“概念”；非体系语境的日常义才可作“领会”"
+  },
+  {
+   "source": "Vorstellung",
+   "en": "representation",
+   "zh": "表象",
+   "type": "term",
+   "note": "政策：严禁用“观念”译 Vorstellung（该词根留给 Idee 族）"
+  },
+  {
+   "source": "Geist",
+   "en": "spirit",
+   "zh": "精神",
+   "type": "term",
+   "note": "与 Seele（灵魂）、Bewußtsein（意识）区分；不作“心灵”“灵魂”"
+  },
+  {
+   "source": "geistig",
+   "en": "spiritual",
+   "zh": "精神的",
+   "type": "term",
+   "note": "geistige Religion＝精神宗教（本卷宗教讲稿标题）"
+  },
+  {
+   "source": "Wissen",
+   "en": "knowing / knowledge",
+   "zh": "知识",
+   "type": "term",
+   "note": "活动义作“知”，结果义作“知识”；与 Erkenntnis（认识）分开；Idee des Wissens oder der Wahrheit＝知识或真理的观念"
+  },
+  {
+   "source": "Wahrheit",
+   "en": "truth",
+   "zh": "真理",
+   "type": "term",
+   "note": "与 Gewißheit（确定性）对举"
+  },
+  {
+   "source": "Sein",
+   "en": "being",
+   "zh": "存在",
+   "type": "term",
+   "note": "与 das Seiende（存在者）、Dasein（定在）分开；A. Sein, Nichts, Werden＝存在、无、生成"
+  },
+  {
+   "source": "Nichts",
+   "en": "nothing",
+   "zh": "无",
+   "type": "term",
+   "note": "逻辑讲稿三一体“Sein—Nichts—Werden（存在—无—生成）”"
+  },
+  {
+   "source": "Werden",
+   "en": "becoming",
+   "zh": "生成",
+   "type": "term",
+   "note": "共享词表 Werden→生成（variante，亦作“变易”）；本卷统一“生成”"
+  },
+  {
+   "source": "Dasein",
+   "en": "determinate being",
+   "zh": "定在",
+   "type": "term",
+   "note": "与 Existenz（存在）严格分开；凡 Dasein 一律“定在”"
+  },
+  {
+   "source": "Fürsichsein",
+   "en": "being-for-itself",
+   "zh": "自为存在",
+   "type": "term",
+   "note": "与 Ansichsein（自在存在）对举"
+  },
+  {
+   "source": "Ansichsein",
+   "en": "being-in-itself",
+   "zh": "自在存在",
+   "type": "term",
+   "note": "与 Fürsichsein（自为存在）对举"
+  },
+  {
+   "source": "Wesen",
+   "en": "essence",
+   "zh": "本质",
+   "type": "term",
+   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法"
+  },
+  {
+   "source": "Erscheinung",
+   "en": "appearance",
+   "zh": "现象",
+   "type": "term",
+   "note": "与 Schein（假象）、Wesen（本质）区分；Erscheinungswelt＝现象世界"
+  },
+  {
+   "source": "Wirklichkeit",
+   "en": "actuality",
+   "zh": "现实性",
+   "type": "term",
+   "note": "与 Realität（实在性）、Möglichkeit（可能性）、Notwendigkeit（必然性）并列"
+  },
+  {
+   "source": "Notwendigkeit",
+   "en": "necessity",
+   "zh": "必然性",
+   "type": "term",
+   "note": "共享词表；与 Zufälligkeit（偶然性）对举"
+  },
+  {
+   "source": "Substanz",
+   "en": "substance",
+   "zh": "实体",
+   "type": "term",
+   "note": "“实体即主体”（Substanz als Subjekt）；本卷 Wirklichkeit 部分 1. Substanz 2. Ursache 3. Wechselwirkung"
+  },
+  {
+   "source": "Ursache",
+   "en": "cause",
+   "zh": "原因",
+   "type": "term",
+   "note": "与 Wirkung（效果）对举；tätige Ursache＝起作用的原因"
+  },
+  {
+   "source": "Wirkung",
+   "en": "effect",
+   "zh": "效果",
+   "type": "term",
+   "note": "兼有“作用”义；与 Ursache（原因）对举"
+  },
+  {
+   "source": "Wechselwirkung",
+   "en": "reciprocal action",
+   "zh": "相互作用",
+   "type": "term",
+   "note": "Wirklichkeit 部分第三项；亦作“交互作用”"
+  },
+  {
+   "source": "Grund",
+   "en": "ground",
+   "zh": "根据",
+   "type": "term",
+   "note": "Grund und Begründetes＝根据与被根据者；Satz des Grundes＝根据命题；与 Ursache（原因）区分"
+  },
+  {
+   "source": "Moment",
+   "en": "moment",
+   "zh": "环节",
+   "type": "term",
+   "note": "严禁“时刻”；黑格尔的 Moment 是整体的环节"
+  },
+  {
+   "source": "Aufhebung",
+   "en": "sublation",
+   "zh": "扬弃",
+   "type": "term",
+   "note": "全卷统一；严禁拆成“取消＋保存”"
+  },
+  {
+   "source": "aufheben",
+   "en": "to sublate",
+   "zh": "扬弃",
+   "type": "term",
+   "note": "全卷统一"
+  },
+  {
+   "source": "Vermittlung",
+   "en": "mediation",
+   "zh": "中介",
+   "type": "term",
+   "note": "与 Unmittelbarkeit（直接性）成对；不作“媒介化”"
+  },
+  {
+   "source": "Unmittelbarkeit",
+   "en": "immediacy",
+   "zh": "直接性",
+   "type": "term",
+   "note": "与 Vermittlung（中介）成对"
+  },
+  {
+   "source": "Reflexion",
+   "en": "reflection",
+   "zh": "反思",
+   "type": "term",
+   "note": "哲学义作“反思”；不作“反映”"
+  },
+  {
+   "source": "Bestimmtheit",
+   "en": "determinacy",
+   "zh": "规定性",
+   "type": "term",
+   "note": "与 Gewißheit（确定性）分开"
+  },
+  {
+   "source": "Gewißheit",
+   "en": "certainty",
+   "zh": "确定性",
+   "type": "term",
+   "note": "与 Bestimmtheit（规定性）分开"
+  },
+  {
+   "source": "Identität",
+   "en": "identity",
+   "zh": "同一性",
+   "type": "term",
+   "note": "Satz der Identität＝同一性命题：A = A"
+  },
+  {
+   "source": "Widerspruch",
+   "en": "contradiction",
+   "zh": "矛盾",
+   "type": "term",
+   "note": "Satz des Widerspruchs＝矛盾命题：A 不能同时是 A 又不是 A"
+  },
+  {
+   "source": "Negation",
+   "en": "negation",
+   "zh": "否定",
+   "type": "term",
+   "note": "Negation der Negation＝否定之否定；omnis determinatio est negatio 见 doNotTranslate（拉丁引文）"
+  },
+  {
+   "source": "Negativität",
+   "en": "negativity",
+   "zh": "否定性",
+   "type": "term",
+   "note": "绝对否定性（absolute Negativität）是自由的源泉（本卷雅可比评论文）"
+  },
+  {
+   "source": "Qualität",
+   "en": "quality",
+   "zh": "质",
+   "type": "term",
+   "note": "A. Qualität（质）B. Quantität（量）C. Maß（度）；本卷逻辑讲稿三分"
+  },
+  {
+   "source": "Quantität",
+   "en": "quantity",
+   "zh": "量",
+   "type": "term",
+   "note": "与 Qualität（质）并列"
+  },
+  {
+   "source": "Maß",
+   "en": "measure",
+   "zh": "度",
+   "type": "term",
+   "note": "逻辑三一体“质—量—度”"
+  },
+  {
+   "source": "Urteil",
+   "en": "judgment",
+   "zh": "判断",
+   "type": "term",
+   "note": "本卷逻辑讲稿“II. Urteil”标题；与 Schluß（推论）区分"
+  },
+  {
+   "source": "Schluß",
+   "en": "syllogism",
+   "zh": "推论",
+   "type": "term",
+   "note": "共享词表 Schluß→推论；与 Extrem＝极端、Mitte＝中项 配套；本卷逻辑讲稿“III. Schluß”标题"
+  },
+  {
+   "source": "Zweck",
+   "en": "purpose",
+   "zh": "目的",
+   "type": "term",
+   "note": "共享词表；teleologischer Begriff＝目的论概念；Endzweck＝终极目的（共享词表）"
+  },
+  {
+   "source": "Antinomie",
+   "en": "antinomy",
+   "zh": "二律背反",
+   "type": "term",
+   "note": "共享词表；本卷“Anhang über die Antinomien”标题，康德义"
+  },
+  {
+   "source": "Recht",
+   "en": "right / law",
+   "zh": "权利（法）",
+   "type": "term",
+   "note": "裁定：① 法哲学讲稿（chunk 7 等）中 das Recht an sich、das allgemeine Recht、Rechtsverletzung 等主体间自由与人格义，一律“权利”；② 成文制度／公法义（das formelle Recht、Rechtsprinzip、positive Rechte 实定法、rechtliche Ansprüche）作“法”。判据＝语境指主体间的自由关系还是指成文制度。共享词表 Recht→权利（variante）在此卷主用法成立。"
+  },
+  {
+   "source": "Rechtslehre",
+   "en": "doctrine of right",
+   "zh": "法权学说",
+   "type": "term",
+   "note": "本卷“Erster Abschnitt Rechtslehre”标题；亦作“法哲学”"
+  },
+  {
+   "source": "Rechtspflicht",
+   "en": "legal duty",
+   "zh": "法权义务",
+   "type": "term",
+   "note": "Pflichten gegen andere 中“Rechtspflichten”＝法权义务；与道德义务区分"
+  },
+  {
+   "source": "positive Gesetze",
+   "en": "positive laws",
+   "zh": "实定法",
+   "type": "term",
+   "note": "与 Naturrecht（自然法）、absolutes Recht（绝对权利）对照；本卷“nur positive Gesetze, Rechte”＝只是实定法、法"
+  },
+  {
+   "source": "Person",
+   "en": "person",
+   "zh": "人格",
+   "type": "term",
+   "note": "法权义作“人格”（eine rechtliche Person＝法律人格）；“个人”留给 Individuum"
+  },
+  {
+   "source": "Eigentum",
+   "en": "property",
+   "zh": "财产",
+   "type": "term",
+   "note": "共享词表；Eigentumsrecht＝财产权"
+  },
+  {
+   "source": "Besitz",
+   "en": "possession",
+   "zh": "占有",
+   "type": "term",
+   "note": "与 Eigentum（财产）区分；Besitznahme＝占有取得"
+  },
+  {
+   "source": "Vertrag",
+   "en": "contract",
+   "zh": "契约",
+   "type": "term",
+   "note": "pactum（拉丁，保留原文括注“契约”）；Schenkungsvertrag＝赠与契约、Tauschvertrag＝交换契约"
+  },
+  {
+   "source": "Staat",
+   "en": "state",
+   "zh": "国家",
+   "type": "term",
+   "note": "共享词表；本卷政治哲学核心词（全卷高频）；Staatsregierung＝国家政府；Der Staat (Realer Geist)＝国家（现实精神）"
+  },
+  {
+   "source": "Staatsgesellschaft",
+   "en": "state society",
+   "zh": "国家社会",
+   "type": "term",
+   "note": "本卷实际用词（5 次，如“allgemeine Staatsgesellschaft”“sein Bestehen in der Staatsgesellschaft”）；本卷不用 bürgerliche Gesellschaft（0 次）。裁定：Staatsgesellschaft→国家社会，勿因通行“市民社会”而误译"
+  },
+  {
+   "source": "Volksgeist",
+   "en": "spirit of a people",
+   "zh": "民族精神",
+   "type": "term",
+   "note": "共享词表；in sich einiger, individueller Volksgeist＝自身统一的、个体性的民族精神"
+  },
+  {
+   "source": "Verfassung",
+   "en": "constitution",
+   "zh": "宪法",
+   "type": "term",
+   "note": "共享词表；本卷全卷高频（228 次）；repräsentative Verfassung＝代议制宪法、königliche Verfassung＝王家宪法、Reichsverfassung＝帝国宪法"
+  },
+  {
+   "source": "Konstitution",
+   "en": "constitution (charter)",
+   "zh": "宪章",
+   "type": "term",
+   "note": "与 Verfassung 分开：Konstitution 指成文宪章/宪法文件（本卷 26 次，如 königliche Konstitution、Konstitutionsurkunde 宪章文书）；Verfassung 指宪法（体制）。裁定依据＝指书面文件还是指制度。"
+  },
+  {
+   "source": "Landstände",
+   "en": "provincial estates",
+   "zh": "等级议会",
+   "type": "term",
+   "note": "本卷符腾堡评论核心词（79 次）；任务明令 Landstände→等级议会。裁定：指符腾堡王国的等级代表机构，不译“地方等级”（共享词表 variante 在此卷作废）；全卷统一“等级议会”。"
+  },
+  {
+   "source": "Ständeversammlung",
+   "en": "assembly of the estates",
+   "zh": "等级会议",
+   "type": "term",
+   "note": "本卷 87 次，指等级议会的全体会议/开会场次；与 Landstände（等级议会，机构）区分。裁定依据＝Versammlung 强调“会集、会议”的动作与场合。"
+  },
+  {
+   "source": "Stände",
+   "en": "estates",
+   "zh": "等级",
+   "type": "term",
+   "note": "共享词表 Stände→等级（指等级与等级会议）；不作“阶级”；Standesherren＝等级领主"
+  },
+  {
+   "source": "Repräsentant",
+   "en": "representative",
+   "zh": "代表",
+   "type": "term",
+   "note": "本卷 16 次；Repräsentation（代表制，共享词表）同族；Repräsentativverfassung＝代议制宪法"
+  },
+  {
+   "source": "Deputierte",
+   "en": "deputies",
+   "zh": "议员",
+   "type": "term",
+   "note": "altwürttembergische Deputierten＝老符腾堡议员；与 Repräsentant（代表）同义互用，中文统一“议员”"
+  },
+  {
+   "source": "Regierung",
+   "en": "government",
+   "zh": "政府",
+   "type": "term",
+   "note": "本卷政治评论中与 Stände 相对的主体；Staatsregierung＝国家政府"
+  },
+  {
+   "source": "Obrigkeit",
+   "en": "authority",
+   "zh": "当局",
+   "type": "term",
+   "note": "指国家政权/主管当局；与 Regierung（政府）区分"
+  },
+  {
+   "source": "Souveränität",
+   "en": "sovereignty",
+   "zh": "主权",
+   "type": "term",
+   "note": "trat … in die Souveränität über＝转入主权地位"
+  },
+  {
+   "source": "Monarchie",
+   "en": "monarchy",
+   "zh": "君主制",
+   "type": "term",
+   "note": "deutsche Monarchie＝德意志君主国"
+  },
+  {
+   "source": "Staatsministerium",
+   "en": "state ministry",
+   "zh": "国务部",
+   "type": "term",
+   "note": "königliches Staatsministerium＝王家国务部；亦作“内阁”（按上下文）"
+  },
+  {
+   "source": "allgemeiner Wille",
+   "en": "general will",
+   "zh": "普遍意志",
+   "type": "term",
+   "note": "der allgemeine Wille des Ganzen＝整体的普遍意志；与 besonderer Wille（特殊意志）区分"
+  },
+  {
+   "source": "Willkür",
+   "en": "arbitrariness",
+   "zh": "任意",
+   "type": "term",
+   "note": "共享词表 Willkür→任意（unsicher，能力义亦作“任性”）；本卷 35 次，全卷统一“任意”"
+  },
+  {
+   "source": "Sittlichkeit",
+   "en": "ethical life",
+   "zh": "伦理",
+   "type": "term",
+   "note": "与 Moralität（道德）严格分开；sittlich＝伦理的；本卷“Staat 部分”Sittlichkeit 指家庭—国家社会的伦理整体"
+  },
+  {
+   "source": "Moralität",
+   "en": "morality",
+   "zh": "道德",
+   "type": "term",
+   "note": "与 Sittlichkeit（伦理）严格分开；本卷“II. Die Moralität”标题（实践精神部分）"
+  },
+  {
+   "source": "Pflicht",
+   "en": "duty",
+   "zh": "义务",
+   "type": "term",
+   "note": "共享词表；本卷全卷高频（102 次）；Pflichtenlehre oder Moral＝义务论或道德（学）"
+  },
+  {
+   "source": "Pflichtenlehre",
+   "en": "doctrine of duties",
+   "zh": "义务论",
+   "type": "term",
+   "note": "本卷“Zweiter Abschnitt Pflichtenlehre oder Moral”标题"
+  },
+  {
+   "source": "Freiheit",
+   "en": "freedom",
+   "zh": "自由",
+   "type": "term",
+   "note": "本卷全卷高频（131 次）；Willensfreiheit＝意志自由；freies Wesen＝自由的存在"
+  },
+  {
+   "source": "Patriotismus",
+   "en": "patriotism",
+   "zh": "爱国主义",
+   "type": "term",
+   "note": "本卷 4 次；auf das Bewußtsein der Absolutheit des Staats＝基于对国家绝对性的意识"
+  },
+  {
+   "source": "Gesinnung",
+   "en": "disposition",
+   "zh": "心态",
+   "type": "term",
+   "note": "共享词表 Gesinnung→意向（variante）；本卷政治/伦理语境多指“心态、情怀”，取“心态”；sittliche Gesinnung＝伦理心态"
+  },
+  {
+   "source": "Staatsbürger",
+   "en": "citizen of the state",
+   "zh": "国家公民",
+   "type": "term",
+   "note": "本卷“Staatsbürger”指作为国家成员的公民；与 Bürger（公民/市民）区分（见 bourgeois/citoyen）"
+  },
+  {
+   "source": "Bürger",
+   "en": "citizen / burgher",
+   "zh": "公民（市民）",
+   "type": "term",
+   "note": "政治义作“公民”；本卷有“Unterschied von Bürger als bourgeois und citoyen”＝作为 bourgeois（市民）与 citoyen（公民）的公民之别（法文原词保留）"
+  },
+  {
+   "source": "Gymnasium",
+   "en": "grammar school / gymnasium",
+   "zh": "文科中学",
+   "type": "term",
+   "note": "严禁“体育馆”（德语 Gymnasium＝中学）；本卷 28 次；Gymnasialklassen＝文科中学各班"
+  },
+  {
+   "source": "Progymnasium",
+   "en": "preparatory school",
+   "zh": "预科中学",
+   "type": "term",
+   "note": "介于小学与文科中学之间的预备学校；Progymnasialklassen＝预科中学各班"
+  },
+  {
+   "source": "Studienanstalt",
+   "en": "institution of higher study",
+   "zh": "高等学府",
+   "type": "term",
+   "note": "Studienanstalten 复数指中等以上学校（本卷 11 次）；Studieninstitut＝高等学院（同义）"
+  },
+  {
+   "source": "Schuljahr",
+   "en": "school year",
+   "zh": "学年",
+   "type": "term",
+   "note": "与 Studienjahr（学年）同义；Gymnasialschuljahr＝文科中学学年"
+  },
+  {
+   "source": "Klasse",
+   "en": "class",
+   "zh": "班级",
+   "type": "term",
+   "note": "Unterklasse＝低年级、Mittelklasse＝中年级、Oberklasse＝高年级；Kollaboraturklasse＝协作班"
+  },
+  {
+   "source": "Primärschule",
+   "en": "primary school",
+   "zh": "初级学校",
+   "type": "term",
+   "note": "Unterprimärschule＝下级初级学校、Oberprimärschule＝上级初级学校；本卷 Nürnberg 学制 10 年"
+  },
+  {
+   "source": "Kollaboraturklasse",
+   "en": "collaborature class",
+   "zh": "协作班",
+   "type": "term",
+   "note": "本卷纽伦堡学制中的预备班（Lorenzer- 与 Sebalderklasse）；保留译名“协作班”"
+  },
+  {
+   "source": "Zögling",
+   "en": "pupil",
+   "zh": "学生",
+   "type": "term",
+   "note": "共享词表 Zögling→学生（variante）；指受教者；本卷 3 次"
+  },
+  {
+   "source": "Rektor",
+   "en": "rector",
+   "zh": "校长",
+   "type": "term",
+   "note": "Rektor Schenk（本卷悼词对象）；Gymnasium 校长"
+  },
+  {
+   "source": "Oberschulrat",
+   "en": "senior school councillor",
+   "zh": "督学",
+   "type": "term",
+   "note": "Königlich Bayrischer Oberschulrat Immanuel Niethammer＝巴伐利亚王家督学尼特哈默；“Über den Vortrag der Philosophie”即致其的咨询报告"
+  },
+  {
+   "source": "Realinstitut",
+   "en": "realschule / vocational institute",
+   "zh": "实科学校",
+   "type": "term",
+   "note": "本卷“Gutachten über die Stellung des Realinstituts”＝关于实科学校地位的鉴定书；严禁“现实研究所”"
+  },
+  {
+   "source": "Vortrag",
+   "en": "delivery / lectures",
+   "zh": "讲授",
+   "type": "term",
+   "note": "Über den Vortrag der Philosophie auf Gymnasien＝关于在文科中学讲授哲学；Vortrag 指讲授法/讲授方式，不作“讲座”"
+  },
+  {
+   "source": "Disziplin",
+   "en": "discipline",
+   "zh": "纪律",
+   "type": "term",
+   "note": "本卷学校语境指纪律/训育；不作“学科”（学科用 Fach/Wissenschaft）"
+  },
+  {
+   "source": "Zucht",
+   "en": "discipline / training",
+   "zh": "训育",
+   "type": "term",
+   "note": "与 Disziplin 区分：Zucht 偏“训导、管教”（本卷“Zucht der Sitten”＝风纪的训育）；Zucht und Ordnung＝秩序与纪律"
+  },
+  {
+   "source": "Erziehung",
+   "en": "upbringing",
+   "zh": "教育",
+   "type": "term",
+   "note": "与 Bildung（教养）分开；häusliche Erziehung＝家庭教育；Erziehungsanstalt＝教育机构"
+  },
+  {
+   "source": "Bildung",
+   "en": "formation / culture",
+   "zh": "教养",
+   "type": "term",
+   "note": "共享词表 Bildung→教养；Geistesbildung＝精神教养；Sittenbildung＝风纪教养；本卷教育语境高频"
+  },
+  {
+   "source": "Religionslehre",
+   "en": "doctrine of religion",
+   "zh": "宗教学说",
+   "type": "term",
+   "note": "本卷“Religionslehre für die Unterklasse / Mittel- und Oberklasse”标题；与 Religionsunterricht（宗教课）区分"
+  },
+  {
+   "source": "Religionsunterricht",
+   "en": "religious instruction",
+   "zh": "宗教课",
+   "type": "term",
+   "note": "本卷“Religionsunterricht wöchentlich eine Stunde”＝宗教课每周一小时"
+  },
+  {
+   "source": "Kultus",
+   "en": "cult / worship",
+   "zh": "礼拜",
+   "type": "term",
+   "note": "共享词表 Kultus→崇拜；本卷“öffentlicher Kultus”“allgemeiner Kultus”指公共礼拜；Gottesdienst＝礼拜（共享词表）"
+  },
+  {
+   "source": "Katechisation",
+   "en": "catechization",
+   "zh": "教理问答",
+   "type": "term",
+   "note": "kirchliche Katechisationen＝教会的教理问答课；Katechismus＝教义问答（共享词表）"
+  },
+  {
+   "source": "Religion",
+   "en": "religion",
+   "zh": "宗教",
+   "type": "term",
+   "note": "共享词表；geistige Religion＝精神宗教；moralische Religion＝道德宗教；natürliche Religion＝自然宗教"
+  },
+  {
+   "source": "Gott",
+   "en": "God",
+   "zh": "上帝",
+   "type": "term",
+   "note": "本卷宗教讲稿多用“上帝”（与绝对本质、精神同义互文）；göttlich＝神圣的"
+  },
+  {
+   "source": "Gottesverehrung",
+   "en": "worship of God",
+   "zh": "敬神",
+   "type": "term",
+   "note": "Kultus der Gottesverehrung＝敬神的礼拜"
+  },
+  {
+   "source": "absolute Aktuosität",
+   "en": "absolute activity",
+   "zh": "绝对能动性",
+   "type": "term",
+   "note": "Gott … als absolute Aktuosität＝上帝作为绝对能动性；Aktuosität 是黑格尔自造词（活动性/能动性）"
+  },
+  {
+   "source": "Gemeine",
+   "en": "congregation",
+   "zh": "教团",
+   "type": "term",
+   "note": "共享词表 Gemeine→教团；Leben Gottes in seiner Gemeinde＝上帝在其教团中的生命"
+  },
+  {
+   "source": "Jacobi",
+   "en": "Jacobi",
+   "zh": "雅可比",
+   "type": "person",
+   "note": "本卷海德堡书评对象；Jacobische Philosophie＝雅可比哲学；通行中译“雅可比”"
+  },
+  {
+   "source": "Spinoza",
+   "en": "Spinoza",
+   "zh": "斯宾诺莎",
+   "type": "person",
+   "note": "Spinozismus＝斯宾诺莎主义；雅可比《关于斯宾诺莎学说的书信》"
+  },
+  {
+   "source": "Niethammer",
+   "en": "Niethammer",
+   "zh": "尼特哈默",
+   "type": "person",
+   "note": "Immanuel Niethammer；巴伐利亚督学，黑格尔在纽伦堡的上级与通信对象"
+  },
+  {
+   "source": "Württemberg",
+   "en": "Württemberg",
+   "zh": "符腾堡",
+   "type": "place",
+   "note": "本卷政治评论对象；altwürttembergisch＝老符腾堡的；württembergische Lande＝符腾堡领地"
+  },
+  {
+   "source": "Landstände des Königreichs Württemberg",
+   "en": "Estates of the Kingdom of Württemberg",
+   "zh": "符腾堡王国等级议会",
+   "type": "term",
+   "note": "本卷长评标题对象；“Verhandlungen in der Versammlung der Landstände”＝等级议会会议中的审议"
+  },
+  {
+   "source": "Phänomenologie des Geistes",
+   "en": "Phenomenology of Spirit",
+   "zh": "《精神现象学》",
+   "type": "work",
+   "note": "本卷 Geist 部分“Gegenstand der Phänomenologie des Geistes”＝《精神现象学》的对象"
+  },
+  {
+   "source": "Wissenschaft der Logik",
+   "en": "Science of Logic",
+   "zh": "《逻辑学》",
+   "type": "work",
+   "note": "共享词表；全称《逻辑学》，不作“逻辑科学”"
+  },
+  {
+   "source": "Anderssein",
+   "en": "otherness",
+   "zh": "他在",
+   "type": "term",
+   "note": "第33波统一：与 w3 一致作「他在」（全库 249 处）。本卷初译曾作「他者性」，已回改为「他在」。与 das Andere（他物）严格分开。"
+  },
+  {
+   "source": "Etwas",
+   "en": "something",
+   "zh": "某物",
+   "type": "term",
+   "note": "逻辑学固定术语（全库 58 处，与 w3 一致）；与日常「某事」及 Etwasheit（某物性）分开。"
+  },
+  {
+   "source": "Quantum",
+   "en": "quantum",
+   "zh": "量数",
+   "type": "term",
+   "note": "★须与 Quantität（量）严格分译，否则「Quantum 就是量」会滑向物理义「量子」。本卷用法：Quantität 是范畴（量的规定），Quantum 是由「无差别的界限」产生的具体量。第33波实测 8 处已核。"
+  },
+  {
+   "source": "Außersichsein",
+   "en": "being-outside-self",
+   "zh": "在外存在",
+   "type": "term",
+   "note": "补上下文包缺失的第三档：Ansichsein（自在存在）／Fürsichsein（自为存在）／Außersichsein（在外存在）。第33波首现 1 处。"
+  },
+  {
+   "source": "das Eins",
+   "en": "the One",
+   "zh": "一",
+   "type": "term",
+   "note": "与 das Eine（太一/绝对者）分开；本卷逻辑讲稿中的「一」是数量单位。"
+  },
+  {
+   "source": "extensives Quantum",
+   "en": "extensive quantum",
+   "zh": "外延量数",
+   "type": "term",
+   "note": "与 intensives Quantum（内含量数）对举；取「外延／内含」以显与 extensive/intensive 的对应。"
+  },
+  {
+   "source": "intensives Quantum",
+   "en": "intensive quantum",
+   "zh": "内含量数",
+   "type": "term",
+   "note": "与 extensives Quantum（外延量数）对举。"
+  }
+ ],
+ "forbidden": [
+  {
+   "source": "Idee",
+   "forbidden": "理念",
+   "prefer": "观念",
+   "why": "政策：词族一致的词根是“观念”，严禁“理念”（含书名与学派名）"
+  },
+  {
+   "source": "Idealismus",
+   "forbidden": "唯心主义",
+   "prefer": "观念论",
+   "why": "政策：严禁“唯心主义”"
+  },
+  {
+   "source": "idealistisch",
+   "forbidden": "唯心的",
+   "prefer": "观念论的",
+   "why": "政策：严禁“唯心的”"
+  },
+  {
+   "source": "Idealität",
+   "forbidden": "理想性",
+   "prefer": "观念性",
+   "why": "“理想”留给 Ideal；词族词根为“观念”"
+  },
+  {
+   "source": "Ideal",
+   "forbidden": "观念",
+   "prefer": "理想",
+   "why": "日常／美学义作“理想”；体系义才回 Idee 族"
+  },
+  {
+   "source": "ideell",
+   "forbidden": "理想的",
+   "prefer": "观念的",
+   "why": "与 Ideal（理想）分开；ideell 是观念性的"
+  },
+  {
+   "source": "Ideenlehre",
+   "forbidden": "理念论",
+   "prefer": "观念论",
+   "why": "本卷 Ideenlehre 是黑格尔自己的观念学说；共享词表 Plato 义“理念论”不适用于本卷"
+  },
+  {
+   "source": "Realität",
+   "forbidden": "现实性",
+   "prefer": "实在性",
+   "why": "与 Wirklichkeit（现实性）严格分开"
+  },
+  {
+   "source": "Realismus",
+   "forbidden": "现实主义",
+   "prefer": "实在论",
+   "why": "与 Idealismus（观念论）对举；严禁“现实主义”"
+  },
+  {
+   "source": "reell",
+   "forbidden": "现实的",
+   "prefer": "实在的",
+   "why": "与 wirklich（现实的）严格分开"
+  },
+  {
+   "source": "Begriff",
+   "forbidden": "观念",
+   "prefer": "概念",
+   "why": "“观念”留给 Idee 家族"
+  },
+  {
+   "source": "Vorstellung",
+   "forbidden": "观念",
+   "prefer": "表象",
+   "why": "政策：严禁用“观念”译 Vorstellung"
+  },
+  {
+   "source": "Geist",
+   "forbidden": "灵魂",
+   "prefer": "精神",
+   "why": "全卷统一“精神”；“灵魂”留给 Seele；也不作“心灵”"
+  },
+  {
+   "source": "Dasein",
+   "forbidden": "存在",
+   "prefer": "定在",
+   "why": "与 Existenz（存在）严格分开；凡 Dasein 一律“定在”"
+  },
+  {
+   "source": "Erscheinung",
+   "forbidden": "假象",
+   "prefer": "现象",
+   "why": "与 Schein（假象）分开"
+  },
+  {
+   "source": "Schein",
+   "forbidden": "现象",
+   "prefer": "假象",
+   "why": "与 Erscheinung（现象）分开"
+  },
+  {
+   "source": "Bestimmtheit",
+   "forbidden": "确定性",
+   "prefer": "规定性",
+   "why": "“确定性”留给 Gewißheit"
+  },
+  {
+   "source": "Gewißheit",
+   "forbidden": "规定性",
+   "prefer": "确定性",
+   "why": "与 Bestimmtheit（规定性）分开"
+  },
+  {
+   "source": "Moment",
+   "forbidden": "时刻",
+   "prefer": "环节",
+   "why": "黑格尔的 Moment 指整体的环节，不是时间上的时刻"
+  },
+  {
+   "source": "Aufhebung",
+   "forbidden": "取消",
+   "prefer": "扬弃",
+   "why": "全卷统一“扬弃”；严禁拆成“取消＋保存”"
+  },
+  {
+   "source": "aufheben",
+   "forbidden": "消灭",
+   "prefer": "扬弃",
+   "why": "全卷统一；读者批评要点名的“消灭”误译"
+  },
+  {
+   "source": "Verstand",
+   "forbidden": "理智",
+   "prefer": "知性",
+   "why": "全卷统一“知性”"
+  },
+  {
+   "source": "Anschauung",
+   "forbidden": "直觉",
+   "prefer": "直观",
+   "why": "全卷统一“直观”"
+  },
+  {
+   "source": "Sittlichkeit",
+   "forbidden": "道德",
+   "prefer": "伦理",
+   "why": "与 Moralität（道德）严格分开；通行误把 Sittlichkeit 译“道德”是本卷第一要防"
+  },
+  {
+   "source": "Moralität",
+   "forbidden": "伦理",
+   "prefer": "道德",
+   "why": "与 Sittlichkeit（伦理）严格分开"
+  },
+  {
+   "source": "Recht",
+   "forbidden": "法律",
+   "prefer": "权利（法）",
+   "why": "法哲学讲稿中 Recht 指主体间自由与人格，一律“权利”；成文制度义才作“法”。严禁一律译“法律”。裁定依据见 entries Recht"
+  },
+  {
+   "source": "Rechtslehre",
+   "forbidden": "法学",
+   "prefer": "法权学说",
+   "why": "本卷“Erster Abschnitt Rechtslehre”是黑格尔法哲学讲稿，不作“法学”（Rechtswissenschaft）"
+  },
+  {
+   "source": "Staat",
+   "forbidden": "政府",
+   "prefer": "国家",
+   "why": "Staat＝国家（全卷高频）；“政府”留给 Regierung；“政权”亦严禁（本卷 Staat 指作为整体的国家）"
+  },
+  {
+   "source": "Staatsgesellschaft",
+   "forbidden": "市民社会",
+   "prefer": "国家社会",
+   "why": "本卷实际用词是 Staatsgesellschaft（5 次），不是 bürgerliche Gesellschaft（0 次）；误用通行“市民社会”会混淆黑格尔概念"
+  },
+  {
+   "source": "Verfassung",
+   "forbidden": "政体",
+   "prefer": "宪法",
+   "why": "Verfassung 本卷一律“宪法”；“政体”留给 Regierungsform；亦严禁“宪制”（本卷统一“宪法”）"
+  },
+  {
+   "source": "Konstitution",
+   "forbidden": "宪法",
+   "prefer": "宪章",
+   "why": "与 Verfassung 分开：Konstitution 指成文宪章/宪法文件；两者同卷并出时须区分。裁定依据＝书面文件 vs 制度"
+  },
+  {
+   "source": "Landstände",
+   "forbidden": "地方等级",
+   "prefer": "等级议会",
+   "why": "本卷 Landstände（79 次）指符腾堡等级代表机构；共享词表“地方等级”variante 在本卷作废；亦严禁“地主阶级”等后世概念"
+  },
+  {
+   "source": "Ständeversammlung",
+   "forbidden": "等级议会",
+   "prefer": "等级会议",
+   "why": "与 Landstände（等级议会，机构）区分；Ständeversammlung（87 次）指议会的会议场次/全体会议"
+  },
+  {
+   "source": "Stände",
+   "forbidden": "阶级",
+   "prefer": "等级",
+   "why": "共享词表 Stände→等级；封建等级代表制不用“阶级”"
+  },
+  {
+   "source": "Gymnasium",
+   "forbidden": "体育馆",
+   "prefer": "文科中学",
+   "why": "德语 Gymnasium＝文科中学；“体育馆”是典型假朋友（英文 gymnasium 义），本卷为学校"
+  },
+  {
+   "source": "Realinstitut",
+   "forbidden": "现实研究所",
+   "prefer": "实科学校",
+   "why": "Realinstitut＝实科学校（Realschule 一类）；严禁按“现实”词面直译"
+  },
+  {
+   "source": "Kultus",
+   "forbidden": "文化",
+   "prefer": "礼拜",
+   "why": "Kultus 指礼拜仪式；“文化”是 Kultur（假朋友）"
+  },
+  {
+   "source": "Vortrag",
+   "forbidden": "讲座",
+   "prefer": "讲授",
+   "why": "Über den Vortrag der Philosophie＝关于哲学的讲授（讲授法），不作“讲座”"
+  },
+  {
+   "source": "Disziplin",
+   "forbidden": "学科",
+   "prefer": "纪律",
+   "why": "本卷学校语境 Disziplin＝纪律/训育；“学科”用 Fach/Wissenschaft"
+  },
+  {
+   "source": "Bildung",
+   "forbidden": "教育",
+   "prefer": "教养",
+   "why": "“教育”留给 Erziehung；Bildung＝教养（共享词表）"
+  },
+  {
+   "source": "Erziehung",
+   "forbidden": "教养",
+   "prefer": "教育",
+   "why": "与 Bildung（教养）分开；Erziehung＝教育"
+  },
+  {
+   "source": "Zögling",
+   "forbidden": "寄宿生",
+   "prefer": "学生",
+   "why": "共享词表 Zögling→学生（variante）；指受教者，不作“寄宿生”"
+  },
+  {
+   "source": "Wille",
+   "forbidden": "意愿",
+   "prefer": "意志",
+   "why": "本卷法哲学/伦理语境 Wille 一律“意志”；Willkür＝任意；freier Wille＝自由意志"
+  },
+  {
+   "source": "Gesinnung",
+   "forbidden": "思想",
+   "prefer": "心态",
+   "why": "共享词表 Gesinnung→意向；本卷政治/伦理语境取“心态”，不作“思想”（Gedanke）"
+  },
+  {
+   "source": "Subjekt",
+   "forbidden": "主观",
+   "prefer": "主体",
+   "why": "与 subjektiv（主观的）严格分开"
+  },
+  {
+   "source": "Person",
+   "forbidden": "个人",
+   "prefer": "人格",
+   "why": "法权义作“人格”；“个人”留给 Individuum"
+  },
+  {
+   "source": "Reflexion",
+   "forbidden": "反映",
+   "prefer": "反思",
+   "why": "哲学义作“反思”"
+  },
+  {
+   "source": "Erkennen",
+   "forbidden": "认知",
+   "prefer": "认识",
+   "why": "共享词表 Erkennen→认识；与 Wissen（知识）区分；不作“认知”"
+  },
+  {
+   "source": "Quantum",
+   "forbid": "量子",
+   "prefer": "量数",
+   "why": "物理「量子」是致命假朋友；本卷一律「量数」，与 Quantität（量）分译。"
+  },
+  {
+   "source": "Anderssein",
+   "forbid": "他者性",
+   "prefer": "他在",
+   "why": "全库统一「他在」（w3 249 处）；「他者性」易与 das Andere（他物）混。"
+  },
+  {
+   "source": "Etwas",
+   "forbid": "某事",
+   "prefer": "某物",
+   "why": "逻辑学的「某物」不是日常「某事」。"
+  }
+ ],
+ "doNotTranslate": [
+  "a priori",
+  "a posteriori",
+  "quaternio terminorum",
+  "omnis determinatio est negatio",
+  "res nullius",
+  "pactum",
+  "salva ratificatione",
+  "nihil humani a me alienum puto",
+  "S.",
+  "Bd.",
+  "vgl.",
+  "Hrsg.",
+  "hg. von",
+  "u. ö.",
+  "§",
+  "A = A",
+  "Ich = Ich",
+  "E - B - A",
+  "α)",
+  "β)",
+  "γ)",
+  "a)",
+  "b)",
+  "c)",
+  "1.",
+  "2.",
+  "3.",
+  "A.",
+  "B.",
+  "C.",
+  "bourgeois",
+  "citoyen",
+  "cogito ergo sum",
+  "XXXIII",
+  "1808 ff."
+ ]
+}

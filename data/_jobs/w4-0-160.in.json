@@ -1,0 +1,161 @@
+{
+ "id": "w4-0-160",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 0,
+ "chunkTitle": "Nürnberger Schriften",
+ "heading": "III. Schluß",
+ "blocks": [
+  {
+   "bi": 160,
+   "k": "p",
+   "hash": "1h4p9zc11u",
+   "sents": [
+    "§ 64"
+   ]
+  },
+  {
+   "bi": 161,
+   "k": "p",
+   "hash": "b7vwveyo8e",
+   "sents": [
+    "Das disjunktive Urteil, \"a ist entweder b oder c oder d\", enthält im Prädikate die Allgemeinheit und die Besonderung derselben.",
+    "Das Subjekt ist auf diese Bestimmungen ebensosehr als Allgemeines bezogen, als diese auch einander ausschließen und dem Subjekte nur eine derselben zukommen kann.",
+    "Dies Urteil ist apodiktisch."
+   ]
+  },
+  {
+   "bi": 162,
+   "k": "h",
+   "hash": "c109u19rt8",
+   "text": "III. Schluß"
+  },
+  {
+   "bi": 163,
+   "k": "p",
+   "hash": "1heovobkef",
+   "sents": [
+    "§ 65"
+   ]
+  },
+  {
+   "bi": 164,
+   "k": "p",
+   "hash": "oip7861di5",
+   "sents": [
+    "Der Schluß ist die Darstellung des Begriffs in seinen Momenten.",
+    "Einzelheit, Besonderheit und Allgemeinheit sind darinnen sowohl als Momente unterschieden, als auch die Extreme durch die Mitte, die ihre Einheit ist, zusammengeschlossen."
+   ]
+  },
+  {
+   "bi": 165,
+   "k": "p",
+   "hash": "1hoohda1i9",
+   "sents": [
+    "§ 66"
+   ]
+  },
+  {
+   "bi": 166,
+   "k": "p",
+   "hash": "1m0j853421",
+   "sents": [
+    "Der Schluß ist 1. zunächst die Zusammenschließung der Einzelheit und Allgemeinheit durch die Besonderheit als die Mitte.",
+    "Der Sinn dieses Schlusses ist: a) das Einzelne ist durch seine Bestimmtheit ein Allgemeines oder hat Dasein überhaupt; b) das Einzelne hat durch seine unmittelbare Bestimmtheit noch eine andere Bestimmtheit, welche jene in sich schließt."
+   ]
+  },
+  {
+   "bi": 167,
+   "k": "p",
+   "hash": "1hyo329nop",
+   "sents": [
+    "§ 67"
+   ]
+  },
+  {
+   "bi": 168,
+   "k": "p",
+   "hash": "xu1s2gbh8g",
+   "sents": [
+    "Die Form dieses Schlusses, E - B - A2) , ist die allgemeine Regel der Subsumtion eines bestimmten Inhalts unter eine allgemeine Bestimmung.",
+    "Wenn diese, wie in identischen Sätzen, dem Inhalte nach nicht allgemeiner ist als diejenige, von der sie unmittelbar prädiziert wird, so hat sie doch die Form der Allgemeinheit als Prädikat gegen die andere als Subjekt."
+   ]
+  },
+  {
+   "bi": 169,
+   "k": "p",
+   "hash": "1g0qv7g1lk",
+   "sents": [
+    "§ 68"
+   ]
+  },
+  {
+   "bi": 170,
+   "k": "p",
+   "hash": "16bdlyi1ig",
+   "sents": [
+    "In quantitativen Bestimmungen haben die Momente des Schlusses kein Verhältnis der Form zueinander, sondern das der Gleichheit.",
+    "Der mathematische Schluß heißt deswegen: Was einem Dritten gleich ist, ist unter sich gleich."
+   ]
+  },
+  {
+   "bi": 171,
+   "k": "p",
+   "hash": "1gaqgwfdtu",
+   "sents": [
+    "§ 69"
+   ]
+  },
+  {
+   "bi": 172,
+   "k": "p",
+   "hash": "omsgzdwva4",
+   "sents": [
+    "Die Schlüsse, welche Stellung auch die in ihnen enthaltenen Momente haben mögen, sind auf die oben angegebene Form zurückzubringen, welche die allgemeine Regel aller Schlüsse ist."
+   ]
+  },
+  {
+   "bi": 173,
+   "k": "p",
+   "hash": "1jwogf1162",
+   "sents": [
+    "§ 70"
+   ]
+  },
+  {
+   "bi": 174,
+   "k": "p",
+   "hash": "1b841nhyy9",
+   "sents": [
+    "Im Schluß, nach seinen bestimmten Momenten betrachtet, ist die Mitte die Besonderheit, eine Bestimmtheit, deren Mehrheit das Einzelne als Konkretes in sich enthält, das somit auch mit anderen allgemeinen Bestimmungen zusammengeschlossen werden kann, die sich gegenseitig einschränken und selbst aufheben können. - Ebenso ist das Besondere für sich auf andere allgemeine Bestimmungen beziehbar.",
+    "Umgekehrt faßt das Allgemeine andere Bestimmtheiten und somit auch andere Einzelheiten in sich.",
+    "Folglich sind hier das zusammengeschlossene Einzelne und Allgemeine ein zufälliger Inhalt füreinander."
+   ]
+  },
+  {
+   "bi": 175,
+   "k": "p",
+   "hash": "1jmouq21mm",
+   "sents": [
+    "§ 71"
+   ]
+  },
+  {
+   "bi": 176,
+   "k": "p",
+   "hash": "sfeytd19tv",
+   "sents": [
+    "In Ansehung der Beziehung der Momente sind in dem Schlusse zwei unmittelbare Beziehungen oder Urteile, nämlich die des Einzelnen auf das Besondere und die des Besonderen auf das Allgemeine, und eine vermittelte Beziehung: der Schlußsatz.",
+    "Weil nur die vermittelte die Einheit der Zusammengeschlossenen und dadurch der Form nach die Notwendigkeit ihrer Beziehung enthält, so müssen die beiden unmittelbaren Beziehungen gleichfalls als Vermittlungen dargestellt werden.",
+    "Geschieht dies aber durch dieselbe Art des Schlusses, so entsteht der Fortgang ins schlecht Unendliche, indem jeder solcher eingeschobenen Schlüsse denselben Mangel hat."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/0.p160.json"
+}

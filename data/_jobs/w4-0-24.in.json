@@ -1,0 +1,178 @@
+{
+ "id": "w4-0-24",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 0,
+ "chunkTitle": "Nürnberger Schriften",
+ "heading": "Erster Teil Logik",
+ "blocks": [
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "1r2i5f2103",
+   "sents": [
+    "Das Ganze der Wissenschaft teilt sich in die drei Hauptteile: die Logik, 2. die Wissenschaft der Natur, 3. die Wissenschaft des Geistes. - Die Logik ist nämlich die Wissenschaft der reinen Begriffe und der abstrakten Idee.",
+    "Natur und Geist macht die Realität der Idee aus, jene als äußerliches Dasein, dieser als sich wissend.",
+    "(Oder das Logische ist das ewig einfache Wesen in sich selbst; die Natur ist dieses Wesen als entäußert; der Geist die Rückkehr desselben in sich aus seiner Entäußerung.)"
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1ganbegoro",
+   "sents": [
+    "§ 11"
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "rnopda1tj2",
+   "sents": [
+    "Die Wissenschaften der Natur und des Geistes können als die angewandte Wissenschaft, als das System der realen oder besonderen Wissenschaften, zum Unterschiede von der reinen Wissenschaft oder der Logik, betrachtet werden, weil sie das System der reinen Wissenschaft in der Gestalt der Natur und des Geistes sind."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "h",
+   "hash": "100j1qa1my",
+   "text": "Erster Teil Logik"
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "1h4m4hd1px",
+   "sents": [
+    "§ 12"
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "9ql9q890pi",
+   "sents": [
+    "Die Logik ist die Wissenschaft des reinen Verstandes und der reinen Vernunft, der eigentümlichen Bestimmungen und Gesetze derselben.",
+    "Das Logische hat demnach drei Seiten: 1. die abstrakte oder verständige, 2. die dialektische oder negativ vernünftige, 3. die spekulative oder positiv vernünftige.",
+    "Das Verständige bleibt bei den Begriffen in ihrer festen Bestimmtheit und Unterschiedenheit von anderen stehen; das Dialektische zeigt sie in ihrem Übergehen und ihrer Auflösung auf; das Spekulative oder Vernünftige erfaßt ihre Einheit in ihrer Entgegensetzung oder das Positive in der Auflösung und im Übergehen."
+   ]
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "1gumises1z",
+   "sents": [
+    "§ 13"
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "63zpmr1vrj",
+   "sents": [
+    "Verstand und Vernunft werden hierbei gewöhnlich in dem subjektiven Sinne genommen, insofern sie als Denken einem Selbstbewußtsein angehören, und die Logik ist so eine bloß formelle Wissenschaft, die erst eines anderen Inhalts, eines äußeren Stoffes bedarf, wenn etwas wirklich Wahres zustande kommen soll."
+   ]
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "1holbvb1t7",
+   "sents": [
+    "§ 14"
+   ]
+  },
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "1u1hifkmqe",
+   "sents": [
+    "Ihrem Inhalt nach betrachtet die Logik den Verstand und die Vernunft an und für sich selbst und die absoluten Begriffe als den an und für sich wahren Grund von allem oder das Verständige und Vernünftige, insofern es nicht bloß ein bewußtes Begreifen ist.",
+    "Die Logik ist daher an sich selbst spekulative Philosophie, denn die spekulative Betrachtungsart der Dinge ist nichts anderes als die Betrachtung des Wesens der Dinge, welches ebensosehr reiner, der Vernunft eigentümlicher Begriff als die Natur und das Gesetz der Dinge ist."
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "1helq6c51y",
+   "sents": [
+    "§ 15"
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "rlyek11n5y",
+   "sents": [
+    "Die Logik zerfällt in drei Teile: 1. in die ontologische, 2. in die subjektive Logik, 3. in die Ideenlehre.",
+    "Die erstere ist das System der reinen Begriffe des Seienden, die zweite das der reinen Begriffe des Allgemeinen, die dritte enthält den Begriff der Wissenschaft."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "h",
+   "hash": "pdxa2a1iax",
+   "text": "Erster Abschnitt Ontologische Logik"
+  },
+  {
+   "bi": 37,
+   "k": "h",
+   "hash": "vwfz911510",
+   "text": "I. Sein"
+  },
+  {
+   "bi": 38,
+   "k": "h",
+   "hash": "gzqmwk1klb",
+   "text": "A. Qualität"
+  },
+  {
+   "bi": 39,
+   "k": "p",
+   "hash": "16dntgt1vf",
+   "sents": [
+    "a. Sein"
+   ]
+  },
+  {
+   "bi": 40,
+   "k": "p",
+   "hash": "1i8kj99167",
+   "sents": [
+    "§ 16"
+   ]
+  },
+  {
+   "bi": 41,
+   "k": "p",
+   "hash": "1oh9z561rr",
+   "sents": [
+    "Der Anfang der Wissenschaft ist der unmittelbare, bestimmungslose Begriff des Seins. - 2.",
+    "Dieser ist in seiner Inhaltslosigkeit so viel als das Nichts.",
+    "Das Nichts, als ein Denken jener Leerheit, ist somit umgekehrt selbst ein Sein und um seiner Reinheit willen dasselbe, was jenes. - 3.",
+    "Es ist also kein Unterschied desselben, sondern was ist, ist hiermit nur das Setzen ihrer als Unterschiedener und das Verschwinden eines jeden in seinem Gegenteil, oder es ist das reine Werden."
+   ]
+  },
+  {
+   "bi": 42,
+   "k": "p",
+   "hash": "16pvh4n1ac",
+   "sents": [
+    "b. Dasein"
+   ]
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "1hykxka8c9",
+   "sents": [
+    "§ 17"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/0.p24.json"
+}

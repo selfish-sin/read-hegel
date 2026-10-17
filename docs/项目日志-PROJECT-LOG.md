@@ -135,3 +135,31 @@
 - **全套验收**：trans-index ALIGNMENT OK、check-policy exit 0、validate/integrity/verify-coverage/
   audit-sentences 全 exit 0、verify-paragraph-align 8/8 通过、w3/15 阅读器实测 pairs=27/27、JS 错误 0。
 - **远端**：wave32 推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）未动。
+
+## 阶段十二 · 第 33 波：进入第 4 卷，开卷先建上下文包（2026-10-17）
+
+- **新卷开卷纪律**：进入 w4 前先建卷级上下文包（项目 A/B 实验证明「质量主要来自卷级上下文包」）。
+  data/_jobs/context-w4.json：styleGuide 12 条 / entries 127 条 / forbidden 51 条 / doNotTranslate 35 条；
+  ctx-w4.glossar.csv 46 条新词（与共享词表 0 冲突）。w4 = 纽伦堡与海德堡时期著作（1808–1817，
+  16 分节约 5,600 句），文体为**哲学讲稿／学监报告／政治评论**，与 w3 现象学完全不同，术语权威必须重建。
+- **第 33 波**：w4/0「纽伦堡讲稿·逻辑学」全分节（14 单元 / 263 块 / 353 句），
+  覆盖率 12.82% → **13.20%**（12,163 / 92,117 句）。
+- **本波质检密度只有全库一半**：w4 15 条 issue / 353 句 = **0.0425** vs 全库 1038/12163 = **0.0853**；
+  3 条 major 全是已知模式（wirklich 副词义、德→英词数比），critical=0。
+- **回改 5 处术语**（先按全库词频与德文原文核实，不按单个 worker 自述）：
+  - Anderssein「他者性」→「他在」4 处（b63/70/76），对齐 w3 的 249 处，理由是词族政策要求同根可见；
+  - 76[0] 德文是 Quantität（=量）却译成「量数」（=Quantum），**串词**，改为「量」；
+    另 4 处 Quantum/Quantität 混句经逐句核对确认正确，保留。
+  - 裁定写回上下文包（新增 7 条 entries + 3 条 forbidden）：Quantum→量数（禁「量子」假朋友）、
+    Etwas→某物（全库 58 处一致）、Außersichsein→在外存在（补上下文包缺失的第三档对称）。
+- **编辑器自曝与磁盘不符（第二次）**：build-context worker 自述为凑 60–120 条上限「裁剪掉」了
+  Freiheit（任务书点名要求的术语），磁盘实测该词在 entries 与 CSV 中均在、必需术语 19/19 全覆盖。
+  **结论：worker 自述不可信，一律以磁盘为准**。
+- **wave32 的误提交被自动纠正**：第 32 波 git add -A 误把分片文件 web/data/trans/w3/15.p16.json
+  一并提交。本波 merge-trans 正确消费该分片并删除它，w3/15.json 因此更新 4 块——
+  经逐句 diff 确认是**采纳该 worker 合并后才做的后期修正**（表述 统一、补本身、
+  拆分开、das Unterschiedene→「那有差别的东西」），句数不变、无译文丢失。
+- **w4/0 b259 未译属预期**：该块 k="fn"（编者注 Anmerkungen，讲 Rosenkranz 增补），
+  make-jobs 本就跳过 fn 块（与版权三层的编者校注同层处理）。
+- **全套验收**：trans-index ALIGNMENT OK、check-policy exit 0、validate/integrity/verify-coverage/
+  audit-sentences 全 exit 0、verify-paragraph-align 8/8、w4/0 阅读器实测 pairs=260/260、JS 错误 0。

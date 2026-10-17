@@ -1,0 +1,145 @@
+{
+ "id": "w4-0-228",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 0,
+ "chunkTitle": "Nürnberger Schriften",
+ "heading": "Zweiter Teil Wissenschaft der Natur",
+ "blocks": [
+  {
+   "bi": 228,
+   "k": "p",
+   "hash": "1v5bcjg129",
+   "sents": [
+    "Das absolute Wissen hat 1. nichts Äußerliches, auf irgendeine Weise Gegebenes zu seinem Gegenstande, sondern nur sich selbst.",
+    "Es ist der als Begriff existierende Begriff.",
+    "Der Begriff konstruiert sich aus sich selbst, indem er als Werden ist und den in ihm enthaltenen Gegensatz in der Form verschiedener für sich bestehender realer oder Verstandesbestimmungen darstellt.",
+    "Indem die realen Bestimmungen zunächst in ihrer Reflexion zu Verstandesbestimmungen werden, stellt ihre Dialektik sie nicht nur als sich wesentlich aufeinander beziehend, sondern auch in ihre Einheit übergehend dar.",
+    "Aus dieser ihrer negativen Bewegung resultiert ihre positive Einheit, welche den Begriff in seiner realen Totalität ausmacht."
+   ]
+  },
+  {
+   "bi": 229,
+   "k": "h",
+   "hash": "bhayc85sno",
+   "text": "Zweiter Teil Wissenschaft der Natur"
+  },
+  {
+   "bi": 230,
+   "k": "p",
+   "hash": "1dtibr9ngx",
+   "sents": [
+    "§ 96"
+   ]
+  },
+  {
+   "bi": 231,
+   "k": "p",
+   "hash": "1sbtb7t1pz",
+   "sents": [
+    "Die Natur ist die absolute Idee in der Gestalt des Andersseins überhaupt, der gleichgültigen, äußerlichen Gegenständlichkeit und der konkreten, individualisierten Verwirklichung ihrer Momente, - oder das absolute Wesen in der Bestimmung der Unmittelbarkeit überhaupt gegen seine Vermittlung.",
+    "Das Werden der Natur ist das Werden zum Geist."
+   ]
+  },
+  {
+   "bi": 232,
+   "k": "p",
+   "hash": "1djiq2a1om",
+   "sents": [
+    "§ 97"
+   ]
+  },
+  {
+   "bi": 233,
+   "k": "p",
+   "hash": "1ybrt5i1wa",
+   "sents": [
+    "Die Natur ist als ein System von Stufen zu betrachten, deren eine aus der anderen notwendig hervorgeht, aber nicht so, daß die eine durch die andere natürlicherweise erzeugt wird, sondern in der inneren, der Natur zugrunde liegenden Idee.",
+    "Die Bewegung der Idee der Natur ist, aus ihrer Unmittelbarkeit in sich zu gehen, sich selbst aufzuheben und zum Geist zu werden."
+   ]
+  },
+  {
+   "bi": 234,
+   "k": "p",
+   "hash": "1edhj57qr7",
+   "sents": [
+    "§ 98"
+   ]
+  },
+  {
+   "bi": 235,
+   "k": "p",
+   "hash": "1z04j7ecxt",
+   "sents": [
+    "Die Naturwissenschaft betrachtet 1. das ideelle Dasein der Natur als Raum und Zeit überhaupt, 2. die unorganische, 3. die organische Natur und ist demnach 1.",
+    "Mathematik, 2.",
+    "Physik des Unorganischen, 3.",
+    "Wissenschaft der organischen Natur."
+   ]
+  },
+  {
+   "bi": 236,
+   "k": "h",
+   "hash": "1ad4zqd19w",
+   "text": "Erster Abschnitt Mathematik"
+  },
+  {
+   "bi": 237,
+   "k": "p",
+   "hash": "1e3hxg81rw",
+   "sents": [
+    "§ 99"
+   ]
+  },
+  {
+   "bi": 238,
+   "k": "p",
+   "hash": "1aek2031ph",
+   "sents": [
+    "Raum und Zeit sind die daseienden Abstraktionen, oder reine Form, reine Anschauung der Natur, - der Raum der daseiende Gedanke der allgemeinen gleichgültigen Verschiedenheit überhaupt, die Zeit der daseiende Gedanke der negativen Einheit oder des reinen Werdens."
+   ]
+  },
+  {
+   "bi": 239,
+   "k": "p",
+   "hash": "106cl415t6",
+   "sents": [
+    "§ 100"
+   ]
+  },
+  {
+   "bi": 240,
+   "k": "p",
+   "hash": "pyt1fh88gi",
+   "sents": [
+    "Raum und Zeit sind unendlich, d. h. in der abstrakten Kontinuität ihres Außersichseins grenzenlos.",
+    "Als Ideen aber haben sie Bestimmungen in ihnen selbst, welche den Begriff in seinen Momenten darstellen: die Dimensionen."
+   ]
+  },
+  {
+   "bi": 241,
+   "k": "p",
+   "hash": "zwczf213ol",
+   "sents": [
+    "§ 101"
+   ]
+  },
+  {
+   "bi": 242,
+   "k": "p",
+   "hash": "1570ryp1p6",
+   "sents": [
+    "Die Dimensionen des Raums sind Momente desselben, die nicht außereinander sind, sondern wo das eine ist, ist auch jedes der anderen.",
+    "Auch sind sie zwar die formellen Unterschiede, das eine, das andere und das dritte als Einheit derselben.",
+    "Aber um der qualitätslosen Einheit des Raumes willen sind sie nicht bestimmt gegeneinander, sondern leere Unterschiede, die nur in Rücksicht auf einen weiteren Gegenstand eine ihnen selbst fremde Bestimmtheit erhalten."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/0.p228.json"
+}

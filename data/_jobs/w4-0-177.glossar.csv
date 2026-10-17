@@ -1,0 +1,49 @@
+de,en,zh,status,note
+Schluß,syllogism,推论,ok,卷内 entries 固定译名；与 Urteil（判断）分开
+das Allgemeine,the universal,普遍者,ok,§72–78 讲稿高频；名词化 das Allgemeine（普遍者）与 das allgemeine Allgemeine
+das Besondere,the particular,特殊者,ok,同 §72–74
+Besonderheit,particularity,特殊性,ok,与 Besonderes（特殊者）同族但形态不同
+das Allgemeine (adj. allgemein),universal,普遍的,ok,
+das Einzelne,the individual,个别者,ok,§72/74；名词化的 das Einzelne 指个别者这一环节
+Einzelheit,individuality,个别性,ok,与 Einzelne（个别者）区分；本单元中 Einzelheit 作推论主项、Einzelne 作中项
+Mitte,middle term,中项,ok,与 Extrem（极端）成对（共享词表）
+Extrem,extreme,极端,ok,共享词表；与 Mitte（中项）配套
+Bestimmung,determination,规定,ok,与 Bestimmtheit（规定性）区分，本单元用 Bestimmung
+Bestimmtheit,determinacy,规定性,ok,entries 固定；与 Gewißheit（确定性）分开
+Dasein,determinate being,定在,ok,entries 固定；严禁“存在”（那是 Sein）
+das Daseiende,a determinate being,定在者,ok,daseiendes＝“定在的／作为定在者的”；与 das Seiende（存在者）分开，卷内 styleGuide 用后者指 Sein 族
+Begriff,concept,概念,ok,严禁“观念”（Idee 族）
+das Ideelle / das Reelle,ideal element / real element,观念物／实在物,ok,本单元未出现，词族对齐登记
+Moment,moment,环节,ok,严禁“时刻”
+Vermittlung,mediation,中介,ok,与 Unmittelbarkeit（直接性）成对
+Unmittelbarkeit / das Unmittelbare,immediacy / the immediate,直接性／直接者,ok,作主语时译“直接者”
+Werden,becoming,生成,ok,全卷统一“生成”
+Mannigfaltigkeit,multiplicity,多样性,ok,mannigfaltig 的名词化
+Erheben (zu … erhoben),to be raised to,被提升为,ok,不作“提高”以外的系统义改写
+Zufälligkeit,contingency,偶然性,ok,freie Zufälligkeit＝自由的偶然性
+Notwendigkeit,necessity,必然性,ok,
+Analogie,analogy,类比,unsicher,本卷 entries 未收；通行“类比推论”。备选：比拟推论。按讲稿 §74 标题 Schluß der Analogie 取“类比推论”，若卷内别处作“比拟”可改
+Allheit,totality,全体,unsicher,本卷 entries 未收。备选：全体性。作为系词 sein 用“全体”（“必须是全体”），不作“全有”
+Induktion,induction,归纳,ok,
+Grund,ground,根据,ok,entries 固定；与 Ursache（原因）区分
+Ursache,cause,原因,ok,§77/78
+Wirkung,effect,效果,ok,§78；die Tätigkeit verschwindet in der Wirkung＝活动消失在效果中
+Tätigkeit,activity,活动,ok,本单元全为“活动”而非“作用”；作用留给 Wirken
+Wirken,efficacy / to act,作用,ok,das Wirken der Ursache＝原因的作用
+Kraft,power,力,ok,§78
+Erscheinen,appearing,显现,unsicher,动词形态；名词 Erscheinung＝现象（entries）。此处 Erscheinen des Grundes 取“根据的显现”，不译“现象”以免与 Erscheinung 撞词
+Außersichgehen,going out of itself,走向自身之外,unsicher,本卷 entries 未收。备选：自身外化。按讲稿白话取“走向自身之外”，与 §78 的 Insichsein 对读
+Insichsein,being-within-itself,自身内存在,ok,政策：Insichsein≠Ansichsein（自在存在）；英文用 being-within-itself 以免与 Ansichsein 的 being-in-itself 撞词
+Subjektivität / Objektivität,subjectivity / objectivity,主体性／客观性,ok,entries Subjekt→主体、subjektiv→主观的 的配套
+das Subjektive,the subjective,主观者,unsicher,词形是名词化的 subjektiv（非 Subjekt），故用“主观者”而不套 Subjekt→主体；若卷内统一“主观面”可改
+Inhalt,content,内容,ok,
+Zweck,purpose,目的,ok,entries 固定
+realisieren,to realize,实现,ok,政策允许日常义“实现”；sich selbst realisierend＝自己实现自身的
+real,real,实在的,ok,Realität 词族；严禁“现实的”（那是 wirklich）
+Negation / negative Einheit,negation / negative unity,否定／否定性统一,ok,§73 negative Einheit＝否定性统一（名词化 Einheit）
+Ursache (der Kraft bedingt),cause (of conditioned power),原因（其活动是有条件的）,ok,§78：der Kraft deren Tätigkeit bedingt ist＝其活动是有条件的；条件从属的不可漏
+Kreis,circle,圆圈,ok,§76 Kreis der gegenseitigen Voraussetzung
+Mittelpunkt,centre point,中心点,ok,§76；字面“中心点”，不作“核心”
+E - B - A,—,—,ok,doNotTranslate：公式原样保留
+quaternio terminorum,—,—,ok,doNotTranslate：拉丁术语原样保留
+§,—,—,ok,doNotTranslate：节号保留原样，中文仍作“§ 72”

@@ -1,0 +1,155 @@
+{
+ "id": "w4-0-99",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 0,
+ "chunkTitle": "Nürnberger Schriften",
+ "heading": "C. Grund und Begründetes",
+ "blocks": [
+  {
+   "bi": 99,
+   "k": "p",
+   "hash": "dgime112ih",
+   "sents": [
+    "§ 41"
+   ]
+  },
+  {
+   "bi": 100,
+   "k": "p",
+   "hash": "1noc3rl132",
+   "sents": [
+    "δ) Der Satz des Grundes drückt das Zurückgekehrtsein des Gesetzten in sich aus oder das Setzen selbst als das Dritte, in welchem die entgegengesetzten Bestimmungen aufgehoben sind und welches, als das Einfache, die dem Begründeten, als dem mannigfaltigen Dasein, entgegengesetzte Bestimmung ist."
+   ]
+  },
+  {
+   "bi": 101,
+   "k": "h",
+   "hash": "qvc0ik11mv",
+   "text": "C. Grund und Begründetes"
+  },
+  {
+   "bi": 102,
+   "k": "p",
+   "hash": "ephazm1huk",
+   "sents": [
+    "Ganzes und Teile"
+   ]
+  },
+  {
+   "bi": 103,
+   "k": "p",
+   "hash": "cmjtb41crz",
+   "sents": [
+    "§ 42"
+   ]
+  },
+  {
+   "bi": 104,
+   "k": "p",
+   "hash": "9l1gt01w3e",
+   "sents": [
+    "Das Wesen als Grund seines Daseins, ohne welches das Wesen selbst nicht ist, ist zunächst Ganzes und Teile.",
+    "Das Ganze ist das Setzen seiner Teile und besteht umgekehrt aus ihnen.",
+    "Beide Seiten machen ein und dasselbe aus.",
+    "Das Ganze ist den Teilen nur als ihrem Zusammen, d. h. dem Ganzen gleich, und die Teile sind ihm als Geteiltem, d. h. als Teilen gleich; oder beide Seiten sind gleichgültig gegeneinander, und die Tätigkeit des Ganzen als der Form hat die Materie zur Bedingung."
+   ]
+  },
+  {
+   "bi": 105,
+   "k": "p",
+   "hash": "1t8xrbvluv",
+   "sents": [
+    "Kraft und ihre Äußerung"
+   ]
+  },
+  {
+   "bi": 106,
+   "k": "p",
+   "hash": "cwjf03z86t",
+   "sents": [
+    "§ 43"
+   ]
+  },
+  {
+   "bi": 107,
+   "k": "p",
+   "hash": "120l2c5x7q",
+   "sents": [
+    "Die Teile sind aber nur Teile als gesetzt durch das Ganze.",
+    "Diese ihre Beziehung ist die Bestimmtheit durch die Einheit des Grundes.",
+    "Oder die Qualität des Daseins wird durch die Tätigkeit des Grundes als der Form gesetzt, und die Materie der Erscheinung ist sein eigener Inhalt.",
+    "Er ist somit Kraft welche sich äußert."
+   ]
+  },
+  {
+   "bi": 108,
+   "k": "p",
+   "hash": "eahfgy1x3l",
+   "sents": [
+    "§ 44"
+   ]
+  },
+  {
+   "bi": 109,
+   "k": "p",
+   "hash": "mfve0e1d9x",
+   "sents": [
+    "Die Kraft ist das Selbstsetzen ihres Daseins als bestimmter Qualität.",
+    "Nach der Seite, daß das Dasein noch Sein-für-Anderes oder Äußerlichkeit ist, ist sie zugleich frei von demselben und hört nicht auf, indem diese ihre Erscheinung verschwindet.",
+    "Sie hat nach dieser Seite zwar nicht mehr die Materie zur Bedingung, welche ihr Inhalt ist und der sie immanent angehört, aber noch eine sie sollizitierende Tätigkeit."
+   ]
+  },
+  {
+   "bi": 110,
+   "k": "p",
+   "hash": "ekh15xisr2",
+   "sents": [
+    "§ 45"
+   ]
+  },
+  {
+   "bi": 111,
+   "k": "p",
+   "hash": "5k94mbkix3",
+   "sents": [
+    "Die sollizitierende Tätigkeit ist selbst Kraft und muß dazu, sollizitiert zu sein, sollizitiert werden.",
+    "Indem die Beziehung beider Tätigkeiten aufeinander dies wechselseitige Austauschen ihrer Bestimmungen ist, ist jede der Grund der Tätigkeit oder der Äußerung der anderen.",
+    "Es ist damit der Begriff des Grundes entstanden, welcher Grund seiner eigenen und der anderen diese erregenden Tätigkeit ist."
+   ]
+  },
+  {
+   "bi": 112,
+   "k": "p",
+   "hash": "1sty6juh5a",
+   "sents": [
+    "Inneres und Äußeres"
+   ]
+  },
+  {
+   "bi": 113,
+   "k": "p",
+   "hash": "dqi8301go5",
+   "sents": [
+    "§ 46"
+   ]
+  },
+  {
+   "bi": 114,
+   "k": "p",
+   "hash": "1k8vm0g1hd",
+   "sents": [
+    "Das Wesen ist Grund seines Daseins als sich selbst erregende Tätigkeit, und es ist in seinem Dasein nichts Fremdes oder nichts, das nicht durch den Grund selbst gesetzt wäre.",
+    "Das Wesen und sein Dasein sind somit dasselbe.",
+    "Jenes verhält sich als Inneres zu sich als Äußerem, das nur die Darstellung des Inneren ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/0.p99.json"
+}

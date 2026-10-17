@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-17T01:52:03.851Z",
- "blocks": 3082,
- "sentences": 11810,
+ "generated": "2026-10-17T02:24:20.793Z",
+ "blocks": 3341,
+ "sentences": 12163,
  "issues": [
   {
    "sev": "minor",
@@ -5120,13 +5120,83 @@
   },
   {
    "sev": "minor",
-   "where": "w3/15#16",
-   "msg": "sentence 5: \"Unterschied\" is not rendered as “差别”"
+   "where": "w4/0#29",
+   "msg": "sentence 2: \"Bestimmtheit\" is not rendered as “规定性”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/0#31",
+   "msg": "sentence 0: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#46",
+   "msg": "sentence 0: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#55",
+   "msg": "sentence 0: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#63",
+   "msg": "sentence 2: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#94",
+   "msg": "sentence 1: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/0#194",
+   "msg": "sentence 1: en/de word ratio 1.67 (20/12)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#208",
+   "msg": "sentence 1: \"Wirkung\" is not rendered as “效果”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/0#212",
+   "msg": "sentence 1: en/de word ratio 1.63 (26/16)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#214",
+   "msg": "sentence 2: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#231",
+   "msg": "sentence 0: \"Anderssein\" is not rendered as “他在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#240",
+   "msg": "sentence 0: \"Außersichsein\" is not rendered as “在外存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#250",
+   "msg": "sentence 0: \"Quantum\" is not rendered as “量数”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#252",
+   "msg": "sentence 0: \"Quantum\" is not rendered as “量数”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#252",
+   "msg": "sentence 2: \"Quantum\" is not rendered as “量数”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 129,
-  "minor": 895
+  "major": 132,
+  "minor": 906
  }
 }

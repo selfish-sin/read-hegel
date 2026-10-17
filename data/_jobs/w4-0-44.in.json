@@ -1,0 +1,168 @@
+{
+ "id": "w4-0-44",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 0,
+ "chunkTitle": "Nürnberger Schriften",
+ "heading": "B. Quantität",
+ "blocks": [
+  {
+   "bi": 44,
+   "k": "p",
+   "hash": "k6yyisvy7f",
+   "sents": [
+    "Weil aber im Werden jene zuvor Gesetzten nur verschwinden, so ist das Werden ihr Zusammenfallen in eine ruhige Einfachheit, in welcher sie nicht nichts sind, aber auch nicht mehr jedes für sich, sondern als aufgehobene oder Momente sind.",
+    "Diese Einheit ist das Dasein."
+   ]
+  },
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "1ecq3jn19h",
+   "sents": [
+    "§ 18"
+   ]
+  },
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "iin4u4k7a1",
+   "sents": [
+    "Das Dasein ist 1. ein Sein, in dessen Begriff zugleich das Nichtsein seiner als Beziehung auf Anderes oder das Sein-für-Anderes liegt; 2. aber, nach dem Momente des Seins, hat es die Seite, nicht Beziehung auf Anderes, sondern an sich zu sein.",
+    "Als der Begriff, der diese beiden Bestimmungen in sich faßt, ist es die Realität."
+   ]
+  },
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "1e2qhuobmj",
+   "sents": [
+    "§ 19"
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "vk35smnrkj",
+   "sents": [
+    "Das Reelle oder Etwas ist als verschieden von anderem Reellen zunächst gleichgültig gegen dasselbe, indem es in seinem Anderssein zugleich an sich ist.",
+    "Die Verschiedenheit von solchem ist zunächst in der Grenze als der Mitte zwischen ihnen, in welcher sie sosehr sind als nicht sind."
+   ]
+  },
+  {
+   "bi": 49,
+   "k": "p",
+   "hash": "c1zhbk1cr7",
+   "sents": [
+    "§ 20"
+   ]
+  },
+  {
+   "bi": 50,
+   "k": "p",
+   "hash": "1pr45y11lz",
+   "sents": [
+    "Sie sind 1. verschieden von der Grenze oder von ihrer Verschiedenheit, die ihre Mitte ist, außerhalb welcher sie etwas sind.",
+    "Aber 2. gehört die Grenze ihnen selbst an, weil es ihre Grenze ist."
+   ]
+  },
+  {
+   "bi": 51,
+   "k": "p",
+   "hash": "cbz30ji62p",
+   "sents": [
+    "§ 21"
+   ]
+  },
+  {
+   "bi": 52,
+   "k": "p",
+   "hash": "1ewjcrwmh2",
+   "sents": [
+    "Die Verschiedenheit ist somit 1. eigene Verschiedenheit des Reellen oder seine Bestimmtheit.",
+    "Diese an sich seiende Bestimmtheit ist aber auch 2. äußerliches Dasein oder Beschaffenheit.",
+    "Die Bestimmtheit, die sowohl Äußerliches als Innerliches ist, macht die Qualität aus."
+   ]
+  },
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "bwd3a6qhev",
+   "sents": [
+    "c. Veränderung"
+   ]
+  },
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "clyopi1g1h",
+   "sents": [
+    "§ 22"
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "1wwxq019kt",
+   "sents": [
+    "Die Beschaffenheit oder das äußerliche Dasein gehört sowohl dem Etwas an, als es ihm fremd oder sein Anderssein, hiermit sein Nichtsein ist.",
+    "Es ist somit die Ungleichheit seiner mit sich selbst, wodurch die Veränderung gesetzt ist."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "cvyaehlgd1",
+   "sents": [
+    "§ 23"
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "10q4shph59",
+   "sents": [
+    "Indem die Veränderung das Negieren des Negativen ist, welches das Etwas an ihm hat, ist das Fürsichsein entstanden.",
+    "Oder die Bestimmtheit, als die innerliche Verschiedenheit, die das Etwas an sich selbst hat, ist die Beziehung des Etwas in seinem Unterschiede nur auf sich selbst, oder es ist für sich."
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "h",
+   "hash": "16zinlrhxt",
+   "text": "B. Quantität"
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "d36m9himgs",
+   "sents": [
+    "a. Fürsichsein (Idealität)"
+   ]
+  },
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "d5xw3g1jbr",
+   "sents": [
+    "§ 24"
+   ]
+  },
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "149aute1y0",
+   "sents": [
+    "Das Fürsichsein ist 1. der Unterschied, aber nur von sich selbst, oder die Beziehung, nicht auf ein Anderes, sondern auf sich.",
+    "Insofern aber der Unterschied das Anderssein in sich enthält und die Beziehung darauf negativ ist, ist Anderes für es, aber als ausgeschlossen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/0.p44.json"
+}
