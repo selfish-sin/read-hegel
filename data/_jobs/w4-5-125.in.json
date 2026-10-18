@@ -1,0 +1,139 @@
+{
+ "id": "w4-5-125",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "C. Schlüsse der Relation",
+ "heading": "C. Fürsichsein",
+ "blocks": [
+  {
+   "bi": 125,
+   "k": "p",
+   "hash": "1helq6c51y",
+   "sents": [
+    "§ 15"
+   ]
+  },
+  {
+   "bi": 126,
+   "k": "p",
+   "hash": "bfhnysvdb4",
+   "sents": [
+    "c) Durch seine Qualität, durch das, was es ist, ist etwas der Veränderung unterworfen.",
+    "Es verändert sich, insofern seine Bestimmtheit im Zusammenhang mit Anderem zur Beschaffenheit wird."
+   ]
+  },
+  {
+   "bi": 127,
+   "k": "h",
+   "hash": "5sbdkg19sk",
+   "text": "C. Fürsichsein"
+  },
+  {
+   "bi": 128,
+   "k": "p",
+   "hash": "1i8kj99167",
+   "sents": [
+    "§ 16"
+   ]
+  },
+  {
+   "bi": 129,
+   "k": "p",
+   "hash": "3jy9wj1keg",
+   "sents": [
+    "Indem sich durch die Veränderung die Beschaffenheit überhaupt aufhebt, hebt sich auch die Veränderung selbst auf.",
+    "Das Sein ist hiermit in sich selbst zurückgegangen und schließt Anderes von sich aus.",
+    "Es ist für sich."
+   ]
+  },
+  {
+   "bi": 130,
+   "k": "p",
+   "hash": "1hykxka8c9",
+   "sents": [
+    "§ 17"
+   ]
+  },
+  {
+   "bi": 131,
+   "k": "p",
+   "hash": "1fb2qel2vh",
+   "sents": [
+    "Es ist Eins, das sich nur auf sich bezieht und sich gegen das Andere als repellierend verhält."
+   ]
+  },
+  {
+   "bi": 132,
+   "k": "p",
+   "hash": "1ecq3jn19h",
+   "sents": [
+    "§ 18"
+   ]
+  },
+  {
+   "bi": 133,
+   "k": "p",
+   "hash": "1mp81bv19q",
+   "sents": [
+    "Diese Ausschließung ist zugleich eine Beziehung auf Anderes und verhält sich also zugleich attrahierend.",
+    "Keine Repulsion ohne Attraktion und umgekehrt."
+   ]
+  },
+  {
+   "bi": 134,
+   "k": "p",
+   "hash": "1e2qhuobmj",
+   "sents": [
+    "§ 19"
+   ]
+  },
+  {
+   "bi": 135,
+   "k": "p",
+   "hash": "v6tm7y18sr",
+   "sents": [
+    "Oder mit der Repulsion des Eins sind unmittelbar viele Eins gesetzt.",
+    "Aber die vielen Eins sind nicht voneinander unterschieden.",
+    "Eins ist, was das andere ist.",
+    "Es ist ebenso ihre Aufhebung, die Attraktion gesetzt."
+   ]
+  },
+  {
+   "bi": 136,
+   "k": "p",
+   "hash": "c1zhbk1cr7",
+   "sents": [
+    "§ 20"
+   ]
+  },
+  {
+   "bi": 137,
+   "k": "p",
+   "hash": "10hejpiiq3",
+   "sents": [
+    "Das Eins ist das fürsichseiende, das sich absolut von anderen unterscheidet.",
+    "Aber indem dieser Unterschied, die Repulsion durch die Attraktion sich aufhebt, ist der Unterschied als aufgehobener gesetzt und damit in eine andere Bestimmung, die Quantität, übergegangen."
+   ]
+  },
+  {
+   "bi": 138,
+   "k": "p",
+   "hash": "8fbvmc1s0d",
+   "sents": [
+    "(Etwas hat ohne seine Grenze keine Bedeutung.",
+    "Wenn ich von etwas die Grenze verändere, so bleibt es nicht mehr, was es ist.",
+    "Wenn ich von einem Acker die Grenze verändere, so bleibt der Acker, der er ist, und wird nur etwas größer.",
+    "Hier aber habe ich seine Grenze nicht als Acker verändert, sondern als Quantum.",
+    "Seine Größe als Acker verändern hieße, ihn z. B. zum Walde machen.)"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/5.p125.json"
+}

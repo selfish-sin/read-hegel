@@ -1,0 +1,112 @@
+{
+ "id": "w4-5-78",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "C. Schlüsse der Relation",
+ "heading": "7. Logik für die Mittelklasse50)",
+ "blocks": [
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "1hp9lyws6r",
+   "sents": [
+    "§ 86"
+   ]
+  },
+  {
+   "bi": 79,
+   "k": "p",
+   "hash": "10nigy2161",
+   "sents": [
+    "Diese Vermittlung des Begriffs mit sich selbst ist nicht nur ein Gang des subjektiven Erkennens, sondern ebensosehr die eigene Bewegung der Sache selbst.",
+    "Im absoluten Erkennen fängt der Begriff ebensowohl an, als er auch Resultat ist."
+   ]
+  },
+  {
+   "bi": 80,
+   "k": "p",
+   "hash": "1hz97nvynl",
+   "sents": [
+    "§ 87"
+   ]
+  },
+  {
+   "bi": 81,
+   "k": "p",
+   "hash": "189clha1vw",
+   "sents": [
+    "Der Fortgang zu weiteren Begriffen oder zu einer neuen Sphäre ist gleichfalls durch die vorhergehende geleitet und notwendig.",
+    "Der Begriff, der zur Realität wurde, ist zugleich wieder eine Einheit, welche die Bewegung der Realisierung an sich darstellen muß.",
+    "Aber die Entwicklung des in ihr enthaltenen Gegensatzes ist nicht eine bloße Auflösung in die Momente, aus denen sie geworden ist, sondern diese haben nun eine andere Gestalt dadurch, daß sie durch die Einheit hindurchgegangen sind.",
+    "In der neuen Entwicklung sind sie nun als das gesetzt, was sie durch ihre Beziehung aufeinander sind.",
+    "Sie haben somit eine neue Bestimmung erhalten."
+   ]
+  },
+  {
+   "bi": 82,
+   "k": "h",
+   "hash": "17o68bc1te",
+   "text": "7. Logik für die Mittelklasse50)"
+  },
+  {
+   "bi": 83,
+   "k": "p",
+   "hash": "1j45xdhvhg",
+   "sents": [
+    "(1810/11)"
+   ]
+  },
+  {
+   "bi": 84,
+   "k": "h",
+   "hash": "1kyiwez1p4",
+   "text": "Einleitung"
+  },
+  {
+   "bi": 85,
+   "k": "p",
+   "hash": "1jpl6l51ur",
+   "sents": [
+    "§ 1"
+   ]
+  },
+  {
+   "bi": 86,
+   "k": "p",
+   "hash": "1nygml0ta8",
+   "sents": [
+    "Die Wissenschaft der Logik hat das Denken und den Umfang seiner Bestimmungen zum Gegenstande.",
+    "Natürliche Logik heißt man den natürlichen Verstand, den der Mensch überhaupt von Natur hat, und den unmittelbaren Gebrauch, den er davon macht.",
+    "Die Wissenschaft der Logik aber ist das Wissen von dem Denken in seiner Wahrheit."
+   ]
+  },
+  {
+   "bi": 87,
+   "k": "p",
+   "hash": "1gd8h7a6s7",
+   "sents": [
+    "Erläuterung.",
+    "Die Logik betrachtet das Gebiet des Gedankens überhaupt.",
+    "Das Denken ist seine eigene Sphäre.",
+    "Es ist ein Ganzes für sich.",
+    "Der Inhalt der Logik sind die eigentümlichen Bestimmungen des Denkens selbst, die gar keinen anderen Grund als das Denken haben.",
+    "Das ihm Heteronomische ist ein durch die Vorstellung überhaupt Gegebenes.",
+    "Die Logik ist also eine große Wissenschaft.",
+    "Es muß allerdings zwischen dem reinen Gedanken und der Realität unterschieden werden; aber Realität, insofern darunter die wahrhafte Wirklichkeit verstanden wird, hat auch der Gedanke.",
+    "Insofern aber damit nur das sinnliche, äußerliche Dasein gemeint ist, hat er sogar eine viel höhere Realität.",
+    "Das Denken hat also einen Inhalt, und zwar sich selbst auf autonomische Weise. - Durch das Studium der Logik lernt man auch richtiger denken, denn indem wir das Denken des Denkens denken, verschafft sich der Geist damit seine Kraft.",
+    "Man lernt die Natur des Denkens kennen, wodurch man ausspüren kann, wenn das Denken sich will zum Irrtum verführen lassen.",
+    "Man muß sich Rechenschaft von seinem Tun zu geben wissen.",
+    "Dadurch erlangt man Festigkeit, sich nicht von anderen irremachen zu lassen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/5.p78.json"
+}

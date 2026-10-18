@@ -1,0 +1,159 @@
+{
+ "id": "w4-5-0",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "C. Schlüsse der Relation",
+ "heading": "C. Schlüsse der Relation",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1o53go01x1",
+   "text": "C. Schlüsse der Relation"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "ekk6nw18rs",
+   "sents": [
+    "§ 51"
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1l6mdufd3i",
+   "sents": [
+    "Der kategorische Schluß hat zur Mitte die an und für sich seiende Allgemeinheit oder die Natur des einzelnen Subjektes, von der als solcher eine wesentliche Eigenschaft ausgesagt und mit diesem Subjekt zusammengeschlossen wird."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "feizqtawdc",
+   "sents": [
+    "§ 52"
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "1qrls771oa",
+   "sents": [
+    "Der hypothetische Schluß drückt als Grund eines Daseins ein anderes Dasein aus.",
+    "Wenn A ist, so ist B. Nun ist A. Also ist B. - Die Bestimmungen sind nicht mehr im Verhältnis als Einzelnes, Besonderes und Allgemeines, sondern eine Bestimmung, B, die zunächst nur eine an sich seiende oder mögliche ist, wird mit dem Dasein durch A als Mitte verbunden, das sowohl daseiend als Grund ist."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "f4je1u1c22",
+   "sents": [
+    "§ 53"
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "5wa1y88mov",
+   "sents": [
+    "Im disjunktiven Schlusse besteht der Grund, daß eine Bestimmung mit einem Subjekt verbunden wird, darin, daß ihm von den besonderen Bestimmungen einer allgemeinen Sphäre ein Teil nicht und somit der übrige Teil zukomme oder, wenn die Bestimmung vom Subjekt getrennt wird, umgekehrt. - A ist entweder B oder C oder D. Nun ist es nicht B noch C. Also ist es D."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "dqldkze6np",
+   "sents": [
+    "§ 54"
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1le5iuy1np",
+   "sents": [
+    "Die Mitte ist also das Subjekt als eine allgemeine Sphäre in ihrer vollständigen Besonderung und enthält zugleich das Ausschließen oder Setzen eines Teils dieser Bestimmungen desselben.",
+    "Das Subjekt ist als ein Allgemeines an sich die Möglichkeit mehrerer Bestimmungen.",
+    "Von seiner Allgemeinheit oder Möglichkeit wird zu seiner Bestimmtheit oder Wirklichkeit übergegangen."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "dglrw01shi",
+   "sents": [
+    "§ 55"
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "pley461gw8",
+   "sents": [
+    "Die Übersicht der Form der Schlüsse ergibt, daß 1. im qualitativen Schluß die Momente in ihrem qualitativen Unterschied gelten.",
+    "Sie bedürfen daher eines Vermittelnden, das ihre unmittelbare Einheit ist, aber außer ihnen fällt.",
+    "In den quantitativen Schlüssen ist der qualitative Unterschied der Momente und damit auch das Verhältnis und der Unterschied des Vermittelten und des Unmittelbaren gleichgültig.",
+    "In den Schlüssen der Relation enthält die Vermittlung zugleich die Unmittelbarkeit.",
+    "Es ist also daraus der Begriff einer Unmittelbarkeit der Natur oder des qualitativen Unterschiedes hervorgegangen, welche zugleich an und für sich Vermittlung, Zweck und Prozeß ist."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "h",
+   "hash": "dzmehr4la1",
+   "text": "Zweiter Abschnitt Die Realisierung des Begriffs"
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "eakkyxum3g",
+   "sents": [
+    "§ 56"
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "de2yjr7oi4",
+   "sents": [
+    "Im Urteil wie im Schluß ist der Begriff an der unmittelbaren Realität, dem gleichgültigen Dasein des Subjekts und Prädikats, oder die Extreme des Schlusses gehen gegeneinander und gegen die Mitte.",
+    "Das Objektive ist, daß diese Momente selbst an ihnen das Ganze werden, ihre Unmittelbarkeit sohin eben dies ist, das Ganze zu sein."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "e0kz9y1vrs",
+   "sents": [
+    "§ 57"
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "nzdw8212v9",
+   "sents": [
+    "Im Zwecke ist das, was Folge und Resultat ist, zugleich der unmittelbar tätige Grund.",
+    "Er ist als ein Subjektives getrennt von dem äußerlichen Dasein vorhanden, und die Tätigkeit besteht in dem Übersetzen der subjektiven Form in die Objektivität.",
+    "In diesem Übergehen kehrt der Zweck zugleich in seinen Begriff zurück."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "h2glwnxwdt",
+   "sents": [
+    "§ 58"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/5.p0.json"
+}

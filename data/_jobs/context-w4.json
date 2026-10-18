@@ -326,9 +326,9 @@
   {
    "source": "Identität",
    "en": "identity",
-   "zh": "同一性",
+   "zh": "同一",
    "type": "term",
-   "note": "Satz der Identität＝同一性命题：A = A"
+   "note": "★ w4 卷内惯例：本卷 106 处作「同一」对 11 处「同一性」，一律「同一」；「同一性」是 w2 理论文体的用法，不引入本卷。与 identisch（同一的）、identisch werden（成为同一）一致"
   },
   {
    "source": "Widerspruch",
@@ -1414,6 +1414,433 @@
    "zh": "某一些",
    "type": "term",
    "note": "特称判断的主语（若干个别者）；与 Einzelne 分层"
+  },
+  {
+   "source": "Realisierung des Begriffs",
+   "en": "the realization of the concept",
+   "zh": "概念的实现",
+   "type": "term",
+   "note": "「第二部分 概念的实现」节标题；无目的者不实现自身"
+  },
+  {
+   "source": "Zweckbeziehung",
+   "en": "purposive relation",
+   "zh": "目的关系",
+   "type": "term",
+   "note": "本节标题关系的缺陷：三个环节各各直接存有，关系外在附加"
+  },
+  {
+   "source": "an und für sich",
+   "en": "in and for itself",
+   "zh": "自在自为",
+   "type": "term",
+   "note": "与 Fürsichsein（自为存在）、Außersichsein（在外存在）三分"
+  },
+  {
+   "source": "Mechanismus",
+   "en": "mechanism",
+   "zh": "机械作用",
+   "type": "term",
+   "note": "与 Chemismus（化学作用）对举；对象被第三种力结合而仍保持独立"
+  },
+  {
+   "source": "Chemismus",
+   "en": "chemistry",
+   "zh": "化学作用",
+   "type": "term",
+   "note": "极端互相排斥又互相结合；中性产物即过程熄灭又重新点燃"
+  },
+  {
+   "source": "Selbsterhaltung",
+   "en": "self-preservation",
+   "zh": "自我保存",
+   "type": "term",
+   "note": "生产性产物的活动；只把已在者产生出来"
+  },
+  {
+   "source": "Ideal",
+   "en": "Ideal",
+   "zh": "理想",
+   "type": "term",
+   "note": "共享词表；就存在这一侧面看的观念"
+  },
+  {
+   "source": "Leben",
+   "en": "life",
+   "zh": "生命",
+   "type": "term",
+   "note": "Idee des Lebens＝生命的观念；观念的直接定在"
+  },
+  {
+   "source": "organisches System",
+   "en": "organic system",
+   "zh": "有机的体系",
+   "type": "term",
+   "note": "生命＝部分通过整体而在的体系；System→体系（共享词表）"
+  },
+  {
+   "source": "Erkenntnis",
+   "en": "knowledge",
+   "zh": "认识",
+   "type": "term",
+   "note": "与 Erkennen（认识）统一；Idee der Erkenntnis und des Guten＝认识与善的观念"
+  },
+  {
+   "source": "das Gute",
+   "en": "the Good",
+   "zh": "善",
+   "type": "term",
+   "note": "与 Sollen（应然）分层；自在的善面对不相称的世界与有必然性法则的自然"
+  },
+  {
+   "source": "Sollen",
+   "en": "the ought",
+   "zh": "应然",
+   "type": "term",
+   "note": "「2. 应然或善」节标题；应然性是自由的法则"
+  },
+  {
+   "source": "Definition",
+   "en": "definition",
+   "zh": "定义",
+   "type": "term",
+   "note": "表述属（普遍本质）与特殊规定性"
+  },
+  {
+   "source": "Einteilung",
+   "en": "division",
+   "zh": "划分",
+   "type": "term",
+   "note": "表述特殊性，须出自共同的划分根据"
+  },
+  {
+   "source": "Einteilungsgrund",
+   "en": "principle of division",
+   "zh": "划分根据",
+   "type": "term",
+   "note": "与 Grund（根据）一致"
+  },
+  {
+   "source": "analytisch",
+   "en": "analytic",
+   "zh": "分析的",
+   "type": "term",
+   "note": "与 synthetisch（综合的）对举；概念只展开已含的简单规定"
+  },
+  {
+   "source": "synthetisch",
+   "en": "synthetic",
+   "zh": "综合的",
+   "type": "term",
+   "note": "与 analytisch 对举；展开不直接包含而须表明其关系必然性"
+  },
+  {
+   "source": "Konstruktion",
+   "en": "construction",
+   "zh": "构造",
+   "type": "term",
+   "note": "与 Beweis（证明）构成认识的两种手段"
+  },
+  {
+   "source": "Lehrsatz",
+   "en": "proposition",
+   "zh": "定理",
+   "type": "term",
+   "note": "证明所表述的全体之关系的命题"
+  },
+  {
+   "source": "Entstehen",
+   "en": "arising",
+   "zh": "产生",
+   "type": "term",
+   "note": "从无到存在的过渡（生成的一极）"
+  },
+  {
+   "source": "Vergehen",
+   "en": "perishing",
+   "zh": "消逝",
+   "type": "term",
+   "note": "从存在到无的过渡（生成的另一极）"
+  },
+  {
+   "source": "Menschenverstand",
+   "en": "common sense",
+   "zh": "常识",
+   "type": "term",
+   "note": "der gesunde Menschenverstand＝健全的常识（单方面抽象的自称）"
+  },
+  {
+   "source": "Nichtsein",
+   "en": "non-being",
+   "zh": "非存在",
+   "type": "term",
+   "note": "定在对他者、因而对自己的非存在具有关系"
+  },
+  {
+   "source": "Sein-für-Anderes",
+   "en": "being-for-other",
+   "zh": "为他存在的存在",
+   "type": "term",
+   "note": "与 An-und-Fürsichsein（自在自为存在）、Fürsichsein（自为存在）三分"
+  },
+  {
+   "source": "An- und Fürsichsein",
+   "en": "being-in-and-for-self",
+   "zh": "自在自为存在",
+   "type": "term",
+   "note": "含三环节：自在／定在（为他）／为他自身"
+  },
+  {
+   "source": "Schranke",
+   "en": "boundary/limit",
+   "zh": "界限",
+   "type": "term",
+   "note": "★ 本卷讲稿中 Schranke 与 Grenze 并提，同作「界限」（如「界限的扬弃，无论质的还是量的」）；仅在需要与 Grenze 区分时用「限度」"
+  },
+  {
+   "source": "Eins",
+   "en": "the One",
+   "zh": "一",
+   "type": "term",
+   "note": "复数 viele Eins＝多个一；一即其他者所是"
+  },
+  {
+   "source": "Repulsion",
+   "en": "repulsion",
+   "zh": "排斥",
+   "type": "term",
+   "note": "与 Attraktion（吸引）对举；无吸引就无排斥"
+  },
+  {
+   "source": "Attraktion",
+   "en": "attraction",
+   "zh": "吸引",
+   "type": "term",
+   "note": "排斥通过吸引自行扬弃，差别被设定为已扬弃"
+  },
+  {
+   "source": "Ausschließung",
+   "en": "exclusion",
+   "zh": "排除",
+   "type": "term",
+   "note": "自为存在即对他者的排除，同时是对他者的关系"
+  },
+  {
+   "source": "Diskretion",
+   "en": "discreteness",
+   "zh": "离散性",
+   "type": "term",
+   "note": "与 Kontinuität（连续性）对举；量同时含一故有离散环节"
+  },
+  {
+   "source": "Kontinuität",
+   "en": "continuity",
+   "zh": "连续性",
+   "type": "term",
+   "note": "量＝被扬弃的自为存在，故自在内是不间断的连续性"
+  },
+  {
+   "source": "intensive Größe",
+   "en": "intensive magnitude",
+   "zh": "内涵的量",
+   "type": "term",
+   "note": "与 extensive Größe（外延的量）对举；量子在自身存在形式下的界限"
+  },
+  {
+   "source": "extensive Größe",
+   "en": "extensive magnitude",
+   "zh": "外延的量",
+   "type": "term",
+   "note": "量子在外在性形式下的界限"
+  },
+  {
+   "source": "mathematisch Unendliches",
+   "en": "mathematically infinite",
+   "zh": "数学的无限",
+   "type": "term",
+   "note": "量子＝0 时失去自身大小，只是关系的一个规定"
+  },
+  {
+   "source": "unendlicher Progreß",
+   "en": "infinite progression",
+   "zh": "无限的进展",
+   "type": "term",
+   "note": "无限一般地先是界限的扬弃，但界限被看作肯定而重生"
+  },
+  {
+   "source": "Entgegensetzung",
+   "en": "opposition",
+   "zh": "对立",
+   "type": "term",
+   "note": "作为肯定与负定的对立；每一方的规定性只通过另一方"
+  },
+  {
+   "source": "unwesentlich",
+   "en": "inessential",
+   "zh": "非本质的",
+   "type": "term",
+   "note": "本质的规定只经由内在统一，直接存在上的规定是非本质的"
+  },
+  {
+   "source": "Satz der Identität",
+   "en": "proposition of identity",
+   "zh": "同一律的命题",
+   "type": "term",
+   "note": "A = A；本质第一个规定＝与自身的本质统一"
+  },
+  {
+   "source": "Gesetz des Widerspruchs",
+   "en": "proposition of contradiction",
+   "zh": "矛盾律的命题",
+   "type": "term",
+   "note": "A 不能同时是 A 又非 A"
+  },
+  {
+   "source": "exclusi tertii",
+   "en": "excluded middle",
+   "zh": "排中律",
+   "type": "term",
+   "note": "某物要么是 A 要么不是 A，没有第三种"
+  },
+  {
+   "source": "zureichender Grund",
+   "en": "sufficient ground",
+   "zh": "充足根据",
+   "type": "term",
+   "note": "根据律：一切都有其充足根据"
+  },
+  {
+   "source": "Verschiedenheit",
+   "en": "difference",
+   "zh": "相异",
+   "type": "term",
+   "note": "★ 与 Unterschied（差别）严格分工：Unterschied 作「差别」、Verschiedenheit 作「相异」（共享词表 Verschiedene=相异）。勿与 Ähnlichkeit（相似）混"
+  },
+  {
+   "source": "Akzidenz",
+   "en": "accident",
+   "zh": "偶性",
+   "type": "term",
+   "note": "一切被规定且有条件的存在；偶性总体构成实体，实体是偶性的威力"
+  },
+  {
+   "source": "Macht",
+   "en": "power",
+   "zh": "威力",
+   "type": "term",
+   "note": "勿与 Gewalt（强力）混；potentiieren（自我产生）得威力"
+  },
+  {
+   "source": "Dingheit",
+   "en": "thinghood",
+   "zh": "物性",
+   "type": "term",
+   "note": "诸规定通过物性而与自身同一；物即诸规定与自身的这一同一"
+  },
+  {
+   "source": "porös",
+   "en": "porous",
+   "zh": "多孔的",
+   "type": "term",
+   "note": "诸物质绝对多孔、彼此相互贯穿并相互分解"
+  },
+  {
+   "source": "passiv",
+   "en": "passive",
+   "zh": "被动者",
+   "type": "term",
+   "note": "现象中的同一＝不确定者／物质；与 aktiv（主动者＝形式）对举"
+  },
+  {
+   "source": "aktiv",
+   "en": "active",
+   "zh": "主动者",
+   "type": "term",
+   "note": "诸规定彼此关系中的同一构成形式"
+  },
+  {
+   "source": "Verhältnis",
+   "en": "ratio",
+   "zh": "关系",
+   "type": "term",
+   "note": "本节讲全体与部分、条件与有条件的关系；勿与 Beziehung（联系）混"
+  },
+  {
+   "source": "bedingtes Verhältnis",
+   "en": "conditioned ratio",
+   "zh": "有条件的关系",
+   "type": "term",
+   "note": "与 unmittelbares bedingtes（直接的有条件的关系）对举"
+  },
+  {
+   "source": "Anstoß",
+   "en": "impulse",
+   "zh": "推动力",
+   "type": "term",
+   "note": "力的条件只是一个外在推动力（勿译「触点」）"
+  },
+  {
+   "source": "Äußerung",
+   "en": "expression",
+   "zh": "表现",
+   "type": "term",
+   "note": "力的表现＝其自在地所是者"
+  },
+  {
+   "source": "unbedingt",
+   "en": "unconditional",
+   "zh": "无条件的",
+   "type": "term",
+   "note": "实体、力、内容皆言无条件；与 bedingt（有条件的）对举"
+  },
+  {
+   "source": "Ganzes / das Ganze",
+   "en": "the whole",
+   "zh": "整体",
+   "type": "term",
+   "note": "共享词表 Ganzes=整体；Totalität（总体性）严禁「全体」；Allheit 作「全体性」；Ganzeheit 作「整体统一体」"
+  },
+  {
+   "source": "Einheit",
+   "en": "unity",
+   "zh": "统一",
+   "type": "term",
+   "note": "勿用「统一体」；与 Ganzes（整体）分开"
+  },
+  {
+   "source": "Allheit",
+   "en": "allness",
+   "zh": "全体性",
+   "type": "term",
+   "note": "与 Totalität（总体性）严格分开：Allheit 是「全部性」，不是 Totalität"
+  },
+  {
+   "source": "Unterschied",
+   "en": "difference",
+   "zh": "差别",
+   "type": "term",
+   "note": "★ 与 Verschiedenheit（相异）严格分工；勿与之混用"
+  },
+  {
+   "source": "Mittel",
+   "en": "means",
+   "zh": "手段",
+   "type": "term",
+   "note": "★ 与 Mitte（中项）严格分开：手段义作「手段」，中项义作「中项」。机械/化学作用节「外在之物作为手段」"
+  },
+  {
+   "source": "Einerleiheit",
+   "en": "identity",
+   "zh": "同一",
+   "type": "term",
+   "note": "备用"
+  },
+  {
+   "source": "anfechten",
+   "en": "impugn",
+   "zh": "质疑",
+   "type": "term",
+   "note": "备用"
   }
  ],
  "forbidden": [

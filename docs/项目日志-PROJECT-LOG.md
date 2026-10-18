@@ -314,3 +314,57 @@
   固定 8 页 verify-paragraph-align 回归 8/8 通过。
 - **第 4 卷累计 5/16 分节 100%**（w4/0-4），1,777 / 5,501 句；全库 14.75%。
 - **远端**：wave37 推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）未动。
+---
+
+## 阶段十七 · 第 38 波：w4/5 中等阶级逻辑学 + 概念论全分节 100%（2026-10-17）
+
+- **本波 15 单元 / 258 块 / 388 句**，覆盖率 14.75% → **15.17%**（13,975 / 92,117 句；
+  按段落 4,225 / 17,948 = 23.54%）。本节跨两段：前 4 单元收尾 1809/10 逻辑学
+  （关系推论 → 概念的实现 → 观念论开篇），104 块之后跳入 **1810/11《中等阶级的逻辑》**
+  （7. Logik für die Mittelklasse50)，含导论与存在论本体论：存在/无/生成 → 定在/界限 →
+  自为存在/一与多 → 量/度 → 本质/现象/物 → 关系/力 → 实体/偶性/现实性）。
+- **★ 本波 15 个单元全部由主代理翻译**：子代理的 BYOK 月度配额要到 2026-10-23 才重置
+  （第 37 波记录的错误类型，错误文本带明确 reset 日期，重派只会再失败）。主译的质量门与
+  worker 完全一致（结构对齐 + 句级违禁词 + doNotTranslate 逐字保留，15 分片 ALL PASS）。
+- **机器门当场抓到的真契约违规 1 处**：块 29（unit 17）的源句含 ) 与 c) 两段但以一个
+  句号收尾（是一整句），我曾拆成两个中英句——违反「1 源句 = 1 en + 1 zh、不得拆分」，
+  合并回一句后过门。**逐块结构门在合并前跑（_gate_w5.mjs），比事后看 qa 更早发现问题。**
+- **合并前独立核验 12 处标记**（_verify38.mjs）：只有 1 处是真违禁
+  （Realität 名词被译「现实性」，政策要求实在性），其余为同形汉字合法用法的误报
+  （「观念」同句 Idee 用、「主观」同句 subjektiv 用、「灵魂」出自 Pneumatologie、
+  「确定性/规定性」同句 Gewißheit/Bestimmtheit 互换）。
+- **qa-trans 47 条标记逐一判读**：4 条 major → **1 处真违禁 + 6 处实质缺陷**，其余为
+  词形/词性误报（Seine≠Sein、erhält sich 是动词、Im Unterschiede von 是介词、
+  Nichtsein≠Nichts、Mittel「手段」≠Mitte「中项」、短讲稿片段的长度比）。
+  实质缺陷：#242 Wesen 误作「存在」→改「本质」；#257 Wissen 与同句 Erkenntnis
+  合并作「认识」→改回「知识」；#61/#77/#59 ealen 未守「实在」词根；
+  #25 Existenz 作「存有」→「存在」；#17 Totalität 作「总体」→「总体性」；
+  #61 Lehrsatz 与 Satz 合并作「命题」→改「定理」。
+- **★ 本波最重要的三组术语裁定**：
+  - **Identität→同一**（w4 卷内 106 处「同一」对 11 处「同一性」；「同一性」是 w2 理论文体
+    的用法，不引入本卷）。
+  - **Verschiedenheit→相异 与 Unterschied→差别 严格分工**（前者与共享词表
+    Verschchiedene=相异 一致）。写上下文包时我一度把两者都写成「差别」，**qa 立刻揪出本波内
+    3 处自相矛盾**——教训：**新术语入包后必须用 qa 回查一遍**，否则错的裁定会反过来
+    指向自己的译文。已补 Unterschied→差别 条目并回改译文。
+  - **Totalität→总体性 / Allheit→全体性 / Ganzes→整体** 三者分开：Totalität 严禁
+    「全体」；Allheit（全部性）是另一个德文词，可作「全体性」；das Ganze 一律「整体」
+    （w4 已有 46 处，本波原先混用「全体/统一体」共 9 处，已拉平）。
+    另 Schranke→界限（讲稿中与 Grenze 并提同译）、Einheit→统一（勿用「统一体」，
+    那是 Ganzeheit 的字面拼接）。
+- **Realität 词根硬要求**（qa 家族守卫会拦）：名词 Realität=实在性（禁「现实性」），
+  形容词 ealen 也须守「实在」词根（「实在的规定」），只有 wirklich 才作「现实的」。
+- **术语层**：上下文包 entries 199 → **260**（新增存在论本体论层：Werden→生成、
+  Eins→一、Repulsion/Attraktion→排斥/吸引、Diskretion/Kontinuität→离散性/连续性、
+  Maß→度、Entgegensetzung→对立、Satz der Identität→同一律、exclusi tertii→排中律、
+  Substanz→实体、Akzidenz→偶性、Macht→威力、porös→多孔的 等）。
+- **验收全绿**：trans-index ALIGNMENT OK、check-policy exit 0、validate/integrity/
+  verify-coverage/audit-sentences 全 exit 0；w4/5 浏览器实测 **pairs=259**（258 译块＋1 fn）、
+  **388 句三语全渲染**、missing/mismatch/空中文/JS 错误全 0；固定 8 页回归 8/8。
+- **★ 端口被别的会话占用会伪装成「译文把阅读器弄坏了」**：本波 8788 被一个 pythonw.exe
+  占着，根路径仍返回 200，但 eader.html 404、erify-paragraph-align 全页
+  pairs=0 / errors=2。**判据：先看计数列——pairs=0 说明根本没测到东西**，不是内容有问题。
+  已把该脚本硬编码的 8788 改为读环境变量 HEGEL_READER_PORT（默认仍 8788），
+  换端口重起服务后 8/8 全过。
+- **第 4 卷累计 6/16 分节 100%**（w4/0-5），2,165 / 5,501 句；全库 15.17%。
+- **远端**：wave38 推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）未动。

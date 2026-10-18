@@ -5,7 +5,13 @@ import { spawn } from 'node:child_process';
 import fs from 'node:fs';
 
 const PAGES = [['w1', 0], ['w1', 21], ['w2', 3], ['w2', 14], ['w3', 0], ['w3', 3], ['w3', 6], ['w3', 9]];
-const BASE = 'http://127.0.0.1:8788';
+// Port 8788 is the project's default, but it can be squatted by another local
+// service (a python process in this session's case). When that happens the run
+// silently reports pairs=0 with errors>0 — i.e. nothing was actually measured,
+// NOT a broken reader. Serve on another port and re-run with HE...PORT set.
+const BASE = process.env.HEGEL_READER_PORT
+  ? `http://127.0.0.1:${process.env.HEGEL_READER_PORT}`
+  : 'http://127.0.0.1:8788';
 
 const run = (args) => new Promise((res) => {
   const p = spawn(process.execPath, args, { stdio: ['ignore', 'pipe', 'pipe'] });

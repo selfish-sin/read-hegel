@@ -1,0 +1,92 @@
+{
+ "id": "w4-5-97",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "C. Schlüsse der Relation",
+ "heading": "C. Schlüsse der Relation",
+ "blocks": [
+  {
+   "bi": 97,
+   "k": "p",
+   "hash": "1ktjld12ap",
+   "sents": [
+    "§ 5"
+   ]
+  },
+  {
+   "bi": 98,
+   "k": "p",
+   "hash": "12mggzdzdv",
+   "sents": [
+    "Dies ist nicht so zu verstehen, als ob diese Einheit erst durch das Denken zu dem Mannigfaltigen der Gegenstände hinzutrete und die Verknüpfung erst von außen darein gebracht werde, sondern die Einheit gehört ebensosehr dem Objekt an und macht mit ihren Bestimmungen auch dessen eigene Natur aus."
+   ]
+  },
+  {
+   "bi": 99,
+   "k": "p",
+   "hash": "1jzksa4n0y",
+   "sents": [
+    "§ 6"
+   ]
+  },
+  {
+   "bi": 100,
+   "k": "p",
+   "hash": "6gv8yn1f8t",
+   "sents": [
+    "Der Gedanken sind dreierlei: 1. die Kategorien; 2. die Reflexionsbestimmungen; 3. die Begriffe.",
+    "Die Lehre von den beiden ersteren macht die objektive Logik oder Metaphysik aus; die Lehre von den Begriffen die eigentliche oder subjektive Logik."
+   ]
+  },
+  {
+   "bi": 101,
+   "k": "p",
+   "hash": "10g2f4l1o9",
+   "sents": [
+    "Erläuterung.",
+    "Die Logik enthält das System des reinen Denkens.",
+    "Das Sein ist 1. das unmittelbare, 2. das innerliche; die Denkbestimmungen gehen wieder in sich zurück.",
+    "Die Gegenstände der gewöhnlichen Metaphysik sind das Ding, die Welt, der Geist und Gott, wodurch die verschiedenen metaphysischen Wissenschaften, Ontologie, Kosmologie, Pneumatologie und Theologie, entstehen."
+   ]
+  },
+  {
+   "bi": 102,
+   "k": "p",
+   "hash": "4jfhue172q",
+   "sents": [
+    "Was der Begriff darstellt, ist ein Seiendes, aber auch ein Wesentliches.",
+    "Das Sein verhält sich als das Unmittelbare zum Wesen als dem Mittelbaren.",
+    "Die Dinge sind überhaupt, allein ihr Sein besteht darin, ihr Wesen zu zeigen.",
+    "Das Sein macht sich zum Wesen, was man auch so ausdrücken kann: das Sein setzt das Wesen voraus.",
+    "Aber wenn auch das Wesen im Verhältnis zum Sein als das Vermittelte erscheint, so ist doch das Wesen das Ursprüngliche.",
+    "Das Sein geht in ihm in seinen Grund zurück; das Sein hebt sich in dem Wesen auf.",
+    "Sein Wesen ist auf diese Weise ein Gewordenes oder Hervorgebrachtes, aber vielmehr, was als Gewordenes erscheint, ist auch das Ursprüngliche.",
+    "Das Vergängliche hat das Wesen zu seiner Grundlage und wird aus demselben."
+   ]
+  },
+  {
+   "bi": 103,
+   "k": "p",
+   "hash": "17o1unc1uq",
+   "sents": [
+    "Wir machen Begriffe.",
+    "Diese sind etwas von uns Gesetztes, aber der Begriff enthält auch die Sache an und für sich selbst.",
+    "In Verhältnis zu ihm ist das Wesen wieder das Gesetzte, aber das Gesetzte verhält sich doch als wahr.",
+    "Der Begriff ist teils der subjektive, teils der objektive.",
+    "Die Idee ist die Vereinigung von Subjektivem und Objektivem.",
+    "Wenn wir sagen, es ist ein bloßer Begriff, so vermissen wir darin die Realität.",
+    "Die bloße Objektivität hingegen ist ein Begriffloses.",
+    "Die Idee aber gibt an, wie die Realität durch den Begriff bestimmt ist.",
+    "Alles Wirkliche ist eine Idee."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/5.p97.json"
+}

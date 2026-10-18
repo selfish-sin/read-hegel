@@ -1,0 +1,131 @@
+{
+ "id": "w4-5-245",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "C. Schlüsse der Relation",
+ "heading": "C. Schlüsse der Relation",
+ "blocks": [
+  {
+   "bi": 245,
+   "k": "p",
+   "hash": "1j2mhu53yz",
+   "sents": [
+    "§ 63"
+   ]
+  },
+  {
+   "bi": 246,
+   "k": "p",
+   "hash": "1z0g12a1u3",
+   "sents": [
+    "Die Akzidenzen in ihrer Mannigfaltigkeit stellen die Inhaltsbestimmungen der Substanz in ihrer Wesentlichkeit so dar, daß sie den Kreis der unwesentlichen Umstände durchlaufen, deren jeder sich in einem anderen aufhebt, und nur die einfache substantielle Bestimmung sich erhält.",
+    "Die Substanz ist die Macht der Akzidenzen, insofern sie sich an sich selbst aufheben, zugleich aber in diesem Aufheben sich das Substantielle offenbart."
+   ]
+  },
+  {
+   "bi": 247,
+   "k": "p",
+   "hash": "12co7wr1tn",
+   "sents": [
+    "§ 64 [58]"
+   ]
+  },
+  {
+   "bi": 248,
+   "k": "p",
+   "hash": "9b72e11oh8",
+   "sents": [
+    "Die Akzidenzen, insofern sie an sich in der Substanz enthalten sind, sind möglich.",
+    "Die Substanz ist nicht möglich, sondern die Möglichkeit selbst."
+   ]
+  },
+  {
+   "bi": 249,
+   "k": "p",
+   "hash": "iodv7zwx8i",
+   "sents": [
+    "§ 65 [59]"
+   ]
+  },
+  {
+   "bi": 250,
+   "k": "p",
+   "hash": "252dz8p1mm",
+   "sents": [
+    "Indem irgend etwas bloß in der Form des Ansichseins oder als sich nicht widersprechend gedacht oder überhaupt vorgestellt wird, wird es möglich genannt; es ist ein Ansichsein, das nur ein gesetztes, nicht an und für sich ist; eine einzelne Bestimmung hat eine solche von der Wirklichkeit getrennte Möglichkeit."
+   ]
+  },
+  {
+   "bi": 251,
+   "k": "p",
+   "hash": "1mj3cf61p9",
+   "sents": [
+    "Potenzieren; die Zahl hebt die Akzidentalität (ihr unmittelbares, zufälliges Sein, das ebensowohl 4 als 5 usf. sein kann) auf, und in diesem Aufheben, Verändern manifestiert sie sich, sie wird zur Macht. - Sie ist zunächst nur zufällig; ein Unmittelbares; aber Quadrat, Kubus ist identisch mit sich, An-sich-geworden-Sein.",
+    "Sie verändert sich, aber sie ist das Bestimmende dieser ihrer Veränderung; Selbstbestimmung, Reflektiertsein in sich. actu und potentia.",
+    "Unterschied von Macht und Möglichkeit; - ich mag nicht."
+   ]
+  },
+  {
+   "bi": 252,
+   "k": "p",
+   "hash": "10ctusw1iu",
+   "sents": [
+    "§ 66 [60]"
+   ]
+  },
+  {
+   "bi": 253,
+   "k": "p",
+   "hash": "axl4ie1pmn",
+   "sents": [
+    "Wahrhaft möglich ist etwas nur als Totalität seiner ansichseienden Bestimmungen; was diese innere, vollständige Möglichkeit hat, ist nicht bloß ein Gesetztsein, sondern an und für sich und unmittelbar wirklich.",
+    "Die Möglichkeit der Substanz ist daher ihre Wirklichkeit. {(Gott z. B. ist nicht nur überhaupt, sondern wahrhaft möglich.",
+    "Seine Möglichkeit ist eine notwendige.",
+    "Er ist absolut wirklich.)}"
+   ]
+  },
+  {
+   "bi": 254,
+   "k": "p",
+   "hash": "d5igth1dfv",
+   "sents": [
+    "Wirklichkeit ist das Reflektiertsein in sich; als Wirkliches - Beide ein Reflektiertsein; Möglichkeit Form des Ansichseins; negatives Reflektiertsein; Aufheben der Form der Unbestimmtheit."
+   ]
+  },
+  {
+   "bi": 255,
+   "k": "p",
+   "hash": "blj73ov8fx",
+   "sents": [
+    "§ 67 [61]"
+   ]
+  },
+  {
+   "bi": 256,
+   "k": "p",
+   "hash": "1hr72p6qu0",
+   "sents": [
+    "Der Zusammenhang der Akzidenzen in der Substanz ist ihre Notwendigkeit. {Sie ist die Einheit der Möglichkeit und der Wirklichkeit.}",
+    "Die Notwendigkeit ist blind, insofern der Zusammenhang ein bloß innerer ist oder insofern das Wirkliche nicht zugleich vorher als ansichseiende Einheit seiner Bestimmungen, als Zweck vorhanden ist, sondern aus der Beziehung derselben erst resultiert."
+   ]
+  },
+  {
+   "bi": 257,
+   "k": "p",
+   "hash": "1k9yytphns",
+   "sents": [
+    "Gott ist absolute Vernunftidee, nicht ein Gesetztsein, Einbilden, nicht bloß etwas Mögliches; er ist notwendige Idee; nicht gesetzt durch ein fremdes Denken.",
+    "Gottes Erkenntnis ist unmittelbar und mittelbar, 1. als Wissen der Vernunft von ihrem Absoluten, 2. vermittelt - Aufsteigen vom Endlichen, was ein bloß Zufälliges, Mögliches ist; ein bloß Gesetztes, reflektiert in einem Anderen, seine Reflexion in sich selbst ist seine Wirklichkeit.",
+    "Es ist nicht von der Möglichkeit Gottes als dem Grunde, wahrhaft Ersten, - oder dem Positiven; - diese Möglichkeit ist die zufällige Welt, die sich an ihr selbst aufhebt, aus ihrer Reflexion-in-Anderes sich in sich reflektiert und wirklich ist und die Wirklichkeit manifestiert."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/5.p245.json"
+}

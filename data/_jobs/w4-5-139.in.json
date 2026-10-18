@@ -1,0 +1,146 @@
+{
+ "id": "w4-5-139",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "C. Schlüsse der Relation",
+ "heading": "Zweiter Abschnitt Quantität",
+ "blocks": [
+  {
+   "bi": 139,
+   "k": "h",
+   "hash": "hky31n1t3b",
+   "text": "Zweiter Abschnitt Quantität"
+  },
+  {
+   "bi": 140,
+   "k": "p",
+   "hash": "cbz30ji62p",
+   "sents": [
+    "§ 21"
+   ]
+  },
+  {
+   "bi": 141,
+   "k": "p",
+   "hash": "1lbtc7hp25",
+   "sents": [
+    "Durch die Qualität ist etwas das, was es ist.",
+    "Durch Veränderung der Qualität verändert sich nicht bloß eine Bestimmung an etwas oder an dem Endlichen, sondern das Endliche selbst.",
+    "Die Quantität dagegen ist die Bestimmung, die nicht mehr die Natur der Sache selbst ausmacht, sondern ein gleichgültiger Unterschied, bei dessen Veränderung die Sache bleibt, was sie ist."
+   ]
+  },
+  {
+   "bi": 142,
+   "k": "p",
+   "hash": "clyopi1g1h",
+   "sents": [
+    "§ 22"
+   ]
+  },
+  {
+   "bi": 143,
+   "k": "p",
+   "hash": "1f9ecmr9dy",
+   "sents": [
+    "Die Quantität ist das aufgehobene Fürsichsein oder Eins.",
+    "Sie ist also eine ununterbrochene Kontinuität in sich selbst.",
+    "Aber da sie ebensosehr das Eins enthält, so hat sie auch das Moment der Diskretion in sich."
+   ]
+  },
+  {
+   "bi": 144,
+   "k": "p",
+   "hash": "cvyaehlgd1",
+   "sents": [
+    "§ 23"
+   ]
+  },
+  {
+   "bi": 145,
+   "k": "p",
+   "hash": "1380kf88b0",
+   "sents": [
+    "a) Die Größe ist entweder kontinuierlich oder diskret.",
+    "Aber jede dieser beiden Arten von Größe hat sowohl die Diskretion als die Kontinuität an ihr, und der Unterschied ist nur dieser, daß in der diskreten Größe die Diskretion, in der kontinuierlichen aber die Kontinuität das Prinzip ausmacht."
+   ]
+  },
+  {
+   "bi": 146,
+   "k": "p",
+   "hash": "d5xw3g1jbr",
+   "sents": [
+    "§ 24"
+   ]
+  },
+  {
+   "bi": 147,
+   "k": "p",
+   "hash": "1y9kocj11v",
+   "sents": [
+    "b) Die Größe oder Quantität ist als begrenzte Quantität ein Quantum.",
+    "Da diese Grenze nichts an und für sich Bestimmtes ist, so kann ein Quantum ins Unbestimmte vermehrt oder vermindert werden."
+   ]
+  },
+  {
+   "bi": 148,
+   "k": "p",
+   "hash": "dfxhsf1xhg",
+   "sents": [
+    "§ 25"
+   ]
+  },
+  {
+   "bi": 149,
+   "k": "p",
+   "hash": "1xve72tzj1",
+   "sents": [
+    "Die Grenze des Quantums in der Form des Insichseins gibt die intensive Größe, in der Form der Äußerlichkeit die extensive Größe.",
+    "Es gibt aber nicht ein Intensives, das nicht auch die Form von extensivem Dasein hätte, und umgekehrt."
+   ]
+  },
+  {
+   "bi": 150,
+   "k": "p",
+   "hash": "dpx3hewbrf",
+   "sents": [
+    "§ 26"
+   ]
+  },
+  {
+   "bi": 151,
+   "k": "p",
+   "hash": "n2nl3w19um",
+   "sents": [
+    "c) Das Quantum hat keine an sich selbst bestimmte Grenze.",
+    "Es gibt also kein Quantum, über das nicht ein größeres oder kleineres gesetzt werden könnte.",
+    "Das Quantum, welches das letzte sein, über das kein größeres oder kleineres gesetzt werden soll, heißt gewöhnlich das unendlich Große oder das unendlich Kleine."
+   ]
+  },
+  {
+   "bi": 152,
+   "k": "p",
+   "hash": "dzwp6d1qmx",
+   "sents": [
+    "§ 27"
+   ]
+  },
+  {
+   "bi": 153,
+   "k": "p",
+   "hash": "1qg63dd1gg",
+   "sents": [
+    "Aber damit hört es überhaupt auf, ein Quantum zu sein, und ist für sich = 0.",
+    "Es hat nur noch Bedeutung als Bestimmung eines Verhältnisses, worin es für sich keine Größe mehr hat, sondern nur eine Bestimmung in Beziehung auf ein Anderes.",
+    "Dies ist der genauere Begriff des mathematisch Unendlichen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/5.p139.json"
+}

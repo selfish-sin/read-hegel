@@ -1,0 +1,114 @@
+{
+ "id": "w4-5-88",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "C. Schlüsse der Relation",
+ "heading": "C. Schlüsse der Relation",
+ "blocks": [
+  {
+   "bi": 88,
+   "k": "p",
+   "hash": "1ivmdi816q",
+   "sents": [
+    "§ 2"
+   ]
+  },
+  {
+   "bi": 89,
+   "k": "p",
+   "hash": "105pt3qbtr",
+   "sents": [
+    "Das Denken ist überhaupt das Auffassen und Zusammenfassen des Mannigfaltigen in der Einheit.",
+    "Das Mannigfaltige als solches gehört der Äußerlichkeit überhaupt, dem Gefühl und der sinnlichen Anschauung an."
+   ]
+  },
+  {
+   "bi": 90,
+   "k": "p",
+   "hash": "1gdx0zk1m1",
+   "sents": [
+    "Erläuterung.",
+    "Das Denken besteht darin, alles Mannigfaltige in die Einheit zu bringen.",
+    "Indem der Geist über die Dinge denkt, bringt er sie auf die einfachen Formen, welche die reinen Bestimmungen des Geistes sind.",
+    "Das Mannigfaltige ist dem Denken zunächst äußerlich.",
+    "Insofern wir das sinnlich Mannigfaltige auffassen, denken wir noch nicht, sondern erst das Beziehen desselben ist das Denken.",
+    "Das unmittelbare Auffassen des Mannigfaltigen heißen wir Fühlen oder Empfinden.",
+    "Wenn ich fühle, weiß ich bloß von etwas; in der Anschauung aber schaue ich etwas als ein mir Äußerliches im Raum und in der Zeit an.",
+    "Das Gefühl wird zur Anschauung, wenn es räumlich und zeitlich bestimmt wird."
+   ]
+  },
+  {
+   "bi": 91,
+   "k": "p",
+   "hash": "1j5lz775kz",
+   "sents": [
+    "§ 3"
+   ]
+  },
+  {
+   "bi": 92,
+   "k": "p",
+   "hash": "s2fg4g7zg5",
+   "sents": [
+    "Das Denken ist Abstraktion, insofern die Intelligenz von konkreten Anschauungen ausgeht, eine von den mannigfaltigen Bestimmungen wegläßt und eine andere hervorhebt und ihr die einfache Form des Denkens gibt."
+   ]
+  },
+  {
+   "bi": 93,
+   "k": "p",
+   "hash": "rg3fnf1gtq",
+   "sents": [
+    "Erläuterung.",
+    "Wenn ich alle Bestimmungen von einem Gegenstand weglasse, so bleibt nichts übrig.",
+    "Wenn ich dagegen eine Bestimmung weglasse und eine andere heraushebe, so ist dies abstrakt.",
+    "Das Ich z. B. ist eine abstrakte Bestimmung.",
+    "Ich weiß nur von Ich, insofern ich mich von allen Bestimmungen absondere.",
+    "Dies ist aber ein negatives Mittel.",
+    "Ich negiere die Bestimmungen von mir und lasse mich nur als solchen.",
+    "Das Abstrahieren ist die negative Seite des Denkens."
+   ]
+  },
+  {
+   "bi": 94,
+   "k": "p",
+   "hash": "1kjjzo213g",
+   "sents": [
+    "§ 4"
+   ]
+  },
+  {
+   "bi": 95,
+   "k": "p",
+   "hash": "1yvuvb01t5",
+   "sents": [
+    "Der Inhalt der Vorstellungen ist aus der Erfahrung genommen, aber die Form der Einheit selbst und deren weitere Bestimmungen haben nicht in dem Unmittelbaren derselben als solchem ihre Quellen, sondern in dem Denken."
+   ]
+  },
+  {
+   "bi": 96,
+   "k": "p",
+   "hash": "6fns3kgy3o",
+   "sents": [
+    "Erläuterung.",
+    "Ich heißt überhaupt Denken.",
+    "Wenn ich sage: ich denke, so ist dies etwas Identisches.",
+    "Ich ist vollkommen einfach.",
+    "Ich bin denkend, und zwar immer.",
+    "Wir können aber nicht sagen: ich denke immer.",
+    "An sich wohl, aber unser Gegenstand ist nicht immer auch Gedanke.",
+    "Wir können aber in dem Sinne, daß wir Ich sind, sagen, wir denken immer, denn Ich ist immer die einfache Identität mit sich, und das ist Denken.",
+    "Als Ich sind wir der Grund aller unserer Bestimmungen.",
+    "Insofern der Gegenstand gedacht wird, erhält er die Form des Denkens und wird zu einem gedachten Gegenstand.",
+    "Er wird gleichgemacht dem Ich, d. h. er wird gedacht."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/5.p88.json"
+}

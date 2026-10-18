@@ -1,0 +1,193 @@
+{
+ "id": "w4-5-34",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "C. Schlüsse der Relation",
+ "heading": "I. Idee des Lebens",
+ "blocks": [
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "3dqbyleqg2",
+   "sents": [
+    "Die Idee ist das objektiv Wahre oder der adäquate Begriff, in welchem das Dasein durch seinen ihm inwohnenden Begriff bestimmt und die Existenz als selbst produzierendes Produkt in äußerer Einheit mit ihrem Zweck ist.",
+    "Die Idee ist diejenige Wirklichkeit, die nicht irgendeiner außer ihr vorhandenen Vorstellung oder Begriff, sondern ihrem eigenen Begriff entspricht, welche daher so ist, wie sie an und für sich sein soll und diesen ihren Begriff selbst enthält. - Das Ideal ist die Idee nach der Seite der Existenz betrachtet, aber als eine solche, die dem Begriff gemäß ist.",
+    "Es ist also das Wirkliche in seiner höchsten Wahrheit. - Im Unterschiede von dem Ausdruck Ideal nennt man Idee mehr das Wahre, nach der Seite des Begriffs betrachtet."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "1hyo329nop",
+   "sents": [
+    "§ 67"
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "1c8auu815m",
+   "sents": [
+    "Es sind drei Ideen: 1. die Idee des Lebens, 2. die Idee der Erkenntnis und des Guten und 3. die Idee der Wissenschaft oder der Wahrheit selbst."
+   ]
+  },
+  {
+   "bi": 37,
+   "k": "h",
+   "hash": "wukx3ujlqm",
+   "text": "I. Idee des Lebens"
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "1g0qv7g1lk",
+   "sents": [
+    "§ 68"
+   ]
+  },
+  {
+   "bi": 39,
+   "k": "p",
+   "hash": "60lxql1t6z",
+   "sents": [
+    "Das Leben ist die Idee in ihrem unmittelbaren Dasein, wodurch sie in das Feld der Erscheinung oder des veränderlichen, sich mannigfaltig und äußerlich bestimmenden Seins und einer unorganischen Natur gegenübertritt."
+   ]
+  },
+  {
+   "bi": 40,
+   "k": "p",
+   "hash": "1gaqgwfdtu",
+   "sents": [
+    "§ 69"
+   ]
+  },
+  {
+   "bi": 41,
+   "k": "p",
+   "hash": "oz6fbe1c24",
+   "sents": [
+    "Das Leben ist als unmittelbare Einheit des Begriffs und des Daseins ein solches Ganzes, in welchem die Teile nichts für sich, sondern durchs Ganze und im Ganzen und das Ganze ebensosehr durch die Teile ist.",
+    "Es ist ein organisches System."
+   ]
+  },
+  {
+   "bi": 42,
+   "k": "h",
+   "hash": "rmolps8aqb",
+   "text": "II. Idee der Erkenntnis und des Guten"
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "1jwogf1162",
+   "sents": [
+    "§ 70"
+   ]
+  },
+  {
+   "bi": 44,
+   "k": "p",
+   "hash": "1nmb1rhsxt",
+   "sents": [
+    "In dieser Idee tritt der Begriff und die Wirklichkeit auseinander.",
+    "Jener einerseits, für sich leer, soll seine Bestimmung und Erfüllung von der Wirklichkeit, andererseits [soll] diese aus der selbständigen Bestimmung von jenem ihre Bestimmung erhalten."
+   ]
+  },
+  {
+   "bi": 45,
+   "k": "h",
+   "hash": "10hc1du1ye",
+   "text": "1. Das Erkennen"
+  },
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "1jmouq21mm",
+   "sents": [
+    "§ 71"
+   ]
+  },
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "t6bm611r15",
+   "sents": [
+    "Das Erkennen ist die Beziehung des Begriffs und der Wirklichkeit.",
+    "Das an sich nur mit sich erfüllte und insofern leere Denken wird dadurch mit besonderem Inhalt erfüllt, der aus dem Dasein zu allgemeiner Darstellung erhoben wird."
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "1jcp91312s",
+   "sents": [
+    "§ 72"
+   ]
+  },
+  {
+   "bi": 49,
+   "k": "p",
+   "hash": "1p9urtd5q1",
+   "sents": [
+    "Die Definition drückt von einem Gegenstande, der sich in ihr als ein Einzelnes oder Besonderes verhält, seine Gattung als sein allgemeines Wesen und die besondere Bestimmtheit dieses Allgemeinen, wodurch es dieser Gegenstand ist, aus."
+   ]
+  },
+  {
+   "bi": 50,
+   "k": "p",
+   "hash": "1j2pnc41xd",
+   "sents": [
+    "§ 73"
+   ]
+  },
+  {
+   "bi": 51,
+   "k": "p",
+   "hash": "pweheo183f",
+   "sents": [
+    "Die Einteilung drückt von einer Gattung oder einem Allgemeinen überhaupt, einem Geschlecht, einer Ordnung usf. die Besonderungen aus, in welchen sie als eine Mannigfaltigkeit von Arten existiert.",
+    "Diese Besonderungen, die in einer Einheit enthalten sind, müssen aus einem gemeinschaftlichen Einteilungsgrunde fließen."
+   ]
+  },
+  {
+   "bi": 52,
+   "k": "p",
+   "hash": "1isq1n5zi1",
+   "sents": [
+    "§ 74"
+   ]
+  },
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "fauo2t147d",
+   "sents": [
+    "Das Erkennen ist teils analytisch, teils synthetisch."
+   ]
+  },
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "1iiqfy61u3",
+   "sents": [
+    "§ 75"
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "1t4hmxv7ou",
+   "sents": [
+    "Das analytische Erkennen geht von einem Begriffe oder einer konkreten Bestimmung aus und entwickelt nur die Mannigfaltigkeit der unmittelbaren oder identisch darinnen enthaltenen einfachen Bestimmungen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/5.p34.json"
+}

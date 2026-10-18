@@ -1,0 +1,195 @@
+{
+ "id": "w4-5-56",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 5,
+ "chunkTitle": "C. Schlüsse der Relation",
+ "heading": "2. Das Sollen oder das Gute",
+ "blocks": [
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "1i8qu97w7r",
+   "sents": [
+    "§ 76"
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "4kkg6x1oy7",
+   "sents": [
+    "Das synthetische Erkennen entwickelt dagegen die Bestimmungen eines Ganzen, die nicht unmittelbar darin enthalten sind, noch identisch auseinander herfließen, sondern die Gestalt der Verschiedenheit gegeneinander haben, und zeigt die Notwendigkeit ihres bestimmten Verhältnisses zueinander auf."
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "1hyr8k81qs",
+   "sents": [
+    "§ 77"
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "52vhvy1mqc",
+   "sents": [
+    "Dies geschieht durch Konstruktion und Beweis.",
+    "Die Konstruktion stellt den Begriff oder Satz teils in seinen realen Bestimmungen, teils zum Behufe des Beweises diese seine Realität in ihrer Einteilung und Auflösung dar, wodurch ihr Übergang in den Begriff beginnt."
+   ]
+  },
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "1hormv9sxh",
+   "sents": [
+    "§ 78"
+   ]
+  },
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "g6u23u1gr6",
+   "sents": [
+    "Der Beweis faßt die aufgelösten Teile auf und bringt durch die Vergleichung ihrer Verhältnisse zueinander diejenige Verbindung derselben hervor, welche das im Lehrsatz ausgesprochene Verhältnis des Ganzen ausmacht; oder er zeigt von den realen Bestimmungen auf, wie sie Momente des Begriffs sind und ihr zusammengefaßtes Verhältnis den Begriff in seiner Totalität darstellt."
+   ]
+  },
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "1hes16a1ni",
+   "sents": [
+    "§ 79"
+   ]
+  },
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "145mel71fx",
+   "sents": [
+    "In diesem Erkennen, welches in seiner strengsten Form das geometrische ist, geht 1. die Konstruktion nicht aus dem Begriff hervor, sondern ist eine erfundene Vorrichtung, die nur in Beziehung auf den Beweis sich als zweckmäßig zeigt, oder in anderen Fällen auch eine empirische Beschreibung.",
+    "In dem Beweise werden für die analytischen Bestimmungen sonst bekannte oder ausgemachte synthetische Sätze anderswo herbeigeholt, das Vorliegende darunter subsumiert und verbunden.",
+    "Der Beweis erhält dadurch den Schein der Zufälligkeit, indem er für die Einsicht nur eine Notwendigkeit, nicht den eigenen Gang und die innere Notwendigkeit des Gegenstandes selbst darstellt."
+   ]
+  },
+  {
+   "bi": 64,
+   "k": "h",
+   "hash": "y623hp65ub",
+   "text": "2. Das Sollen oder das Gute"
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "1jd784q1jd",
+   "sents": [
+    "§ 80"
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "h4jlx31w4t",
+   "sents": [
+    "In der Idee des Erkennens wird der Begriff gesucht, und er soll dem Gegenstand angemessen sein.",
+    "In der Idee des Guten gilt der Begriff umgekehrt als das Erste und als der an sich seiende Zweck, der in der Wirklichkeit realisiert werden soll."
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "1jn6ttpi85",
+   "sents": [
+    "§ 81"
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "tpblio6szz",
+   "sents": [
+    "Das an sich Gute, da es erst realisiert werden soll, steht einer ihm nicht entsprechenden Welt und einer Natur gegenüber, die ihre eigenen Gesetze der Notwendigkeit hat und gegen die Gesetze der Freiheit gleichgültig ist."
+   ]
+  },
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "1it80qs1g3",
+   "sents": [
+    "§ 82"
+   ]
+  },
+  {
+   "bi": 70,
+   "k": "p",
+   "hash": "dtexxibixs",
+   "sents": [
+    "Das Gute ist als absoluter Zweck einerseits an sich zu vollbringen ohne alle Rücksicht auf die Folgen, indem es einer Wirklichkeit anvertraut wird, die unabhängig von ihm ist und es verkehren kann."
+   ]
+  },
+  {
+   "bi": 71,
+   "k": "p",
+   "hash": "1j37mfrexv",
+   "sents": [
+    "§ 83"
+   ]
+  },
+  {
+   "bi": 72,
+   "k": "p",
+   "hash": "e002vz1nhv",
+   "sents": [
+    "Zugleich aber liegt darin die Bestimmung, daß an sich die Wirklichkeit mit dem Guten übereinstimmt, oder der Glaube an eine moralische Weltordnung."
+   ]
+  },
+  {
+   "bi": 73,
+   "k": "h",
+   "hash": "k73elc15fw",
+   "text": "III. Idee des Wissens oder der Wahrheit"
+  },
+  {
+   "bi": 74,
+   "k": "p",
+   "hash": "1i98tcu1ct",
+   "sents": [
+    "§ 84"
+   ]
+  },
+  {
+   "bi": 75,
+   "k": "p",
+   "hash": "ql5nhwkmoi",
+   "sents": [
+    "Das absolute Wissen ist der Begriff, der sich selbst zum Gegenstand und Inhalt hat, somit seine eigene Realität ist."
+   ]
+  },
+  {
+   "bi": 76,
+   "k": "p",
+   "hash": "1ij8f1t11x",
+   "sents": [
+    "§ 85"
+   ]
+  },
+  {
+   "bi": 77,
+   "k": "p",
+   "hash": "uhqky1dcm5",
+   "sents": [
+    "Der Gang oder die Methode des absoluten Wissens ist ebensosehr analytisch als synthetisch.",
+    "Die Entwicklung dessen, was im Begriff enthalten ist, die Analysis, ist das Hervorgehen verschiedener Bestimmungen, die im Begriff enthalten, aber nicht als solche unmittelbar gegeben sind, somit zugleich synthetisch.",
+    "Die Darstellung des Begriffs in seinen realen Bestimmungen geht hier aus dem Begriff selbst hervor, und was im gewöhnlichen Erkennen den Beweis ausmacht, ist hier der Rückgang der in die Verschiedenheit übergegangenen Begriffsmomente in die Einheit, welche hierdurch Totalität, erfüllter und sich selbst zum Inhalt gewordener Begriff ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/5.p56.json"
+}
