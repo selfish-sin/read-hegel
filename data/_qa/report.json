@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-18T13:34:28.630Z",
- "blocks": 1602,
- "sentences": 2276,
+ "generated": "2026-10-18T13:50:58.214Z",
+ "blocks": 1688,
+ "sentences": 2380,
  "issues": [
   {
    "sev": "minor",
@@ -1337,11 +1337,111 @@
    "sev": "minor",
    "where": "w4/6#76",
    "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#79",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#80",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#80",
+   "msg": "sentence 2: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#82",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#82",
+   "msg": "sentence 0: \"Sphäre\" is not rendered as “领域”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#87",
+   "msg": "sentence 1: \"Bestimmtheit\" is not rendered as “规定性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#95",
+   "msg": "sentence 0: \"Gleichheit\" is not rendered as “等同”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#125",
+   "msg": "sentence 0: \"Bestimmtheit\" is not rendered as “规定性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#126",
+   "msg": "sentence 1: \"Bestimmtheit\" is not rendered as “规定性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#133",
+   "msg": "sentence 0: \"Bestimmtheit\" is not rendered as “规定性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#133",
+   "msg": "sentence 0: \"Sphäre\" is not rendered as “领域”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#137",
+   "msg": "sentence 0: \"Bestimmtheit\" is not rendered as “规定性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#137",
+   "msg": "sentence 0: \"Sphäre\" is not rendered as “领域”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#151",
+   "msg": "sentence 0: \"Verschiedenheit\" is not rendered as “相异”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#153",
+   "msg": "sentence 0: \"Sphäre\" is not rendered as “领域”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#156",
+   "msg": "sentence 0: \"Angemessenheit\" is not rendered as “相宜”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#158",
+   "msg": "sentence 0: \"Beschaffenheit\" is not rendered as “性质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#163",
+   "msg": "sentence 0: \"Beschaffenheit\" is not rendered as “性质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#163",
+   "msg": "sentence 0: \"Angemessenheit\" is not rendered as “相宜”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#163",
+   "msg": "sentence 0: \"Unangemessenheit\" is not rendered as “不相宜”"
   }
  ],
  "bySev": {
   "critical": 0,
   "major": 16,
-  "minor": 251
+  "minor": 271
  }
 }
