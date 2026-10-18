@@ -1,0 +1,92 @@
+{
+ "id": "w4-6-221",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "Erläuterungen zur Einleitung",
+ "blocks": [
+  {
+   "bi": 221,
+   "k": "p",
+   "hash": "nhw4ti1m4g",
+   "sents": [
+    "Die nähere Bestimmung und Entwicklung von diesem allgemeinen Grundsatze des Willens stellt die Rechts-, Pflichten- und Religionslehre dar."
+   ]
+  },
+  {
+   "bi": 222,
+   "k": "h",
+   "hash": "1e4vo181gc",
+   "text": "Erläuterungen zur Einleitung"
+  },
+  {
+   "bi": 223,
+   "k": "p",
+   "hash": "1jpl6l51ur",
+   "sents": [
+    "§ 1"
+   ]
+  },
+  {
+   "bi": 224,
+   "k": "p",
+   "hash": "ckby1dgm55",
+   "sents": [
+    "Die Gegenstände sind das Besondere, was sie sind, durch ihre Bestimmung, - ein sinnlicher Gegenstand z. B. durch seine Gestalt, Größe, Schwere, Farbe, durch den mehr oder weniger festen Zusammenhang seiner Teile, durch den Zweck, zu dem er gebraucht wird, usf.",
+    "Läßt man nun die Bestimmungen von einem Gegenstand in der Vorstellung weg, so heißt man dies abstrahieren.",
+    "Es bleibt ein weniger bestimmter Gegenstand oder ein abstraktes Objekt übrig.",
+    "Nehme ich aber in der Vorstellung nur eine einzelne solche Bestimmung heraus, so ist auch dies eine abstrakte Vorstellung.",
+    "Der Gegenstand, in der Vollständigkeit seiner Bestimmungen belassen, heißt ein konkreter Gegenstand.",
+    "Abstrahiere ich von allen Bestimmungen, so bleibt mir bloß die Vorstellung des ganz abstrakten Objekts übrig.",
+    "Wenn man sagt \"Ding\", so meint man wohl etwas Bestimmtes, aber man spricht von etwas ganz Unbestimmtem, da es unser Gedanke ist, der ein wirkliches Ding zu dieser Abstraktion eines bloßen Dinges macht."
+   ]
+  },
+  {
+   "bi": 225,
+   "k": "p",
+   "hash": "536xkt1gw4",
+   "sents": [
+    "Die sinnliche Wahrnehmung ist teils äußerliche, teils innerliche.",
+    "Durch die äußerliche nehmen wir Dinge wahr, welche räumlich und zeitlich außer uns sind und die wir zugleich von uns unterscheiden.",
+    "Durch die innerliche sinnliche Wahrnehmung bemerken wir Zustände teils unseres Körpers, teils unserer Seele.",
+    "Ein Teil der sinnlichen Welt enthält solche Gegenstände und ihre Bestimmungen, wie z. B. die Farben denen das Sinnliche zugrunde liegt und die eine geistige Form erhalten haben.",
+    "Wenn ich sage \"dieser Tisch ist schwarz\", so spreche ich erstens von diesem einzigen konkreten Gegenstande; zweitens, das Prädikat schwarz, das ich von ihm aussage, ist ein allgemeines, das nicht mehr bloß von diesem einzigen gilt, sondern mehreren Gegenständen zukommt.",
+    "Das Schwarze ist eine einfache Vorstellung. - Von einem eigentlichen konkreten Gegenstande wissen wir unmittelbar.",
+    "Das unmittelbare Bewußtwerden ist die Anschauung.",
+    "Eine allgemeine abstrakte Vorstellung hingegen ist eine vermittelte Vorstellung, weil ich von ihr vermittels einer anderen weiß, nämlich durch die Abstraktion oder das Weglassen anderer Bestimmungen, die im Konkreten damit verbunden sind. - Eine konkrete Vorstellung wird analysiert, indem man die Bestimmungen auslegt, die im Konkreten vereinigt sind.",
+    "Die intelligible Welt erhält aus dem Geist ihren Inhalt, überhaupt reine allgemeine Vorstellungen, z. B. Sein, Nichts, Eigenschaft, Wesen u. dgl. m."
+   ]
+  },
+  {
+   "bi": 226,
+   "k": "p",
+   "hash": "1ivmdi816q",
+   "sents": [
+    "§ 2"
+   ]
+  },
+  {
+   "bi": 227,
+   "k": "p",
+   "hash": "1uh09q11c6",
+   "sents": [
+    "Die erste Quelle unserer Erkenntnis ist die Erfahrung.",
+    "Zur Erfahrung gehört überhaupt, daß wir etwas selbst wahrgenommen haben.",
+    "Es muß aber auch ein Unterschied gemacht werden zwischen Wahrnehmung und Erfahrung.",
+    "Die Wahrnehmung enthält zunächst nur einen einzigen Gegenstand, der jetzt zufällig so, ein anderes Mal anders beschaffen sein kann.",
+    "Wenn ich nun die Wahrnehmung wiederhole und in der wiederholten Wahrnehmung dasjenige bemerke und festhalte, was in allen diesen Wahrnehmungen sich gleichbleibt, so ist dies eine Erfahrung.",
+    "Die Erfahrung enthält vornehmlich Gesetze, d. h. eine Verknüpfung von zwei Erscheinungen so, daß, wenn die eine vorhanden ist, allemal auch die andere erfolgt.",
+    "Die Erfahrung enthält aber nur die Allgemeinheit einer solchen Erscheinung, nicht aber die Notwendigkeit des Zusammenhanges.",
+    "Die Erfahrung lehrt nur, daß etwas so und wie es geschieht oder vorhanden ist, aber noch nicht die Gründe oder das Warum."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p221.json"
+}

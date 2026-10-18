@@ -1,0 +1,180 @@
+{
+ "id": "w4-6-164",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "C. Schluß",
+ "blocks": [
+  {
+   "bi": 164,
+   "k": "h",
+   "hash": "mnrg56cyd5",
+   "text": "C. Schluß"
+  },
+  {
+   "bi": 165,
+   "k": "p",
+   "hash": "1wq7vljokb",
+   "sents": [
+    "§ 121 [98]"
+   ]
+  },
+  {
+   "bi": 166,
+   "k": "p",
+   "hash": "kug5oj1xgq",
+   "sents": [
+    "Im Urteile sind zwei Bestimmungen des Begriffs unmittelbar aufeinander bezogen; der Schluß ist das Urteil mit seinem Grunde.",
+    "Die zwei Bestimmungen sind im Schlusse durch eine dritte zusammengeschlossen, die deren Einheit ist. {Der Schluß ist daher das vollständige Gesetztsein des Begriffs.}"
+   ]
+  },
+  {
+   "bi": 167,
+   "k": "p",
+   "hash": "ic75pd15fs",
+   "sents": [
+    "§ 122 [99]"
+   ]
+  },
+  {
+   "bi": 168,
+   "k": "p",
+   "hash": "1otnsn6cm8",
+   "sents": [
+    "Der bestimmten Form nach sind die zwei Extreme des Schlusses das Einzelne und das Allgemeine; und das Besondere, da in ihm diese beiden Bestimmungen vereinigt sind, ist die Mitte derselben. {Wenn eine Bestimmung A einer Bestimmung B zukommt oder nicht zukommt, die Bestimmung B aber einer Bestimmung C, so kommt auch die Bestimmung A dem C zu.}"
+   ]
+  },
+  {
+   "bi": 169,
+   "k": "p",
+   "hash": "ud38581k0z",
+   "sents": [
+    "Unmittelbarer Schluß in den Kantischen Antinomien: Weil der Raum ein Hier, die Zeit ein Jetzt hat (bis zum gegebenen Zeitpunkt eine Unendlichkeit abgelaufen ist), so hat sie Grenze überhaupt.",
+    "Wem das Besondere zukommt, dem kommt auch das Allgemeine desselben zu."
+   ]
+  },
+  {
+   "bi": 170,
+   "k": "p",
+   "hash": "zzmiexcn49",
+   "sents": [
+    "§ 123 [100]"
+   ]
+  },
+  {
+   "bi": 171,
+   "k": "p",
+   "hash": "1sg429d1qd",
+   "sents": [
+    "Die Beziehung der beiden Extreme (termini extremi) des Schlusses auf die Mitte ist eine unmittelbare Beziehung; - sie ist eine gedoppelte und macht zwei Urteile aus (propositiones praemissae), deren jedes das Moment der Besonderheit, die Mitte (terminus medius) enthält.",
+    "Die eine Prämisse enthält ferner das Moment der Allgemeinheit (terminus maior) als Prädikat (propositio maior), die andere das Moment der Einzelheit (terminus minor) als Subjekt (propositio minor).",
+    "Die Beziehung der beiden Extreme (conclusio) aufeinander ist vermittelt."
+   ]
+  },
+  {
+   "bi": 172,
+   "k": "p",
+   "hash": "1xseshj1ux",
+   "sents": [
+    "qual. hypoth. disj.",
+    "Arten: mathem.",
+    "Induktion, Analogie"
+   ]
+  },
+  {
+   "bi": 173,
+   "k": "p",
+   "hash": "vqp90f1dxb",
+   "sents": [
+    "§ 124"
+   ]
+  },
+  {
+   "bi": 174,
+   "k": "p",
+   "hash": "1wr65k6gxy",
+   "sents": [
+    "Die Vermittlung im Schlusse setzt also eine unmittelbare Beziehung voraus, und umgekehrt soll die unmittelbare Beziehung gegründet und daher vermittelt sein; es ist somit der Begriff einer Unmittelbarkeit vorhanden, die an ihr selbst Vermittlung ist."
+   ]
+  },
+  {
+   "bi": 175,
+   "k": "h",
+   "hash": "16m5tpx1gy",
+   "text": "II. Zweck oder teleologischer Begriff"
+  },
+  {
+   "bi": 176,
+   "k": "p",
+   "hash": "hzp3ce16eg",
+   "sents": [
+    "§ 125 [101]"
+   ]
+  },
+  {
+   "bi": 177,
+   "k": "p",
+   "hash": "lnuc0gbpfh",
+   "sents": [
+    "Im Zwecke ist das, was vermittelt oder Folge ist, zugleich ein unmittelbares Erstes oder Grund.",
+    "Das Hervorgebrachte, durch die Vermittlung Gesetzte hat das Hervorbringen und seine unmittelbare Bestimmung zur Voraussetzung, und umgekehrt geschieht das Hervorbringen um des Resultates willen, welches der Grund, somit selbst die erste Bestimmung der Tätigkeit ist."
+   ]
+  },
+  {
+   "bi": 178,
+   "k": "p",
+   "hash": "1l2zb431ep",
+   "sents": [
+    "§ 126 [101]"
+   ]
+  },
+  {
+   "bi": 179,
+   "k": "p",
+   "hash": "nb8om8127v",
+   "sents": [
+    "Das teleologische Tun ist ein Schluß, worin dasselbe Ganze in subjektiver Form mit seiner objektiven Form, der Begriff mit seiner Realität durch die Vermittlung der zweckmäßigen Tätigkeit zusammengeschlossen wird oder der Begriff Grund einer durch ihn bestimmten Realität ist."
+   ]
+  },
+  {
+   "bi": 180,
+   "k": "p",
+   "hash": "i273531iie",
+   "sents": [
+    "Zweck ist Realisierung eines Begriffs."
+   ]
+  },
+  {
+   "bi": 181,
+   "k": "p",
+   "hash": "vz7tir5da8",
+   "sents": [
+    "§ 127 [102]"
+   ]
+  },
+  {
+   "bi": 182,
+   "k": "p",
+   "hash": "194ljf71pa",
+   "sents": [
+    "Die äußerliche Zweckmäßigkeit ist, insofern ein Daseiendes seinen Begriff nicht in sich selbst hat, sondern von einem Anderen, einem Zweck, als seiner äußeren Form, damit verbunden ist."
+   ]
+  },
+  {
+   "bi": 183,
+   "k": "p",
+   "hash": "1pnv7ab189",
+   "sents": [
+    "§ 128 [103]"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p164.json"
+}

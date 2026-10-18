@@ -1,0 +1,76 @@
+{
+ "id": "w4-6-228",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "B. Ursache",
+ "blocks": [
+  {
+   "bi": 228,
+   "k": "p",
+   "hash": "10ak4v1b36",
+   "sents": [
+    "Da es sehr viele Gegenstände gibt, über welche wir nicht selbst die Erfahrung machen können, z. B. die Vergangenheit, so müssen wir uns auch auf die Autorität anderer verlassen.",
+    "Auch diejenigen Gegenstände, die wir auf die Autorität anderer für wahr halten, sind Erfahrungsgegenstände.",
+    "Wir glauben das auf die Autorität anderer, was wahrscheinlich ist.",
+    "Wir halten oft für wahrscheinlich, was wirklich unwahrscheinlich ist, aber gerade das Unwahrscheinliche ist oft das Wahre. - (Eine Begebenheit bewährt sich vorzüglich durch die Folgen und durch den mannigfaltigen Zusammenhang von Umständen, von denen wir die Erfahrung selbst gemacht haben.",
+    "Die Männer, welche etwas erzählen, müssen Glaubwürdigkeit haben, d. h. unter solchen Umständen gewesen sein, Kenntnis von der Sache haben zu können.",
+    "Aus dem Tone derselben können wir auf ihre Redlichkeit schließen, ob es ihnen Ernst ist oder ob sie irgendein Interesse dabei haben.",
+    "Wenn Schriftsteller unter der Regierung eines Tyrannen schreiben und sie machen ihm Lobeserhebungen, so sehen wir, daß dies Schmeicheleien sind.",
+    "Wenn wir jemand von etwas erzählen hören, worin er selbst mit eingeflochten ist, so wird man wohl hören, daß er zu seinem Vorteil erzählt.",
+    "Wenn jemand aber von seinem Feinde eine gute Eigenschaft oder Handlung sehr rühmt, so müssen wir das Gesagte eher glauben.)"
+   ]
+  },
+  {
+   "bi": 229,
+   "k": "p",
+   "hash": "1gfkngfpnx",
+   "sents": [
+    "Die Erfahrung lehrt also nur, wie die Gegenstände beschaffen sind, nicht, wie sie sein müssen, noch wie sie sein sollen.",
+    "Diese Erkenntnis geht nur aus dem Wesen oder dem Begriff der Sache hervor.",
+    "Sie allein ist die wahrhaftige.",
+    "Da wir aus dem Begriff die Gründe des Gegenstandes erkennen lernen, so müssen wir auch von den rechtlichen, moralischen und religiösen Bestimmungen die Begriffe erkennen."
+   ]
+  },
+  {
+   "bi": 230,
+   "k": "p",
+   "hash": "1l0pllsdir",
+   "sents": [
+    "Bei den Bestimmungen, was recht und gut ist, können wir uns zunächst an die Erfahrung überhaupt halten, und zwar fürs erste an die äußerliche, nämlich an den Weltlauf.",
+    "Wir können sehen, was als recht und gut gilt oder was sich als recht und gut bewährt.",
+    "Hierüber ist zu bemerken 1. daß, um zu wissen, welche Handlungen recht oder gut und welche unrecht oder böse sind, man schon zum voraus den Begriff des Rechten und Guten haben müsse; 2. wenn man sich also daran halten wollte, was der Weltlauf auch als geltend zeigt, so würde sich darüber nichts Bestimmtes ergeben.",
+    "Es käme in Ansehung der Resultate oder der Erfahrung, die man macht, auf die Ansicht an, die man mitbringt.",
+    "In dem Weltlauf, weil er selbst dieses verschiedenartige Geschehen ist, kann jeder für seine subjektive Ansicht, sie mag noch so verschieden sein, Bestätigung finden."
+   ]
+  },
+  {
+   "bi": 231,
+   "k": "p",
+   "hash": "ezk0z715qk",
+   "sents": [
+    "Es gibt aber auch zweitens eine innerliche Erfahrung über das Rechte, Gute und Religiöse.",
+    "Wir urteilen durch unser Gemüt oder Gefühl, daß etwas von dieser Handlungsweise gut oder böse ist; auch haben wir ein Gefühl von Religion; wir werden religiös affiziert.",
+    "Was das Gefühl als eine Billigung oder Mißbilligung desselben sagt, enthält bloß den unmittelbaren Ausspruch oder die Versicherung, daß etwas so ist oder nicht so ist.",
+    "Das Gefühl gibt keine Gründe an und spricht nicht nach Gründen.",
+    "Was für ein Gefühl wir haben, der Billigung oder Mißbilligung, ist auch bloße Erfahrung des Gemüts. - Das Gefühl aber ist überhaupt unbeständig und veränderlich.",
+    "Es ist zu einer Zeit so beschaffen, zu einer anderen anders.",
+    "Das Gefühl ist überhaupt etwas Subjektives.",
+    "Wie ein Gegenstand im Gefühl ist, so ist er bloß in mir als besonderem Individuum.",
+    "Wenn ich sage: \"ich fühle etwas so\" oder \"so ist etwas in meinem Gemüt\", so sage ich damit, daß es nur in mir so ist.",
+    "Ich lasse unentschieden, ob es in anderen auch so ist.",
+    "Wenn ich bei etwas mich bloß auf mein Gefühl berufe, so will ich nicht auf Gründe eingehen, somit nicht auf das Allgemeine.",
+    "Ich ziehe mich dann auf mich zurück und drücke nur aus, wie die Sache in mir, nicht wie sie an und für sich objektiv und allgemein ist.",
+    "Das Objektive oder das Allgemeine ist das Verständige oder der Begriff."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p228.json"
+}

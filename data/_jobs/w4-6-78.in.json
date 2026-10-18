@@ -1,0 +1,206 @@
+{
+ "id": "w4-6-78",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "Dritter Teil Der Begriff",
+ "blocks": [
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "oy3ewg5l1y",
+   "sents": [
+    "§ [86]"
+   ]
+  },
+  {
+   "bi": 79,
+   "k": "p",
+   "hash": "jaybtl1ka6",
+   "sents": [
+    "[Antithesis: Es existiert kein schlechthin notwendiges Wesen, weder in der Welt noch außer der Welt, als ihre Ursache."
+   ]
+  },
+  {
+   "bi": 80,
+   "k": "p",
+   "hash": "196xvlcmoa",
+   "sents": [
+    "Beweis: Man nehme an, die Welt selbst oder in ihr sei ein notwendiges Wesen, so würde in der Reihe ihrer Veränderungen entweder ein Anfang sein, der unbedingt notwendig, mithin ohne Ursache wäre, was dem dynamischen Gesetze des Bestimmtseins aller Erscheinungen widerspricht, oder die Reihe selbst wäre ohne allen Anfang und, obgleich in allen ihren Teilen zufällig und bedingt, im ganzen dennoch schlechthin notwendig und unbedingt, was sich selbst widerspricht, weil das Dasein einer Menge nicht notwendig sein kann, wenn kein einziger Teil derselben ein an sich notwendiges Dasein hat.",
+    "Man nehme ferner an, es gebe eine schlechthin notwendige Weltursache außer der Welt, so würde sie das Dasein der Weltveränderungen und ihre Reihe zuerst anfangen; indem sie zu handeln anfinge, würde ihre Kausalität in die Zeit und damit in den Inbegriff der Erscheinungen gehören, also nicht außer der Welt sein.",
+    "Also ist weder in der Welt noch außer derselben irgendein schlechthin notwendiges Wesen.]"
+   ]
+  },
+  {
+   "bi": 81,
+   "k": "p",
+   "hash": "1s9pxok1hp",
+   "sents": [
+    "§ 89 [87]"
+   ]
+  },
+  {
+   "bi": 82,
+   "k": "p",
+   "hash": "1n6zkgstt7",
+   "sents": [
+    "Diese Antinomie enthält im Ganzen denselben Gegensatz als die vorhergehenden.70) Das Bedingte setzt eine Bedingung, und zwar eine absolute Bedingung, die nicht in einem Anderen ihre Notwendigkeit hat, sondern an und für sich notwendig ist, voraus; weil sie aber im Zusammenhang mit dem Bedingten ist, gehört sie selbst zur Sphäre des Bedingten, zur Welt; nach jener Seite ist ein absolut notwendiges Wesen, nach dieser aber eine relative Notwendigkeit und damit Zufälligkeit gesetzt. - Aber indem sie zur Sphäre des Bedingten gehört oder selbst diese ganze Sphäre ist, ist sie selbst nur Bedingtes überhaupt."
+   ]
+  },
+  {
+   "bi": 83,
+   "k": "p",
+   "hash": "1johrfvhim",
+   "sents": [
+    "Das Bedingte hat eine Bedingung - enthält die Bedingung in seinem Begriffe; absolut getrennt; Die Bedingung enthält das Bedingte in ihrem Begriffe; ist selbst bedingt.",
+    "Das Bedingte hat eine Bedingung oder ist bedingt"
+   ]
+  },
+  {
+   "bi": 84,
+   "k": "h",
+   "hash": "qfb26h1lfw",
+   "text": "Dritter Teil Der Begriff"
+  },
+  {
+   "bi": 85,
+   "k": "h",
+   "hash": "x7g4alupm6",
+   "text": "Subjektive Logik"
+  },
+  {
+   "bi": 86,
+   "k": "p",
+   "hash": "27e0gh1wda",
+   "sents": [
+    "§ 90 [88]"
+   ]
+  },
+  {
+   "bi": 87,
+   "k": "p",
+   "hash": "qmh2t61t10",
+   "sents": [
+    "Die subjektive Logik hat nicht mehr die Kategorie und die Reflexionsbestimmung, sondern Begriffe zu ihrem Gegenstand.",
+    "Erstere ist das Sein in einer Bestimmtheit, als Grenze, die zweite das Wesen in einer Bestimmung, die durch eine Voraussetzung eines Anderen vermittelt ist.",
+    "Der Begriff dagegen ist das Ursprüngliche, insofern seine Bestimmung seine Reflexion in sich selbst ist; oder er ist ein einfaches Ganzes, das seine Bestimmungen in sich enthält und aus welchem alle seine Bestimmungen fließen."
+   ]
+  },
+  {
+   "bi": 88,
+   "k": "p",
+   "hash": "1pjvjfuveq",
+   "sents": [
+    "§ 91 [89]71)"
+   ]
+  },
+  {
+   "bi": 89,
+   "k": "p",
+   "hash": "1m98gfk153",
+   "sents": [
+    "Die subjektive Logik enthält drei Hauptgegenstände, 1. den Begriff, 2. den Zweck, 3. die Idee; nämlich 1. den formalen Begriff oder den Begriff als solchen, 2. den Zweck, den Begriff in Beziehung auf seine Realisierung oder sein Objektivwerden, 3. die Idee, den realen oder objektiven Begriff."
+   ]
+  },
+  {
+   "bi": 90,
+   "k": "h",
+   "hash": "1r6oemqzjr",
+   "text": "I. Der Begriff"
+  },
+  {
+   "bi": 91,
+   "k": "p",
+   "hash": "18z0d7o3dw",
+   "sents": [
+    "§ 92 [90]"
+   ]
+  },
+  {
+   "bi": 92,
+   "k": "p",
+   "hash": "r30oov1ix2",
+   "sents": [
+    "Die formale Logik hat drei Gegenstände, Begriff, Urteil und Schluß."
+   ]
+  },
+  {
+   "bi": 93,
+   "k": "h",
+   "hash": "1tpvqi22im",
+   "text": "A. Der Begriff"
+  },
+  {
+   "bi": 94,
+   "k": "p",
+   "hash": "16wro9418r",
+   "sents": [
+    "§ 93 [91]"
+   ]
+  },
+  {
+   "bi": 95,
+   "k": "p",
+   "hash": "14v1z4b1m0",
+   "sents": [
+    "Der Begriff enthält die Momente der Einzelheit, der Besonderheit und Allgemeinheit; er enthält sie als wesentliche und unterschiedene Bestimmungen, und zugleich sind sie in ihm aufgehoben, und er ist die einfache Gleichheit mit sich."
+   ]
+  },
+  {
+   "bi": 96,
+   "k": "p",
+   "hash": "aujc9j1pi5",
+   "sents": [
+    "§ 94 [91]"
+   ]
+  },
+  {
+   "bi": 97,
+   "k": "p",
+   "hash": "a5cbuc15gw",
+   "sents": [
+    "Die Einzelheit ist die negative Reflexion des Begriffs in sich, welcher die Bestimmungen als aufgehobene, [als] Momente inhärieren, und welche selbst, als bestimmt, andere Bestimmungen von sich ausschließt oder absolut bestimmt ist."
+   ]
+  },
+  {
+   "bi": 98,
+   "k": "p",
+   "hash": "1xe905ac2a",
+   "sents": [
+    "§ 95 [91]"
+   ]
+  },
+  {
+   "bi": 99,
+   "k": "p",
+   "hash": "178iwlv12t",
+   "sents": [
+    "Die Allgemeinheit ist die positive Reflexion des Begriffs in sich, in welcher das sich Entgegengesetzte [sich] nicht ausschließt, sondern die dasselbe in sich enthält, so daß sie zugleich gleichgültig dagegen und unbestimmt darin bleibt."
+   ]
+  },
+  {
+   "bi": 100,
+   "k": "p",
+   "hash": "1f3voud17a",
+   "sents": [
+    "§ 96 [91]"
+   ]
+  },
+  {
+   "bi": 101,
+   "k": "p",
+   "hash": "sa0leu86px",
+   "sents": [
+    "Die Besonderheit ist die Beziehung der Einzelheit und Allgemeinheit aufeinander; es ist das Allgemeine in einer Bestimmung gesetzt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p78.json"
+}

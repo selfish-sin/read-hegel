@@ -1,0 +1,91 @@
+{
+ "id": "w4-6-244",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "B. Ursache",
+ "blocks": [
+  {
+   "bi": 244,
+   "k": "p",
+   "hash": "1ff9ehnkr7",
+   "sents": [
+    "Es wird überhaupt, insofern davon die Rede ist, daß der Geist Bestimmungen erhalte, die Unbestimmtheit des Ich oder des Geistes vorausgesetzt.",
+    "Die Bestimmungen des Geistes gehören ihm an, auch wenn er sie von anderen Gegenständen erhalten hat.",
+    "Insofern etwas darin ist, was als ein von ihm unabhängiger Inhalt nicht von ihm herkommt, gehört ihm dabei doch immer die Form an; z. B. bei der Einbildungskraft kommt der Stoff zwar von der Anschauung her, aber die Form besteht in der Art, wie dieser Stoff anders verknüpft worden ist, als er in der Anschauung ursprünglich vorhanden war.",
+    "In einer reinen Vorstellung, z. B. der des Tieres, gehört der bestimmte Inhalt der Erfahrung an, aber das Allgemeine darin ist die Form, die vom Geist herkommt."
+   ]
+  },
+  {
+   "bi": 245,
+   "k": "p",
+   "hash": "18piyxn1ru",
+   "sents": [
+    "Diese Form ist also das eigene Bestimmen des Geistes.",
+    "Beim theoretischen Vermögen macht es nun den wesentlichen Unterschied aus, daß nur die Form im Bestimmen des Geistes liegt, hingegen beim praktischen der Inhalt auch vom Geist herkommt.",
+    "Im Recht z. B. ist der Inhalt die persönliche Freiheit.",
+    "Diese gehört dem Geist an.",
+    "Das praktische Vermögen erkennt Bestimmungen als die seinigen, insofern es sie überhaupt will.",
+    "Wenn sie auch als fremde Bestimmungen oder als gegebene erscheinen, so müssen sie aufhören, fremde Bestimmungen zu sein, insofern ich sie will.",
+    "Ich verwandle den Inhalt zu mir, setze ihn durch mich."
+   ]
+  },
+  {
+   "bi": 246,
+   "k": "p",
+   "hash": "1lniefyjqo",
+   "sents": [
+    "§ 8"
+   ]
+  },
+  {
+   "bi": 247,
+   "k": "p",
+   "hash": "96s7n01xjz",
+   "sents": [
+    "Das theoretische Vermögen fängt von einem Daseienden, Vorhandenen, Äußerlichen an und macht es zu einer Vorstellung.",
+    "Das praktische hingegen fängt bei einer innerlichen Bestimmung an.",
+    "Diese heißt Entschluß, Vorsatz, Leitung und macht das Innerliche wirklich äußerlich, gibt diesem ein Dasein.",
+    "Dies Übergehen von einer innerlichen Bestimmung zur Äußerlichkeit heißt Handeln."
+   ]
+  },
+  {
+   "bi": 248,
+   "k": "p",
+   "hash": "1lxi04x1hm",
+   "sents": [
+    "§ 9"
+   ]
+  },
+  {
+   "bi": 249,
+   "k": "p",
+   "hash": "1yzli0026d",
+   "sents": [
+    "Das Handeln ist überhaupt eine Vereinigung des Inneren und Äußeren.",
+    "Die innerliche Bestimmung, von der es anfängt, soll der Form nach, nämlich eine bloß innerliche zu sein, aufgehoben und äußerlich werden; der Inhalt dieser Bestimmung soll dabei bleiben; z. B. der Vorsatz, ein Haus zu bauen, ist eine innerliche Bestimmung, deren Form darin besteht, nur erst Vorsatz zu sein; der Inhalt begreift den Plan des Hauses.",
+    "Wenn hier nun die Form aufgehoben wird, so bleibt doch der Inhalt.",
+    "Das Haus, welches dem Vorsatz nach gebaut werden soll, und das, welches dem Plan nach gebaut wird, sind dasselbe Haus."
+   ]
+  },
+  {
+   "bi": 250,
+   "k": "p",
+   "hash": "a6s7gezbe7",
+   "sents": [
+    "Umgekehrt ist das Handeln ebenso ein Aufheben vom Äußerlichen, wie es unmittelbar vorhanden ist; z. B. zum Bau eines Hauses werden der Boden, Steine, Holz und die übrigen Materialien auf mannigfaltige Weise verändert.",
+    "Die Gestalt des Äußerlichen wird anders gemacht.",
+    "Es wird in eine ganz andere Verbindung gebracht, als es vorher war.",
+    "Diese Veränderung geschieht einem Zwecke, nämlich dem Plan des Hauses gemäß, mit welchem Innerlichen also das Äußerliche übereinstimmend gemacht wird."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p244.json"
+}

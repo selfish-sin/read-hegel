@@ -1,0 +1,74 @@
+{
+ "id": "w4-6-297",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "B. Ursache",
+ "blocks": [
+  {
+   "bi": 297,
+   "k": "p",
+   "hash": "l3npkzdpj0",
+   "sents": [
+    "Die Gesinnung ist also bei der Moral ein wesentliches Moment.",
+    "Sie besteht darin, daß man die Pflicht tut, weil es sich so gehört.",
+    "Es ist also eine unmoralische Gesinnung, etwas aus Furcht vor der Strafe oder deshalb zu tun, um bei anderen eine gute Meinung von sich zu erhalten.",
+    "Dies ist ein heterogener, d. i. fremdartiger Beweggrund, denn es ist nicht der Grund der Sache selbst, oder man betrachtet alsdann das Recht nicht als etwas, das an und für sich selbst ist, sondern als etwas, das von äußerlichen Bestimmungen abhängig ist."
+   ]
+  },
+  {
+   "bi": 298,
+   "k": "p",
+   "hash": "1tf7hmqvz7",
+   "sents": [
+    "Dennoch ist die Betrachtung, ob Strafen oder Belohnungen auf eine Handlung gesetzt sind, wenngleich die Folgen nicht den Wert der Handlung ausmachen, von Wichtigkeit.",
+    "Die Folgen einer guten Handlung können oft vieles Üble nach sich ziehen, eine böse Handlung hingegen kann unter ihren Folgen auch gute haben. - Überhaupt aber an die Folgen der Handlung zu denken, ist deswegen wichtig, weil man dadurch nicht bei dem unmittelbaren Gesichtspunkte stehenbleibt, sondern darüber hinausgeht.",
+    "Durch ihre mehrseitige Betrachtung wird man auch auf die Natur der Handlungen geleitet."
+   ]
+  },
+  {
+   "bi": 299,
+   "k": "p",
+   "hash": "k2dot216ar",
+   "sents": [
+    "Nach dem Recht ist der Mensch dem Menschen Gegenstand als ein absolut freies Wesen, nach der Moral hingegen als ein einzelnes nach seinem besonderen Dasein als Familienglied, als Freund, als ein solcher Charakter usf.",
+    "Wenn die äußeren Umstände, in denen der Mensch mit anderen steht, so beschaffen sind, daß er seine Bestimmung erfüllt, so ist das sein Glück.",
+    "Einesteils steht dieses Wohl in der Macht seines Willens, andernteils hängt es von äußeren Umständen und anderen Menschen ab.",
+    "Die Moral hat den Menschen auch nach seinem besonderen Dasein oder nach seinem Wohl zum Gegenstande und fordert nicht nur, daß der Mensch in seiner abstrakten Freiheit gelassen, sondern auch, daß sein Wohl befördert werde. - Das Wohlsein als die Angemessenheit des Äußeren zu unserem Innern nennen wir auch Vergnügen.",
+    "Glückseligkeit ist nicht nur ein einzelnes Vergnügen, sondern ein fortdauernder Zustand, zum Teil des wirklichen Vergnügens selbst, zum Teil auch der Umstände und Mittel, wodurch man immer die Möglichkeit hat, sich, wenn man will, Vergnügen zu schaffen.",
+    "Das letztere ist also das Vergnügen der Vorstellung.",
+    "In der Glückseligkeit aber wie im Vergnügen liegt der Begriff des Glückes, daß es zufällig ist, ob die äußeren Umstände den inneren Bestimmungen der Triebe angemessen sind.",
+    "Die Seligkeit hingegen besteht darin, daß kein Glück in ihr ist, d. h. daß in ihr die Angemessenheit des äußeren Daseins zum inneren Verlangen nicht zufällig ist.",
+    "Seligkeit kann nur von Gott gesagt werden, in welchem Wollen und Vollbringen seiner absoluten Macht dasselbe ist.",
+    "Für den Menschen aber ist die Übereinstimmung des Äußeren zu seinem Inneren beschränkt und zufällig.",
+    "Er ist darin abhängig."
+   ]
+  },
+  {
+   "bi": 300,
+   "k": "p",
+   "hash": "d5xw3g1jbr",
+   "sents": [
+    "§ 24"
+   ]
+  },
+  {
+   "bi": 301,
+   "k": "p",
+   "hash": "1lcme9567y",
+   "sents": [
+    "Der moralische Wille in Rücksicht auf die Gesinnung ist unvollkommen.",
+    "Er ist ein Wille, der das Ziel der Vollkommenheit hat, aber 1. wird er zur Erreichung desselben auch durch die Triebfeder der Sinnlichkeit und Einzelheit getrieben, 2. hat er die Mittel nicht in seiner Macht und ist daher das Wohl anderer zustande zu bringen, beschränkt.",
+    "In der Religion hingegen betrachtet man das göttliche Wesen, die Vollendung des Willens nach seinen beiden Seiten, nämlich nach der Vollkommenheit der Gesinnung, die keine fremdartigen Triebfedern mehr in sich hat, und alsdann nach der Vollkommenheit der Macht, die heiligen Zwecke zu erreichen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p297.json"
+}

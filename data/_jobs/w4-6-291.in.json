@@ -1,0 +1,84 @@
+{
+ "id": "w4-6-291",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "B. Ursache",
+ "blocks": [
+  {
+   "bi": 291,
+   "k": "p",
+   "hash": "1n7w8ecwe6",
+   "sents": [
+    "Endlich kommt es dem Recht auch nicht auf die Gesinnung an, mit der etwas vollbracht wird.",
+    "Es ist sehr oft der Fall, daß man das Recht bloß tut aus Furcht vor der Strafe oder aus Furcht vor anderen unangenehmen Folgen überhaupt, z. B. seinen guten Ruf, seinen Kredit zu verlieren; oder man kann auch, sein Recht erfüllend, die Gesinnung dabei haben, im anderen Leben dafür belohnt zu werden.",
+    "Das Recht aber als solches ist von diesen Gesinnungen unabhängig."
+   ]
+  },
+  {
+   "bi": 292,
+   "k": "p",
+   "hash": "cvyaehlgd1",
+   "sents": [
+    "§ 23"
+   ]
+  },
+  {
+   "bi": 293,
+   "k": "p",
+   "hash": "1ebp441bbq",
+   "sents": [
+    "Recht und Moral sind voneinander unterschieden.",
+    "Es kann dem Rechte nach etwas sehr wohl erlaubt sein, was die Moral verbietet.",
+    "Das Recht z. B. erlaubt mir die Disposition über mein Vermögen auf ganz unbestimmte Weise, allein die Moral enthält Bestimmungen, welche dieselbe einschränken.",
+    "Es kann scheinen, als ob die Moral vieles erlaubt, was das Recht nicht erlaubt, allein die Moral fordert nicht nur die Beobachtung des Rechts gegen andere, sondern setzt zum Recht vielmehr die Gesinnung hinzu, das Recht um des Rechtes willen zu respektieren.",
+    "Die Moral fordert selbst, daß zuerst das Recht beobachtet werde, und da, wo es aufhört, treten moralische Bestimmungen ein."
+   ]
+  },
+  {
+   "bi": 294,
+   "k": "p",
+   "hash": "nt4l7311mr",
+   "sents": [
+    "Damit eine Handlung moralischen Wert habe, ist die Einsicht notwendig, ob sie recht oder unrecht, gut oder böse sei.",
+    "Was man Unschuld der Kinder oder unzivilisierter Nationen nennt, ist noch nicht Moralität.",
+    "Kinder oder solche Nationen unterlassen eine Menge böser Handlungen, weil sie noch keine Vorstellung davon haben, weil überhaupt noch nicht die Verhältnisse vorhanden sind, unter welchen allein solche Handlungen möglich werden; solches Unterlassen böser Handlungen hat keinen moralischen Wert.",
+    "Sie tun aber auch Handlungen, die der Moral gemäß und deswegen doch nicht gerade moralisch sind, insofern sie keine Einsicht in die Natur der Handlung haben, ob sie gut oder böse."
+   ]
+  },
+  {
+   "bi": 295,
+   "k": "p",
+   "hash": "14ozt0412l",
+   "sents": [
+    "Der eigenen Überzeugung steht der bloße Glaube auf die Autorität anderer entgegen.",
+    "Wenn meine Handlung moralischen Wert haben soll, so muß meine Überzeugung damit verknüpft sein.",
+    "Die Handlung muß im ganzen Sinn die meinige sein.",
+    "Handle ich aber auf die Autorität anderer, so ist sie nicht völlig die meinige; es handelt eine fremde Überzeugung aus mir."
+   ]
+  },
+  {
+   "bi": 296,
+   "k": "p",
+   "hash": "uuzigwz64y",
+   "sents": [
+    "Es gibt aber auch Verhältnisse, in denen es die moralische Seite ist, gerade aus Gehorsam und nach Autorität anderer zu handeln.",
+    "Ursprünglich folgt der Mensch seinen natürlichen Neigungen ohne Überlegung oder mit noch einseitigen, schiefen und unrichtigen, selbst unter der Herrschaft der Sinnlichkeit stehenden Reflexionen.",
+    "In diesem Zustand muß er gehorchen lernen, weil sein Wille noch nicht der vernünftige ist.",
+    "Durch dies Gehorchen kommt das Negative zustande, daß er auf die sinnliche Begierde Verzicht tun lernt, und nur durch diesen Gehorsam gelangt der Mensch zur Selbständigkeit.",
+    "Er folgt in dieser Sphäre immer einem Anderen, ebensosehr, wenn er seinem eigenen, im ganzen noch sinnlichen Willen oder dem Willen eines anderen gehorcht.",
+    "Als Naturwesen steht er einesteils unter der Herrschaft äußerlicher Dinge, andererseits aber sind diese Neigungen und Begierden etwas Unmittelbares, Beschränktes, Unfreies oder ein anderes als sein wahrhafter Wille.",
+    "Der Gehorsam gegen das Gesetz der Vernunft ist Gehorsam in Beziehung auf meine unwesentliche Natur, welche unter der Herrschaft eines für sie Anderen steht.",
+    "Allein auf der andern Seite ist er selbständige Bestimmung aus sich selbst, denn eben dieses Gesetz hat seine Wurzel in meinem Wesen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p291.json"
+}

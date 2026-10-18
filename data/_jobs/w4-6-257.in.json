@@ -1,0 +1,82 @@
+{
+ "id": "w4-6-257",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "B. Ursache",
+ "blocks": [
+  {
+   "bi": 257,
+   "k": "p",
+   "hash": "32mmcv2s98",
+   "sents": [
+    "Allein der Mensch kann als denkender auf seine Triebe, die an sich für ihn Notwendigkeit haben, reflektieren.",
+    "Reflexion heißt überhaupt Abkürzung [?] vom Unmittelbaren.",
+    "Die Reflexion des Lichts besteht darin, daß seine Strahlen, die für sich in gerader Linie sich fortpflanzen würden, von dieser Richtung abgelenkt werden. - Der Geist hat Reflexion.",
+    "Er ist nicht an das Unmittelbare gebunden, sondern vermag darüber zu etwas anderem hinauszugehen, - z. B. von einer Begebenheit zur Vorstellung ihrer Folge oder einer ähnlichen Begebenheit oder auch ihrer Ursache.",
+    "Indem der Geist auf etwas Unmittelbares hinausgeht, hat er dasselbe von sich entfernt.",
+    "Er hat sich in sich reflektiert.",
+    "Er ist in sich gegangen.",
+    "Er hat das Unmittelbare, insofern er ihm ein Anderes entgegensetzt, als ein Beschränktes erkannt.",
+    "Es ist daher ein sehr großer Unterschied, ob man etwas bloß ist oder hat, oder ob man auch weiß, daß man dies ist oder hat; z. B. Unwissenheit oder Roheit der Gesinnungen oder des Betragens sind Beschränkungen, die man haben kann, ohne zu wissen, daß man sie hat.",
+    "Insofern man darauf reflektiert oder von ihnen weiß, muß man von ihrem Gegenteil wissen.",
+    "Die Reflexion auf sie ist schon ein erster Schritt über sie hinaus."
+   ]
+  },
+  {
+   "bi": 258,
+   "k": "p",
+   "hash": "gp09x117iw",
+   "sents": [
+    "Die Triebe als natürliche Bestimmungen sind Beschränkungen.",
+    "Durch die Reflexion auf sie fängt der Mensch überhaupt an, über sie hinauszugehen.",
+    "Die erste Reflexion betrifft hier die Mittel, ob sie dem Triebe angemessen sind, ob der Trieb dadurch befriedigt wird; ferner ob auch die Mittel nicht zu wichtig sind, um sie für diesen Trieb aufzuopfern."
+   ]
+  },
+  {
+   "bi": 259,
+   "k": "p",
+   "hash": "1rsmic6199",
+   "sents": [
+    "Die Reflexion vergleicht die verschiedenen Triebe und ihre Zwecke mit dem Grundzweck des Wesens.",
+    "Die Zwecke der besonderen Triebe sind beschränkt, tragen aber jeder in seiner Art dazu bei, daß der Grundzweck erreicht wird.",
+    "Diesem ist jedoch der eine näher verwandt als der andere.",
+    "Die Reflexion hat also die Triebe zu vergleichen, ob sie mit dem Grundzweck verwandt sind und derselbe durch ihre Befriedigung mehr befördert wird.",
+    "In der Reflexion fängt der Übergang an von dem niedrigen Begehrungsvermögen zum höheren.",
+    "Der Mensch ist darin nicht mehr bloßes Naturwesen oder steht nicht mehr in der Sphäre der Notwendigkeit.",
+    "Notwendig ist etwas, insofern nur dies und nicht etwas anderes geschehen kann.",
+    "Vor der Reflexion steht nicht nur der eine unmittelbare Gegenstand, sondern auch ein anderer oder sein Gegenteil."
+   ]
+  },
+  {
+   "bi": 260,
+   "k": "p",
+   "hash": "1h4m4hd1px",
+   "sents": [
+    "§ 12"
+   ]
+  },
+  {
+   "bi": 261,
+   "k": "p",
+   "hash": "1frlrd59cd",
+   "sents": [
+    "Diese soeben beschriebene Reflexion ist jedoch eigentlich eine nur relative.",
+    "Sie geht zwar über etwas Endliches hinaus, kommt aber immer wieder zu etwas Endlichem; z. B. wenn wir über einen Ort im Raum hinausgehen, so stellt sich uns ein anderer, größerer vor, aber es ist immer ein begrenzter Raum oder Ort, und so geht es fort bis ins Unendliche.",
+    "Ebenso wenn wir über die gegenwärtige Zeit in die vergangene zurückgehen, so können wir uns eine Periode von zehn- oder auch von dreißigtausend Jahren vorstellen.",
+    "Solche Reflexion geht nun zwar aus einem bestimmten Punkt im Raum, in der Zeit zu einem anderen fort, aber aus dem Raum oder aus der Zeit selbst kommt sie nicht heraus.",
+    "So ist es auch der Fall in der praktisch-relativen Reflexion.",
+    "Sie verläßt eine unmittelbare Neigung, Begierde oder Trieb und geht zu einem anderen Trieb, Begierde oder Neigung, verläßt auch diese wieder usf.",
+    "Insofern sie relativ ist, fällt sie nur immer wieder in einen Trieb, treibt sich nur in Begierden herum und erhebt sich nicht über diese ganze Sphäre der Triebe."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p257.json"
+}

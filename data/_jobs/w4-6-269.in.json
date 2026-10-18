@@ -1,0 +1,95 @@
+{
+ "id": "w4-6-269",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "B. Ursache",
+ "blocks": [
+  {
+   "bi": 269,
+   "k": "p",
+   "hash": "yagtrtblqw",
+   "sents": [
+    "Die Bestimmungen des niederen Begehrungsvermögens sind Naturbestimmungen.",
+    "Insofern scheint es weder nötig noch möglich zu sein, daß der Mensch sie zu den seinigen mache.",
+    "Allein eben als Naturbestimmungen gehören sie noch nicht seinem Willen oder seiner Freiheit an, denn das Wesen seines Willens ist, daß nichts in ihm sei, was er nicht selbst zu dem Seinigen gemacht habe.",
+    "Er vermag also das, was zu seiner Natur gehört, als etwas Fremdes zu betrachten, so daß es mithin nur in ihm ist, ihm nur angehört, insofern er es zum Seinigen macht oder mit Entschluß seinen Naturtrieben folgt."
+   ]
+  },
+  {
+   "bi": 270,
+   "k": "p",
+   "hash": "1i8kj99167",
+   "sents": [
+    "§ 16"
+   ]
+  },
+  {
+   "bi": 271,
+   "k": "p",
+   "hash": "n21u41vn9h",
+   "sents": [
+    "Einem Menschen die Schuld einer Handlung beimessen, heißt sie ihm imputieren oder zurechnen.",
+    "Kindern, die noch im Stande der Natur sind, kann man noch keine Handlung imputieren; sie sind noch nicht imputationsfähig; ebenso auch Verrückte oder Blödsinnige."
+   ]
+  },
+  {
+   "bi": 272,
+   "k": "p",
+   "hash": "1hykxka8c9",
+   "sents": [
+    "§ 17"
+   ]
+  },
+  {
+   "bi": 273,
+   "k": "p",
+   "hash": "3o642ekc4p",
+   "sents": [
+    "In dem Unterschied von Tat und Handlung liegt der Unterschied der Begriffe von Schuld, wie sie vorkommen in den tragischen Darstellungen der Alten und in unseren Begriffen.",
+    "In den ersteren wird Tat nach ihrem ganzen Umfang dem Menschen zugeschrieben.",
+    "Er hat für das Ganze zu büßen, und es wird nicht der Unterschied gemacht, daß er nur eine Seite der Tat gewußt habe, die anderen aber nicht.",
+    "Er wird hier dargestellt als ein absolutes Wissen überhaupt, nicht bloß als ein relatives und zufälliges; oder das, was er tut, wird überhaupt als seine Tat betrachtet.",
+    "Es wird nicht ein Teil von ihm ab- und auf ein anderes Wesen gewälzt; z. B. Ajax, als er die Rinder und Schafe der Griechen im Wahnsinn des Zorns, daß er die Waffen Achills nicht erhalten hatte, tötete, schob nicht die Schuld auf seinen Wahnsinn, als ob er darin ein anderes Wesen gewesen wäre, sondern er nahm die ganze Handlung auf sich als den Täter und entleibte sich aus Scham."
+   ]
+  },
+  {
+   "bi": 274,
+   "k": "p",
+   "hash": "1ecq3jn19h",
+   "sents": [
+    "§ 18"
+   ]
+  },
+  {
+   "bi": 275,
+   "k": "p",
+   "hash": "18atj4r9sa",
+   "sents": [
+    "Wenn der Wille nicht ein allgemeiner wäre, so würden keine eigentlichen Gesetze stattfinden, nichts, was alle wahrhaft verpflichten könnte.",
+    "Jeder könnte nach seinem Belieben handeln und würde die Willkür eines anderen nicht respektieren.",
+    "Daß der Wille ein allgemeiner ist, fließt aus dem Begriff seiner Freiheit.",
+    "Die Menschen, nach ihrer Erscheinung betrachtet, zeigen sich als sehr verschieden in Rücksicht des Willens überhaupt, nach Charakter, Sitte, Neigung, besonderen Anlagen.",
+    "Sie sind insofern besondere Individuen und unterscheiden sich durch die Natur voneinander.",
+    "Jedes hat Anlagen und Bestimmungen in sich, die dem anderen fehlen.",
+    "Diese Unterschiede der Individuen gehen den Willen an sich nichts an, weil er frei ist.",
+    "Die Freiheit besteht eben in der Unbestimmtheit des Willens oder [darin,] daß er keine Naturbestimmtheit in sich hat.",
+    "Der Wille an sich ist also ein allgemeiner Wille.",
+    "Die Besonderheit oder Einzelheit des Menschen steht der Allgemeinheit des Willens nicht im Wege, sondern ist ihr untergeordnet.",
+    "Eine Handlung, die rechtlich oder moralisch oder sonst vortrefflich ist, wird zwar von einem Einzelnen getan, alle aber stimmen ihr bei.",
+    "Sie erkennen also sich selbst oder ihren eigenen Willen darinnen. - Es ist hier derselbe Fall wie bei Kunstwerken.",
+    "Auch diejenigen, die kein solches Werk hätten zustande bringen können, finden ihr eigenes Wesen darin ausgedrückt.",
+    "Ein solches Werk zeigt sich also als wahrhaft allgemeines.",
+    "Es erhält um so größeren Beifall, je mehr das Besondere des Urhebers daraus verschwunden ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p269.json"
+}

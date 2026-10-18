@@ -1,0 +1,180 @@
+{
+ "id": "w4-6-0",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "B. Ursache",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1yh04d618p",
+   "text": "B. Ursache"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1v7du981k0",
+   "sents": [
+    "§ 68 [62]"
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1oez9hm16b",
+   "sents": [
+    "Die Substanz ist als Macht das Manifestieren ihrer selbst durch Entstehen und Verschwinden der Akzidenzen.",
+    "Die tätige Substanz ist als das Ursprüngliche gegen das Zufällige als gegen ein Anderes gekehrt und ist Ursache, die auf dies Andere wirkt."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "mvfxer11zx",
+   "sents": [
+    "§ 69 [63/64]"
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "3vwac9rlhh",
+   "sents": [
+    "Die Tätigkeit der Substanz besteht darin, daß sie ihren ursprünglichen Inhalt zur Wirkung macht, zu einem Gesetzten, das in einem Fremden ist.",
+    "Es ist nichts in der Wirkung, was nicht in der Ursache ist, und die Ursache ist Ursache nur in der Wirkung."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "1y5mtxe9wq",
+   "sents": [
+    "Herabfallender Ziegelstein ist Ursache des Todes eines Menschen, Sumpfluft einer Gegend Ursache von Fiebern; jenes zunächst nur Ursache eines Drucks, diese von überwiegender Feuchtigkeit.",
+    "Aber die Wirkung in einem Wirklichen, das noch andere Bestimmungen hat, wird darin zu einem anderen Resultate."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "1jwogf1162",
+   "sents": [
+    "§ 70"
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "jw5y4sikp5",
+   "sents": [
+    "Die Wirkung ist α) vermittels eines Anderen, der Ursache; diese, als Tätigkeit, verschwindet in der Wirkung; β) das Andere als Ursache ist verschwunden; aber die Wirkung ist gesetzt, ist im Anderen."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1jmouq21mm",
+   "sents": [
+    "§ 71"
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "9e6erbhk92",
+   "sents": [
+    "Der Form nach ist die Ursache von der Wirkung so unterschieden, daß jene die Wirklichkeit ist, die ursprünglich aus sich tätig, diese aber gesetzt und in einem Anderen ist63) ; als Bestimmung in einem Anderen, Wirklichen tritt sie in ein Verhältnis mit den übrigen Bestimmungen desselben und erhält dadurch eine Gestalt, die nicht mehr ihr als Wirkung angehört."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "1nln9d614k",
+   "sents": [
+    "§ 72 [65]"
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "15qsrhk1l5",
+   "sents": [
+    "Die Ursache geht in Wirkung über, aber umgekehrt gehen wir von der Wirkung zur Ursache, welcher Rückgang zunächst der äußeren Reflexion angehört.",
+    "Indem die Ursache selbst einen bestimmten Inhalt hat, zufällig ist und als Wirkung zu setzen ist, erhalten wir den Regreß einer Reihe von Ursachen und Wirkungen ins Unendliche.",
+    "Umgekehrt, insofern das, worauf die Wirkung geschieht, selbst ein Ursprüngliches ist, ist es Ursache und bringt seine Wirkung in einem Anderen hervor; - dieselbe Reihe als unendlicher Progreß."
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "17ouy4z15d",
+   "sents": [
+    "Äußere Reflexion: die Ursache ist eine andere Sache als die Wirkung, - ist Unterschied der Sache; - absolute Reflexion derselbe Inhalt - dieselbe Sache - Regen und Feuchtigkeit - ist nur Identität der Sache - 2. in der Wirkung ist, was in der Ursache; wir erkennen eins aus dem andern, - äußerliche Identität - Form und Inhalt oder Sache verwechseln sich; Ursache und Wirkung ist Unterschied der Form; Ursache gilt als Sache und dann wieder nur als Form.",
+    "Die Wirkung hat erst in der Verbindung mit dem, in das sie gesetzt wird, Wirklichkeit."
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "h",
+   "hash": "1p6j0oa152",
+   "text": "C. Wechselwirkung"
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "5tz53lqp3v",
+   "sents": [
+    "§ 73 [66]64)"
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "1ue2mji1gv",
+   "sents": [
+    "Insofern ein Wirkliches die Wirkung in sich aufnimmt, aber sich zugleich zur Ursache macht und sich gegen die Einwirkung als gegen ein ihm Äußerliches erhält, wirkt es zurück, und die Rückwirkung ist der Wirkung gleich."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "1xhu12318g",
+   "sents": [
+    "Die Kausalität hat ein Ursprüngliches, die Ursache, das aber übergehend ist, erlischt (daher nicht absolut von ihm zu einer anderen Ursache aufgestiegen werden muß) usf.",
+    "Die Wirkung im Wirklichen B gesetzt wird wieder zur Ursache; dies ist ein negatives Tun, d. h. die Wirkung wird aufgehoben daher Rückwirkung."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "9xxyji8la9",
+   "sents": [
+    "§ 74 [67]"
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1if8ydk1km",
+   "sents": [
+    "Die Rückwirkung geschieht auf die erste Ursache, welche damit als Wirkung gesetzt {oder zu einem Gesetzten gemacht wird}, wodurch nichts anderes geschieht, als daß sie nun so gesetzt wird, was sie an sich ist, nämlich ein nicht wahrhaft Ursprüngliches, sondern ein Übergehendes."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "5vlsvgr5fa",
+   "sents": [
+    "§ 75 [68]65)"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p0.json"
+}

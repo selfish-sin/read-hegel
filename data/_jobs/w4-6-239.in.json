@@ -1,0 +1,77 @@
+{
+ "id": "w4-6-239",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "B. Ursache",
+ "blocks": [
+  {
+   "bi": 239,
+   "k": "p",
+   "hash": "1jzksa4n0y",
+   "sents": [
+    "§ 6"
+   ]
+  },
+  {
+   "bi": 240,
+   "k": "p",
+   "hash": "1xqbpdw7oa",
+   "sents": [
+    "Im gemeinen Leben verwechselt man Vorstellung und Denken, und wir nennen auch dasjenige Denken, was nur Vorstellung der Einbildungskraft ist.",
+    "In der Vorstellung haben wir eine Sache vor uns auch nach ihrem äußerlichen, unwesentlichen Dasein.",
+    "Im Denken hingegen sondern wir von der Sache das Äußerliche, bloß Unwesentliche ab und heben die Sache nur in ihrem Wesen hervor.",
+    "Das Denken dringt durch die äußerliche Erscheinung durch zur inneren Natur der Sache und macht sie zu seinem Gegenstand.",
+    "Es läßt das Zufällige einer Sache weg.",
+    "Es nimmt eine Sache nicht, wie sie als unmittelbare Erscheinung ist, sondern scheidet das Unwesentliche von dem Wesentlichen ab und abstrahiert also von demselben. - In der Anschauung haben wir einzelne Gegenstände vor uns.",
+    "Das Denken bezieht dieselben aufeinander oder vergleicht sie.",
+    "In der Vergleichung hebt es, was sie miteinander gemeinschaftlich haben, heraus und läßt dasjenige, wodurch sie voneinander sich unterscheiden, weg und erhält dadurch allgemeine Vorstellungen. - Die allgemeine Vorstellung enthält weniger Bestimmtheit als der einzelne Gegenstand, der unter dieses Allgemeine gehört, weil man eben das Allgemeine nur durch Weglassen des Einzelnen erhält.",
+    "Dagegen umfaßt das Allgemeine mehr unter sich oder hat einen weit größeren Umfang.",
+    "Insofern das Denken einen allgemeinen Gegenstand hervorbringt, kommt ihm die Tätigkeit des Abstrahierens zu und damit die Form der Allgemeinheit, wie z. B. in dem allgemeinen Gegenstande \"Mensch\".",
+    "Aber der Inhalt des allgemeinen Gegenstandes kommt ihm, als Abstrahieren, nicht zu, sondern ist dem Denken gegeben und unabhängig von ihm für sich vorhanden."
+   ]
+  },
+  {
+   "bi": 241,
+   "k": "p",
+   "hash": "13kd9gu1gy",
+   "sents": [
+    "Dem Denken kommen noch vielfache Bestimmungen zu, die einen Zusammenhang zwischen den mannigfaltigen Erscheinungen ausdrücken, welcher allgemein und notwendig ist.",
+    "Der Zusammenhang, wie er in der sinnlichen Anschauung ist, ist nur ein äußerlicher oder zufälliger, der so sein oder auch nicht so sein kann.",
+    "Ein Stein z. B. macht durch sein Herunterfallen einen Eindruck in eine weiche Masse.",
+    "In der sinnlichen Anschauung liegt das Herunterfallen des Steins und daß hierauf, in der Zeit, eine Aushöhlung in der Masse vorhanden ist, wo der Stein sie berührte.",
+    "Diese beiden Erscheinungen, das Herunterfallen des Steins und die Aushöhlung der Masse haben sich in der Zeit sukzediert.",
+    "Allein dieser Zusammenhang enthält noch keine Notwendigkeit, sondern es könnte, dem Ausdruck nach, unter denselben Bedingungen das eine geschehen und das andere nicht darauf folgen.",
+    "Wenn hingegen die Beziehung dieser zwei Erscheinungen aufeinander sich als ein Zusammenhang von Ursache und Wirkung bestimmt oder als Kausalität, so ist dieser Zusammenhang notwendig oder ein Zusammenhang des Verstandes.",
+    "Es liegt darin, daß, wenn unter denselben Bedingungen das eine geschieht, das andere darin enthalten ist."
+   ]
+  },
+  {
+   "bi": 242,
+   "k": "p",
+   "hash": "1y9pvgr15h",
+   "sents": [
+    "Diese Bestimmungen sind Formen des Denkens.",
+    "Der Geist setzt sie nur aus sich selbst, aber es sind zugleich Bestimmungen des Seienden.",
+    "Wir kommen erst durch das Nachdenken darauf, was Grund und Folge, Inneres und Äußeres, was wesentlich oder unwesentlich ist.",
+    "Der Geist ist sich dabei nicht bewußt, daß er diese Bestimmungen willkürlich setzt, sondern er spricht darin etwas aus, was ohne sein Zutun für sich vorhanden ist."
+   ]
+  },
+  {
+   "bi": 243,
+   "k": "p",
+   "hash": "1k9kdz31kw",
+   "sents": [
+    "§ 7"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p239.json"
+}

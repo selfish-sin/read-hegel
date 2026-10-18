@@ -1,0 +1,84 @@
+{
+ "id": "w4-6-251",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "B. Ursache",
+ "blocks": [
+  {
+   "bi": 251,
+   "k": "p",
+   "hash": "1gkmx3f1mn",
+   "sents": [
+    "§ 10"
+   ]
+  },
+  {
+   "bi": 252,
+   "k": "p",
+   "hash": "hohjfp1g53",
+   "sents": [
+    "Auch die Tiere haben ein praktisches Verhalten zu dem, was ihnen äußerlich ist.",
+    "Sie handeln aus Instinkt zweckmäßig, also vernünftig.",
+    "Da sie es aber unbewußt tun, so kann von einem Handeln nur uneigentlich bei ihnen die Rede sein.",
+    "Sie haben Begierde und Trieb, aber keinen vernünftigen Willen.",
+    "Beim Menschen sagt man von seinem Trieb oder seinem Begehren auch Willen.",
+    "Genauer gesprochen aber unterscheidet man den Willen von der Begierde; der Wille, im Unterschied von der eigentlichen Begierde, wird alsdann das höhere Begehrungsvermögen genannt. - Bei den Tieren ist von ihren Trieben und Begierden selbst der Instinkt unterschieden, denn Instinkt ist zwar ein Tun aus Begierde oder Trieb, das aber mit seiner unmittelbaren Äußerung nicht beschlossen ist, sondern noch eine weitere, für das Tier gleichfalls notwendige Folge hat.",
+    "Es ist ein Tun, worin eine Beziehung auch auf etwas anderes liegt; z. B. das Zusammenschleppen von Körnern durch viele Tiere.",
+    "Dies ist noch nicht die ganze Handlung, sondern es liegt noch weiter hinaus ein Zweck darin, nämlich ihre Nahrung für die Zukunft."
+   ]
+  },
+  {
+   "bi": 253,
+   "k": "p",
+   "hash": "ac2w6plzjz",
+   "sents": [
+    "Der Trieb ist fürs erste etwas Innerliches, etwas, das eine Bewegung von sich selbst anfängt oder eine Veränderung aus sich hervorbringt.",
+    "Der Trieb geht von sich aus.",
+    "Durch äußere Umstände erwacht er zwar, aber dessenungeachtet war er schon vorhanden.",
+    "Er wird dadurch nicht hervorgebracht.",
+    "Mechanische Ursachen bringen bloß äußerliche oder mechanische Wirkungen hervor, die vollkommen durch ihre Ursachen bestimmt sind, in denen also nichts enthalten ist, was nicht in der Ursache schon vorhanden ist; z. B. wenn ich einem Körper Bewegung gebe, so ist in demselben nichts als die mitgeteilte Bewegung; oder wenn ich einen Körper färbe, so hat er nichts weiter mehr als die mitgeteilte Farbe.",
+    "Hingegen wenn ich auf ein lebendiges Wesen einwirke, so macht diese Einwirkung aus ihm noch ganz etwas anderes, als es unmittelbar ist.",
+    "Die Wirksamkeit des lebendigen Wesens wird dadurch erregt, sich aus sich in ihrer Eigentümlichkeit zu zeigen."
+   ]
+  },
+  {
+   "bi": 254,
+   "k": "p",
+   "hash": "96h4911no4",
+   "sents": [
+    "Fürs zweite ist der Trieb 1. dem Inhalt nach beschränkt, 2. nach der Seite seiner Befriedigung als von äußerlichen Umständen abhängig zufällig.",
+    "Der Trieb geht nicht über seinen Zweck hinaus und heißt insofern blind.",
+    "Er befriedigt sich, die Folgen mögen sein, welche sie wollen."
+   ]
+  },
+  {
+   "bi": 255,
+   "k": "p",
+   "hash": "1yb5tab9zt",
+   "sents": [
+    "Der Mensch setzt insofern seine Triebe nicht selbst, sondern hat sie unmittelbar, oder sie gehören seiner Natur an.",
+    "Die Natur aber ist der Notwendigkeit unterworfen, weil alles in ihr beschränkt, relativ oder schlechthin nur in Beziehung auf etwas anderes ist.",
+    "Was aber in Beziehung auf etwas anderes ist, das ist nicht für sich selbst, sondern abhängig vom Anderen.",
+    "Es hat seinen Grund darin und ist ein Notwendiges.",
+    "Insofern der Mensch unmittelbar bestimmte Triebe hat, ist er der Natur unterworfen und verhält sich als ein notwendiges und unfreies Wesen."
+   ]
+  },
+  {
+   "bi": 256,
+   "k": "p",
+   "hash": "1ganbegoro",
+   "sents": [
+    "§ 11"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p251.json"
+}

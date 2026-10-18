@@ -1,0 +1,84 @@
+{
+ "id": "w4-6-285",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 6,
+ "chunkTitle": "B. Ursache",
+ "heading": "B. Ursache",
+ "blocks": [
+  {
+   "bi": 285,
+   "k": "p",
+   "hash": "cbz30ji62p",
+   "sents": [
+    "§ 21"
+   ]
+  },
+  {
+   "bi": 286,
+   "k": "p",
+   "hash": "1tvruff1d1",
+   "sents": [
+    "Dem reinen Willen ist es nicht um irgendeine Besonderheit zu tun.",
+    "Insofern dies der Fall beim Willen ist, insofern ist er Willkür, denn diese hat ein beschränktes Interesse und nimmt ihre Bestimmungen her aus natürlichen Trieben und Neigungen.",
+    "Ein solcher Inhalt ist ein gegebener und nicht absolut durch den Willen gesetzt.",
+    "Der Grundsatz des Willens ist also, daß seine Freiheit zustande komme und erhalten werde.",
+    "Außerdem will er zwar noch mancherlei Bestimmungen.",
+    "Er hat noch vielerlei bestimmte Zwecke, Einrichtungen, Zustände usw., aber diese sind nicht Zwecke des Willens an und für sich, sondern sie sind Zwecke, weil sie Mittel und Bedingungen sind zur Realisierung der Freiheit des Willens, welche Einrichtungen und Gesetze notwendig macht zur Beschränkung der Willkür, der Neigungen und des bloßen Beliebens, überhaupt der Triebe und Begierden, die sich bloß auf Naturzwecke beziehen; z. B. die Erziehung hat den Zweck, den Menschen zu einem selbständigen Wesen zu machen, d. h. zu einem Wesen von freiem Willen.",
+    "Zu dieser Absicht werden den Kindern vielerlei Einschränkungen ihrer Lust auferlegt.",
+    "Sie müssen gehorchen lernen, damit ihr einzelner oder eigener Wille, ferner die Abhängigkeit von sinnlichen Neigungen und Begierden aufgehoben und ihr Wille also befreit werde."
+   ]
+  },
+  {
+   "bi": 287,
+   "k": "p",
+   "hash": "clyopi1g1h",
+   "sents": [
+    "§ 22"
+   ]
+  },
+  {
+   "bi": 288,
+   "k": "p",
+   "hash": "s1xowemwdk",
+   "sents": [
+    "Der Mensch ist ein freies Wesen.",
+    "Dies macht die Grundbestimmung seiner Natur aus.",
+    "Außerdem aber hat er noch andere notwendige Bedürfnisse, besondere Zwecke und Triebe, z. B. den Trieb zum Erkennen, zur Erhaltung seines Lebens, seiner Gesundheit usf.",
+    "Das Recht hat den Menschen nicht zum Gegenstand nach diesen besonderen Bestimmungen.",
+    "Es hat nicht den Zweck, ihn nach denselben zu fördern oder ihm eine besondere Hilfe darüber zu leisten."
+   ]
+  },
+  {
+   "bi": 289,
+   "k": "p",
+   "hash": "16jmyxj13f",
+   "sents": [
+    "Zweitens.",
+    "Das Recht hängt nicht ab von der Absicht, die man dabei hat.",
+    "Man kann etwas tun mit einer sehr guten Absicht, aber die Handlung wird dadurch nicht rechtlich, sondern kann dem ungeachtet widerrechtlich sein.",
+    "Auf der andern Seite kann eine Handlung, z. B. die Behauptung meines Eigentums, vollkommen rechtlich und doch eine böse Absicht dabei sein, indem es mir nicht bloß um das Recht zu tun ist, sondern vielmehr darum, dem anderen zu schaden.",
+    "Auf das Recht als solches hat diese Absicht keinen Einfluß."
+   ]
+  },
+  {
+   "bi": 290,
+   "k": "p",
+   "hash": "8ysbcq986g",
+   "sents": [
+    "Drittens.",
+    "Es kommt nicht auf die Überzeugung an, ob das, was ich zu leisten habe, recht oder unrecht sei.",
+    "Dies ist besonders der Fall bei der Strafe.",
+    "Man sucht den Verbrecher wohl zu überzeugen, daß ihm Recht widerfahre.",
+    "Doch hat diese Überzeugung oder Nichtüberzeugung keinen Einfluß auf das Recht, das ihm angetan wird."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/6.p285.json"
+}
