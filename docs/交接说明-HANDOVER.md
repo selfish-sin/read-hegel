@@ -31,8 +31,8 @@ GIT_SSH_COMMAND='ssh -i ~/.ssh/id_ed25519_ismism -o IdentitiesOnly=yes' git push
 ## 二、跑起来
 
 ```bash
-node scripts/serve.mjs --port 8788      # 本地静态服务（gzip）
-# 浏览器打开 http://127.0.0.1:8788/
+node scripts/serve.mjs --port 8860      # 本地静态服务（gzip）
+# 浏览器打开 http://127.0.0.1:8860/
 ```
 
 页面：`/`（书架，12 卷）→ `reader.html?v=<卷>&c=<分片>&lay=tri|mono`。
@@ -144,10 +144,10 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 > missing/mismatch/空中文/JS 错误全 0；固定 8 页回归 8/8。术语层 entries 199 → **260**。
 > qa 剩余 31 条全部已判读登记（多为上述误报类别）。
 
-> **★ 端口被别的会话占用会伪装成「译文把阅读器弄坏了」**：本波 8788 被一个 `pythonw.exe` 占着，
+> **★ 端口被别的会话占用会伪装成「译文把阅读器弄坏了」**：本波 8860 被一个 `pythonw.exe` 占着，
 > 根路径仍返回 200，但 `reader.html` 404、`verify-paragraph-align` 全页 `pairs=0 / errors=2`。
 > **判据：先看计数列——`pairs=0` 说明根本没测到东西**，不是内容有问题。换个空闲端口重起服务即可。
-> 已把 `verify-paragraph-align.mjs` 的硬编码 `8788` 改为读环境变量 `HEGEL_READER_PORT`（默认仍是 8788）。
+> 已把 `verify-paragraph-align.mjs` 的硬编码 `8860` 改为读环境变量 `HEGEL_READER_PORT`（默认仍是 8860）。
 
 **第 37 波刚完成**（2026-10-17）：w4/4「[Neuer Ansatz] Logik」（第二种尝试·逻辑学，1809/10 讲稿）
 
@@ -323,8 +323,8 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 7. **PowerShell 5.1 限制**：不支持 `ForEach-Object -Parallel` 与三元 `? :`；`node -e` 里的引号
    易被吞（复杂脚本请写成文件再跑）；`>` 重定向默认 UTF-16LE，读回时要处理 BOM。
 8. **CDP 类验收脚本要先起本地服务**：`verify-paragraph-align.mjs`、`verify-hover-sweep.mjs`
-   走 `http://127.0.0.1:8788` 的 CDP。服务没起时它们**不报错，而是全部显示 ✗ 且 `pairs=0 / errors=0`**——
-   极易误判成"新译的章渲染坏了"。先 `node scripts/serve.mjs --port 8788` 再跑。
+   走 `http://127.0.0.1:8860` 的 CDP。服务没起时它们**不报错，而是全部显示 ✗ 且 `pairs=0 / errors=0`**——
+   极易误判成"新译的章渲染坏了"。先 `node scripts/serve.mjs --port 8860` 再跑。
 9. **`make-jobs.mjs` 的 `--limit` 是分节粗截断，不是单元数**：`--limit 13` 实测切出 24 个单元
    （整节切完才停）。别按参数名字面意思规划波次规模。另外**不要把 `--help` 当参数传**，
    它会被当成 prefix，误生成一波任务文件并**覆盖同名 tracked 文件**

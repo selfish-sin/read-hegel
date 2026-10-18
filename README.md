@@ -17,7 +17,7 @@
 ```powershell
 # 方式一：双击 start.cmd
 # 方式二：
-node scripts\serve.mjs --port 8788 --open    # 自动打开 http://127.0.0.1:8788/
+node scripts\serve.mjs --port 8860 --open    # 自动打开 http://127.0.0.1:8860/
 ```
 
 只依赖 Node.js（≥18），无第三方包。静态文件在 `web/`，也可以用任何静态服务器托管。
@@ -203,7 +203,7 @@ node scripts\integrity.mjs       # 完整性报告（卷次覆盖 / 分节齐全
 
 ```powershell
 node scripts\sweep.mjs                                       # 逐卷巡检，应输出 with-errors=0
-node scripts\verify-goal.mjs http://127.0.0.1:8788           # 端到端验收，应输出 failed=0 errors=0
+node scripts\verify-goal.mjs http://127.0.0.1:8860           # 端到端验收，应输出 failed=0 errors=0
 ```
 
 ## 术语政策（词族一致）

@@ -1,5 +1,5 @@
 // Sweep every volume (and a few chunks each) in one headless browser, reporting JS errors.
-//   node scripts/sweep.mjs [--base http://127.0.0.1:8788] [--per 2]
+//   node scripts/sweep.mjs [--base http://127.0.0.1:8860] [--per 2]
 import { spawn } from 'node:child_process';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -7,7 +7,7 @@ import os from 'node:os';
 
 const args = process.argv.slice(2);
 const opt = (n, d) => { const i = args.indexOf('--' + n); return i >= 0 && args[i + 1] ? args[i + 1] : d; };
-const BASE = opt('base', 'http://127.0.0.1:8788');
+const BASE = opt('base', 'http://127.0.0.1:8860');
 const PER = Number(opt('per', 2));
 const PORT = 9700 + Math.floor(Math.random() * 200);
 

@@ -9,7 +9,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
 
-const BASE = process.argv[2] || 'http://127.0.0.1:8788';
+const BASE = process.argv[2] || 'http://127.0.0.1:8860';
 const PORT = 9500 + Math.floor(Math.random() * 300);
 const EDGE = ['C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe',
   'C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe'].find((p) => fs.existsSync(p));

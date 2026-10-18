@@ -1,5 +1,5 @@
 // Minimal static server for the reading site (no dependencies).
-//   node scripts/serve.mjs [--port 8788] [--root web] [--open]
+//   node scripts/serve.mjs [--port 8860] [--root web] [--open]
 import http from 'node:http';
 import fs from 'node:fs';
 import fsp from 'node:fs/promises';
@@ -12,7 +12,9 @@ const argOf = (name, def) => {
   const i = args.indexOf('--' + name);
   return i >= 0 && args[i + 1] ? args[i + 1] : def;
 };
-const PORT = Number(argOf('port', process.env.PORT || 8788));
+// 8860 (not 8788): the local workbuddy2api proxy defaults to 8788 and will
+// squat it, which made the reader look broken (reader.html 404, pairs=0).
+const PORT = Number(argOf('port', process.env.PORT || process.env.HEGEL_READER_PORT || 8860));
 const HOST = argOf('host', '127.0.0.1');
 const ROOT = path.resolve(argOf('root', 'web'));
 

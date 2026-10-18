@@ -6,7 +6,7 @@ import fs from 'node:fs';
 const PAGES = [
   ['w1', 0], ['w1', 21], ['w2', 3], ['w2', 14], ['w3', 0], ['w3', 1], ['w3', 2], ['w3', 3], ['w3', 4],
 ];
-const BASE = 'http://127.0.0.1:8788';
+const BASE = 'http://127.0.0.1:8860';
 
 const run = (args) => new Promise((res) => {
   const p = spawn(process.execPath, args, { stdio: ['ignore', 'pipe', 'pipe'] });
