@@ -209,14 +209,14 @@
    "en": "essence",
    "zh": "本质",
    "type": "term",
-   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270）"
+   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。"
   },
   {
    "source": "Erscheinung",
    "en": "appearance",
    "zh": "现象",
    "type": "term",
-   "note": "与 Schein（假象）、Wesen（本质）区分；Erscheinungswelt＝现象世界"
+   "note": "与 Schein（假象）、Wesen（本质）区分；Erscheinungswelt＝现象世界 ★wave40 短语级登记：「nach ihrer Erscheinung betrachtet」作 就其外观来看；名词本体仍严格 现象。"
   },
   {
    "source": "Wirklichkeit",
@@ -1819,7 +1819,7 @@
    "en": "difference",
    "zh": "差别",
    "type": "term",
-   "note": "★ 与 Verschiedenheit（相异）严格分工；勿与之混用"
+   "note": "★ 与 Verschiedenheit（相异）严格分工；勿与之混用 ★wave40 短语登记：「im Unterschied von」作 有别于（保留 别 词根）、「einen Unterschied machen」作 作出区分；名词本体仍严格 差别。"
   },
   {
    "source": "Mittel",
@@ -2002,6 +2002,76 @@
    "zh": "凹坑",
    "type": "term",
    "note": "wave40 新增；石头落入柔软物质所留之坑，用以说明感性直观中的现象相继"
+  },
+  {
+   "source": "Begierde",
+   "en": "desire",
+   "zh": "欲求",
+   "type": "term",
+   "note": "wave40 新增并分工：本卷四级序列 Instinkt 本能 — Begierde 欲求（较盲目）／Trieb 冲动（较自发）— Wille 意志（理性）。Begehren 与 Begierde 同族同译「欲求」"
+  },
+  {
+   "source": "Instinkt",
+   "en": "instinct",
+   "zh": "本能",
+   "type": "term",
+   "note": "wave40 新增；「ein Tun aus Begierde oder Trieb, das nicht mit seiner unmittelbaren Äußerung beschlossen ist」＝出于欲求或冲动但不随直接表现而完结的行为。与 Trieb（冲动）分开"
+  },
+  {
+   "source": "Endlichkeit",
+   "en": "finiteness",
+   "zh": "有限性",
+   "type": "term",
+   "note": "wave40 新增；与 das Endliche（有限者）、unendlich（无限）对举"
+  },
+  {
+   "source": "Grundzweck",
+   "en": "fundamental purpose",
+   "zh": "基本目的",
+   "type": "term",
+   "note": "wave40 新增；与 Zweck（目的）、Grund（根据）分开。§11 反思把各冲动之目的与存在者的 Grundzweck 相比较"
+  },
+  {
+   "source": "Nationalwille",
+   "en": "national will",
+   "zh": "国家意志",
+   "type": "term",
+   "note": "wave40 新增，unsicher：「allgemeiner Nationalwille」在 §14 政治自由语境指国家层面故取 国家意志；备选 民族意志。若用户决定全卷统一，请一并复核 Volk 的译法"
+  },
+  {
+   "source": "imputieren / zurechnen",
+   "en": "to impute / to reckon to",
+   "zh": "归责／算在头上",
+   "type": "term",
+   "note": "wave40 新增；「einem Menschen die Schuld einer Handlung beimessen」＝把一项行动的罪责归到某人身上；imputationsfähig＝具备归责能力。与 Schuld（罪责）分开"
+  },
+  {
+   "source": "Religionsfreiheit / politische Freiheit",
+   "en": "religious / political freedom",
+   "zh": "宗教自由／政治自由",
+   "type": "term",
+   "note": "wave40 新增；§14 自由种类序列 bürgerliche 公民／Preßfreiheit 出版／politische 政治／religiöse 宗教，与 allgemeiner Freiheitsbegriff 自由概念 成属种关系"
+  },
+  {
+   "source": "in Wahrheit",
+   "en": "in truth",
+   "zh": "实际上／其实",
+   "type": "term",
+   "note": "wave40 新增分义登记：副词状语作「实际上／其实」；名词与形容词本体仍严格 真理。★qa 门按词族匹配会误报（全卷同类 42 处），与 wirklich 副词同类"
+  },
+  {
+   "source": "Naturbestimmungen",
+   "en": "determinations of nature",
+   "zh": "自然的规定",
+   "type": "term",
+   "note": "wave40 新增；与本卷已登记的 Natur 分义裁定一致（自然的规定，非 本性的规定）；与 Naturbestimmtheit（自然的规定性）同族"
+  },
+  {
+   "source": "Darstellung (tragische)",
+   "en": "tragic representation",
+   "zh": "演出",
+   "type": "term",
+   "note": "wave40 新增；「tragische Darstellungen der Alten」＝古代的悲剧演出；此处不作「表述」"
   }
  ],
  "forbidden": [

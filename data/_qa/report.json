@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T04:56:02.121Z",
- "blocks": 4857,
- "sentences": 14414,
+ "generated": "2026-10-19T04:59:20.631Z",
+ "blocks": 4882,
+ "sentences": 14531,
  "issues": [
   {
    "sev": "minor",
@@ -6630,6 +6630,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/6#230",
+   "msg": "sentence 2: \"Weltlauf\" is not rendered as “世事的进程”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#231",
    "msg": "sentence 2: \"Versicherung\" is not rendered as “断言”"
   },
@@ -6637,6 +6642,11 @@
    "sev": "minor",
    "where": "w4/6#240",
    "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#241",
+   "msg": "sentence 4: \"Aushöhlung\" is not rendered as “凹坑”"
   },
   {
    "sev": "minor",
@@ -6652,11 +6662,151 @@
    "sev": "minor",
    "where": "w4/6#249",
    "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#252",
+   "msg": "sentence 5: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#253",
+   "msg": "sentence 5: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#253",
+   "msg": "sentence 6: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#255",
+   "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#255",
+   "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#255",
+   "msg": "sentence 4: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#255",
+   "msg": "sentence 4: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#258",
+   "msg": "sentence 2: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#259",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#262",
+   "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#262",
+   "msg": "sentence 1: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#262",
+   "msg": "sentence 3: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#262",
+   "msg": "sentence 5: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#262",
+   "msg": "sentence 7: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#266",
+   "msg": "sentence 2: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#266",
+   "msg": "sentence 6: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#268",
+   "msg": "sentence 2: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/6#268",
+   "msg": "sentence 2: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#268",
+   "msg": "sentence 7: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/6#268",
+   "msg": "sentence 7: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#269",
+   "msg": "sentence 3: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#271",
+   "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#273",
+   "msg": "sentence 0: \"Darstellung\" is not rendered as “表述”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#273",
+   "msg": "sentence 2: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#273",
+   "msg": "sentence 3: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#273",
+   "msg": "sentence 4: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#275",
+   "msg": "sentence 3: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#275",
+   "msg": "sentence 4: \"Natur\" is not rendered as “本性”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 149,
-  "minor": 1181
+  "major": 151,
+  "minor": 1209
  }
 }
