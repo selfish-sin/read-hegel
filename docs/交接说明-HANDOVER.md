@@ -96,6 +96,54 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 ```
 
 
+### ★ 第 43 波已收官：w4/8「I. Pflichten gegen sich」（对自己·家庭·国家·他人的义务＋宗教学说）整节 **100%**
+
+**第 43 波（2026-10-20）一次做完 w4/8 整节 15 单元 / 371 句**（含 5 个空段落，如实输出 `en: []` / `zh: []`），四批全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
+
+| 批次 | 单元 | 句数 | 内容 | 提交 |
+|---|---|---|---|---|
+| b1 | 0 / 7 / 15 | 78 | §41–§45 自我义务·教养两面·规定职业 | `1a33b6e` |
+| b2 | 19 / 37 / 51 | 80 | §46–§52 美德·家庭·国家义务·§53–§58 国家与公民·§59–§64 正直·真实性·诽谤 | `c1b38f5` |
+| b3 | 63 / 70 / 84 | 81 | §63–§66 伪善·善恶不善三分·§67–§70 友谊·精明·客气·§71–§79 道德法则·上帝·恶与和解 | `68128e1` |
+| b4 | 99 / 120 / 140 / 159 / 177 / 194 | 132 | §80 敬拜·宗教学说手稿残篇（中等与上层阶级的宗教·宗教导论·论上帝的概念·论宗教） | `5f34f89` |
+
+**w4/8 整节 15 单元 / 371 句已全部译完。** 覆盖率 16.35% → **16.74%**（15,421 / 92,117 句；段落 4,806 / 17,948 = 26.78%）。第 4 卷 3,611 / 5,501 句（65.6%），**分节进度 9/16**。
+
+下一节 **w4/9 尚未切片**：`node scripts/make-jobs.mjs --vol w4 --size 25 --limit 10 --prefix wave44`（`--limit` 是分节数不是单元数；**切 w4/9 时才传 `--limit 10`**——第 43 波曾误传 `--limit 9`，把 jobs-wave43.json 覆盖成 w4/9 的内容并多生成 11 个 `w4-9-*.in.json`，靠 `git checkout --` 还原 + `rm`（可恢复删除）清场）。
+
+> **★ 本波新增的三条坑，写在这里给下一轮**：
+> 1. **上下文包的字段名写错会让禁译检查静默失效，机器门崩了先查数据层。** `context-w4.json` 的 forbidden 数组里有 3 条
+>    （`Quantum` / `Anderssein` / `Etwas`）把 `forbidden` 字段写成了 `forbid`，于是**从第 43 波 b1 起这三条禁译词一直没被检查**，
+>    直到 b4 的 gate 按 `f.forbidden.replace(...)` 直接崩（`Cannot read properties of undefined (reading 'replace')`）才暴露。
+>    **如果 gate 没崩而是跳过，漏网的禁译词永远查不出来**——所以门报「缺字段」类错误时，先怀疑上下文包的数据，别先改 gate。
+>    修复后重跑前三批 gate：零 FAIL，无漏网。
+> 2. **前三批的补丁要改 build 脚本再重跑，不能只改合并产物。** 本波 b4 验收时在前三批（unit 0–84）查出 10 处同卷两译
+>    （`Übereinstimmung` 一致/相合、`Kenntnis` 认识/知识、`Interesse` 兴趣/利害关系、`Bedürfnis` 需求/需要、
+>    `Einzelwesen`、`Ausschließung`、`Einzelheit`、`Dienst`、`Folge`、`Natur`），全部改 `_build_w43_{1,2,3}.mjs` 后
+>    重跑 build + merge。**merge 会消费 p 文件，但增量合并只更新改动的块，不需要重新生成全部 15 个单元。**
+> 3. **`qarange` 第一个参数是 chunk 号，不是卷号。** 我误传 4 查到 chunk 4 的存量问题，差点当成自己新译的缺陷；
+>    **块号与句号对不上（单句块报 sentence 1/3）就是传错参数的信号。**
+
+- **验收（全绿）**：trans-index **ALIGNMENT OK**；check-policy / integrity / verify-coverage /
+  audit-sentences 全 exit 0；validate 仍只有 20 处存量 misnested（w2/w3/w5，与新译无关）；
+  w4/8 浏览器实测 **pairs=197 = expected 197（196 译块 + 1 fn 块）**、errors=0、
+  emptyZh=0、emptyEn=0、mismatch=0；固定 8 页回归 **8/8**。
+  （固定 8 页**不含 w4/8**，用 `data/_jobs/_dom_w42.mjs w4:8` 单独验。）
+- **qa：w4/8 全节 70 条全部核实为误报或已登记分义**：`Wesen`⇒存在者（context-w4 例外条）、
+  `Mitte` 误命中 `Mittel`、`Körper` 身体（人身义，自我保存语境）、副词 `wirklich` 要「现实」（全卷 33 处存量）、
+  `Person`⇒君主本人/他人其人（b2 裁定）、`Wahrheit`⇒真相/真话（b2 分义）、`Interesse`⇒国家利益（制度层分义）、
+  `Kultus`⇒崇拜（行为义分义）、`Versicherung`⇒确信（宗教语境分义）、`zur Folge haben`⇒导致（context-w4 分义条）、
+  zh/en 长度比 0.20（中文天然比例，按块横向比）。**一条译文都没为消警告而改。**
+- **术语层**：共享词表 b4 登记 43 条**全部已存在**（`merge-glossar` added 0——共享词表是全库 2,696 行的术语库，
+  不是本项目从零积累的，de 键命中率高是正常的，别当 bug）；context-w4 **436 → 464 条**（+28 新条 +8 分义 note），
+  并修复 3 条 forbidden 字段名。b4 新裁定：
+  `Gottesdienst` **敬拜**（与 `Kultus` 制度义礼拜/行为义崇拜三分，避免撞车）／
+  `Weltseele` 世界灵魂（同句 `Geist` 作精神）／`Emanation` 流溢／`Theodizee` 神义论／
+  `Akzidens` 偶性／`Glückseligkeit` 至福（w4/6 已确立）／`Versenkung` 沉浸／
+  `Einigkeit` 一致 与 `Einigung` 合一 分开／`Übereinstimmung` 相合（与 `Einigkeit` 分译）／
+  `Schicksal` 命运／`Vorsehung` 护佑／`sittliche Mächte` 伦理力量／`Geisterwelt` 精神世界。
+- **远端**：本波四批推到 fork（selfish-sin/read-hegel）main（`5f34f89`）；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
+
 ### ★ 第 42 波已收官：w4/7「Erster Abschnitt Rechtslehre」（法权学说）整节 **100%**
 
 **第 42 波（2026-10-19）一次做完 w4/7 整节 15 单元 / 427 句**，四批全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
@@ -215,10 +263,10 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 | Bd. 1 早期著作 | ✅ 22/22 节 · 3,740 句 |
 | Bd. 2 耶拿著作 | ✅ 15/15 节 · 3,270 句 |
 | Bd. 3 精神现象学 | ✅ **正文 100%**（序言→绝对知识，w3/0–15 正文 15/15 分节 · 4,800 句） |
-| Bd. 4 纽伦堡与海德堡时期著作 | **8/16 分节 100%** · 累计 3,250 句（w4/0–7 全 100%；w4/7「Erster Abschnitt Rechtslehre」15 单元 / 427 句**整节译完**） |
-| 合计 | **15,060 / 92,117 句 = 16.35%** |
+| Bd. 4 纽伦堡与海德堡时期著作 | **9/16 分节 100%** · 累计 3,611 句（w4/0–8 全 100%；w4/8「I. Pflichten gegen sich」15 单元 / 371 句**整节译完**） |
+| 合计 | **15,421 / 92,117 句 = 16.74%** |
 
-覆盖率另有按段落的数字：4,620 / 17,948 = 25.74%。
+覆盖率另有按段落的数字：4,806 / 17,948 = 26.78%。
 
 **第 38 波刚完成**（2026-10-17）：w4/5 **15 单元 / 258 块 / 388 句全分节 100%**，覆盖率 14.75% → **15.17%**。
 本节内容跨两段：前 4 单元收尾 1809/10 逻辑学（关系推论 → 概念的实现 → 观念论开篇），
@@ -379,11 +427,10 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 
 ### 下一步（按优先级）
 
-1. **继续第 4 卷**：`make-jobs --vol w4` 会自动接着 w4/4 往后（上下文包已在手，可直接开译）。
-   **w4/4 已完成**；下一节 w4/5「C. Schlüsse der Relation」（关系范畴的推论）、
-   w4/6「B. Ursache」（原因），w4/7「Erster Abschnitt Rechtslehre」才是法权学说。
-   注意 `Ursache`→原因、`Substanz`→实体、`Akzidenz`→偶性、`Gesetz`→规律 的区分；
-   推论节术语（中项/极端/前提/单称·特称判断等）已在 context-w4 条目 199 条内。
+1. **继续第 4 卷**：`make-jobs --vol w4` 会自动接着 w4/8 往后（上下文包 `data/_jobs/context-w4.json` 464 条已在手，可直接开译）。
+   **w4/8 已完成**；下一节 w4/9 尚未切片，用 `make-jobs.mjs --vol w4 --size 25 --limit 10 --prefix wave44` 起
+   （`--limit` 是分节数不是单元数；**切 w4/9 时才传 `--limit 10`**）。
+   宗教学说术语（w4/8 已立：`Gottesdienst` 敬拜、`Kultus` 礼拜/崇拜分义、`Weltseele` 世界灵魂、`Emanation` 流溢）供 w4/9 沿用。
    另注意：**子代理若再报配额类错误（2067 或 monthly quota），不要立即重派**——
    先判因，额度不恢复的（monthly quota）直接改由主代理译，参照第 37 波 251/264 的做法。
 2. **未审校章节**：w1（22 节）、w2（15 节）整卷尚未逐章审校——它们译于词族政策之前，
@@ -396,7 +443,7 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
    `Entzweiung`、`Verklärung`、`Menschwerdung`、`Begeistung`、`Erstehen`、`vindizieren`、
    `Kelch`、`Einsame` 等；另有 `Wesenheit` 一处 wave32 用了「本质性」（variante，
    偏离共享词表「实质性」），待统一）。
-5. **w4 后续分节的术语待裁定**：`merge-glossar` 已并入 380 条，其中宗教讲稿（w4/8-9）、
+5. **w4 后续分节的术语待裁定**：`merge-glossar` 已并入 380 条，其中宗教讲稿（w4/9）、
    学校报告与演讲（w4/10-12）、海德堡政治评论（w4/13-15）尚未开译，裁定时沿用 `context-w4.json`。
 
 ## 六、仓库里**没有**的东西（有意排除）
