@@ -923,7 +923,7 @@
    "en": "body",
    "zh": "物体",
    "type": "term",
-   "note": "与 Materie（物质）、Organismus（有机体）三分；亦不作“形体”“身体”。本波 5 处一致 wave34 核查例外：人类学语境 organischer Körper（有机身体）作“有机身体”，不机械改“有机物体”（#46）"
+   "note": "与 Materie（物质）、Organismus（有机体）三分；亦不作“形体”“身体”。本波 5 处一致 wave34 核查例外：人类学语境 organischer Körper（有机身体）作“有机身体”，不机械改“有机物体”（#46） wave40 核查补充：§注释「Zustände teils unseres Körpers」指人自身身体时作「身体」（承接 wave34 organischer Körper＝有机身体的先例）；himmlische／irdische Körper＝天上的／地上的物体（物体系）仍作「物体」，Materie＝物质三分不变。"
   },
   {
    "source": "Materie",
@@ -1841,6 +1841,111 @@
    "zh": "质疑",
    "type": "term",
    "note": "备用"
+  },
+  {
+   "source": "adäquater Begriff",
+   "en": "adequate concept",
+   "zh": "充分概念",
+   "type": "term",
+   "note": "wave40 新增；§129 标题「III. Idee [oder] adäquater Begriff」＝观念[或]充分概念；备选 相应概念"
+  },
+  {
+   "source": "Unbestimmtheit",
+   "en": "indeterminacy",
+   "zh": "不定性",
+   "type": "term",
+   "note": "wave40 新增并裁定：共享词表作「不定性」；本卷此前另有 16 处同卷先例作「不确定」。按权威序共享词表高于同卷先例，本卷一律「不定性」；与 Bestimmtheit（规定性）成对且方向相反"
+  },
+  {
+   "source": "Gesetzsein",
+   "en": "being posited",
+   "zh": "设定",
+   "type": "term",
+   "note": "wave40 新增；vollständiges Gesetzsein des Begriffs＝概念的完满设定；与 Gesetzt（被设定）、Gesetztwerden（被设定起来）同族"
+  },
+  {
+   "source": "Erläuterungen",
+   "en": "explanations",
+   "zh": "诠释",
+   "type": "term",
+   "note": "wave40 新增；Erläuterungen zur Einleitung＝对导言的诠释；与 styleGuide 第 15 条 Erläuterung＝诠释／讲解 一致"
+  },
+  {
+   "source": "Begehrungsvermögen",
+   "en": "faculty of desire",
+   "zh": "欲求能力",
+   "type": "term",
+   "note": "wave40 新增；与 Trieb（冲动）成对；höheres＝更高的、niederes＝低级的。与 Wille（意志）、Neigung（倾向）三分"
+  },
+  {
+   "source": "Trieb",
+   "en": "drive",
+   "zh": "冲动",
+   "type": "term",
+   "note": "wave40 新增；与 Wille（意志）、Neigung（倾向）严格分开；备选 欲求"
+  },
+  {
+   "source": "zweckmäßige Tätigkeit",
+   "en": "purposive activity",
+   "zh": "合目的活动",
+   "type": "term",
+   "note": "wave40 新增；äußerliche Zweckmäßigkeit＝外在的合目的性、innere Zweckmäßigkeit＝内在的合目的性；与 Zweck（目的）同族"
+  },
+  {
+   "source": "zufälliges Dasein",
+   "en": "contingent determinate being",
+   "zh": "偶然定在",
+   "type": "term",
+   "note": "wave40 新增；Dasein＝定在（政策硬词）；与 Notwendigkeit（必然性）对举"
+  },
+  {
+   "source": "Idee der Erkenntnis und des Handelns",
+   "en": "idea of knowing and acting",
+   "zh": "认识与行动的观念",
+   "type": "term",
+   "note": "wave40 新增；Idee＝观念（政策）；与 Wirken／Wirklichkeit（现实性）成对"
+  },
+  {
+   "source": "Schluß der Reflexion",
+   "en": "conclusion of reflection",
+   "zh": "反思的推论",
+   "type": "term",
+   "note": "wave40 新增并纠正偏离：共享词表 Schluß＝推论，一词一译；本卷 81 处「推论」对 1 处「结论」。带 der Reflexion 定语时仍作「推论」以显与 Reflexion（反思）同根"
+  },
+  {
+   "source": "Unterschied (einen Unterschied machen)",
+   "en": "to make a distinction",
+   "zh": "作出区分",
+   "type": "term",
+   "note": "wave40 新增：只登记动词固定搭配。名词 Unterschied 仍严格作「差别」（wave38 锁定，卷内 53 处），不因本条改动"
+  },
+  {
+   "source": "Vereinigung (Idee der Erkenntnis und des Handelns)",
+   "en": "union",
+   "zh": "统一",
+   "type": "term",
+   "note": "wave40 分语境裁定：共享词表作「结合」；本卷 统一 105 处、结合 31 处、联结 21 处。§131 b 概念与实在性的合一取「统一」；与 Einheit（统一）同族"
+  },
+  {
+   "source": "Wirklichkeit (in Wirklichkeit versetzen)",
+   "en": "actuality",
+   "zh": "现实",
+   "type": "term",
+   "note": "wave40 分语境裁定：只限介词短语 in Wirklichkeit versetzen（＝置于现实之中）。名词本体仍严格作「现实性」，且 forbidden 禁「实在性」"
+  },
+  {
+   "source": "Natur (unmittelbar vorhandener Inhalt)",
+   "en": "nature",
+   "zh": "自然",
+   "type": "term",
+   "note": "wave40 分义裁定：物理自然作「自然」；物的本性义（如 Natur des Geistes）作「本性」（共享词表）；Naturgesetz 一律「自然规律」"
+  },
+  {
+   "source": "Unterklasse",
+   "en": "lower class",
+   "zh": "低年级 / 下层阶级",
+   "type": "term",
+   "note": "wave40 两义并存裁定：学制义（chunks 0-9，与 Oberklasse 高年级成序列）作「低年级」；社会义（标题 8「Rechts-, Pflichten- und Religionslehre für die Unterklasse」）作「下层阶级」。按语境分译，不拉平——共享词表已预告此冲突"
   }
  ],
  "forbidden": [
