@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T05:50:56.343Z",
- "blocks": 5048,
- "sentences": 15137,
+ "generated": "2026-10-19T05:56:28.897Z",
+ "blocks": 5092,
+ "sentences": 15214,
  "issues": [
   {
    "sev": "minor",
@@ -5305,13 +5305,43 @@
   },
   {
    "sev": "minor",
+   "where": "w4/0#104",
+   "msg": "sentence 3: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#107",
+   "msg": "sentence 2: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/0#109",
    "msg": "sentence 1: \"Sein-für-Anderes\" is not rendered as “为他存在的存在”"
   },
   {
    "sev": "minor",
    "where": "w4/0#111",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#111",
    "msg": "sentence 1: \"Äußerung\" is not rendered as “表现”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#111",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#111",
+   "msg": "sentence 2: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#114",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -5327,6 +5357,16 @@
    "sev": "minor",
    "where": "w4/0#124",
    "msg": "sentence 1: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#127",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#129",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -5370,8 +5410,18 @@
   },
   {
    "sev": "minor",
+   "where": "w4/0#180",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/0#182",
    "msg": "sentence 1: \"Besonderheit\" is not rendered as “特殊性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#188",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -5380,8 +5430,18 @@
   },
   {
    "sev": "minor",
+   "where": "w4/0#188",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/0#192",
    "msg": "sentence 1: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#192",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "major",
@@ -5390,8 +5450,18 @@
   },
   {
    "sev": "minor",
+   "where": "w4/0#194",
+   "msg": "sentence 2: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/0#196",
    "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#196",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -5427,6 +5497,11 @@
    "sev": "minor",
    "where": "w4/0#214",
    "msg": "sentence 2: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#214",
+   "msg": "sentence 3: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -5515,6 +5590,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/0#244",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/0#250",
    "msg": "sentence 0: \"Quantum\" is not rendered as “量数”"
   },
@@ -5591,7 +5671,7 @@
   {
    "sev": "minor",
    "where": "w4/1#25",
-   "msg": "sentence 2: \"Vereinigung\" is not rendered as “统一”"
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -5665,8 +5745,33 @@
   },
   {
    "sev": "minor",
+   "where": "w4/1#34",
+   "msg": "sentence 3: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#36",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#46",
+   "msg": "sentence 2: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/1#51",
    "msg": "sentence 0: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#51",
+   "msg": "sentence 0: \"Affekt\" is not rendered as “情感”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#68",
+   "msg": "sentence 3: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "major",
@@ -5684,6 +5789,11 @@
    "msg": "sentence 0: \"Folge\" is not rendered as “后果”"
   },
   {
+   "sev": "minor",
+   "where": "w4/1#91",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
    "sev": "major",
    "where": "w4/1#93",
    "msg": "sentence 0: en/de word ratio 1.64 (18/11)"
@@ -5697,6 +5807,11 @@
    "sev": "minor",
    "where": "w4/1#93",
    "msg": "sentence 2: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#95",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
   },
   {
    "sev": "minor",
@@ -5810,6 +5925,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/1#126",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/1#129",
    "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
   },
@@ -5852,6 +5972,11 @@
    "sev": "minor",
    "where": "w4/1#157",
    "msg": "sentence 0: \"Gleichheit\" is not rendered as “等同”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#159",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -5990,6 +6115,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/2#10",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/2#14",
    "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
   },
@@ -6099,9 +6229,39 @@
    "msg": "sentence 1: \"Gleichheit\" is not rendered as “等同”"
   },
   {
+   "sev": "minor",
+   "where": "w4/2#54",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#56",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
    "sev": "major",
    "where": "w4/2#67",
    "msg": "sentence 0: zh/de length ratio 0.20 (34/167)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#67",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#67",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#69",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#71",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6145,6 +6305,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/2#151",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/2#155",
    "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
   },
@@ -6152,6 +6317,11 @@
    "sev": "minor",
    "where": "w4/2#159",
    "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#162",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "major",
@@ -6190,8 +6360,28 @@
   },
   {
    "sev": "minor",
+   "where": "w4/2#215",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/2#218",
    "msg": "sentence 0: \"Äußerung\" is not rendered as “表现”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#218",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#224",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#226",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6217,6 +6407,26 @@
    "sev": "minor",
    "where": "w4/3#3",
    "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#20",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#20",
+   "msg": "sentence 3: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#20",
+   "msg": "sentence 4: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#22",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6295,6 +6505,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/3#42",
+   "msg": "sentence 3: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/3#43",
    "msg": "sentence 0: \"Gleichheit\" is not rendered as “等同”"
   },
@@ -6312,6 +6527,16 @@
    "sev": "minor",
    "where": "w4/3#93",
    "msg": "sentence 0: \"Bedeutung\" is not rendered as “意义”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#131",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#137",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6374,6 +6599,11 @@
    "msg": "sentence 2: \"Unterschied\" is not rendered as “差别”"
   },
   {
+   "sev": "minor",
+   "where": "w4/3#179",
+   "msg": "sentence 3: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
    "sev": "major",
    "where": "w4/3#179",
    "msg": "sentence 4: en/de word ratio 1.82 (20/11)"
@@ -6387,6 +6617,16 @@
    "sev": "minor",
    "where": "w4/3#181",
    "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#184",
+   "msg": "sentence 2: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#184",
+   "msg": "sentence 3: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6412,6 +6652,16 @@
    "sev": "minor",
    "where": "w4/3#188",
    "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#188",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#188",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6490,11 +6740,6 @@
   },
   {
    "sev": "minor",
-   "where": "w4/3#217",
-   "msg": "sentence 0: \"Vereinigung\" is not rendered as “统一”"
-  },
-  {
-   "sev": "minor",
    "where": "w4/3#221",
    "msg": "sentence 0: \"Wissen\" is not rendered as “知识”"
   },
@@ -6565,11 +6810,6 @@
   },
   {
    "sev": "minor",
-   "where": "w4/4#272",
-   "msg": "sentence 0: \"Vereinigung\" is not rendered as “统一”"
-  },
-  {
-   "sev": "minor",
    "where": "w4/4#285",
    "msg": "sentence 2: \"Erde\" is not rendered as “大地”"
   },
@@ -6585,6 +6825,16 @@
   },
   {
    "sev": "minor",
+   "where": "w4/5#15",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#19",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/5#21",
    "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
   },
@@ -6595,8 +6845,23 @@
   },
   {
    "sev": "minor",
+   "where": "w4/5#21",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/5#25",
    "msg": "sentence 1: \"Realisierung des Begriffs\" is not rendered as “概念的实现”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#31",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#31",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6660,6 +6925,21 @@
   },
   {
    "sev": "minor",
+   "where": "w4/5#103",
+   "msg": "sentence 4: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#112",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#113",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/5#116",
    "msg": "sentence 0: \"Nichts\" is not rendered as “无”"
   },
@@ -6692,6 +6972,16 @@
    "sev": "major",
    "where": "w4/5#212",
    "msg": "sentence 1: zh/de length ratio 0.22 (11/51)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#212",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#215",
+   "msg": "sentence 2: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6732,6 +7022,16 @@
    "sev": "minor",
    "where": "w4/6#4",
    "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#4",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#7",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6777,6 +7077,11 @@
    "sev": "minor",
    "where": "w4/6#68",
    "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#71",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6890,6 +7195,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/6#177",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#184",
    "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
   },
@@ -6897,6 +7207,11 @@
    "sev": "major",
    "where": "w4/6#188",
    "msg": "sentence 0: Chinese without CJK"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#191",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
   },
   {
    "sev": "minor",
@@ -6951,6 +7266,16 @@
   {
    "sev": "minor",
    "where": "w4/6#228",
+   "msg": "sentence 4: \"Kenntnis\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#228",
+   "msg": "sentence 5: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#228",
    "msg": "sentence 6: \"Regierung\" is not rendered as “政府”"
   },
   {
@@ -6970,8 +7295,33 @@
   },
   {
    "sev": "minor",
+   "where": "w4/6#236",
+   "msg": "sentence 8: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#236",
+   "msg": "sentence 9: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#236",
+   "msg": "sentence 10: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#238",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#240",
    "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#240",
+   "msg": "sentence 9: \"Tätigkeit\" is not rendered as “行动”"
   },
   {
    "sev": "minor",
@@ -6987,6 +7337,11 @@
    "sev": "major",
    "where": "w4/6#247",
    "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#249",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
   },
   {
    "sev": "minor",
@@ -7161,6 +7516,11 @@
   {
    "sev": "minor",
    "where": "w4/6#286",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#286",
    "msg": "sentence 5: \"Wesen\" is not rendered as “本质”"
   },
   {
@@ -7197,6 +7557,11 @@
    "sev": "minor",
    "where": "w4/6#296",
    "msg": "sentence 7: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#298",
+   "msg": "sentence 1: \"Gesichtspunkt\" is not rendered as “观点”"
   },
   {
    "sev": "minor",
@@ -7350,6 +7715,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/7#52",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/7#53",
    "msg": "sentence 2: \"Anspruch\" is not rendered as “要求权”"
   },
@@ -7377,6 +7747,11 @@
    "sev": "minor",
    "where": "w4/7#68",
    "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#68",
+   "msg": "sentence 8: \"Interesse\" is not rendered as “利害关系”"
   },
   {
    "sev": "minor",
@@ -7420,6 +7795,16 @@
   },
   {
    "sev": "minor",
+   "where": "w4/7#109",
+   "msg": "sentence 3: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#109",
+   "msg": "sentence 5: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/7#112",
    "msg": "sentence 5: \"Mitte\" is not rendered as “中项”"
   },
@@ -7437,6 +7822,11 @@
    "sev": "minor",
    "where": "w4/8#2",
    "msg": "sentence 2: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#2",
+   "msg": "sentence 2: \"Einzelwesen\" is not rendered as “个别存在者”"
   },
   {
    "sev": "minor",
@@ -7460,8 +7850,23 @@
   },
   {
    "sev": "minor",
+   "where": "w4/8#6",
+   "msg": "sentence 11: \"Kenntnis\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#8",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/8#8",
    "msg": "sentence 2: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#8",
+   "msg": "sentence 2: \"Interesse\" is not rendered as “利害关系”"
   },
   {
    "sev": "minor",
@@ -7477,11 +7882,96 @@
    "sev": "major",
    "where": "w4/8#11",
    "msg": "sentence 5: \"Körper\" rendered with forbidden “身体” (expected “物体”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#20",
+   "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/8#27",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#34",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#38",
+   "msg": "sentence 3: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#44",
+   "msg": "sentence 0: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#46",
+   "msg": "sentence 0: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#46",
+   "msg": "sentence 0: \"Gefühl\" is not rendered as “感觉”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#59",
+   "msg": "sentence 0: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#60",
+   "msg": "sentence 1: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#60",
+   "msg": "sentence 2: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#60",
+   "msg": "sentence 3: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#60",
+   "msg": "sentence 4: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#60",
+   "msg": "sentence 4: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#60",
+   "msg": "sentence 5: \"Wahrheit\" is not rendered as “真理”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#60",
+   "msg": "sentence 6: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/8#62",
+   "msg": "sentence 0: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/8#62",
+   "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 161,
-  "minor": 1334
+  "major": 164,
+  "minor": 1429
  }
 }

@@ -160,7 +160,7 @@
    "en": "truth",
    "zh": "真理",
    "type": "term",
-   "note": "与 Gewißheit（确定性）对举"
+   "note": "与 Gewißheit（确定性）对举 ★wave43b2 补充：★wave43b2 分义登记：哲学的真理（作为真理本身／绝对理念）作「真理」；与**虚假对举的实情**作「真相／真话」——本节 §61-63「说真话」「把行为举止的真情告诉对方」语境一律真相／真话。全卷真理 45 处多属哲学义，真相 3 + 真话 4 处均属本分义。"
   },
   {
    "source": "Sein",
@@ -209,7 +209,7 @@
    "en": "essence",
    "zh": "本质",
    "type": "term",
-   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」 ★wave42b4 补充：natürliches Wesen＝自然存在者（同 freies／lebendiges／vernünftiges Wesen 例外） ★wave43b1 补充：natürliches Wesen / geistiges, vernünftiges Wesen / unstetes, subjektives Wesen 一律存在物（承接本条例外）；「allgemeines Wesen」＝一般本质"
+   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」 ★wave42b4 补充：natürliches Wesen＝自然存在者（同 freies／lebendiges／vernünftiges Wesen 例外） ★wave43b1 补充：natürliches Wesen / geistiges, vernünftiges Wesen / unstetes, subjektives Wesen 一律存在物（承接本条例外）；「allgemeines Wesen」＝一般本质 ★wave43b2 补充：★wave43b2 补充：§50「sein Wesen nicht in seiner eigenen Person haben」＝不把自身的本质置于自身的人格之中（本波曾误作「实质」，已改）"
   },
   {
    "source": "Erscheinung",
@@ -433,14 +433,14 @@
    "en": "person",
    "zh": "人格",
    "type": "term",
-   "note": "法权义作“人格”（eine rechtliche Person＝法律人格）；“个人”留给 Individuum ★wave42 补充：与 Persönlichkeit（人格性）严格分开。Person 是法上的法律人格（er ist eine Person／als Person behandelt werden）；Persönlichkeit 是「人格的概念」所包含的我性或个别性。 ★wave42b2 补充：「某一个人」类译法一律改为「单一个人格」守一词一译"
+   "note": "法权义作“人格”（eine rechtliche Person＝法律人格）；“个人”留给 Individuum ★wave42 补充：与 Persönlichkeit（人格性）严格分开。Person 是法上的法律人格（er ist eine Person／als Person behandelt werden）；Persönlichkeit 是「人格的概念」所包含的我性或个别性。 ★wave42b2 补充：「某一个人」类译法一律改为「单一个人格」守一词一译 ★wave43b2 补充：★wave43b2 补充分义：「die Person des Fürsten」指君主其人，作「本人」（非法律人格义）；「als Personen füreinander gelten」仍作「作为人格」"
   },
   {
    "source": "Eigentum",
    "en": "property",
    "zh": "财产",
    "type": "term",
-   "note": "共享词表；Eigentumsrecht＝财产权"
+   "note": "共享词表；Eigentumsrecht＝财产权 ★wave43b2 补充：★wave43b2 补充：§47「das subjektive Eigentum eines Individuums」＝一个个体的主观财产（此处指「归自己所有之物」的广义义，不限法律上的财产）"
   },
   {
    "source": "Besitz",
@@ -958,7 +958,7 @@
    "en": "feeling",
    "zh": "感觉",
    "type": "term",
-   "note": "主观精神起点；与 Affektion（感受）分开。本波 12 处一致 wave34 核查：Gefühl 一律“感觉”，曾有两处误作“感受”（与 Affektion 混），已改回（#165）"
+   "note": "主观精神起点；与 Affektion（感受）分开。本波 12 处一致 wave34 核查：Gefühl 一律“感觉”，曾有两处误作“感受”（与 Affektion 混），已改回（#165） ★wave43b2 补充：★wave43b2 补充：抽象名词化的「das Gefühl der X」可作「X感」（das Gefühl der Nationalehre＝民族荣誉感），不一律强作「感觉」"
   },
   {
    "source": "Affektion",
@@ -1098,7 +1098,7 @@
    "en": "individuality",
    "zh": "个别性",
    "type": "term",
-   "note": "与 Besonderheit（特殊性）、Allgemeinheit（普遍性）构成推论的三个环节"
+   "note": "与 Besonderheit（特殊性）、Allgemeinheit（普遍性）构成推论的三个环节 ★wave43b2 补充：★wave43b2 复核：§55「gegen seine Einzelheit」＝抵挡他的个别性（本波曾误作「特殊性」，已改）"
   },
   {
    "source": "Besonderheit",
@@ -1397,9 +1397,9 @@
   {
    "source": "Vereinigung",
    "en": "union",
-   "zh": "统一",
+   "zh": "结合",
    "type": "term",
-   "note": "★wave42b4 合并裁定：本卷一律「统一」。原 base 条作「结合」、wave40 条作「统一」并存冲突；按卷内实测（w4 已译部分 统一 123 处、结合 33 处、联结 49 处）以「统一」为准。与 Einheit＝统一同族；不作「结合」「联结」。"
+   "note": "★wave43b2 更正 wave42b4 的误判：当时按**字符**统计（统一 124 / 结合 37 / 联结 50）把本条改成「统一」——这是错的，因为「统一」的主要来源是 Einheit／Einigkeit／Übereinstimmung，不是 Vereinigung。本词＝union/joining/alliance，一律「**结合**」。「统一」留给 Einheit／Einigkeit。§51「既不是自然的结合……而是道德的结合」正须用结合。★方法论：**裁定一个德文词的译名，要按这个词统计，不能按中文字符统计**。"
   },
   {
    "source": "Natur",
@@ -1924,7 +1924,7 @@
    "en": "union",
    "zh": "统一",
    "type": "term",
-   "note": "wave40 分语境裁定：共享词表作「结合」；本卷 统一 105 处、结合 31 处、联结 21 处。§131 b 概念与实在性的合一取「统一」；与 Einheit（统一）同族"
+   "note": "wave40 分语境裁定；★wave43b2 复核：该处「概念与实在性的合一」本就是合一/同一的意思，作「统一」与 Einheit 同族，一词一译仍成立。与 base 条 Vereinigung＝结合 不矛盾（本条是特指「理念的合一」这一具体概念）。"
   },
   {
    "source": "Wirklichkeit (in Wirklichkeit versetzen)",
@@ -2652,7 +2652,7 @@
    "en": "individual",
    "zh": "个体",
    "type": "term",
-   "note": "★wave43 新增三分：名词 Individuum＝个体（本节 §41「人作为个体与自身相关」）、形容词 Einzelner＝个别者、抽象名词 Einzelheit＝个别性（共享词表＋context-w4 一致）。三者不得混用"
+   "note": "★wave43 新增三分：名词 Individuum＝个体（本节 §41「人作为个体与自身相关」）、形容词 Einzelner＝个别者、抽象名词 Einzelheit＝个别性（共享词表＋context-w4 一致）。三者不得混用 ★wave43b2 补充：★wave43b2 复核：§47「eines Individuums」＝一个个体（沿用本条三分裁定）"
   },
   {
    "source": "Einzelwesen",
@@ -2806,7 +2806,112 @@
    "en": "interest",
    "zh": "利害关系",
    "type": "term",
-   "note": "wave43b1 新增：共享词表 Interesse＝利害关系；本卷 §41「ein Interesse behauptet」＝主张一种利害关系（共享词表），不作「兴趣」；「Interesse an der Wissenschaften」语境另议"
+   "note": "wave43b1 新增：共享词表 Interesse＝利害关系；本卷 §41「ein Interesse behauptet」＝主张一种利害关系（共享词表），不作「兴趣」；「Interesse an der Wissenschaften」语境另议 ★wave43b2 补充：★wave43b2 分义登记：制度／公共层面的利害所系作「**利益**」（das Interesse des Staats＝国家的利益）；个人／道德层面的利害关联作「利害关系」（sein Interesse behaupten＝主张一种利害关系）。"
+  },
+  {
+   "source": "Rechtschaffenheit",
+   "en": "rectitude",
+   "zh": "正直",
+   "type": "term",
+   "note": "wave43b2 新增：§60「正直，即对他人严格义务的遵守」；与 Unredlichkeit＝不诚实 分开"
+  },
+  {
+   "source": "Wahrhaftigkeit",
+   "en": "truthfulness",
+   "zh": "真实性",
+   "type": "term",
+   "note": "wave43b2 新增：§61「言说与行动上的真实性是第一项」；与 Unwahrhaftigkeit＝不真实 对举"
+  },
+  {
+   "source": "Unwahrhaftigkeit",
+   "en": "untruthfulness",
+   "zh": "不真实",
+   "type": "term",
+   "note": "wave43b2 新增：与 Wahrhaftigkeit＝真实性 对举"
+  },
+  {
+   "source": "Lüge",
+   "en": "lie",
+   "zh": "谎话",
+   "type": "term",
+   "note": "wave43b2 新增：§64「诽谤——一种真正的谎话」"
+  },
+  {
+   "source": "Verleumdung",
+   "en": "defamation",
+   "zh": "诽谤",
+   "type": "term",
+   "note": "wave43b2 新增：§64；与 übles Nachreden＝恶言中伤 分开"
+  },
+  {
+   "source": "Gemeinwesen",
+   "en": "commonwealth",
+   "zh": "共同体",
+   "type": "term",
+   "note": "共享词表已有；§54「一个真正更高的道德共同体」"
+  },
+  {
+   "source": "pietas",
+   "en": "pietas",
+   "zh": "pietas",
+   "type": "term",
+   "note": "wave43b2 新增：拉丁，原样保留（同 res nullius／pactum／Decius Mus 惯例）；§49「叫做 pietas」"
+  },
+  {
+   "source": "Frömmigkeit",
+   "en": "piety",
+   "zh": "虔诚",
+   "type": "term",
+   "note": "共享词表已有；与 Pietät＝孝敬 并出，§49 明说「也用同一个词来称呼」"
+  },
+  {
+   "source": "Billigkeit",
+   "en": "equity",
+   "zh": "公平",
+   "type": "term",
+   "note": "共享词表已有；§52「按爱和格外的公平彼此行事」"
+  },
+  {
+   "source": "Ehe",
+   "en": "marriage",
+   "zh": "婚姻",
+   "type": "term",
+   "note": "wave43b2 新增：§51；与 Zivilvertrag＝民事契约 分开"
+  },
+  {
+   "source": "Zivilvertrag",
+   "en": "civil contract",
+   "zh": "民事契约",
+   "type": "term",
+   "note": "wave43b2 新增：§51「不只是纯粹的民事契约」；与 Vertrag＝契约、Rechtsvertrag 分开"
+  },
+  {
+   "source": "Eigenliebe",
+   "en": "self-love",
+   "zh": "自爱",
+   "type": "term",
+   "note": "共享词表已有；§60 与 Eigensucht＝自私、Eigensinn＝自作主张 三分"
+  },
+  {
+   "source": "Ungeschicklichkeit",
+   "en": "clumsiness",
+   "zh": "不灵巧",
+   "type": "term",
+   "note": "wave43b2 新增：§62「至少还算是一种不灵巧」"
+  },
+  {
+   "source": "Nationalehre",
+   "en": "national honour",
+   "zh": "民族荣誉",
+   "type": "term",
+   "note": "wave43b2 新增：§57；与 Staatsverfassung＝宪法 并出"
+  },
+  {
+   "source": "ausdrücklich",
+   "en": "express",
+   "zh": "明文的",
+   "type": "term",
+   "note": "wave43b2 新增：§58「明文契约」「表达出来的意志」"
   }
  ],
  "forbidden": [
