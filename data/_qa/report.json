@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T05:56:28.897Z",
- "blocks": 5092,
- "sentences": 15214,
+ "generated": "2026-10-19T05:59:16.693Z",
+ "blocks": 5128,
+ "sentences": 15294,
  "issues": [
   {
    "sev": "minor",
@@ -7967,11 +7967,116 @@
    "sev": "major",
    "where": "w4/8#62",
    "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#63",
+   "msg": "sentence 5: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#63",
+   "msg": "sentence 6: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/8#63",
+   "msg": "sentence 7: zh/de length ratio 0.21 (14/68)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#63",
+   "msg": "sentence 8: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#65",
+   "msg": "sentence 0: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/8#69",
+   "msg": "sentence 3: zh/de length ratio 0.20 (12/59)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#69",
+   "msg": "sentence 6: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#72",
+   "msg": "sentence 0: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#72",
+   "msg": "sentence 0: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#74",
+   "msg": "sentence 1: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#82",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#82",
+   "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#84",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#88",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#90",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#92",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#94",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#96",
+   "msg": "sentence 0: \"Ausschließung\" is not rendered as “排除”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#96",
+   "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#96",
+   "msg": "sentence 1: \"Einzelheit\" is not rendered as “个别性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#98",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 164,
-  "minor": 1429
+  "major": 166,
+  "minor": 1448
  }
 }

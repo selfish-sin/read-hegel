@@ -132,7 +132,7 @@
    "en": "representation",
    "zh": "表象",
    "type": "term",
-   "note": "政策：严禁用“观念”译 Vorstellung（该词根留给 Idee 族）"
+   "note": "政策：严禁用“观念”译 Vorstellung（该词根留给 Idee 族） ★wave43b3 补充：★wave43b3 复核：§75「把它的表象当下化」——Vorstellung 一律表象（政策硬词），不加引号"
   },
   {
    "source": "Geist",
@@ -1308,7 +1308,7 @@
    "en": "inequality",
    "zh": "不等同",
    "type": "term",
-   "note": "与 Gleichheit（等同）对举；共享词表 unsicher 条，取「不等同」"
+   "note": "与 Gleichheit（等同）对举；共享词表 unsicher 条，取「不等同」 ★wave43b3 补充：★wave43b3 复核：§66「有需要的人…与没有需要的人是不等同的」取「不等同」"
   },
   {
    "source": "Kopula",
@@ -1406,7 +1406,7 @@
    "en": "nature",
    "zh": "本性",
    "type": "term",
-   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes） ★wave42b4 补充：§40「von der Natur und äußeren Umständen Abhängige」＝依赖于自然与外在情境，作「自然」不作「本性」"
+   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes） ★wave42b4 补充：§40「von der Natur und äußeren Umständen Abhängige」＝依赖于自然与外在情境，作「自然」不作「本性」 ★wave43b3 补充：★wave43b3：§79「人的本性与上帝的本性」作「本性」（context-w4）；与 Sinnliches＝感性之物 分开"
   },
   {
    "source": "Einiges",
@@ -2912,6 +2912,167 @@
    "zh": "明文的",
    "type": "term",
    "note": "wave43b2 新增：§58「明文契约」「表达出来的意志」"
+  },
+  {
+   "source": "schlecht / das Schlechte",
+   "en": "bad",
+   "zh": "不善",
+   "type": "term",
+   "note": "★wave43b3 新增：§65-66 善／恶／不善 三分——das Gute＝善、das Böse＝恶（共享词表）、das Schlechte＝**不善**（非「恶」，亦非「卑劣」；Schlechtigkeit＝卑劣 是另一个词）。行不善者＝der Schlechte。「与善相对立的是恶，但也有不善」"
+  },
+  {
+   "source": "Widerschein",
+   "en": "reflex",
+   "zh": "假象",
+   "type": "term",
+   "note": "★wave43b3 新增：§74「理性不过是上帝的假象，本质上是对绝对者的知识」；与 Schein＝假象 同族。共享词表作「反映」，在本卷作废——context-w4 已把「反映」列为 Reflexion 的 forbidden，且 Widerschein 本就是 Schein 词族"
+  },
+  {
+   "source": "Höflichkeit",
+   "en": "politeness",
+   "zh": "客气",
+   "type": "term",
+   "note": "wave43b3 新增：§70；与 Delikatesse＝体贴 分开"
+  },
+  {
+   "source": "Bezeugung",
+   "en": "manifestation",
+   "zh": "表现",
+   "type": "term",
+   "note": "wave43b3 新增：§70「客气是善意的心态…的表现」；同译 Äußerung＝表现 但不同源（此处是「表示」义）"
+  },
+  {
+   "source": "Falschheit",
+   "en": "falseness",
+   "zh": "虚伪",
+   "type": "term",
+   "note": "wave43b3 新增：§70「它就是虚伪」；与 Heuchelei＝伪善、Lüge＝谎话 三分"
+  },
+  {
+   "source": "Feinheit / Delikatesse",
+   "en": "finesse / delicacy",
+   "zh": "精细／体贴",
+   "type": "term",
+   "note": "wave43b3 新增：§70「精细、体贴」；与 delikat（adj）＝微妙 配对"
+  },
+  {
+   "source": "Humanität / Menschlichkeit",
+   "en": "humanity",
+   "zh": "人道",
+   "type": "term",
+   "note": "wave43b3 新增：§70「希腊的人道与风度」；与 Menschenliebe＝人道之爱 分开"
+  },
+  {
+   "source": "Dienst",
+   "en": "service",
+   "zh": "效劳",
+   "type": "term",
+   "note": "★wave43b3 新增：与 Dienstleistungen＝服务（共享词表）分开——Dienst 是「为某人做的一件事」，Dienstleistungen 是「服务」。§66「提供哪些效劳」「为某人做一件事」"
+  },
+  {
+   "source": "Not / Notleidender",
+   "en": "distress",
+   "zh": "困苦",
+   "type": "term",
+   "note": "wave43b3 新增：§66「把他的困苦看在眼里」「把他们看作受困苦的人」"
+  },
+  {
+   "source": "Bedürftig / Unbedürftig",
+   "en": "in need / not in need",
+   "zh": "有需要的／没有需要的",
+   "type": "term",
+   "note": "wave43b3 新增：与 Bedürfnis＝需求、Bedürftigkeit＝贫乏 分开"
+  },
+  {
+   "source": "Vertraulichkeit",
+   "en": "familiarity",
+   "zh": "亲近",
+   "type": "term",
+   "note": "wave43b3 新增：§66「一定的相识或亲近」"
+  },
+  {
+   "source": "Zuneigung",
+   "en": "affection",
+   "zh": "好感",
+   "type": "term",
+   "note": "★wave43b3 新增：§69「彼此纯粹好感的领域」「赢得他们的好感」；与 Neigung＝倾向 分开——Zuneigung 是待人友好之意，Neigung 是自己的倾向"
+  },
+  {
+   "source": "Eigennutz",
+   "en": "self-interest",
+   "zh": "自利",
+   "type": "term",
+   "note": "wave43b3 新增：§64「一个自利的意图」；与 Eigenliebe＝自爱 分开"
+  },
+  {
+   "source": "Entschluß",
+   "en": "resolve",
+   "zh": "决断",
+   "type": "term",
+   "note": "★wave43b3 新增：§64「以意志的决断而发生」；与 Schluß＝推论（context-w4）严格分开——Entschluß 是决心／决断，Schluß 是逻辑推论"
+  },
+  {
+   "source": "heiligen (verb)",
+   "en": "to sanctify",
+   "zh": "使……神圣化",
+   "type": "term",
+   "note": "wave43b3 新增：§64「目的或意图并不能使手段神圣化」"
+  },
+  {
+   "source": "Vergegenwärtigung",
+   "en": "actualization",
+   "zh": "当下化",
+   "type": "term",
+   "note": "wave43b3 新增：§75「把它的表象当下化」；与 gegenwärtig＝当下 的词族一致"
+  },
+  {
+   "source": "Anderswerden",
+   "en": "becoming-other",
+   "zh": "成为他者",
+   "type": "term",
+   "note": "★wave43b3 新增：§76「在自己的成为他者的过程中」；与 Entfremdung＝异化 分开——前者是过程，后者是结果"
+  },
+  {
+   "source": "Schöpfer",
+   "en": "creator",
+   "zh": "创造者",
+   "type": "term",
+   "note": "wave43b3 新增：§77「宇宙永恒的创造者」"
+  },
+  {
+   "source": "Güte",
+   "en": "goodness",
+   "zh": "良善",
+   "type": "term",
+   "note": "★wave43b3 新增：§77「是良善」；与 das Gute＝善 分开——Güte 是属性「良善」，Gute 是「善」本身"
+  },
+  {
+   "source": "Entschwinden",
+   "en": "disappearance",
+   "zh": "消失",
+   "type": "term",
+   "note": "wave43b3 新增：§79「他们同上帝的异化便消失了」"
+  },
+  {
+   "source": "Gnade",
+   "en": "grace",
+   "zh": "恩典",
+   "type": "term",
+   "note": "wave43b3 新增：§79「上帝的恩典」"
+  },
+  {
+   "source": "Vernunftgesetz",
+   "en": "law of reason",
+   "zh": "理性法则",
+   "type": "term",
+   "note": "wave43b3 新增：§71「那永恒的理性法则」"
+  },
+  {
+   "source": "Menschenliebe",
+   "en": "human love",
+   "zh": "人道之爱",
+   "type": "term",
+   "note": "wave43b3 新增：§67「普遍的人道之爱的义务」；与 Menschen（人）、Humanität＝人道 分开"
   }
  ],
  "forbidden": [
