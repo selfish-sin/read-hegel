@@ -209,14 +209,14 @@
    "en": "essence",
    "zh": "本质",
    "type": "term",
-   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」 ★wave42b4 补充：natürliches Wesen＝自然存在者（同 freies／lebendiges／vernünftiges Wesen 例外） ★wave43b1 补充：natürliches Wesen / geistiges, vernünftiges Wesen / unstetes, subjektives Wesen 一律存在物（承接本条例外）；「allgemeines Wesen」＝一般本质 ★wave43b2 补充：★wave43b2 补充：§50「sein Wesen nicht in seiner eigenen Person haben」＝不把自身的本质置于自身的人格之中（本波曾误作「实质」，已改）"
+   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」 ★wave42b4 补充：natürliches Wesen＝自然存在者（同 freies／lebendiges／vernünftiges Wesen 例外） ★wave43b1 补充：natürliches Wesen / geistiges, vernünftiges Wesen / unstetes, subjektives Wesen 一律存在物（承接本条例外）；「allgemeines Wesen」＝一般本质 ★wave43b2 补充：★wave43b2 补充：§50「sein Wesen nicht in seiner eigenen Person haben」＝不把自身的本质置于自身的人格之中（本波曾误作「实质」，已改） ★wave43b4 补充：宗教语境 absolutes Wesen（绝对存在者）、göttliches Wesen（神圣存在者）、einzelnes Wesen（个别存在者）、Weltwesen／Naturwesen／Selbstwesen 一律存在者（承接本条例外）。"
   },
   {
    "source": "Erscheinung",
    "en": "appearance",
    "zh": "现象",
    "type": "term",
-   "note": "与 Schein（假象）、Wesen（本质）区分；Erscheinungswelt＝现象世界 ★wave40 短语级登记：「nach ihrer Erscheinung betrachtet」作 就其外观来看；名词本体仍严格 现象。"
+   "note": "与 Schein（假象）、Wesen（本质）区分；Erscheinungswelt＝现象世界 ★wave40 短语级登记：「nach ihrer Erscheinung betrachtet」作 就其外观来看；名词本体仍严格 现象。 ★wave43b4 分义：动词化用法（Erscheinung im feurigen Busche＝在燃烧的荆棘中显现）作「显现」；名词本体仍「现象」。"
   },
   {
    "source": "Wirklichkeit",
@@ -622,7 +622,7 @@
    "en": "disposition",
    "zh": "心态",
    "type": "term",
-   "note": "共享词表 Gesinnung→意向（variante）；本卷政治/伦理语境多指“心态、情怀”，取“心态”；sittliche Gesinnung＝伦理心态"
+   "note": "共享词表 Gesinnung→意向（variante）；本卷政治/伦理语境多指“心态、情怀”，取“心态”；sittliche Gesinnung＝伦理心态 ★wave43b4 补充：b4#100 同句 Gedanken（思想）与 Gesinnung（心态）分译；禁译词「思想」只归属 Gedanken。"
   },
   {
    "source": "Staatsbürger",
@@ -769,7 +769,7 @@
    "en": "cult / worship",
    "zh": "礼拜",
    "type": "term",
-   "note": "共享词表 Kultus→崇拜；本卷“öffentlicher Kultus”“allgemeiner Kultus”指公共礼拜；Gottesdienst＝礼拜（共享词表）"
+   "note": "共享词表 Kultus→崇拜；本卷“öffentlicher Kultus”“allgemeiner Kultus”指公共礼拜；Gottesdienst＝礼拜（共享词表） ★wave43b4 分义：行为义（对上帝的 Kultus，如 b4#105「神学；崇拜；生活」、b4#111）作「崇拜」（共享词表 ok）；制度义（öffentlicher/allemeiner Kultus 公共礼拜）仍「礼拜」。Gottesdienst 另译「敬拜」。"
   },
   {
    "source": "Katechisation",
@@ -1231,14 +1231,14 @@
    "en": "presentation",
    "zh": "表述",
    "type": "term",
-   "note": "vollständige Darstellung des Begriffs＝概念的完整表述"
+   "note": "vollständige Darstellung des Begriffs＝概念的完整表述 ★wave43b4 分义：宗教语境（die Darstellung desselben in einer menschlichen Gestalt＝他在人的形象中的表现）作「表现」；逻辑语境（vollständige Darstellung des Begriffs）仍「表述」。"
   },
   {
    "source": "Versicherung",
    "en": "assertion",
    "zh": "断言",
    "type": "term",
-   "note": "本卷逻辑语境＝「断言／肯定宣称」，与 p136 平行句一致；共享词表通用条「保证」（保证义）在本语境不适用"
+   "note": "本卷逻辑语境＝「断言／肯定宣称」，与 p136 平行句一致；共享词表通用条「保证」（保证义）在本语境不适用 ★wave43b4 分义：宗教语境（die Versicherung dieser Einigkeit＝给自己以这种一致的确信）作「确信」；逻辑语境仍「断言」。共享词表「保证」在本卷两义均不适用。"
   },
   {
    "source": "willkürlich",
@@ -1728,7 +1728,7 @@
    "en": "power",
    "zh": "威力",
    "type": "term",
-   "note": "勿与 Gewalt（强力）混；potentiieren（自我产生）得威力 ★wave41 分义登记：绝对威力与支配性的威力作「威力」（本条）；「die Macht 某事的能力」与「in der Macht haben」作「力量」或直接动词化为「掌握」——不作「能力」。 ★wave42b3 补充：§27「die Macht, die Gesetze zu geben und zu handhaben」按本条 wave41 分义作「力量」（不定式结构），不作「威力」；§22「die Gewalt habende … Macht」作「威力」"
+   "note": "勿与 Gewalt（强力）混；potentiieren（自我产生）得威力 ★wave41 分义登记：绝对威力与支配性的威力作「威力」（本条）；「die Macht 某事的能力」与「in der Macht haben」作「力量」或直接动词化为「掌握」——不作「能力」。 ★wave42b3 补充：§27「die Macht, die Gesetze zu geben und zu handhaben」按本条 wave41 分义作「力量」（不定式结构），不作「威力」；§22「die Gewalt habende … Macht」作「威力」 ★wave43b4 补充：seine Macht ist unbedeutend, sie auszuführen（他的力量微不足道，不足以实行它）按 wave41 分义作「力量」；schöpferische Macht des Geistes＝精神的创造威力作「威力」。"
   },
   {
    "source": "Dingheit",
@@ -2659,7 +2659,7 @@
    "en": "individual being",
    "zh": "个别存在者",
    "type": "term",
-   "note": "wave43 新增：§41「把作为个别者的自己提升到其一般本性上去」；承接 Wesen 例外条（存在物／存在者），不作「个别本质」"
+   "note": "wave43 新增：§41「把它的个别存在者提升到其一般本性上去」；承接 Wesen 例外条（存在物／存在者），不作「个别本质」"
   },
   {
    "source": "Kenntnis",
@@ -2687,7 +2687,7 @@
    "en": "viewpoint",
    "zh": "观点",
    "type": "term",
-   "note": "wave43 新增：§42「据以评判事物的观点的普遍性」「忽略其余的观点」「对普遍观点的认识」"
+   "note": "wave43 新增：§42「据以评判事物的观点的普遍性」「忽略其余的观点」「对普遍观点的知识」"
   },
   {
    "source": "Urteilsfähigkeit",
@@ -2750,7 +2750,7 @@
    "en": "un-/self-interested",
    "zh": "无私的／自利的",
    "type": "term",
-   "note": "wave43 新增：§42 对举；「无私的兴趣」与「自利的利害关系」"
+   "note": "wave43 新增：§42 对举；「无私的利害关系」与「自利的利害关系」"
   },
   {
    "source": "Laune",
@@ -2785,7 +2785,7 @@
    "en": "activity",
    "zh": "行动",
    "type": "term",
-   "note": "wave43 新增：§41「通过自己的行动根本无法产生效果」；与 Handlung＝行为 分开"
+   "note": "wave43 新增：§41「通过自己的行动根本无法产生效果」；与 Handlung＝行为 分开 ★wave43b4 补充：die absolute Tätigkeit Gottes＝上帝的绝对行动；Sporn zur Tätigkeit＝行动的刺激。qa 期望「活动」（共享词表）在本卷让位本条「行动」。"
   },
   {
    "source": "Maß (beschränkender Gebrauch)",
@@ -2967,7 +2967,7 @@
    "en": "service",
    "zh": "效劳",
    "type": "term",
-   "note": "★wave43b3 新增：与 Dienstleistungen＝服务（共享词表）分开——Dienst 是「为某人做的一件事」，Dienstleistungen 是「服务」。§66「提供哪些效劳」「为某人做一件事」"
+   "note": "★wave43b3 新增：与 Dienstleistungen＝服务（共享词表）分开——Dienst 是「为某人做的一件事」，Dienstleistungen 是「服务」。§66「提供哪些效劳」「为某人提供一件效劳」"
   },
   {
    "source": "Not / Notleidender",
@@ -3073,6 +3073,202 @@
    "zh": "人道之爱",
    "type": "term",
    "note": "wave43b3 新增：§67「普遍的人道之爱的义务」；与 Menschen（人）、Humanität＝人道 分开"
+  },
+  {
+   "source": "Gottesdienst",
+   "en": "divine service",
+   "zh": "敬拜",
+   "type": "term",
+   "note": "★wave43b4 新增：Der Gottesdienst ist die bestimmte Beschäftigung des Gedankens und der Empfindung mit Gott。与 Kultus 分译——Kultus 制度义（öffentlicher/allemeiner Kultus）作「礼拜」、行为义作「崇拜」，Gottesdienst 一律「敬拜」；共享词表 Gottesdienst→礼拜（unsicher）在本卷让位，避免与 Kultus 制度义撞车（一词一译）"
+  },
+  {
+   "source": "Weltseele",
+   "en": "world-soul",
+   "zh": "世界灵魂",
+   "type": "term",
+   "note": "★wave43b4 新增：Weltseele der Natur；同句 Geist 作「精神」，禁译词「灵魂」只归属 Weltseele"
+  },
+  {
+   "source": "Emanation",
+   "en": "emanation",
+   "zh": "流溢",
+   "type": "term",
+   "note": "★wave43b4 新增：Gestirndienst Emanation"
+  },
+  {
+   "source": "Theodizee",
+   "en": "theodicy",
+   "zh": "神义论",
+   "type": "term",
+   "note": "★wave43b4 新增：Ursprung des Übels Theodizee"
+  },
+  {
+   "source": "Weltwesen",
+   "en": "world-being",
+   "zh": "世界存在者",
+   "type": "term",
+   "note": "★wave43b4 新增：zeitlichen Weltwesens；Wesen 存在者义例外（见 Wesen 条）"
+  },
+  {
+   "source": "Selbstwesen",
+   "en": "self-being",
+   "zh": "自我存在者",
+   "type": "term",
+   "note": "★wave43b4 新增：nicht in seiner Individualität ein Selbstwesen；同 Wesen 例外"
+  },
+  {
+   "source": "Akzidens",
+   "en": "accident",
+   "zh": "偶性",
+   "type": "term",
+   "note": "★wave43b4 新增：nur ein selbstloses Moment oder Akzidens；与 Akzidentalität（偶性）、Zufälligkeit（偶然性）同族分译"
+  },
+  {
+   "source": "Versenkung",
+   "en": "immersion",
+   "zh": "沉浸",
+   "type": "term",
+   "note": "★wave43b4 新增：Versenkung seiner in das Wesen"
+  },
+  {
+   "source": "Bedürfnis",
+   "en": "need",
+   "zh": "需要",
+   "type": "term",
+   "note": "★wave43b4 新增：Bedürfnis der Religion"
+  },
+  {
+   "source": "Einigkeit",
+   "en": "unity",
+   "zh": "一致",
+   "type": "term",
+   "note": "★wave43b4 新增：seine Einigkeit mit demselben；与 Einigung（合一）分开"
+  },
+  {
+   "source": "Übereinstimmung",
+   "en": "correspondence",
+   "zh": "相合",
+   "type": "term",
+   "note": "★wave43b4 新增：Übereinstimmung seines Willens mit dem göttlichen Willen"
+  },
+  {
+   "source": "gestaltlos",
+   "en": "shapeless",
+   "zh": "无形态的",
+   "type": "term",
+   "note": "★wave43b4 新增：der Begriff vom Wesen Gottes ist gestaltlos"
+  },
+  {
+   "source": "Denkart",
+   "en": "mode of thinking",
+   "zh": "思维方式",
+   "type": "term",
+   "note": "★wave43b4 新增：die sinnliche Denkart"
+  },
+  {
+   "source": "Vorsehung",
+   "en": "providence",
+   "zh": "护佑",
+   "type": "term",
+   "note": "★wave43b4 新增：evil overcome providence"
+  },
+  {
+   "source": "Übel",
+   "en": "evil",
+   "zh": "恶",
+   "type": "term",
+   "note": "★wave43b4 新增：das Übel；与 Böse（恶）源词不同同译「恶」（Ursprung des Übels 恶的来源）"
+  },
+  {
+   "source": "Bacchantischer Taumel",
+   "en": "Bacchic frenzy",
+   "zh": "酒神狂迷",
+   "type": "term",
+   "note": "★wave43b4 新增：Bacchantischer Taumel der Natur"
+  },
+  {
+   "source": "Gestirndienst",
+   "en": "worship of the stars",
+   "zh": "星辰崇拜",
+   "type": "term",
+   "note": "★wave43b4 新增：Gestirndienst Emanation"
+  },
+  {
+   "source": "Jenseitige",
+   "en": "other-worldly",
+   "zh": "彼岸的",
+   "type": "term",
+   "note": "★wave43b4 新增：als eine jenseitige Wirklichkeit"
+  },
+  {
+   "source": "Aggregat",
+   "en": "aggregate",
+   "zh": "聚合体",
+   "type": "term",
+   "note": "★wave43b4 新增：Welt nur Aggregat des Endlichen"
+  },
+  {
+   "source": "Übersinnliches",
+   "en": "supersensuous",
+   "zh": "超感性之物",
+   "type": "term",
+   "note": "★wave43b4 新增：Idee Übersinnliches"
+  },
+  {
+   "source": "Unbestimmte",
+   "en": "the undetermined",
+   "zh": "不定者",
+   "type": "term",
+   "note": "★wave43b4 新增：das Unbestimmte Bewegungslose"
+  },
+  {
+   "source": "Schöpfung",
+   "en": "creation",
+   "zh": "创造",
+   "type": "term",
+   "note": "★wave43b4 新增：Schöpfung；与 Schöpfer（创造者）同根"
+  },
+  {
+   "source": "Geisterwelt",
+   "en": "world of spirits",
+   "zh": "精神世界",
+   "type": "term",
+   "note": "★wave43b4 新增：Gott kann die Welt nur in der Geisterwelt lieben"
+  },
+  {
+   "source": "unselige Geister",
+   "en": "unhappy spirits",
+   "zh": "不幸的精灵",
+   "type": "term",
+   "note": "★wave43b4 新增：Menschen können von unseligen Geistern gequält werden"
+  },
+  {
+   "source": "Naturwesen",
+   "en": "natural being",
+   "zh": "自然存在者",
+   "type": "term",
+   "note": "★wave43b4 新增：als eines der einfachen Naturwesen；Wesen 存在者义例外（见 Wesen 条）"
+  },
+  {
+   "source": "sittliche Mächte",
+   "en": "ethical powers",
+   "zh": "伦理力量",
+   "type": "term",
+   "note": "★wave43b4 新增：als die besonderen sittlichen Mächte"
+  },
+  {
+   "source": "Schicksal",
+   "en": "fate",
+   "zh": "命运",
+   "type": "term",
+   "note": "★wave43b4 新增：als ein unbegreifliches Schicksal"
+  },
+  {
+   "source": "Sporn",
+   "en": "spur",
+   "zh": "刺激",
+   "type": "term",
+   "note": "★wave43b4 新增：Not Sporn zur Tätigkeit"
   }
  ],
  "forbidden": [
@@ -3366,19 +3562,19 @@
   },
   {
    "source": "Quantum",
-   "forbid": "量子",
+   "forbidden": "量子",
    "prefer": "量数",
    "why": "物理「量子」是致命假朋友；本卷一律「量数」，与 Quantität（量）分译。"
   },
   {
    "source": "Anderssein",
-   "forbid": "他者性",
+   "forbidden": "他者性",
    "prefer": "他在",
    "why": "全库统一「他在」（w3 249 处）；「他者性」易与 das Andere（他物）混。"
   },
   {
    "source": "Etwas",
-   "forbid": "某事",
+   "forbidden": "某事",
    "prefer": "某物",
    "why": "逻辑学的「某物」不是日常「某事」。"
   },

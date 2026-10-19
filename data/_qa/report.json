@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T05:59:16.693Z",
- "blocks": 5128,
- "sentences": 15294,
+ "generated": "2026-10-19T06:31:24.256Z",
+ "blocks": 5225,
+ "sentences": 15421,
  "issues": [
   {
    "sev": "minor",
@@ -5870,6 +5870,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/1#104",
+   "msg": "sentence 1: \"Dienst\" is not rendered as “效劳”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/1#105",
    "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
   },
@@ -5940,6 +5945,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/1#139",
+   "msg": "sentence 4: \"Übereinstimmung\" is not rendered as “相合”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/1#141",
    "msg": "sentence 1: \"Gleichheit\" is not rendered as “等同”"
   },
@@ -5977,6 +5987,11 @@
    "sev": "minor",
    "where": "w4/1#159",
    "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#161",
+   "msg": "sentence 1: \"Entschluß\" is not rendered as “决断”"
   },
   {
    "sev": "minor",
@@ -6095,6 +6110,16 @@
   },
   {
    "sev": "minor",
+   "where": "w4/1#195",
+   "msg": "sentence 1: \"Einigkeit\" is not rendered as “一致”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#197",
+   "msg": "sentence 1: \"Menschenliebe\" is not rendered as “人道之爱”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/2#2",
    "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
   },
@@ -6162,6 +6187,11 @@
    "sev": "minor",
    "where": "w4/2#34",
    "msg": "sentence 0: \"Darstellung\" is not rendered as “表述”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#34",
+   "msg": "sentence 1: \"Einigkeit\" is not rendered as “一致”"
   },
   {
    "sev": "minor",
@@ -6350,8 +6380,18 @@
   },
   {
    "sev": "minor",
+   "where": "w4/2#182",
+   "msg": "sentence 0: \"Übereinstimmung\" is not rendered as “相合”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/2#186",
    "msg": "sentence 0: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#186",
+   "msg": "sentence 0: \"Übereinstimmung\" is not rendered as “相合”"
   },
   {
    "sev": "minor",
@@ -6522,6 +6562,11 @@
    "sev": "minor",
    "where": "w4/3#74",
    "msg": "sentence 0: \"Darstellung\" is not rendered as “表述”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#74",
+   "msg": "sentence 0: \"Übereinstimmung\" is not rendered as “相合”"
   },
   {
    "sev": "minor",
@@ -6705,6 +6750,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/3#201",
+   "msg": "sentence 2: \"Dienst\" is not rendered as “效劳”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/3#207",
    "msg": "sentence 1: \"Sein\" is not rendered as “存在”"
   },
@@ -6726,12 +6776,22 @@
   {
    "sev": "minor",
    "where": "w4/3#207",
+   "msg": "sentence 1: \"Dienst\" is not rendered as “效劳”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#207",
    "msg": "sentence 2: \"Entäußerung\" is not rendered as “舍弃”"
   },
   {
    "sev": "minor",
    "where": "w4/3#209",
    "msg": "sentence 0: \"Entäußerung\" is not rendered as “舍弃”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#214",
+   "msg": "sentence 0: \"Widerschein\" is not rendered as “假象”"
   },
   {
    "sev": "minor",
@@ -6742,6 +6802,11 @@
    "sev": "minor",
    "where": "w4/3#221",
    "msg": "sentence 0: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#221",
+   "msg": "sentence 0: \"Übereinstimmung\" is not rendered as “相合”"
   },
   {
    "sev": "major",
@@ -6785,6 +6850,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/4#118",
+   "msg": "sentence 0: \"Naturwesen\" is not rendered as “自然存在者”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/4#171",
    "msg": "sentence 0: \"Einheit\" is not rendered as “统一”"
   },
@@ -6792,6 +6862,11 @@
    "sev": "minor",
    "where": "w4/4#183",
    "msg": "sentence 1: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/4#194",
+   "msg": "sentence 3: \"Übereinstimmung\" is not rendered as “相合”"
   },
   {
    "sev": "minor",
@@ -6960,6 +7035,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/5#147",
+   "msg": "sentence 1: \"Unbestimmte\" is not rendered as “不定者”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/5#153",
    "msg": "sentence 1: \"Größe\" is not rendered as “量”"
   },
@@ -6967,6 +7047,11 @@
    "sev": "minor",
    "where": "w4/5#157",
    "msg": "sentence 0: \"Bedeutung\" is not rendered as “意义”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#204",
+   "msg": "sentence 0: \"Unbestimmte\" is not rendered as “不定者”"
   },
   {
    "sev": "major",
@@ -7042,6 +7127,11 @@
    "sev": "minor",
    "where": "w4/6#22",
    "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#45",
+   "msg": "sentence 3: \"Aggregat\" is not rendered as “聚合体”"
   },
   {
    "sev": "minor",
@@ -7216,6 +7306,11 @@
   {
    "sev": "minor",
    "where": "w4/6#206",
+   "msg": "sentence 1: \"Naturwesen\" is not rendered as “自然存在者”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#206",
    "msg": "sentence 2: \"Mitte\" is not rendered as “中项”"
   },
   {
@@ -7230,6 +7325,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/6#212",
+   "msg": "sentence 0: \"Entschluß\" is not rendered as “决断”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#214",
    "msg": "sentence 1: \"Sein\" is not rendered as “存在”"
   },
@@ -7237,6 +7337,11 @@
    "sev": "minor",
    "where": "w4/6#216",
    "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#224",
+   "msg": "sentence 6: \"Unbestimmte\" is not rendered as “不定者”"
   },
   {
    "sev": "major",
@@ -7334,6 +7439,11 @@
    "msg": "sentence 1: \"Unterschied\" is not rendered as “差别”"
   },
   {
+   "sev": "minor",
+   "where": "w4/6#247",
+   "msg": "sentence 2: \"Entschluß\" is not rendered as “决断”"
+  },
+  {
    "sev": "major",
    "where": "w4/6#247",
    "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
@@ -7395,6 +7505,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/6#259",
+   "msg": "sentence 5: \"Naturwesen\" is not rendered as “自然存在者”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#262",
    "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
   },
@@ -7417,6 +7532,11 @@
    "sev": "minor",
    "where": "w4/6#262",
    "msg": "sentence 7: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#264",
+   "msg": "sentence 4: \"Entschluß\" is not rendered as “决断”"
   },
   {
    "sev": "minor",
@@ -7444,6 +7564,11 @@
    "msg": "sentence 7: \"Wahrheit\" is not rendered as “真理”"
   },
   {
+   "sev": "minor",
+   "where": "w4/6#268",
+   "msg": "sentence 7: \"Naturwesen\" is not rendered as “自然存在者”"
+  },
+  {
    "sev": "major",
    "where": "w4/6#268",
    "msg": "sentence 7: “Wahrheit” (family Wahrheit) does not keep the family root “真”"
@@ -7452,6 +7577,11 @@
    "sev": "minor",
    "where": "w4/6#269",
    "msg": "sentence 3: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#269",
+   "msg": "sentence 3: \"Entschluß\" is not rendered as “决断”"
   },
   {
    "sev": "minor",
@@ -7546,6 +7676,11 @@
   {
    "sev": "minor",
    "where": "w4/6#296",
+   "msg": "sentence 5: \"Naturwesen\" is not rendered as “自然存在者”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#296",
    "msg": "sentence 6: \"Natur\" is not rendered as “本性”"
   },
   {
@@ -7592,6 +7727,11 @@
    "sev": "minor",
    "where": "w4/6#299",
    "msg": "sentence 8: \"Wollen\" is not rendered as “意愿”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#299",
+   "msg": "sentence 9: \"Übereinstimmung\" is not rendered as “相合”"
   },
   {
    "sev": "minor",
@@ -7672,6 +7812,16 @@
    "sev": "minor",
    "where": "w4/7#32",
    "msg": "sentence 7: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#37",
+   "msg": "sentence 0: \"Güte\" is not rendered as “良善”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#38",
+   "msg": "sentence 1: \"Güte\" is not rendered as “良善”"
   },
   {
    "sev": "minor",
@@ -7756,6 +7906,16 @@
   {
    "sev": "minor",
    "where": "w4/7#74",
+   "msg": "sentence 1: \"Güte\" is not rendered as “良善”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#74",
+   "msg": "sentence 2: \"Bedürfnis\" is not rendered as “需要”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#74",
    "msg": "sentence 3: \"Natur\" is not rendered as “本性”"
   },
   {
@@ -7777,6 +7937,11 @@
    "sev": "minor",
    "where": "w4/7#90",
    "msg": "sentence 1: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#90",
+   "msg": "sentence 6: \"Naturwesen\" is not rendered as “自然存在者”"
   },
   {
    "sev": "minor",
@@ -7809,6 +7974,11 @@
    "msg": "sentence 5: \"Mitte\" is not rendered as “中项”"
   },
   {
+   "sev": "minor",
+   "where": "w4/7#112",
+   "msg": "sentence 5: \"Bedürfnis\" is not rendered as “需要”"
+  },
+  {
    "sev": "major",
    "where": "w4/7#118",
    "msg": "sentence 1: zh/de length ratio 0.20 (12/61)"
@@ -7817,16 +7987,6 @@
    "sev": "minor",
    "where": "w4/7#118",
    "msg": "sentence 3: \"Natur\" is not rendered as “本性”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/8#2",
-   "msg": "sentence 2: \"Sein\" is not rendered as “存在”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/8#2",
-   "msg": "sentence 2: \"Einzelwesen\" is not rendered as “个别存在者”"
   },
   {
    "sev": "minor",
@@ -7850,23 +8010,8 @@
   },
   {
    "sev": "minor",
-   "where": "w4/8#6",
-   "msg": "sentence 11: \"Kenntnis\" is not rendered as “知识”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/8#8",
-   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
-  },
-  {
-   "sev": "minor",
    "where": "w4/8#8",
    "msg": "sentence 2: \"Natur\" is not rendered as “本性”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/8#8",
-   "msg": "sentence 2: \"Interesse\" is not rendered as “利害关系”"
   },
   {
    "sev": "minor",
@@ -7882,11 +8027,6 @@
    "sev": "major",
    "where": "w4/8#11",
    "msg": "sentence 5: \"Körper\" rendered with forbidden “身体” (expected “物体”)"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/8#20",
-   "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
   },
   {
    "sev": "major",
@@ -8010,16 +8150,6 @@
   },
   {
    "sev": "minor",
-   "where": "w4/8#72",
-   "msg": "sentence 0: \"Interesse\" is not rendered as “利害关系”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/8#74",
-   "msg": "sentence 1: \"Folge\" is not rendered as “后果”"
-  },
-  {
-   "sev": "minor",
    "where": "w4/8#82",
    "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
   },
@@ -8056,27 +8186,162 @@
   {
    "sev": "minor",
    "where": "w4/8#96",
-   "msg": "sentence 0: \"Ausschließung\" is not rendered as “排除”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/8#96",
    "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/8#96",
-   "msg": "sentence 1: \"Einzelheit\" is not rendered as “个别性”"
   },
   {
    "sev": "minor",
    "where": "w4/8#98",
    "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#100",
+   "msg": "sentence 0: \"Versicherung\" is not rendered as “断言”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#100",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#105",
+   "msg": "sentence 2: \"Kultus\" is not rendered as “礼拜”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#105",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#108",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#108",
+   "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#110",
+   "msg": "sentence 0: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#110",
+   "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#110",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#111",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#111",
+   "msg": "sentence 0: \"Kultus\" is not rendered as “礼拜”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#117",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#119",
+   "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#124",
+   "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#131",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#150",
+   "msg": "sentence 1: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#159",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#165",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#173",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#174",
+   "msg": "sentence 2: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#177",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#180",
+   "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#183",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#184",
+   "msg": "sentence 0: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#184",
+   "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#191",
+   "msg": "sentence 3: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#191",
+   "msg": "sentence 4: \"Ware\" is not rendered as “商品”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#193",
+   "msg": "sentence 0: \"Darstellung\" is not rendered as “表述”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#194",
+   "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
   }
  ],
  "bySev": {
   "critical": 0,
   "major": 166,
-  "minor": 1448
+  "minor": 1501
  }
 }
