@@ -1,0 +1,84 @@
+{
+ "id": "w4-12-27",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 12,
+ "chunkTitle": "2. Bericht über das Gymnasialschuljahr 1811/12 110)",
+ "heading": "II. Methode",
+ "blocks": [
+  {
+   "bi": 27,
+   "k": "h",
+   "hash": "17q7zqr1v4",
+   "text": "II. Methode"
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "1f13nc71d8",
+   "sents": [
+    "A. Im allgemeinen unterscheidet man [ein] philosophisches System mit seinen besonderen Szientien und das Philosophieren selbst.",
+    "Nach der modernen Sucht, besonders der Pädagogik, soll man nicht sowohl in dem Inhalt der Philosophie unterrichtet werden, als daß man ohne Inhalt philosophieren lernen soll; das heißt ungefähr: man soll reisen und immer reisen, ohne die Städte, Flüsse, Länder, Menschen usf. kennenzulernen."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "1holx731jh",
+   "sents": [
+    "Fürs erste, indem man eine Stadt kennenlernt und dann zu einem Flusse, anderen Stadt usf. kommt, lernt man ohnehin bei dieser Gelegenheit reisen, und man lernt es nicht nur, sondern reist schon wirklich.",
+    "So, indem man den Inhalt der Philosophie kennenlernt, lernt man nicht nur das Philosophieren, sondern philosophiert auch schon wirklich.",
+    "Auch wäre der Zweck des Reisenlernens selbst nur, jene Städte usf., den Inhalt kennenzulernen."
+   ]
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "7gkl118io3",
+   "sents": [
+    "Zweitens enthält die Philosophie die höchsten vernünftigen Gedanken über die wesentlichen Gegenstände, enthält das Allgemeine und Wahre derselben; es ist von großer Wichtigkeit, mit diesem Inhalt bekanntzuwerden und diese Gedanken in den Kopf zu bekommen.",
+    "Das traurige, bloß formelle Verhalten, das perennierende inhaltslose Suchen und Herumtreiben, das unsystematische Räsonieren oder Spekulieren hat das Gehaltleere, das Gedankenleere der Köpfe zur Folge, daß sie nichts können.",
+    "Die Rechtslehre, Moral, Religion ist ein Umfang von wichtigem Inhalt; ebenso ist die Logik eine inhaltsvolle Szienz, die objektive (Kant: transzendentale) enthält die Grundgedanken vom Sein, Wesen, Kraft, Substanz, Ursache usf., die andere die Begriffe, Urteile, Schlüsse usf., ebenso wichtige Grundbestimmungen, - die Psychologie Gefühl, Anschauung usf.; - die philosophische Enzyklopädie endlich überhaupt den ganzen Umfang.",
+    "Die Wolffischen Szientien, Logik, Ontologie, Kosmologie usf., Naturrecht, Moral usf., sind mehr oder minder verschwunden; aber darum ist die Philosophie nicht weniger ein systematischer Komplex inhaltsvoller Szientien. - Ferner aber ist die Erkenntnis des absolut Absoluten (denn jene Szientien sollen ihren besonderen Inhalt auch in seiner Wahrheit, d. h. in seiner Absolutheit kennenlernen) nur allein möglich durch die Erkenntnis der Totalität in ihren Stufen eines Systems; und jene Szientien sind ihre Stufen.",
+    "Die Scheu vor einem System fordert eine Bildsäule des Gottes, die keine Gestalt haben solle.",
+    "Das unsystematische Philosophieren ist ein zufälliges, fragmentarisches Denken, und gerade die Konsequenz ist die formelle Seele zu dem wahren Inhalt."
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "htpwso1n7j",
+   "sents": [
+    "Drittens.",
+    "Das Verfahren im Bekanntwerden mit einer inhaltsvollen Philosophie ist nun kein anderes als das Lernen.",
+    "Die Philosophie muß gelehrt und gelernt werden, so gut als jede andere Wissenschaft.",
+    "Der unglückselige Pruritus, zum Selbstdenken und eigenen Produzieren zu erziehen, hat diese Wahrheit in Schatten gestellt, - als ob, wenn ich, was Substanz, Ursache, oder was es sei, lerne, ich nicht selbst dächte als ob ich diese Bestimmungen nicht selbst in meinem Denken produzierte, sondern dieselben als Steine in dasselbe geworfen würden, - als ob ferner, indem ich ihre Wahrheit, die Beweise ihrer synthetischen Beziehungen, oder ihr dialektisches Übergehen einsehe, nicht selbst diese Einsicht erhielte nicht selbst von diesen Wahrheiten mich überzeugte, - als ob, wenn ich mit dem pythagoreischen Lehrsatz und seinem Beweise bekannt geworden bin, nicht ich selbst diesen Satz wüßte und seine Wahrheit bewiese.",
+    "Sosehr an und für sich das philosophische Studium Selbsttun ist, ebensosehr ist es ein Lernen - das Lernen einer bereits vorhandenen, ausgebildeten Wissenschaft.",
+    "Diese ist ein Schatz von erworbenem, herausbereitetem, gebildetem Inhalt; dieses vorhandene Erbgut soll vom Einzelnen erworben, d. h. gelernt werden.",
+    "Der Lehrer besitzt ihn; er denkt ihn vor, die Schüler denken ihn nach.",
+    "Die philosophischen Szientien enthalten von ihren Gegenständen die allgemeinen wahren Gedanken; sie sind das resultierende Erzeugnis der Arbeit der denkenden Genies aller Zeiten; diese wahren Gedanken übertreffen das, was ein ungebildeter junger Mensch mit seinem Denken herausbringt, um ebensoviel, als jene Masse von genialischer Arbeit die Bemühung eines solchen jungen Menschen übertrifft.",
+    "Das originelle, eigentümliche Vorstellen der Jugend über die wesentlichen Gegenstände ist teils noch ganz dürftig und leer, teils aber in seinem unendlich größeren Teile Meinung, Wahn, Halbheit, Schiefheit, Unbestimmtheit.",
+    "Durch das Lernen tritt an die Stelle von diesem Wähnen die Wahrheit.",
+    "Wenn einmal der Kopf voll Gedanken ist, dann erst hat er die Möglichkeit, selbst die Wissenschaft weiterzubringen und eine wahrhafte Eigentümlichkeit in ihr zu gewinnen; darum aber ist es in öffentlichen Unterrichtsanstalten, vollends in Gymnasien nicht zu tun, sondern das philosophische Studium ist wesentlich auf diesen Gesichtspunkt zu richten, daß dadurch etwas gelernt, die Unwissenheit verjagt, der leere Kopf mit Gedanken und Gehalt erfüllt und jene natürliche Eigentümlichkeit des Denkens, d. h. die Zufälligkeit, Willkür, Besonderheit des Meinens vertrieben werde."
+   ]
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "1k4cj9drlj",
+   "sents": [
+    "B. Der philosophische Inhalt hat in seiner Methode und Seele drei Formen; 1. ist er abstrakt, 2. dialektisch, 3. spekulativ.",
+    "Abstrakt, insofern er im Elemente des Denkens überhaupt ist; aber bloß abstrakt dem Dialektischen und Spekulativen gegenüber ist er das sogenannte Verständige, das die Bestimmungen in ihren festen Unterschieden festhält und kennenlernt.",
+    "Das Dialektische ist die Bewegung und Verwirrung jener festen Bestimmtheiten, - die negative Vernunft.",
+    "Das Spekulative ist das positiv Vernünftige, das Geistige, erst eigentlich Philosophische."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/12.p27.json"
+}

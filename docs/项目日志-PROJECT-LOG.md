@@ -692,3 +692,32 @@
   第 4 卷 4,107 → 4,338 句（78.9%），**分节进度 12/16**。**下一节：w4/12**「2. Bericht über das Gymnasialschuljahr 1811/12」
   （约 8 单元 / 192 句），切片 `--limit 9 --prefix wave47`。
 
+### 第 47 波（w4/12 收官）— 8 单元 / 57 块 / 192 句，**w4/12 整节 100%**
+
+- **内容**：**2. Bericht über das Gymnasialschuljahr 1811/12**（教学科目在三个年级的分配·哲学作为预备科学·百科全书的三门科学·美学）；
+  **3. Über den Vortrag der Philosophie auf Gymnasien**（I. …·II. Methode 方法·文科中学哲学教学的多余性之争）；
+  **Brief Hegels an Niethammer**（致尼特哈默的信·语文学与教父的释经）；
+  **4. Über den Vortrag der Philosophie auf Universitäten**（施莱格尔的先验哲学讲演·1816 年致普鲁士王国政府参议劳默的信·结语）。
+- **批次**：b1 单元 0/6、b2 单元 22/27、b3 单元 33/38、b4 单元 48/54——全部主代理翻译，不派子代理
+  （BYOK 月度配额 2026-10-23 23:59 才重置）。
+- **切片**：`make-jobs --vol w4 --size 25 --limit 9 --prefix wave47` → units=15 sentences=395，**跨节溢出**——w4/12 只有 8 单元，
+  多出的 7 个是 w4/13 的。**处置**：只做 w4/12，`jobs-wave47.json` 裁为 8 个 w4/12 单元 id，多生成的 `w4-13-*.in.json` 删掉再提交。
+  **教训：`--limit` 是分节数不是单元数，节内 flush 不看它**；切完必须按节裁剪，别让下一节的切片混进本波。
+- **★ 跨节回改 3 处（统一 Normativ＝规章）**：w4/12 全节作「规章」，而 w4/10 作「最高法令」、w4/11 作「规定」——已回改并同步 patch
+  wave45/wave46 的构建脚本；重建后与入库文件逐字一致（只有这 3 句变化），可复现性已验证。
+- **真缺陷 2 处（已修）**：`Wissen` 漏词根（求知→追求知识）、`Erkenntnis` 与同句 `Kenntnis` 混用（特定知识→特定认识）。
+- **分义与误报（不改译文，已逐条登记进 context-w4 的 wave47 分义）**：本波 45 条（major 5 / minor 40）全是术语一致度提醒——
+  Klasse→班级 6、Interesse→利害关系 6、Natur→本性 6、Mitte→中项 4（Mittel 子串误报）、Gesichtspunkt→观点 2、
+  Grund→根据 2、Folge→后果 2、Verschiedenheit→相异 2 等；major 5 条**全是词族误报**：
+  4 条 `wirklich` 日常义（不带「现实」字根）＋ 1 条 `Dasein` 神学日常义「上帝的存在」。
+  **机器门 GATE OK（0 FAIL / 43 WARN）**（分片门）。
+- **术语层**：共享词表 **+7 条**（Metaphysik 形而上学／Kosmologie 宇宙论／Ontologie 本体论／Unterprimärschule 下级初级学校／
+  Oberprimärschule 上级初级学校／Metrik 韵律学／Wortweisheit 咬文嚼字，均以官方分句器核过全书命中率 100%）；
+  context-w4 **条目数保持 468 不变**，**24 条既有条目加注 wave47 分义** ＋ 2 条 styleGuide 记录（新定术语清单、门务记录）。
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；
+  validate 仍 20 处存量 misnested（w2/w3/w5）；**w4/12 浏览器实测 pairs=58 = expected 58（57 译块＋1 fn）、mismatch=0、jsErr=0**；
+  missing=2 / emptyZh=1 / emptyEn=1 全部来自唯一的 `ns=0` 空段落（合同规定如实留空）；w4/10、w4/11 复测通过；固定 8 页回归 8/8。
+- **进度**：17.53% → **17.74%**（16,148 → 16,340 / 92,117 句；段落 5,102 → 5,153 / 17,948 = 28.71%）；
+  第 4 卷 4,338 → 4,530 句（82.3%），**分节进度 13/16**。**下一节：w4/13**「Heidelberger Schriften」
+  （约 7 单元 / 203 句），切片 `--limit 9 --prefix wave48`。
+

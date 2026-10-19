@@ -1,0 +1,153 @@
+{
+ "id": "w4-12-6",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 12,
+ "chunkTitle": "2. Bericht über das Gymnasialschuljahr 1811/12 110)",
+ "heading": "3. Über den Vortrag der Philosophie auf Gymnasien",
+ "blocks": [
+  {
+   "bi": 6,
+   "k": "h",
+   "hash": "gg03vnem58",
+   "text": "3. Über den Vortrag der Philosophie auf Gymnasien"
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "1jk4cwvdj5",
+   "sents": [
+    "Privatgutachten für den Königlich Bayrischen Oberschulrat Immanuel Niethammer111) (1812)"
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "3gtrapw1qr",
+   "sents": [
+    "Nürnberg, den 23.",
+    "Okt."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "1jur3lu7nt",
+   "sents": [
+    "Der Vortrag der philosophischen Vorbereitungswissenschaften in dem Gymnasium bietet zwei Seiten dar:"
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "d9ccrc1qa1",
+   "sents": [
+    "I. die Lehrgegenstände selbst, II. die Methode."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "h",
+   "hash": "zrnkamnp1w",
+   "text": "I."
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "xqvwjo1ln2",
+   "sents": [
+    "Was I. die Lehrgegenstände nebst deren Verteilung an die drei Klassen betrifft, so setzt das Normativ Folgendes darüber fest:"
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "1stfgx2ik1",
+   "sents": [
+    "Für die Unterklasse ist (III, § 5 III) die Religions-, Rechts- und Pflichtenkenntnis bestimmt."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "1sqw7ef1e2",
+   "sents": [
+    "Dagegen VC ist angegeben, daß in der Unterklasse der Anfang der Übung des spekulativen Denkens mit der Logik gemacht werden könne."
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "xnnzu61bbi",
+   "sents": [
+    "Für die Mittelklasse: a) Kosmologie, natürliche Theologie, in Verbindung mit den Kantischen Kritiken. b) Psychologie."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "5cy41z1xoc",
+   "sents": [
+    "Für die Oberklasse: philosophische Enzyklopädie."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1ukbfjwmxm",
+   "sents": [
+    "Da in Ansehung der Unterklasse der Vortrag der Rechts-, Pflichten- und Religionslehre und der Logik nicht wohl zu vereinigen ist, so habe ich es bisher so darin gehalten, daß ich in der Unterklasse nur die Rechts-, Pflichten- und Religionslehre abhandelte, die Logik aber auf die Mittelklasse aufsparte, und zwar abwechselnd mit der Psychologie in dieser Klasse, die von zweijährigem Kursus ist, vortrug.",
+    "Auf die Oberklasse kam dann die vorgeschriebene Enzyklopädie."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1ngwbhd1yq",
+   "sents": [
+    "Wenn ich über die ganze Verteilung mein allgemeines Urteil sowohl nach der Sache selbst als nach meiner Erfahrung abgeben soll, so kann ich nur erklären, daß ich sie sehr zweckmäßig gefunden habe."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "12bfvtxq8j",
+   "sents": [
+    "Um in das Nähere hierüber einzugehen, so ist 1. in Ansehung des ersten Lehrgegenstandes im Normativ der Ausdruck \"Religions-, Rechts- und Pflichtenlehre\" gebraucht, worin die Voraussetzung liegt, daß unter diesen drei Lehren mit der Religion der Anfang gemacht werde.",
+    "Insofern noch kein Kompendium vorhanden ist, muß wohl dem Lehrer die Freiheit bleiben, hierin nach seiner Einsicht die Ordnung und den Zusammenhang zu bilden.",
+    "Ich meines Orts weiß nichts anderes, als mit dem Rechte, der einfachsten und abstraktesten Folge der Freiheit anzufangen, alsdann zur Moral fortzugehen und von da zur Religion als der höchsten Stufe fortzuschreiten. - Doch dieser Umstand beträfe näher die Natur des abzuhandelnden Inhalts und gehört eine weitere Ausführung nicht hierher."
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "mybclp4uf7",
+   "sents": [
+    "Wenn die Frage gemacht würde, ob dieser Lehrgegenstand passend sei, den Anfang der Einleitung in die Philosophie zu machen, so kann ich dies nicht anders als bejahend beantworten.",
+    "Die Begriffe dieser Lehren sind einfach und haben zugleich eine Bestimmtheit, die sie für das Alter dieser Klasse ganz zugänglich macht; ihr Inhalt ist durch das natürliche Gefühl der Schüler unterstützt, er hat eine Wirklichkeit im Innern derselben, denn er ist die Seite der inneren Wirklichkeit selbst.",
+    "Ich ziehe daher diesen Lehrgegenstand für diese Klasse der Logik weit vor, weil diese einen abstrakteren und vornehmlich einen von jener unmittelbaren Wirklichkeit des Innern entfernteren, nur theoretischen Inhalt hat.",
+    "Freiheit, Recht, Eigentum usf. sind praktische Bestimmungen, mit denen wir täglich umgehen und die, außer jener unmittelbaren, auch eine sanktionierte Existenz und reale Gültigkeit haben.",
+    "Die logischen Bestimmungen von Allgemeinem und Besonderem usf. sind dem Geiste, der noch nicht im Denken zu Hause ist, Schatten gegen das Wirkliche, an das er rekurriert, ehe er jene unabhängig von diesem festzuhalten und zu betrachten geübt ist.",
+    "Die gewöhnliche Forderung an ein einleitendes Lehren der Philosophie ist zwar, daß man vom Existierenden anfangen und von da aus das Bewußtsein zum Höheren, zum Gedanken fortführen solle.",
+    "Aber in den Freiheitsbegriffen ist selbst das Existierende und Unmittelbare vorhanden, das zugleich, ohne vorhergehende Anatomie, Analyse, Abstraktion usf., schon Gedanke ist. - Es wird also in diesen Lehren in der Tat mit dem Verlangten, dem Wahrhaften, dem Geistigen, Wirklichen angefangen. - Ich habe immer bei dieser Klasse ein größeres Interesse an diesen praktischen Bestimmungen als an dem wenigen Theoretischen, das ich vorauszuschicken hatte, gefunden und den Unterschied dieses Interesses noch mehr gefühlt, als ich das erste Mal nach der Weisung des erläuternden Teils des Normativs mit den Grundbegriffen der Logik den Anfang machte; seitdem habe ich dies nicht wiederholt."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "1svw1bsohr",
+   "sents": [
+    "Die höhere Stufe für den Lernenden ist das theoretisch Geistige, das Logische, Metaphysische, Psychologische.",
+    "Das Logische und Psychologische zunächst miteinander verglichen, so ist das Logische im ganzen für das Leichtere anzusehen, weil es einfachere, abstrakte Bestimmungen zu seinem Inhalt hat, das Psychologische dagegen ein Konkretes, und zwar sogar den Geist.",
+    "Aber zu leicht ist die Psychologie, wenn sie so trivial als ganz empirische Psychologie, wie etwa in Campes Psychologie für Kinder113) , genommen werden soll. - Was ich von [Carl Gustav] Carus' Manier kenne, ist so langweilig, unerbaulich, leblos, geistlos, daß es gar nicht auszuhalten ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/12.p6.json"
+}

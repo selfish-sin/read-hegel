@@ -96,6 +96,34 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 ```
 
 
+### ★ 第 47 波已收官：w4/12「2. Bericht über das Gymnasialschuljahr 1811/12」＋「3. Über den Vortrag der Philosophie auf Gymnasien」＋「4. Über den Vortrag der Philosophie auf Universitäten」（1811/12 学年报告·文科中学与大学的哲学讲授）整节 **100%**
+
+**第 47 波（2026-10-20）一次做完 w4/12 整节 8 单元 / 57 块 / 192 句**（含 1 个空段落 bi55，如实输出 `en: []` / `zh: []`；另有 1 个 fn 块按契约不译），全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
+
+| 批次 | 单元 | 内容 |
+|---|---|---|
+| b1 | 0 / 6 | 1811/12 学年报告：学校与公众的期望·语文与历史·地理与游历·哲学作为预备科学·百科全书与三门科学·美学的位置 |
+| b2 | 22 / 27 | 形而上学的空缺与二律背反·上帝存在证明与康德批判·自然哲学·思辨地思考作为教学目的·文科学研究的地位与前言 |
+| b3 | 33 / 38 | 方法（II. Methode）·文科中学哲学教学的多余性之争·致尼特哈默的信·语文学与教父的释经 |
+| b4 | 48 / 54 | 施莱格尔与先验哲学讲演·1816 年致普鲁士王国政府参议的信·结语 |
+
+**w4/12 整节 8 单元 / 57 块已全部译完。** 覆盖率 17.53% → **17.74%**（16,340 / 92,117 句；段落 5,153 / 17,948 = 28.71%）。第 4 卷 4,530 / 5,501 句（82.3%），**分节进度 13/16**。
+
+- **切片**：`node scripts/make-jobs.mjs --vol w4 --size 25 --limit 9 --prefix wave47` → units=15 sentences=395，**跨节溢出到 w4/13**（w4/12 只有 8 单元）：本波只做 w4/12 的 8 个单元（0/6/22/27/33/38/48/54，192 句），w4/13 的 7 个单元留给第 48 波；`data/_jobs/jobs-wave47.json` 已裁为 8 个 w4/12 单元 id，多生成的 `w4-13-*.in.json` 已删。
+- **术语层**：共享词表 **+7 条新译名**（Metaphysik 形而上学／Kosmologie 宇宙论／Ontologie 本体论／Unterprimärschule 下级初级学校／Oberprimärschule 上级初级学校／Metrik 韵律学／Wortweisheit 咬文嚼字——**均用官方分句器核过全书命中率 100%** 才入表，命中率不足的 Kollegium／Salbaderei／Normativ／Erbauung／Idiosynkrasie／Übersicht 一律不入表，避免给后面的卷制造噪音）；
+  context-w4 **条目数保持 468 条不变**，**24 条既有条目加注 wave47 分义** ＋ 2 条 styleGuide 记录（新定术语清单、wave47 门务记录）。
+- **★ 本波跨节回改 3 处（统一 Normativ＝规章）**：w4/12 全节 5 处 Normativ 作「规章」，但 w4/10 作「最高法令」、w4/11 作「规定」——已回改为「至高的规章」「规章，……」「一般规章所确定的那种关系」；同步 patch 了 wave45/wave46 的构建脚本，**重建后与入库文件逐字一致、只有这 3 句变化**（可复现性已验证）。
+- **真缺陷 2 处（已修）**：`Wissen`（知识）漏了词根——「der Trieb nach Wissen」原作「求知的冲动」，改为「追求知识的冲动」；
+  `Erkenntnis`（认识）与同句 `Kenntnis`（知识）混用——「die Forderung bestimmter Erkenntnisse」原作「特定知识的要求」，改为「特定认识的要求」。
+- **分义与误报（不改译文，已逐条登记进 context-w4 的 wave47 分义）**：本波 45 条（major 5 / minor 40）全是术语一致度提醒——Klasse→班级 6（低/中/高年级）、Interesse→利害关系 6（兴趣/利害/意义三义）、Natur→本性 6（自然/性质/本性三分）、Mitte→中项 4（**Mittel 子串误报**）、Gesichtspunkt→观点 2（着眼点）、Grund→根据 2（理由/缘故）、Folge→后果 2（结果/结论）、Verschiedenheit→相异 2（差异）、Mittel→手段 1、Eigentum→财产 1（广义「占有」）、Person→人格 1（Personal 子串）、Sein→存在 1（Seine 子串）、Zweck→目的 1、Verseicherung→断言 1、Anspruch→要求权 1、Wissen→知识 1、Erkenntnis→认识 1 等；
+  major 5 条**全是词族误报**：4 条 `wirklich` 日常义（真正/确实，不带「现实」字根）＋ 1 条 `Dasein` 神学日常义「vom Dasein Gottes」→「上帝的存在」（不作「定在」）。
+  **机器门 GATE OK（0 FAIL / 43 WARN）**（分片门），WARN 全是中文破折号与德文「 - 」的排版差及同句跨词条容忍。
+- **验收全绿**：trans-index **ALIGNMENT OK**；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；
+  validate 仍 20 处存量 misnested（w2/w3/w5，与新译无关）；**w4/12 浏览器实测（端口 8860）pairs=58 = expected 58（57 译块＋1 fn）、mismatch=0、jsErr=0**；
+  missing=2 / emptyZh=1 / emptyEn=1 **全部来自唯一的 `ns=0` 空段落**（合同规定如实留空，与已验收的 w4/8、w4/9、w4/11 同一渲染行为）；回改过的 w4/10（pairs=54/54）与 w4/11（pairs=78/78）同步复测通过；固定 8 页回归 **8/8**。
+- **远端**：本波推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
+
+
 ### ★ 第 46 波已收官：w4/11「5. Rede zum Schuljahrabschluß am 2. September 1813」＋「III. Gutachten / 1. Gutachten über die Stellung des Realinstituts zu den übrigen Studienanstalten」（1813 学年结束演辞＋实科学校地位鉴定书）整节 **100%**
 
 **第 46 波（2026-10-19）一次做完 w4/11 整节 9 单元 / 77 块 / 231 句**（含 1 个空段落，如实输出 `en: []` / `zh: []`；另有 1 个 fn 块按契约不译），全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
@@ -384,10 +412,10 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 | Bd. 1 早期著作 | ✅ 22/22 节 · 3,740 句 |
 | Bd. 2 耶拿著作 | ✅ 15/15 节 · 3,270 句 |
 | Bd. 3 精神现象学 | ✅ **正文 100%**（序言→绝对知识，w3/0–15 正文 15/15 分节 · 4,800 句） |
-| Bd. 4 纽伦堡与海德堡时期著作 | **12/16 分节 100%** · 累计 4,338 句（w4/0–11 全 100%；w4/11 1813 学年结束演辞＋实科学校地位鉴定书 9 单元 / 77 块 / 231 句**整节译完**） |
-| 合计 | **16,148 / 92,117 句 = 17.53%** |
+| Bd. 4 纽伦堡与海德堡时期著作 | **13/16 分节 100%** · 累计 4,530 句（w4/0–12 全 100%；w4/12 1811/12 学年报告＋文科中学与大学的哲学讲授 8 单元 / 57 块 / 192 句**整节译完**） |
+| 合计 | **16,340 / 92,117 句 = 17.74%** |
 
-覆盖率另有按段落的数字：5,102 / 17,948 = 28.43%。
+覆盖率另有按段落的数字：5,153 / 17,948 = 28.71%。
 
 **第 38 波刚完成**（2026-10-17）：w4/5 **15 单元 / 258 块 / 388 句全分节 100%**，覆盖率 14.75% → **15.17%**。
 本节内容跨两段：前 4 单元收尾 1809/10 逻辑学（关系推论 → 概念的实现 → 观念论开篇），
@@ -548,16 +576,22 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 
 ### 下一步（按优先级）
 
-1. **继续第 4 卷**：`make-jobs --vol w4` 会自动接着 w4/10 往后（上下文包 `data/_jobs/context-w4.json` 468 条已在手，可直接开译）。
-   **w4/11 已完成**；下一节 **w4/12「2. Bericht über das Gymnasialschuljahr 1811/12」约 8 单元 / 192 句**，切片用
-   `node scripts/make-jobs.mjs --vol w4 --size 25 --limit 9 --prefix wave47`（若报出的单元跨进 w4/13，说明本节单元数不足 9，把 `--limit` 减 1 重切）。
+1. **继续第 4 卷**：`make-jobs --vol w4` 会自动接着 w4/13 往后（上下文包 `data/_jobs/context-w4.json` 468 条已在手，可直接开译）。
+   **w4/12 已完成**；下一节 **w4/13「Heidelberger Schriften」约 7 单元 / 203 句**，切片用
+   `node scripts/make-jobs.mjs --vol w4 --size 25 --limit 9 --prefix wave48`。
    **`--limit` 只在分节边界检查、节内 flush 不看它**（实测：切 w4/9 传 `--limit 10` 得到 11 单元，正是整节切完才停）。
+   **★ 跨节溢出的实测（第 47 波）**：切 w4/12 传 `--limit 9` 实际得到 **units=15 sentences=395**——w4/12 只有 8 单元，
+   多出的 7 个单元是 w4/13 的。**处置**：只做 w4/12，把 `jobs-wave47.json` 裁成 8 个 w4/12 单元 id，
+   并把多生成的 `w4-13-*.in.json` 删掉（可恢复删除）再提交，别让下一节的切片混进本波。
    **真正的坑（第 43 波）**：目标节已 100% 时别再跑 `make-jobs`——它会滚到下一节、覆盖 `jobs-<prefix>.json` 并多生成一批 `.in.json`；
-   跑之前先确认 w4/12 是"第一个未译节"。
+   跑之前先确认 w4/13 是"第一个未译节"。
    学年结束演辞术语（w4/9 已立：`Programm` 学年报告、`Rede` 演辞、`Oberklasse/Mittelklasse/Unterklasse` 高/中/低年级、
    `Generalkommissariat` 皇家总务署、`allerhöchst` 至高、`gnädigst` 恩霈）w4/10 已沿用并扩充（`Lokation` 名次评定、`Promotion` 升班、
    `Rektorat` 校务委员会、`Katechisation` 教理问答、`Nachtsingkollekte` 夜间唱诗募捐等），w4/11 再扩充（`Realschule` 实科中学、`Lyzeum` 高级中学、
-   `Kameralwissenschaft` 官房学、`Humaniora` 人文诸科、`Gutachten` 鉴定书、`Medizinalkomitee` 医学委员会、`Absolutorium` 结业证书），供 w4/12 直接沿用。
+   `Kameralwissenschaft` 官房学、`Humaniora` 人文诸科、`Gutachten` 鉴定书、`Medizinalkomitee` 医学委员会、`Absolutorium` 结业证书），
+   w4/12 再扩充（`Normativ` 规章、`Metaphysik` 形而上学、`Kosmologie` 宇宙论、`Ontologie` 本体论、
+   `Unterprimärschule` 下级初级学校、`Oberprimärschule` 上级初级学校、`Kollegium` 讲课、`Metrik` 韵律学、
+   `Wortweisheit` 咬文嚼字、`Erbauung` 感化、`Übersicht` 概览、`Regierungsrat` 政府参议、`Konversatorium` 讨论课），供 w4/13 直接沿用。
    另注意：**BYOK 子代理月度配额 2026-10-23 23:59 才重置**——在此之前不要派子代理，直接主译；
    若报 `monthly usage quota` 不重派；若报 `Token Plan 用量上限 (2067)` 属账号级可稍后重派一次。
 2. **未审校章节**：w1（22 节）、w2（15 节）整卷尚未逐章审校——它们译于词族政策之前，
@@ -571,7 +605,7 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
    `Kelch`、`Einsame` 等；另有 `Wesenheit` 一处 wave32 用了「本质性」（variante，
    偏离共享词表「实质性」），待统一）。
 5. **w4 后续分节的术语待裁定**：`merge-glossar` 已并入 380 条，其中宗教讲稿（w4/9）、
-   学校报告与演讲（w4/10-12）、海德堡政治评论（w4/13-15）尚未开译，裁定时沿用 `context-w4.json`。
+   学校报告与演讲（w4/10-12）已开译，海德堡政治评论（w4/13-15）尚未开译，裁定时沿用 `context-w4.json`。
 
 ## 六、仓库里**没有**的东西（有意排除）
 

@@ -1,0 +1,40 @@
+{
+ "id": "w4-12-54",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 12,
+ "chunkTitle": "2. Bericht über das Gymnasialschuljahr 1811/12 110)",
+ "heading": "2. Bericht über das Gymnasialschuljahr 1811/12110)",
+ "blocks": [
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "phwgkpl2sn",
+   "sents": [
+    "Über äußerliche Veranstaltungen zur Unterstützung des Vortrags, z. B. Konversatorien, enthalte ich mich etwas hinzuzufügen, da ich mit Schrecken sehe, wie weitläufig ich bereits geworden und wie sehr ich Ihre Nachsicht in Anspruch genommen; ich füge nur noch den herzlichen Wunsch der glücklichen Fortsetzung Ihrer Reise und die Versicherung meiner ausgezeichneten Hochachtung und Ergebenheit hinzu."
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "ztntfp9zlo",
+   "sents": []
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "170veavlu5",
+   "sents": [
+    "Nürnberg, den 2.",
+    "Aug."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/12.p54.json"
+}
