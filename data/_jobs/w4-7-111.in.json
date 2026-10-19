@@ -1,0 +1,93 @@
+{
+ "id": "w4-7-111",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 111,
+   "k": "p",
+   "hash": "1ijlp4y1qu",
+   "sents": [
+    "Die Vernunft hebt die Unbestimmtheit auf, welche das angenehme Gefühl in Ansehung der Gegenstände hat, reinigt den Inhalt der Triebe von dem Subjektiven und Zufälligen und lehrt in Rücksicht auf den Inhalt das Allgemeine und Wesentliche des Begehrenswerten kennen, in Rücksicht auf die Form oder Gesinnung aber das Objektive oder das Handeln um der Sache selbst willen."
+   ]
+  },
+  {
+   "bi": 112,
+   "k": "p",
+   "hash": "1grgpbd1b0",
+   "sents": [
+    "Erläuterung.",
+    "Zunächst geht der Verstand oder die Reflexion über das unmittelbare Vergnügen hinaus, verändert aber den Zweck oder das Prinzip nicht.",
+    "Sie geht insofern nur über das einzelne Vergnügen hinaus, vergleicht die Triebe miteinander und kann also den einen dem anderen vorziehen. - Indem sie nicht auf das Vergnügen als Einzelnes, sondern auf das im Ganzen geht, beabsichtigt sie Glückseligkeit.",
+    "Diese Reflexion bleibt noch innerhalb des subjektiven Prinzips stehen und hat das Vergnügen noch zum Zwecke, aber nur das größere, vielfachere.",
+    "Indem sie Unterschiede im Vergnügen macht und überhaupt an allen verschiedenen Seiten das Angenehme sucht, verfeinert sie das Rohe, Wilde und bloß Tierische des Vergnügens und mildert die Sitten und Gesinnungen überhaupt.",
+    "Insofern also der Verstand sich mit den Mitteln, Bedürfnisse überhaupt zu befriedigen, beschäftigt, erleichtert er dadurch diese Befriedigung und erhält dadurch die Möglichkeit, sich höheren Zwecken zu widmen. - Auf der andern Seite macht diese Verfeinerung der Vergnügungen den Menschen weichlicher.",
+    "Indem er seine Kräfte auf so vielerlei Gegenstände verwendet und sich so mannigfaltige Zwecke macht, welche durch das Unterscheiden ihrer verschiedenen Seiten immer kleiner werden, so wird seine Kraft überhaupt geschwächt, sich auf das Wesentliche mit seinem ganzen Geist zu richten.",
+    "Wenn der Mensch das Vergnügen zum Zweck macht, so hebt er durch diese Reflexion den Trieb auf, darüber hinauszugehen und etwas Höheres zu tun."
+   ]
+  },
+  {
+   "bi": 113,
+   "k": "p",
+   "hash": "ffayq11aym",
+   "sents": [
+    "Das Vergnügen ist unbestimmt in Ansehung des Inhalts, weil es bei allen Gegenständen stattfinden kann.",
+    "Es kann bei ihm also insofern kein objektiver Unterschied, nur ein quantitativer gemacht werden.",
+    "Der Verstand, die Folgen berechnend, zieht das größere dem kleineren vor."
+   ]
+  },
+  {
+   "bi": 114,
+   "k": "p",
+   "hash": "ww75kh6q8g",
+   "sents": [
+    "Die Vernunft hingegen macht einen qualitativen Unterschied, d. h. einen Unterschied in Ansehung des Inhalts.",
+    "Sie zieht den würdigen Gegenstand des Vergnügens dem nichtswürdigen vor.",
+    "Sie läßt sich also auf eine Vergleichung der Natur der Gegenstände ein.",
+    "Insofern betrachtet sie nicht mehr das Subjektive als solches, nämlich das angenehme Gefühl, sondern das Objektive.",
+    "Sie lehrt also, was für Gegenstände der Mensch um ihrer selbst willen zu begehren hat.",
+    "Bei dem Menschen, dem seiner allgemeinen Natur halber so unendlich mannigfaltige Quellen des Vergnügens offenstehen, ist überhaupt die Richtung auf das Angenehme täuschend, und er läßt sich durch diese Mannigfaltigkeit leicht zerstreuen, d. h. von einem Zweck abbringen, den er zu seiner Bestimmung machen sollte."
+   ]
+  },
+  {
+   "bi": 115,
+   "k": "p",
+   "hash": "6ylejl16ol",
+   "sents": [
+    "Der Trieb des Angenehmen kann mit der Vernunft übereinstimmen, d. h. daß beide den nämlichen Inhalt haben, daß die Vernunft den Inhalt legitimiert. - In Ansehung der Form handelt der Trieb um des subjektiven Gefühls willen oder hat das Angenehme des Subjekts zum Zweck.",
+    "Bei der Handlung um eines allgemeinen Gegenstandes willen ist das Objekt selbst der Zweck.",
+    "Hingegen der Trieb des Angenehmen ist immer eigensüchtig."
+   ]
+  },
+  {
+   "bi": 116,
+   "k": "p",
+   "hash": "fnxgu61epo",
+   "sents": [
+    "§ 39"
+   ]
+  },
+  {
+   "bi": 117,
+   "k": "p",
+   "hash": "1eywfe4164",
+   "sents": [
+    "Die Triebe und Neigungen sind 1. an sich betrachtet weder gut noch böse, d. h. der Mensch hat sie unmittelbar als Naturwesen.",
+    "Gut und böse sind moralische Bestimmungen und kommen dem Willen zu.",
+    "Das Gute ist das der Vernunft Entsprechende.",
+    "Triebe und Neigungen können aber nicht ohne Beziehung auf den Willen betrachtet werden.",
+    "Diese Beziehung ist nicht zufällig und der Mensch kein gleichgültiges Doppelwesen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p111.json"
+}

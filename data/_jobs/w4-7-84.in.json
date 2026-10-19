@@ -1,0 +1,133 @@
+{
+ "id": "w4-7-84",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Zweiter Abschnitt Pflichtenlehre oder Moral",
+ "blocks": [
+  {
+   "bi": 84,
+   "k": "p",
+   "hash": "ejvwkb50xa",
+   "sents": [
+    "§ 29"
+   ]
+  },
+  {
+   "bi": 85,
+   "k": "p",
+   "hash": "158nlfi1d2",
+   "sents": [
+    "Der Staatsgewalt sind die Bürger als Einzelne unterworfen und gehorchen derselben.",
+    "Der Inhalt und Zweck derselben aber ist die Verwirklichung der natürlichen, d. h. absoluten Rechte der Bürger, welche im Staat darauf nicht Verzicht tun, vielmehr zum Genuß und zur Ausbildung derselben allein in ihm gelangen."
+   ]
+  },
+  {
+   "bi": 86,
+   "k": "p",
+   "hash": "dq08zd1svd",
+   "sents": [
+    "§ 30"
+   ]
+  },
+  {
+   "bi": 87,
+   "k": "p",
+   "hash": "1v9pamb1n1",
+   "sents": [
+    "Die Staatsverfassung bestimmt als inneres Staatsrecht das Verhältnis der besonderen Gewalten sowohl zur Regierung, ihrer obersten Vereinigung, als zueinander sowie das Verhältnis der Bürger dazu oder ihren Anteil daran."
+   ]
+  },
+  {
+   "bi": 88,
+   "k": "p",
+   "hash": "dg0nae11kj",
+   "sents": [
+    "§ 31"
+   ]
+  },
+  {
+   "bi": 89,
+   "k": "p",
+   "hash": "jme4zziq5w",
+   "sents": [
+    "Das äußere Staatsrecht betrifft das Verhältnis selbständiger Völker durch deren Regierungen zueinander und beruht vornehmlich auf besonderen Verträgen, - Völkerrecht"
+   ]
+  },
+  {
+   "bi": 90,
+   "k": "p",
+   "hash": "9deh0816r6",
+   "sents": [
+    "Erläuterung.",
+    "Die Staaten befinden sich mehr in einem natürlichen als rechtlichen Verhältnis zueinander.",
+    "Es ist deswegen unter ihnen ein fortdauernder Streit vorhanden, so daß sie Verträge untereinander schließen und sich dadurch in ein rechtliches Verhältnis gegeneinander setzen.",
+    "Auf der andern Seite aber sind sie ganz selbständig und unabhängig voneinander.",
+    "Das Recht ist daher zwischen ihnen nicht wirklich.",
+    "Sie können also die Verträge willkürlich brechen und müssen sich darüber immer in einem gewissen Mißtrauen gegeneinander befinden.",
+    "Als Naturwesen verhalten sie sich zueinander nach der Gewalt, daß sie sich selbst in ihrem Recht erhalten, sich selbst Recht schaffen müssen und also dadurch miteinander in Krieg geraten."
+   ]
+  },
+  {
+   "bi": 91,
+   "k": "h",
+   "hash": "1c6ydx31q7",
+   "text": "Zweiter Abschnitt Pflichtenlehre oder Moral"
+  },
+  {
+   "bi": 92,
+   "k": "p",
+   "hash": "d611lf3p4a",
+   "sents": [
+    "§ 32"
+   ]
+  },
+  {
+   "bi": 93,
+   "k": "p",
+   "hash": "o8m20omgnk",
+   "sents": [
+    "Was nach dem Recht gefordert werden kann, ist eine Schuldigkeit.",
+    "Pflicht aber ist etwas, insofern es aus moralischen Gründen zu beobachten ist."
+   ]
+  },
+  {
+   "bi": 94,
+   "k": "p",
+   "hash": "1p3mkte1t6",
+   "sents": [
+    "Erläuterung.",
+    "Das Wort Pflicht wird häufig von rechtlichen Verhältnissen gebraucht.",
+    "Die Rechtspflichten bestimmte man als vollkommene, die moralischen als unvollkommene, weil jene überhaupt geschehen müssen und eine äußerliche Notwendigkeit haben, die moralischen Pflichten aber auf einem subjektiven Willen beruhen.",
+    "Allein man könnte ebenso die Bestimmung umkehren, weil die Rechtspflicht als solche nur eine äußerliche Notwendigkeit fordert, wobei die Gesinnung fehlen kann, oder ich kann sogar eine schlimme Absicht dabei haben.",
+    "Hingegen zur moralischen Gesinnung wird beides erfordert, sowohl die rechte Handlung ihrem Inhalt nach als auch der Form nach das Subjektive der Gesinnung."
+   ]
+  },
+  {
+   "bi": 95,
+   "k": "p",
+   "hash": "cw1fwgya8s",
+   "sents": [
+    "§ 33"
+   ]
+  },
+  {
+   "bi": 96,
+   "k": "p",
+   "hash": "o7wbb01kbj",
+   "sents": [
+    "Das Recht läßt überhaupt die Gesinnung frei.",
+    "Die Moralität dagegen betrifft wesentlich die Gesinnung und fordert, daß die Handlung aus Achtung vor der Pflicht geschehe.",
+    "So ist auch das rechtliche Verhalten moralisch, insofern es die Achtung vor dem Rechte zum Beweggrunde hat."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p84.json"
+}

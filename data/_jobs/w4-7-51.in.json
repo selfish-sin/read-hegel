@@ -1,0 +1,99 @@
+{
+ "id": "w4-7-51",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 51,
+   "k": "p",
+   "hash": "1ecq3jn19h",
+   "sents": [
+    "§ 18"
+   ]
+  },
+  {
+   "bi": 52,
+   "k": "p",
+   "hash": "13rjak7172",
+   "sents": [
+    "Im ersten Fall ist die bloße Auseinandersetzung der Rechtsgründe nötig, durch welche es sich ergibt, wem das streitige besondere Recht zukommt.",
+    "Allein zu dieser Beurteilung der Ansichten der beiden Parteien ist ein Dritter nötig, der von ihrem Interesse, die Sache zu besitzen, frei ist, um bloß auf das Recht rein als solches zu sehen."
+   ]
+  },
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "omca6p17ui",
+   "sents": [
+    "Erläuterung.",
+    "Im ersten Fall findet also der bürgerliche Rechtsstreit statt.",
+    "Es wird in einem solchen das Recht eines anderen in Anspruch genommen, aber aus einem Rechtsgrunde.",
+    "Es kommen beide streitende Parteien darin überein, daß sie das Recht als Recht anerkennen.",
+    "Es soll nur derjenige in Besitz kommen, der Recht hat, und nicht etwa der, welcher Einfluß oder Gewalt und mehr Verdienst hat.",
+    "Die Parteien weichen voneinander ab nur in Rücksicht der Subsumtion des Besonderen oder des Allgemeinen.",
+    "Es folgt also daraus, daß keine persönliche Beleidigung zwischen dem Richter und den beiden Parteien stattfindet, insofern die eine mit seinem Spruch nicht zufrieden ist, noch des Richters gegen die Partei, der er das Recht abspricht.",
+    "Weil also kein Angriff auf das Persönliche hierbei stattfindet, so folgt daraus, daß die Partei, die unrechtlicherweise das Eigentum des anderen angegriffen hat, nicht bestraft wird."
+   ]
+  },
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "1e2qhuobmj",
+   "sents": [
+    "§ 19"
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "cjq3zqsnc1",
+   "sents": [
+    "Der andere Fall hingegen betrifft die Verletzung meiner persönlichen äußerlichen Freiheit, meines Leibes und Lebens oder auch meines Eigentums überhaupt durch Gewalttätigkeit."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "1o49xhh117",
+   "sents": [
+    "Erläuterung.",
+    "Es gehört darunter erstens die widerrechtliche Beraubung meiner Freiheit durch Gefängnis oder Sklaverei.",
+    "Es ist Beraubung der natürlichen äußerlichen Freiheit, sich nicht hinbegeben zu können, wohin man will, u. dgl. m. Es gehört ferner hierher eine Verletzung des Leibes und Lebens.",
+    "Diese ist viel bedeutender als die Beraubung meines Eigentums.",
+    "Obgleich Leben und Leib etwas Äußerliches ist, wie Eigentum, so ist meine Persönlichkeit doch darunter verletzt, weil in meinem Körper selbst mein unmittelbares Selbstgefühl ist."
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "c1zhbk1cr7",
+   "sents": [
+    "§ 20"
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "lwnbq81vrs",
+   "sents": [
+    "Der Zwang, der durch eine solche Handlung gesetzt worden, muß nicht nur aufgehoben, d. h. die innere Nichtigkeit einer solchen Handlung nicht nur negativerweise dargestellt werden, sondern es muß auch auf positive Weise die Wiedervergeltung eintreten.",
+    "(Es muß gegen sie die Form der Vernünftigkeit überhaupt, die Allgemeinheit oder Gleichheit geltend gemacht werden.)",
+    "Indem nämlich der Handelnde ein vernünftiges Wesen ist, so liegt in seiner Handlung, daß sie etwas Allgemeines sei.",
+    "Beraubst du einen anderen, so beraubst du dich!",
+    "Tötest du jemand, so tötest du alle und dich selbst!",
+    "Die Handlung ist ein Gesetz, das du aufstellst und welches du eben durch dein Handeln an und für sich anerkannt hast.",
+    "Der Handelnde darf daher für sich unter dieselbe Handlungsweise, die er aufgestellt hat, subsumiert und insofern die durch ihn verletzte Gleichheit wieder hergestellt werden: ius talionis."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p51.json"
+}

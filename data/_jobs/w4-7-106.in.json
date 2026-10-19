@@ -1,0 +1,77 @@
+{
+ "id": "w4-7-106",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 106,
+   "k": "p",
+   "hash": "dzzuoc14ut",
+   "sents": [
+    "§ 37"
+   ]
+  },
+  {
+   "bi": 107,
+   "k": "p",
+   "hash": "1gk4uu71hp",
+   "sents": [
+    "Diese Übereinstimmung ist als Vergnügen ein subjektives Gefühl und etwas Zufälliges, das sich an diesen oder jenen Trieb und seinen Gegenstand knüpfen kann und worin ich mir nur als natürliches Wesen und nur als Einzelner Zweck bin."
+   ]
+  },
+  {
+   "bi": 108,
+   "k": "p",
+   "hash": "182l3w896f",
+   "sents": [
+    "Erläuterung.",
+    "Das Vergnügen ist etwas Subjektives und bezieht sich bloß auf mich als einen Besonderen.",
+    "Es ist nicht das Objektive, Allgemeine, Verständige daran.",
+    "Es ist deswegen kein Maßstab oder keine Regel, womit eine Sache beurteilt oder gerichtet wird.",
+    "Wenn ich sage, daß es mir ebenso gefällt, oder mich auf mein Vergnügen berufe, so spreche ich nur aus, daß die Sache für mich so gilt, und habe dadurch das verständige Verhältnis mit anderen aufgehoben.",
+    "Es ist zufällig seinem Inhalt nach, weil es sich an diesen oder jenen Gegenstand knüpfen kann, und weil es nicht auf den Inhalt ankommt, so ist es etwas Formelles.",
+    "Auch seinem äußerlichen Dasein nach ist das Vergnügen zufällig, [weil es zufällig ist,] die Umstände vorzufinden.",
+    "Die Mittel, welche ich dazu brauche, sind etwas Äußerliches und hängen nicht von mir ab.",
+    "Zweitens muß das Dasein, was ich durch die Mittel zustande gebracht habe, insofern es mir Vergnügen machen soll, für mich werden, an mich kommen.",
+    "Dies aber ist das Zufällige.",
+    "Die Folgen dessen, was ich tue, kehren darum nicht an mich zurück.",
+    "Ich habe den Genuß derselben nicht notwendigerweise. - Das Vergnügen entspringt also aus zweierlei Umständen: erstens aus einem Dasein, das man vorfinden muß, was ganz vom Glück abhängt; und zweitens aus einem solchen, das ich selbst hervorbringe.",
+    "Dies Dasein hängt zwar als Wirkung meiner Tat von meinem Willen ab, aber nur die Handlung als solche gehört mir; hingegen der Erfolg muß nicht notwendig auf mich zurückkommen, folglich auch nicht der Genuß der Handlung.",
+    "In einer solchen Handlung wie der des Decius Mus für sein Vaterland liegt, daß die Wirkung derselben nicht auf ihn als Genuß zurückkommen sollte.",
+    "Es sind überhaupt nicht die Folgen zum Prinzip der Handlung zu machen.",
+    "Die Folgen einer Handlung sind zufällig, weil sie ein äußerliches Dasein sind, das von anderen Umständen abhängt oder aufgehoben werden kann."
+   ]
+  },
+  {
+   "bi": 109,
+   "k": "p",
+   "hash": "15hsrop15e",
+   "sents": [
+    "Das Vergnügen ist ein Sekundäres, ein die Tat Begleitendes.",
+    "Indem das Substantielle verwirklicht wird, so fügt sich das Vergnügen insofern hinzu, als man im Werke auch sein Subjektives erkennt.",
+    "Wer dem Vergnügen nachgeht, sucht nur sich nach seiner Akzidentalität.",
+    "Wer mit großen Werken und Interessen beschäftigt ist, strebt nur die Sache an sich zur Wirklichkeit zu bringen.",
+    "Er ist auf das Substantielle gerichtet, erinnert sich seiner darin nicht, vergißt sich in der Sache.",
+    "Menschen von großen Interessen und Arbeiten pflegen vom Volke bedauert zu werden, daß sie wenig Vergnügen haben, d. h. daß sie nur in der Sache, nicht in ihrer Akzidentalität leben."
+   ]
+  },
+  {
+   "bi": 110,
+   "k": "p",
+   "hash": "fxx2j56zen",
+   "sents": [
+    "§ 38"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p106.json"
+}

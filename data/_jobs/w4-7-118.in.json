@@ -1,0 +1,48 @@
+{
+ "id": "w4-7-118",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 118,
+   "k": "p",
+   "hash": "15ien31d1s",
+   "sents": [
+    "Erläuterung.",
+    "Die Moralität hat den Menschen in seiner Besonderheit zum Gegenstande.",
+    "Diese scheint zunächst nur eine Menge von Mannigfaltigkeiten zu enthalten, das Ungleiche, was die Menschen voneinander unterscheidet.",
+    "Wodurch aber die Menschen voneinander unterschieden sind, ist das Zufällige, von der Natur und äußeren Umständen Abhängige.",
+    "Im Besonderen ist aber zugleich etwas Allgemeines enthalten.",
+    "Die Besonderheit des Menschen besteht im Verhältnis zu anderen.",
+    "In diesem Verhältnis sind nun auch wesentliche und notwendige Bestimmungen.",
+    "Diese machen den Inhalt der Pflicht aus."
+   ]
+  },
+  {
+   "bi": 119,
+   "k": "p",
+   "hash": "d6j0p21qj0",
+   "sents": [
+    "§ 40"
+   ]
+  },
+  {
+   "bi": 120,
+   "k": "p",
+   "hash": "1w34jl01ja",
+   "sents": [
+    "Der Mensch hat 1. die wesentliche Bestimmung, ein Einzelner zu sein, 2. gehört er einem natürlichen Ganzen, der Familie an, 3. ist er Glied des Staates, 4. steht er in Verhältnis zu anderen Menschen überhaupt. - Die Pflichten teilen sich daher in vier Gattungen: 1. in Pflichten gegen sich, 2. gegen die Familie, 3. gegen den Staat und 4. gegen andere Menschen überhaupt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p118.json"
+}

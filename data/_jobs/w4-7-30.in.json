@@ -1,0 +1,89 @@
+{
+ "id": "w4-7-30",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "1ganbegoro",
+   "sents": [
+    "§ 11"
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "17dc69rz2x",
+   "sents": [
+    "Der Besitz wird zum Eigentum oder rechtlich, insofern von allen anderen anerkannt wird, daß die Sache, die ich zur meinigen gemacht habe, mein sei, wie ich ebenso den Besitz der anderen als den ihrigen anerkenne.",
+    "Mein Besitz wird anerkannt, weil er ein Akt des freien Willens ist, der etwas Absolutes in sich selbst ist und worin das Allgemeine liegt, daß ich das Wollen anderer ebenso als etwas Absolutes betrachte."
+   ]
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "j9t4bqrynm",
+   "sents": [
+    "Erläuterung.",
+    "Besitz und Eigentum sind zwei verschiedene Bestimmungen.",
+    "Es ist nicht notwendig, daß Besitz und Eigentum immer verbunden sind.",
+    "Es ist möglich, daß ich ein Eigentum habe, ohne davon in Besitz zu sein.",
+    "Wenn ich z. B. einem anderen etwas leihe, so bleibt dies immer mein Eigentum, ob ich es gleich nicht besitze.",
+    "Besitz und Eigentum sind in dem Begriff enthalten, daß ich ein Dominium über etwas habe.",
+    "Das Eigentum ist die rechtliche Seite des Dominiums, und der Besitz ist nur die äußerliche Seite, daß etwas überhaupt in meiner Gewalt ist.",
+    "Das Rechtliche ist die Seite meines absoluten freien Willens, der etwas für das Seinige erklärt hat.",
+    "Dieser Wille muß von anderen anerkannt werden, weil er an und für sich ist und insofern die zuvor angegebenen Bedingungen beobachtet worden sind. - Das Eigentum hat also eine innerliche und eine äußerliche Seite.",
+    "Diese für sich ist die Besitznahme, jene der Akt des Willens, der als solcher anerkannt werden muß.",
+    "Es scheint zufällig oder willkürlich, ob zu einer Besitznahme auch das Anerkennen anderer hinzukomme.",
+    "Es muß aber hinzukommen, weil es in der Natur der Sache liegt.",
+    "Anerkennen hat nicht den Grund der Gegenseitigkeit.",
+    "Ich anerkenne es nicht darum, weil du es anerkennst und umgekehrt, sondern Grund dieses gegenseitigen Anerkennens ist die Natur der Sache selbst.",
+    "Ich anerkenne den Willen des anderen, weil er an und für sich anzuerkennen ist."
+   ]
+  },
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "1h4m4hd1px",
+   "sents": [
+    "§ 12"
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "c468s1dkjs",
+   "sents": [
+    "Ich kann mich meines Eigentums entäußern, und dasselbe kann durch meinen freien Willen an andere übergehen."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "7v852p1mik",
+   "sents": [
+    "Erläuterung.",
+    "Meine Kräfte und Geschicklichkeiten sind zwar mein eigenstes Eigentum, aber sie haben auch eine Äußerlichkeit.",
+    "Nach der abstrakten Bestimmung sind sie schon insofern äußerlich, als ich sie von mir, dem einfachen Ich, unterscheiden kann.",
+    "Aber auch an sich sind die Kräfte und Geschicklichkeiten einzelne und beschränkte, die nicht mein Wesen selbst ausmachen.",
+    "Mein Wesen, das an sich Allgemeine, ist von diesen besonderen Bestimmungen unterschieden.",
+    "Endlich sind sie in ihrem Gebrauch äußerlich.",
+    "Eben indem ich sie gebrauche, mache ich sie zu einer äußerlichen Form, und das durch sie Hervorgebrachte ist irgendein äußerliches Dasein.",
+    "Im Gebrauch liegt nicht die Kraft als solche, sondern sie erhält sich, ungeachtet sie sich geäußert und diese ihre Äußerung zu einem von ihr verschiedenen Dasein gemacht hat.",
+    "Diese Äußerung der Kraft ist auch insofern etwas Äußerliches, als sie etwas Beschränktes und Endliches ist. - Insofern etwas mein Eigentum ist, habe ich es zwar mit meinem Willen verbunden, aber diese Verbindung ist keine absolute; denn wäre sie eine solche, so müßte mein Wille seinem Wesen nach in dieser Sache liegen.",
+    "Sondern ich habe meinen Willen hier nur zu etwas Besonderem gemacht und kann, weil er frei ist, diese Besonderheit wieder aufheben."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p30.json"
+}

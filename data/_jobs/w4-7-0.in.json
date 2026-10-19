@@ -1,0 +1,124 @@
+{
+ "id": "w4-7-0",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "sms6311rr9",
+   "text": "Erster Abschnitt Rechtslehre"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1jpl6l51ur",
+   "sents": [
+    "§ 1"
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1rwrleh1fs",
+   "sents": [
+    "Es muß 1. das Recht an sich und 2. sein Bestehen in der Staatsgesellschaft betrachtet werden."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "h",
+   "hash": "9j53dn1u2u",
+   "text": "Erstes Kapitel Das Recht"
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "1ivmdi816q",
+   "sents": [
+    "§ 2"
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "94lc901a7u",
+   "sents": [
+    "Nach dem Recht soll bloß der allgemeine Wille geschehen, ohne Rücksicht auf die Absicht oder Überzeugung des Einzelnen, und das Recht hat den Menschen nur als freies Wesen überhaupt zum Gegenstande."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "1j5lz775kz",
+   "sents": [
+    "§ 3"
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "frynsh1sho",
+   "sents": [
+    "Das Recht besteht darin, daß jeder Einzelne von dem anderen als ein freies Wesen respektiert und behandelt werde, denn nur insofern hat der freie Wille sich selbst im Anderen zum Gegenstand und Inhalt."
+   ]
+  },
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1il03s6ncu",
+   "sents": [
+    "Erläuterung.",
+    "Dem Rechte liegt die Freiheit des Einzelnen zugrunde, und das Recht besteht darin, daß ich den Anderen als ein freies Wesen behandele.",
+    "Die Vernunft fordert ein rechtliches Verhalten.",
+    "Seinem Wesen nach ist jeder ein Freier.",
+    "Durch ihre besonderen Zustände und Eigenheiten sind die Menschen unterschieden, aber dieser Unterschied geht den abstrakten Willen als solchen nichts an.",
+    "Hierin sind sie dasselbe, und indem man den anderen respektiert, respektiert man sich selbst.",
+    "Es folgt daraus, daß durch die Verletzung des Rechts eines Einzelnen alle in ihrem Recht verletzt werden.",
+    "Es ist dies eine ganz andere Teilnahme, als wenn man nur an dem Schaden eines anderen teilnimmt.",
+    "Denn 1. der Schaden oder Verlust, den jemand an Glücksgütern erleidet, deren guter Zustand zwar wünschenswert, aber nicht an sich notwendig ist, geht mich zwar an, allein ich kann nicht sagen, daß es schlechthin nicht hätte geschehen sollen; 2. gehören solche Zustände zur Besonderheit des Menschen.",
+    "Bei aller Teilnahme trennen wir Unglücksfälle von uns selbst ab und sehen sie als etwas Fremdes an.",
+    "Hingegen bei der Kränkung des Rechts eines anderen fühlt jeder sich unmittelbar getroffen, weil das Recht etwas Allgemeines ist.",
+    "Also eine Rechtsverletzung können wir nicht als etwas Fremdes betrachten.",
+    "Wir fühlen uns durch sie, weil das Recht notwendig ist, härter gekränkt."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "1kjjzo213g",
+   "sents": [
+    "§ 4"
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "kzkzaaxe5c",
+   "sents": [
+    "Insofern jeder als ein freies Wesen anerkannt wird, ist er eine Person.",
+    "Der Satz des Rechts läßt sich daher auch so ausdrücken: es soll jeder von dem anderen als Person behandelt werden."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "4paibj83z2",
+   "sents": [
+    "Erläuterung.",
+    "Der Begriff der Persönlichkeit schließt in sich die Ichheit oder Einzelheit, welche ein Freies oder Allgemeines ist.",
+    "Die Menschen haben durch ihre geistige Natur Persönlichkeit."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p0.json"
+}

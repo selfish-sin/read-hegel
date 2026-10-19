@@ -1,0 +1,107 @@
+{
+ "id": "w4-7-69",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "d5xw3g1jbr",
+   "sents": [
+    "§ 24"
+   ]
+  },
+  {
+   "bi": 70,
+   "k": "p",
+   "hash": "1u8sp7w1d0",
+   "sents": [
+    "Der Staat ist die Gesellschaft von Menschen unter rechtlichen Verhältnissen, worin sie nicht wegen eines besonderen Naturverhältnisses nach natürlichen Neigungen und Gefühlen, sondern als Personen füreinander gelten und diese Persönlichkeit eines jeden mittelbar behauptet wird.",
+    "Wenn eine Familie sich zur Nation erweitert hat und der Staat mit der Nation in eins zusammenfällt, so ist dies ein großes Glück."
+   ]
+  },
+  {
+   "bi": 71,
+   "k": "p",
+   "hash": "f1j2ljg3tk",
+   "sents": [
+    "Erläuterung.",
+    "Ein Volk hängt durch Sprache, Sitten und Gewohnheit und Bildung zusammen.",
+    "Dieser Zusammenhang aber formiert noch keinen Staat.",
+    "Ferner sind Moralität, Religion, Wohlstand und Reichtum aller seiner Bürger zwar sehr wichtig für den Staat, er muß auch Sorge tragen zur Beförderung dieser Umstände; aber sie machen für ihn nicht den unmittelbaren Zweck aus, sondern das Recht."
+   ]
+  },
+  {
+   "bi": 72,
+   "k": "p",
+   "hash": "dfxhsf1xhg",
+   "sents": [
+    "§ 25"
+   ]
+  },
+  {
+   "bi": 73,
+   "k": "p",
+   "hash": "12tdoyipxf",
+   "sents": [
+    "Der Naturzustand ist der Stand der Roheit, Gewalt und Ungerechtigkeit.",
+    "Die Menschen müssen aus einem solchen in die Staatsgesellschaft treten, weil nur in ihr das rechtliche Verhältnis Wirklichkeit hat."
+   ]
+  },
+  {
+   "bi": 74,
+   "k": "p",
+   "hash": "1ch29unhnv",
+   "sents": [
+    "Erläuterung.",
+    "Der Naturzustand pflegt häufig als ein vollkommener Zustand des Menschen geschildert zu werden, sowohl nach der Glückseligkeit als nach der sittlichen Güte.",
+    "Fürs erste ist zu bemerken, daß die Unschuld als solche keinen moralischen Wert hat, insofern sie Unwissenheit des Bösen ist und auf dem Mangel von Bedürfnissen beruht, unter welchen Böses geschehen kann.",
+    "Zweitens ist dieser Zustand vielmehr ein Zustand der Gewalt und des Unrechts, eben weil die Menschen sich in ihm nach der Natur betrachten.",
+    "Nach dieser aber sind sie ungleich, sowohl in Rücksicht auf körperliche Kräfte als auf geistige Anlagen, und machen ihren Unterschied durch Gewalt und List gegeneinander geltend.",
+    "Vernunft ist zwar auch im Naturzustande, aber das Natürliche ist das Herrschende.",
+    "Die Menschen müssen daher aus ihm in einen Zustand übergehen, in welchem der vernünftige Wille das Herrschende ist."
+   ]
+  },
+  {
+   "bi": 75,
+   "k": "p",
+   "hash": "dpx3hewbrf",
+   "sents": [
+    "§ 26"
+   ]
+  },
+  {
+   "bi": 76,
+   "k": "p",
+   "hash": "lnw87m1e7n",
+   "sents": [
+    "Das Gesetz ist der abstrakte Ausdruck des allgemeinen an und für sich seienden Willens."
+   ]
+  },
+  {
+   "bi": 77,
+   "k": "p",
+   "hash": "1e2wxn3156",
+   "sents": [
+    "Erläuterung.",
+    "Das Gesetz ist der allgemeine Wille, insofern er es nach der Vernunft ist.",
+    "Es ist dabei nicht notwendig, daß jeder Einzelne bloß durch sich diesen Willen gewußt oder gefunden habe.",
+    "Auch ist nicht nötig, daß jeder Einzelne seinen Willen erklärt hatte und dann daraus ein allgemeines Resultat gezogen wurde.",
+    "Es ist deswegen in der wirklichen Geschichte auch nicht so zugegangen, daß jeder einzelne Bürger eines Volkes ein Gesetz vorgeschlagen hätte und dann durch gemeinschaftliche Beratung mit den anderen über das Gesetz übereingekommen wäre.",
+    "Das Gesetz enthält die Notwendigkeit der rechtlichen Verhältnisse gegeneinander.",
+    "Die Gesetzgeber haben nicht willkürliche Satzungen gegeben.",
+    "Es sind nicht Bestimmungen ihres besonderen Beliebens, sondern sie haben durch ihren tiefen Geist erkannt, was die Wahrheit und das Wesen eines rechtlichen Verhältnisses ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p69.json"
+}

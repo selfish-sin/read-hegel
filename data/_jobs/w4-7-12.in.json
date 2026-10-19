@@ -1,0 +1,106 @@
+{
+ "id": "w4-7-12",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "1ktjld12ap",
+   "sents": [
+    "§ 5"
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "jxrsh49ego",
+   "sents": [
+    "Es folgt hieraus, daß kein Mensch gezwungen werden kann als nur dazu, den Zwang, den er anderen angetan hat, aufzuheben."
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "4r6yqo1bl7",
+   "sents": [
+    "Erläuterung.",
+    "Es gibt Beschränkungen der Freiheit und Gesetze, welche es gestatten, daß Menschen nicht als Personen, sondern als Sache behandelt werden, z. B. die Gesetze, welche die Sklaverei erlauben.",
+    "Diese sind aber nur positive Gesetze, Rechte, und zwar die der Vernunft oder dem absoluten Recht entgegengesetzt sind."
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "1jzksa4n0y",
+   "sents": [
+    "§ 6"
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "1p67ejwipd",
+   "sents": [
+    "Diejenige Handlung, welche die Freiheit eines anderen beschränkt oder ihn nicht als freien Willen anerkennt und gelten läßt, ist widerrechtlich."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1aq146w1f7",
+   "sents": [
+    "Erläuterung.",
+    "Im absoluten Sinne ist eigentlich kein Zwang gegen den Menschen möglich, weil jeder ein freies Wesen ist, weil er seinen Willen gegen die Notwendigkeit behaupten und alles, was zu seinem Dasein gehört, aufgeben kann.",
+    "Der Zwang findet auf folgende Weise statt.",
+    "An die Seite des Daseins des Menschen wird irgend etwas als Bedingung desselben angeknüpft, so daß, wenn er das erstere erhalten will, er sich auch das andere gefallen lassen muß.",
+    "Weil das Dasein des Menschen von äußeren Gegenständen abhängig ist, so kann er an einer Seite seines Daseins gefaßt werden.",
+    "Der Mensch wird nur gezwungen, wenn er etwas will, mit dem noch ein anderes verbunden ist, und es hängt von seinem Willen ab, ob er das eine und damit auch das andere oder auch keines von beiden will.",
+    "Insofern er doch gezwungen wird, ist, wozu er bestimmt wird, auch in seinem Willen gelegen.",
+    "Der Zwang ist insofern nur etwas Relatives.",
+    "Rechtlich ist er, wenn er geübt wird, um das Recht gegen den Einzelnen geltend zu machen.",
+    "Dieser Zwang hat eine Seite, nach welcher er kein Zwang ist und der Würde des freien Wesens nicht widerspricht, weil der Wille an und für sich auch der absolute Wille eines jeden ist.",
+    "Die Freiheit findet überhaupt da statt, wo das Gesetz, nicht die Willkür eines Einzelnen herrscht."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "1k9kdz31kw",
+   "sents": [
+    "§ 7"
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "1k3ojs116q",
+   "sents": [
+    "Erlaubt, jedoch darum nicht geboten, ist rechtlicherweise alles, was die Freiheit der anderen nicht beschränkt oder keinen Akt derselben aufhebt."
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "10jclg41xc",
+   "sents": [
+    "Erläuterung.",
+    "Das Recht enthält eigentlich nur Verbote, keine Gebote, und was nicht verboten ist, das ist erlaubt.",
+    "Allerdings kann man die Rechtsverbote positiv als Gebote ausdrücken, z. B. \"du sollst den Vertrag halten!\"",
+    "Der allgemeine Rechtsgrundsatz, von welchem die anderen nur besondere Anwendungen sind, heißt: \"du sollst das Eigentum eines anderen ungekränkt lassen!\"",
+    "Dies heißt nicht: du sollst dem anderen etwas Positives erweisen oder eine Veränderung in Umständen hervorbringen, sondern enthält nur die Unterlassung der Verletzung des Eigentums.",
+    "Wenn also das Recht als positives Gebot ausgedrückt wird, so ist dies nur eine Form des Ausdrucks, welchem dem Inhalt nach immer das Verbot zugrunde liegt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p12.json"
+}

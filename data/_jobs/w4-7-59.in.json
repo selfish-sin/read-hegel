@@ -1,0 +1,120 @@
+{
+ "id": "w4-7-59",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Zweites Kapitel Die Staatsgesellschaft",
+ "blocks": [
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "1h088of1em",
+   "sents": [
+    "Erläuterung.",
+    "Die Wiedervergeltung beruht überhaupt auf der vernünftigen Natur des Unrechthandelnden, oder sie besteht darin, daß das Unrechte sich in das Rechte verkehren muß.",
+    "Die unrechte Handlung ist zwar eine einzelne unvernünftige Handlung.",
+    "Weil sie aber von einem vernünftigen Wesen ausgeführt wird, so ist sie, zwar nicht ihrem Gehalt nach, aber doch der Form nach, ein Vernünftiges und Allgemeines.",
+    "Ferner ist sie als ein Grundsatz oder Gesetz zu betrachten.",
+    "Aber als solches gilt es zugleich nur für den Handelnden, weil nur er durch seine Handlung es anerkennt, nicht aber die anderen.",
+    "Er selbst also gehört wesentlich unter diesen Grundsatz oder dies Gesetz, das an ihm ausgeführt werden muß.",
+    "Das Unrecht, das er ausgeübt hat, an ihm vollführt, ist Recht, weil durch diese zweite Handlung, die er anerkannt hat, eine Wiederherstellung der Gleichheit aufgestellt wird.",
+    "Dies ist nur formelles Recht."
+   ]
+  },
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "cbz30ji62p",
+   "sents": [
+    "§ 21"
+   ]
+  },
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "b5frrs1twm",
+   "sents": [
+    "Die Wiedervergeltung aber soll nicht vom einzelnen Beleidigten oder von dessen Angehörigen ausgeübt werden, weil bei ihnen die allgemeine Rechtsrücksicht zugleich mit der Zufälligkeit der Leidenschaft verbunden ist.",
+    "Sie muß die Handlung eines dritten Gewalthabenden sein, der bloß das Allgemeine geltend macht und vollführt.",
+    "Insofern ist sie Strafe."
+   ]
+  },
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "1g9f9b41ee",
+   "sents": [
+    "Erläuterung.",
+    "Rache und Strafe unterscheiden sich dadurch voneinander, daß die Rache eine Wiedervergeltung ist, insofern sie von der beleidigten Partei ausgeübt wird, Strafe aber, insofern sie vom Richter ausgeübt wird.",
+    "Die Wiedervergeltung muß daher als Strafe geübt werden, weil bei der Rache die Leidenschaft Einfluß hat und das Recht dadurch getrübt wird.",
+    "Ferner hat die Rache nicht die Form des Rechts, sondern die der Willkür, indem die beleidigte Partei immer aus Gefühl oder subjektiver Triebfeder handelt.",
+    "Deswegen ist das Recht, als Rache ausgeübt, wieder eine neue Beleidigung, wird nur als einzelne Handlung empfunden und pflanzt sich also unversöhnt ins Unendliche fort."
+   ]
+  },
+  {
+   "bi": 63,
+   "k": "h",
+   "hash": "1hmdlud1r0",
+   "text": "Zweites Kapitel Die Staatsgesellschaft"
+  },
+  {
+   "bi": 64,
+   "k": "p",
+   "hash": "clyopi1g1h",
+   "sents": [
+    "§ 22"
+   ]
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "mjzv7ei0bs",
+   "sents": [
+    "Der Rechtsbegriff als die Gewalt habende, von Triebfedern der Einzelheit unabhängige Macht hat nur in der Staatsgesellschaft Wirklichkeit."
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "cvyaehlgd1",
+   "sents": [
+    "§ 23"
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "5g6hv1sxbp",
+   "sents": [
+    "Die Familie ist die natürliche Gesellschaft, deren Glieder durch Liebe, Vertrauen und natürlichen Gehorsam (Pietät) verbunden sind."
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "xgp0yii2k6",
+   "sents": [
+    "Erläuterung.",
+    "Die Familie ist eine natürliche Gesellschaft erstens, weil jemand einer Familie nicht durch seinen Willen, sondern durch die Natur als Mitglied angehört, und zweitens, weil die Verhältnisse und das Benehmen der Mitglieder zueinander nicht sowohl auf Überlegung und Entschluß, sondern auf Gefühl und Trieb beruhen.",
+    "Die Verhältnisse sind notwendig und vernünftig, aber es fehlt die Form der bewußten Einsicht.",
+    "Es ist mehr Instinkt.",
+    "Die Liebe der Familienmitglieder beruht darauf, daß mein Ich mit dem anderen einzelnen Ich eine Einheit ausmacht.",
+    "Sie betrachten sich gegeneinander nicht als Einzelne.",
+    "Die Familie ist ein organisches Ganzes.",
+    "Die Teile sind eigentlich nicht Teile, sondern Glieder, die ihre Substanz nur in dem Ganzen haben und welchen, getrennt von dem Ganzen, die Selbständigkeit fehlt.",
+    "Das Vertrauen, das die Familienglieder zueinander haben, besteht darin, daß jeder nicht ein Interesse für sich hat, sondern überhaupt für das Ganze.",
+    "Der natürliche Gehorsam innerhalb der Familie beruht darauf, daß in diesem Ganzen nur ein Wille ist, welcher nämlich dem Oberhaupte zukommt.",
+    "Insofern macht die Familie nur eine Person aus.",
+    "(Nation.)"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p59.json"
+}

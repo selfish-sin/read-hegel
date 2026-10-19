@@ -1,0 +1,115 @@
+{
+ "id": "w4-7-21",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "1lniefyjqo",
+   "sents": [
+    "§ 8"
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "bd7gu3hji9",
+   "sents": [
+    "Der Wille, indem er eine Sache unter sich subsumiert, macht sie zu der seinigen.",
+    "Der Besitz ist dies Subsumiertsein einer Sache unter meinen Willen."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "7q86z5390h",
+   "sents": [
+    "Erläuterung.",
+    "Zum Subsumieren gehören zwei Stücke, etwas Allgemeines und etwas Einzelnes.",
+    "Ich subsumiere etwas Einzelnes, wenn ich ihm eine allgemeine Bestimmung beilege.",
+    "Dies Subsumieren kommt überhaupt im Urteilen vor.",
+    "Das Subsumierende im Urteilen ist das Prädikat und das Subsumierte das Subjekt.",
+    "Die Besitznahme ist das Ausprechen des Urteils, daß eine Sache die meinige wird.",
+    "Mein Wille ist hier das Subsumierende.",
+    "Ich gebe der Sache das Prädikat, die meinige zu sein.",
+    "Der Wille ist das Subsumierende für alle äußerlichen Dinge, weil er an sich das allgemeine Wesen ist.",
+    "Alle Dinge aber, die nicht selbst sich auf sich beziehen, sind nur notwendige, nicht freie.",
+    "Dies Verhältnis macht also, daß der Mensch das Recht hat, alle äußerlichen Dinge in Besitz zu nehmen und aus ihnen ein Anderes, als sie selbst sind, zu machen.",
+    "Er behandelt sie damit nur ihrem Wesen gemäß."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "1lxi04x1hm",
+   "sents": [
+    "§ 9"
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1yyccj1d90",
+   "sents": [
+    "Die erst in Besitz zu nehmende Sache muß 1. res nullius sein, d. h. nicht schon unter einen anderen Willen subsumiert sein."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "er7yhg4usm",
+   "sents": [
+    "Erläuterung.",
+    "Eine Sache, die schon eines anderen ist, darf ich nicht in Besitz nehmen, nicht, weil sie Sache, sondern weil sie seine Sache ist.",
+    "Denn nehme ich die Sache in Besitz, so hebe ich an ihr das Prädikat, die seinige zu sein, auf und negiere damit seinen Willen.",
+    "Der Wille ist etwas Absolutes, das ich nicht zu etwas Negativem machen kann."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "1gkmx3f1mn",
+   "sents": [
+    "§ 10"
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "1adabw012q",
+   "sents": [
+    "Der Besitz muß ergriffen werden, d. h. es muß für die anderen erkennbar gemacht werden, daß ich diesen Gegenstand unter meinen Willen subsumiert haben will, es sei durch körperliche Ergreifung oder durch Formierung oder wenigstens durch Bezeichnung des Gegenstandes."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "5a7gsgstao",
+   "sents": [
+    "Erläuterung.",
+    "Der äußerlichen Besitzergreifung muß der innerliche Willensakt vorangehen, welcher ausdrückt, daß die Sache mein sein soll.",
+    "Die erste Art der Besitznahme ist die körperliche Ergreifung.",
+    "Sie hat den Mangel, daß die zu ergreifenden Gegenstände so beschaffen sein müssen, daß ich sie unmittelbar mit der Hand ergreifen oder mit meinem Körper bedecken kann, und ferner, daß sie nicht fortdauernd ist. - Die zweite, vollkommenere Art ist die Formierung, daß ich einem Dinge eine Gestalt gebe, z. B. einen Acker bebaue, Gold zu einem Becher mache.",
+    "Hier ist die Form des Meinigen unmittelbar mit dem Gegenstande verbunden und daher an und für sich ein Zeichen, daß auch die Materie mir gehöre.",
+    "Zur Formierung gehört unter anderem auch das Pflanzen von Bäumen, das Zähmen und Füttern von Tieren.",
+    "Eine unvollkommene Art des Landbesitzes ist die Benutzung eines Distriktes ohne seine Formierung, z. B. wenn nomadische Völker ein Gebiet zur Viehweide, Jägervölker zur Jagd, Fischervölker den Strand eines Meeres oder Flusses benutzen.",
+    "Eine solche Besitznahme ist noch oberflächlich, weil die wirkliche Benutzung nur erst eine temporäre, noch nicht auf bleibende, an dem Gegenstand haftende Weise ist. - Die Besitznahme durch die bloße Bezeichnung des Gegenstandes ist unvollkommen.",
+    "Das Zeichen, das nicht wie in der Formierung zugleich die Sache selbst ausmacht, ist ein Ding, das eine Bedeutung hat, die aber nicht sein eigenes Wesen ist und wogegen es sich also als ein fremdes verhält.",
+    "Aber es hat auch sonst eine ihm eigene Bedeutung, welche nicht mit der Natur des durch es bezeichneten Dinges selbst zusammenhängt.",
+    "Die Bezeichnung ist also willkürlich.",
+    "Von was ein Ding Zeichen sein soll, ist mehr oder weniger die Sache der Konvenienz."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p21.json"
+}

@@ -1,0 +1,95 @@
+{
+ "id": "w4-7-45",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "1i8kj99167",
+   "sents": [
+    "§ 16"
+   ]
+  },
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "1p0ze0t981",
+   "sents": [
+    "Die im Vertrag enthaltene Willenserklärung ist noch nicht die Verwirklichung und Ausführung des Übergehens meiner Sache oder Arbeit an den anderen.",
+    "Dieser Übergang aus dem Grunde des Vertrages ist die Leistung"
+   ]
+  },
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "1mgehvr1l2",
+   "sents": [
+    "Erläuterung.",
+    "Mein Versprechen im Vertrag enthält, daß ich etwas durch meinen Willen aus der Sphäre des Meinigen ausgeschlossen habe, und zugleich habe ich anerkannt, daß es der andere in die seinige aufgenommen hat.",
+    "Weil nun, daß etwas mein sei, soweit es von mir abhängt, in meinem Willen seinen Grund hat, so ist durch den Vertrag die Sache bereits Eigentum des anderen geworden.",
+    "Insofern ich also das im Vertrag Bestimmte dem anderen nicht leistete oder ihn nicht in Besitz setzte, so würde ich sein Eigentum verletzen.",
+    "Ich bin also durch den Vertrag selbst zur Haltung desselben verpflichtet (Erwerb durch Testament)."
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "1hykxka8c9",
+   "sents": [
+    "§ 17"
+   ]
+  },
+  {
+   "bi": 49,
+   "k": "p",
+   "hash": "ogc7lz9eab",
+   "sents": [
+    "Ein Eingriff in die Sphäre meiner Freiheit durch einen anderen kann entweder 1.",
+    "So beschaffen sein, daß er mein Eigentum als das seinige in seinem Besitz hat oder anspricht in dem Sinne, daß er das Recht dazu habe und, wenn nicht er, sondern ich das Recht dazu hätte, er es mir überlassen würde.",
+    "Er respektiert hierin das Recht überhaupt und behauptet nur, daß es in diesem besonderen Fall auf seiner Seite sei.",
+    "Oder aber 2. es liegt in seiner Handlung, daß er meinen Willen überhaupt nicht anerkennt und somit das Recht als Recht verletzt."
+   ]
+  },
+  {
+   "bi": 50,
+   "k": "p",
+   "hash": "1pmsww51lg",
+   "sents": [
+    "Erläuterung.",
+    "Die bisherigen Begriffe enthalten die Natur des Rechts, seine Gesetze, seine Notwendigkeit.",
+    "Aber das Recht ist nicht ein solches Notwendiges wie das Notwendige der physischen Natur, - z. B. die Sonne kann nicht aus ihrer Bahn treten.",
+    "Eine Blume muß ganz ihrer Natur gemäß sein.",
+    "Wenn sie z. B. ihre Gestaltung nicht erfüllt, so kommt dies von äußerlicher Einwirkung, nicht von ihr selbst her.",
+    "Der Geist hingegen kann wegen seiner Freiheit gegen die Gesetze handeln.",
+    "Es kann also gegen das Recht gehandelt werden.",
+    "Hier ist zu unterscheiden 1. das allgemeine Recht, das Recht qua Recht, 2. das besondere Recht, wie es sich bloß auf das Recht einer einzelnen Person auf eine einzelne Sache bezieht.",
+    "Das allgemeine Recht ist, daß überhaupt jeder, unabhängig von diesem Eigentum, eine rechtliche Person ist.",
+    "Es kann also der Eingriff in das Recht so beschaffen sein, daß damit nur behauptet wird, dies besondere Recht, diese besondere Sache stehe einem nicht zu.",
+    "Aber es wird dabei nicht das allgemeine Recht verletzt.",
+    "Man verhält sich dabei gegen seinen Gegner als eine rechtliche Person.",
+    "Ein solches Urteil kann überhaupt als ein bloß negatives betrachtet werden, worin im Prädikat das Besondere negiert wird; z. B. wenn ich urteile: \"dieser Ofen ist nicht grün\", so negiere ich bloß das Prädikat des so und so Gefärbtseins, nicht aber das Allgemeine. - Im zweiten Fall des Eingriffs in das Recht eines anderen behaupte ich nicht nur, daß eine besondere Sache nicht das Eigentum eines anderen ist, sondern ich negiere auch, daß er eine rechtliche Person ist.",
+    "Ich behandle ihn nicht als Person.",
+    "Ich mache auf etwas nicht Anspruch aus dem Grunde, daß ich das Recht dazu habe oder zu haben glaube.",
+    "Ich verletze das Recht qua Recht.",
+    "Ein solches Urteil gehört zu denen, welche unendliche genannt werden.",
+    "Das unendliche Urteil negiert von dem Prädikat nicht nur das Besondere, vielmehr auch das Allgemeine; z. B. \"dieser Ofen ist kein Walfisch\" oder \"er ist nicht das Gedächtnis\".",
+    "Weil nicht nur das Bestimmte, sondern auch das Allgemeine des Prädikats negiert wird, so bleibt dem Subjekt nichts übrig.",
+    "Solche Urteile sind deswegen widersinnig, aber doch richtig.",
+    "Auf dieselbe Weise ist die Verletzung des Rechts qua Recht etwas Mögliches, was auch geschieht, aber etwas Widersinniges, sich Widersprechendes.",
+    "Die Fälle der ersten Art gehören zum Zivilrecht, die der zweiten zum Kriminalrecht.",
+    "Das erste heißt auch bürgerliches, das zweite peinliches Recht."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p45.json"
+}

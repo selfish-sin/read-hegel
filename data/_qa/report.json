@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T05:10:53.937Z",
- "blocks": 4908,
- "sentences": 14633,
+ "generated": "2026-10-19T05:18:02.869Z",
+ "blocks": 4944,
+ "sentences": 14749,
  "issues": [
   {
    "sev": "minor",
@@ -6915,6 +6915,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/6#299",
+   "msg": "sentence 7: \"Glück\" is not rendered as “幸运”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#301",
    "msg": "sentence 1: \"Mitte\" is not rendered as “中项”"
   },
@@ -6932,11 +6937,66 @@
    "sev": "minor",
    "where": "w4/6#301",
    "msg": "sentence 2: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#5",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#7",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#8",
+   "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#8",
+   "msg": "sentence 3: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#10",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#17",
+   "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#17",
+   "msg": "sentence 9: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#29",
+   "msg": "sentence 3: \"Körper\" is not rendered as “物体”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/7#29",
+   "msg": "sentence 3: \"Körper\" rendered with forbidden “身体” (expected “物体”)"
+  },
+  {
+   "sev": "major",
+   "where": "w4/7#29",
+   "msg": "sentence 7: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#32",
+   "msg": "sentence 7: \"Sein\" is not rendered as “存在”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 153,
-  "minor": 1233
+  "major": 155,
+  "minor": 1243
  }
 }

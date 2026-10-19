@@ -1,0 +1,113 @@
+{
+ "id": "w4-7-97",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 97,
+   "k": "p",
+   "hash": "etynr9etxm",
+   "sents": [
+    "§ 34"
+   ]
+  },
+  {
+   "bi": 98,
+   "k": "p",
+   "hash": "1o9kmzj1r7",
+   "sents": [
+    "Die Gesinnung ist die subjektive Seite der moralischen Handlung oder die Form derselben.",
+    "Es ist darin noch kein Inhalt vorhanden, welcher wie das wirkliche Handeln gleich wesentlich ist."
+   ]
+  },
+  {
+   "bi": 99,
+   "k": "p",
+   "hash": "1xbed9yvv3",
+   "sents": [
+    "Erläuterung.",
+    "Mit dem rechtlichen Verhalten soll wesentlich auch das moralische verbunden sein.",
+    "Es kann aber auch der Fall sein, daß mit dem rechtlichen Verhalten die Gesinnung des Rechts nicht verbunden ist, ja sogar, daß eine unmoralische Gesinnung dabei stattfindet.",
+    "Die rechtliche Handlung ist, insofern sie aus Achtung vor dem Gesetz geschieht, zugleich auch moralisch.",
+    "Das rechtliche Handeln - und zugleich mit der moralischen Gesinnung - ist schlechterdings zuerst zu verfolgen, und dann erst kann das moralische Handeln als solches eintreten, worin kein rechtliches Gebot (keine Rechtsschuldigkeit) vorhanden ist.",
+    "Die Menschen handeln gern bloß moralisch oder edel und schenken oft lieber weg, als daß sie ihre Rechtsschuldigkeiten erfüllen.",
+    "Denn in der edlen Handlung geben sie sich das Bewußtsein ihrer besonderen Vollkommenheit, da sie hingegen im rechtlichen Handeln das vollkommen Allgemeine ausüben, das ihnen mit allen gleich ist."
+   ]
+  },
+  {
+   "bi": 100,
+   "k": "p",
+   "hash": "snkham1srj",
+   "sents": [
+    "Alles Wirkliche enthält zwei Seiten, den wahren Begriff und die Realität dieses Begriffs; z. B. der Begriff des Staates ist die Sicherung und die Verwirklichung des Rechtes.",
+    "Zur Realität gehört nun die besondere Einrichtung der Verfassung, das Verhältnis der einzelnen Gewalten usf.",
+    "Zum wirklichen Menschen gehört auch, und zwar nach seiner praktischen Seite, der Begriff und die Realität des Begriffs.",
+    "Zu jenem gehört die reine Persönlichkeit oder die abstrakte Freiheit, zu diesem die besondere Bestimmung des Daseins und das Dasein selbst.",
+    "Zwar ist in diesem ein Mehreres als im Begriff enthalten, aber zugleich muß es diesem gemäß und durch ihn bestimmt sein.",
+    "Der reine Begriff des praktischen Daseins, das Ich, ist der Gegenstand des Rechts."
+   ]
+  },
+  {
+   "bi": 101,
+   "k": "p",
+   "hash": "ejz22a1853",
+   "sents": [
+    "§ 35"
+   ]
+  },
+  {
+   "bi": 102,
+   "k": "p",
+   "hash": "tcwejiqmtg",
+   "sents": [
+    "Die moralische Handlungsweise bezieht sich auf den Menschen nicht als abstrakte Person, sondern auf ihn nach den allgemeinen und notwendigen Bestimmungen seines besonderen Daseins.",
+    "Sie ist daher nicht bloß verbietend, wie eigentlich das Rechtsgebot, welches nur gebietet, die Freiheit des anderen unangetastet zu lassen, sondern gebietet, dem anderen auch Positives zu erweisen.",
+    "Die Vorschriften der Moral gehen auf die einzelne Wirklichkeit."
+   ]
+  },
+  {
+   "bi": 103,
+   "k": "p",
+   "hash": "e9zgdba9oz",
+   "sents": [
+    "§ 36"
+   ]
+  },
+  {
+   "bi": 104,
+   "k": "p",
+   "hash": "1veayin1kw",
+   "sents": [
+    "Der Trieb des Menschen nach seinem besonderen Dasein, wie die Moral es betrachtet, geht auf die Übereinstimmung des Äußeren überhaupt mit seinen inneren Bestimmungen, auf Vergnügen und Glückseligkeit."
+   ]
+  },
+  {
+   "bi": 105,
+   "k": "p",
+   "hash": "1qfe75inim",
+   "sents": [
+    "Erläuterung.",
+    "Der Mensch hat Triebe, d. h. er hat innerliche Bestimmungen in seiner Natur oder nach derjenigen Seite, nach welcher er ein Wirkliches überhaupt ist.",
+    "Diese Bestimmungen sind also ein Mangelhaftes, insofern sie nur ein Innerliches sind.",
+    "Sie sind Triebe, insofern sie darauf ausgehen, diesen Mangel aufzuheben, d. h. sie fordern ihre Realisierung, die Übereinstimmung des Äußerlichen mit dem Innerlichen.",
+    "Diese Übereinstimmung ist das Vergnügen.",
+    "Ihm geht daher eine Reflexion als Vergleichung zwischen dem Innerlichen und Äußerlichen voraus, mag dies von mir oder dem Glücke herrühren.",
+    "Das Vergnügen kann nun aus den mannigfaltigsten Quellen entspringen.",
+    "Es hängt nicht vom Inhalt ab, sondern betrifft nur die Form, oder es ist das Gefühl eines nur Formellen, nämlich der angegebenen Übereinstimmung.",
+    "Die Lehre, welche das Vergnügen oder vielmehr die Glückseligkeit zum Zwecke hat, ist Eudämonismus genannt worden.",
+    "Es ist aber darin unbestimmt, worin man das Vergnügen oder die Glückseligkeit zu suchen habe.",
+    "Es kann also einen ganz rohen, groben Eudämonismus geben, aber ebensogut einen besseren; nämlich die guten wie die bösen Handlungen können sich auf dies Prinzip gründen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p97.json"
+}

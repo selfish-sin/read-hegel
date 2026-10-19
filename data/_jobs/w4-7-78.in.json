@@ -1,0 +1,89 @@
+{
+ "id": "w4-7-78",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 7,
+ "chunkTitle": "Erster Abschnitt Rechtslehre",
+ "heading": "Erster Abschnitt Rechtslehre",
+ "blocks": [
+  {
+   "bi": 78,
+   "k": "p",
+   "hash": "dzwp6d1qmx",
+   "sents": [
+    "§ 27"
+   ]
+  },
+  {
+   "bi": 79,
+   "k": "p",
+   "hash": "1rqanrmsnc",
+   "sents": [
+    "Die Regierung ist die Individualität des an und für sich seienden Willens.",
+    "Sie ist die Macht, die Gesetze zu geben und zu handhaben oder zu vollstrecken."
+   ]
+  },
+  {
+   "bi": 80,
+   "k": "p",
+   "hash": "1qnk8s71pf",
+   "sents": [
+    "Erläuterung.",
+    "Der Staat hat Gesetze.",
+    "Diese sind also der Wille in seinem allgemeinen abstrakten Wesen, das als solches untätig ist, - wie Grundsätze, Maximen nur erst das Allgemeine des Wollens, noch nicht ein wirkliches Wollen ausdrücken oder enthalten.",
+    "Zu diesem Allgemeinen ist nur die Regierung der tätige und verwirklichende Wille.",
+    "Das Gesetz hat wohl als Sitte, als Gewohnheit Bestehen, aber die Regierung ist die bewußte Macht der bewußtlosen Gewohnheit."
+   ]
+  },
+  {
+   "bi": 81,
+   "k": "p",
+   "hash": "e9wavczm1s",
+   "sents": [
+    "§ 28"
+   ]
+  },
+  {
+   "bi": 82,
+   "k": "p",
+   "hash": "1ojw2pdd2f",
+   "sents": [
+    "Die allgemeine Staatsgewalt enthält verschiedene besondere Gewalten unter sich subsumiert: 1. die gesetzgebende überhaupt; 2. die administrative und finanzielle, sich die Mittel zur Verwirklichung der Freiheit zu schaffen; 3. die (unabhängige) richterliche und polizeiliche; 4. die militärische und die Gewalt, Krieg zu führen und Frieden zu schließen."
+   ]
+  },
+  {
+   "bi": 83,
+   "k": "p",
+   "hash": "12nwmtx1uw",
+   "sents": [
+    "Erläuterung.",
+    "Die Art der Verfassung hängt vornehmlich davon ab, ob diese besonderen Gewalten unmittelbar von dem Mittelpunkt der Regierung ausgeübt werden; ferner ob mehrere davon in einer Autorität vereinigt oder aber ob sie getrennt sind, z. B. ob der Fürst oder Regent selbst unmittelbar Recht spricht oder ob eigene, besondere Gerichtshöfe angeordnet sind, ferner ob der Regent auch die kirchliche Gewalt in sich vereinigt usf.",
+    "Es ist auch wichtig, ob in einer Verfassung der oberste Mittelpunkt der Regierung die Finanzgewalt in unbeschränktem Sinne in Händen hat, daß er Steuern ganz nach seiner Willkür sowohl auflegen als verwenden kann.",
+    "Ferner ob mehrere Autoritäten in einer vereinigt sind, z. B. ob in einem Beamten die richterliche und die militärische Gewalt vereint sind.",
+    "Die Art einer Verfassung ist ferner dadurch bestimmt, ob alle Bürger, insofern sie Bürger sind, Anteil an der Regierung haben.",
+    "Eine solche Verfassung ist eine Demokratie.",
+    "Die Ausartung derselben ist die Ochlokratie oder die Herrschaft des Pöbels, wenn nämlich derjenige Teil des Volkes, der kein Eigentum hat und von unrechtlichen Gesinnungen ist, die rechtlichen Bürger mit Gewalt von Staatsgeschäften abhält.",
+    "Nur bei einfachen, unverdorbenen Sitten und einem kleinen Umfange des Staates kann eine Demokratie stattfinden und sich erhalten. - Die Aristokratie ist die Verfassung, in welcher nur einige gewisse privilegierte Familien das ausschließende Recht zur Regierung haben.",
+    "Die Ausartung derselben ist die Oligarchie, wenn nämlich die Anzahl der Familien, die das Recht zur Regierung haben, von kleiner Anzahl ist.",
+    "Ein solcher Zustand ist deswegen gefährlich, weil in einer Oligarchie alle besonderen Gewalten unmittelbar von einem Rat ausgeübt werden. - Die Monarchie ist die Verfassung, in welcher die Regierung in den Händen eines Einzelnen ist und erblich in einer Familie bleibt.",
+    "In einer Erbmonarchie fallen die Streitigkeiten und bürgerlichen Kriege weg, die in einem Wahlreich bei einer Thronveränderung stattfinden können, weil der Ehrgeiz mächtiger Individuen sich keine Hoffnung zum Thron machen kann.",
+    "Auch kann der Monarch die ganze Regierungsgewalt nicht unmittelbar ausüben, sondern vertraut einen Teil der Ausübung der besonderen Gewalten Kollegien oder auch Reichsständen an, die im Namen des Königs, unter seiner Aufsicht und Leitung, die ihnen übertragene Gewalt nach Gesetzen ausüben.",
+    "In einer Monarchie ist die bürgerliche Freiheit mehr geschützt als in anderen Verfassungen.",
+    "Die Ausartung der Monarchie ist der Despotismus, wenn nämlich der Regent nach seiner Willkür die Regierung unmittelbar ausübt.",
+    "Der Monarchie ist es wesentlich, daß die Regierung gegen das Privatinteresse der Einzelnen Nachdruck und gehörige Gewalt hat.",
+    "Aber auf der andern Seite müssen auch die Rechte der Bürger durch Gesetze geschützt sein.",
+    "Eine despotische Regierung hat zwar die höchste Gewalt, aber in einer solchen Verfassung werden die Rechte der Bürger aufgeopfert.",
+    "Der Despot hat zwar die größte Gewalt und kann die Kräfte seines Reichs nach Willkür gebrauchen, aber dieser Standpunkt ist auch der gefährlichste. - Die Regierungsverfassung eines Volkes ist nicht bloß eine äußerliche Einrichtung.",
+    "Ein Volk kann ebensogut diese als eine andere Verfassung haben.",
+    "Sie hängt wesentlich von dem Charakter, den Sitten, dem Grade der Bildung, seiner Lebensart und seinem Umfange ab."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/7.p78.json"
+}
