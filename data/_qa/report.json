@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T04:59:20.631Z",
- "blocks": 4882,
- "sentences": 14531,
+ "generated": "2026-10-19T05:10:53.937Z",
+ "blocks": 4908,
+ "sentences": 14633,
  "issues": [
   {
    "sev": "minor",
@@ -5801,7 +5801,17 @@
   {
    "sev": "minor",
    "where": "w4/1#165",
+   "msg": "sentence 2: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#165",
    "msg": "sentence 3: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#165",
+   "msg": "sentence 3: \"Begierde\" is not rendered as “欲求”"
   },
   {
    "sev": "minor",
@@ -5994,6 +6004,21 @@
    "msg": "sentence 0: \"Dasein\" is not rendered as “定在”"
   },
   {
+   "sev": "minor",
+   "where": "w4/2#142",
+   "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#155",
+   "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#159",
+   "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
    "sev": "major",
    "where": "w4/2#164",
    "msg": "sentence 0: en/de word ratio 1.64 (18/11)"
@@ -6007,6 +6032,11 @@
    "sev": "minor",
    "where": "w4/2#170",
    "msg": "sentence 1: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#174",
+   "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
   },
   {
    "sev": "minor",
@@ -6185,6 +6215,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/3#181",
+   "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/3#184",
    "msg": "sentence 4: \"Unterschied\" is not rendered as “差别”"
   },
@@ -6205,8 +6240,23 @@
   },
   {
    "sev": "minor",
+   "where": "w4/3#188",
+   "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#190",
+   "msg": "sentence 0: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/3#190",
    "msg": "sentence 2: \"Gleichheit\" is not rendered as “等同”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#190",
+   "msg": "sentence 3: \"Begierde\" is not rendered as “欲求”"
   },
   {
    "sev": "minor",
@@ -6237,6 +6287,11 @@
    "sev": "minor",
    "where": "w4/3#207",
    "msg": "sentence 1: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#207",
+   "msg": "sentence 1: \"Begierde\" is not rendered as “欲求”"
   },
   {
    "sev": "minor",
@@ -6540,11 +6595,6 @@
   },
   {
    "sev": "minor",
-   "where": "w4/6#156",
-   "msg": "sentence 0: \"Angemessenheit\" is not rendered as “相宜”"
-  },
-  {
-   "sev": "minor",
    "where": "w4/6#158",
    "msg": "sentence 0: \"Beschaffenheit\" is not rendered as “性质”"
   },
@@ -6552,16 +6602,6 @@
    "sev": "minor",
    "where": "w4/6#163",
    "msg": "sentence 0: \"Beschaffenheit\" is not rendered as “性质”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/6#163",
-   "msg": "sentence 0: \"Angemessenheit\" is not rendered as “相宜”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/6#163",
-   "msg": "sentence 0: \"Unangemessenheit\" is not rendered as “不相宜”"
   },
   {
    "sev": "minor",
@@ -6802,11 +6842,101 @@
    "sev": "minor",
    "where": "w4/6#275",
    "msg": "sentence 4: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/6#279",
+   "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#281",
+   "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#282",
+   "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#282",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#286",
+   "msg": "sentence 5: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#286",
+   "msg": "sentence 5: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#288",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#288",
+   "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#291",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#296",
+   "msg": "sentence 6: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#299",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#299",
+   "msg": "sentence 2: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#299",
+   "msg": "sentence 4: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/6#299",
+   "msg": "sentence 4: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#301",
+   "msg": "sentence 1: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#301",
+   "msg": "sentence 1: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#301",
+   "msg": "sentence 2: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#301",
+   "msg": "sentence 2: \"Macht\" is not rendered as “威力”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 151,
-  "minor": 1209
+  "major": 153,
+  "minor": 1233
  }
 }

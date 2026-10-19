@@ -479,3 +479,31 @@
 - **进度**：15.40% → **15.77%**（14,531 / 92,117 句；段落 4,477 / 17,948 = 24.94%）；
   第 4 卷 2,721 / 5,501 句（49.5%）。**wave40 收工时 w4/6 只剩 4 个单元 276 / 285 / 291 / 297（102 句）**，
   下轮做完这 4 个单元即 w4/6 整节 100%。
+
+### 第 41 波（w4/6 收官）— 4 单元 / 102 句，**w4/6 整节 100%**
+
+- **内容**：§19–§24——任意与形式的自由（Willkür / formelle Freiheit 的两侧）、绝对自由与自作主张（Eigensinn）的区别、
+  意志的原则与教育的必要性（§21）、法不取决于意图/确信/心态这三点（§22）、法与道德的区别及道德上的洞见要求（§23）、
+  心态·后果·幸福（Wohl/幸福/快乐/至福/运气五词分工）与宗教中意志两方面的完成（§24）。
+- **跨块残句**：`279[4]` 结尾的「…und nicht」与 `280[0]` 的「gleich ist dem Ich.」本是德文一句、
+  被切在两个块里；译文同样按块切成「…并且不」/「等同于自我。」，**不做合并**（句数对齐是硬约束）。
+- **真缺陷 7 处（已修）**：
+  1. Gleichheit mit sich selbst 又用回「相等」（5 处）→ 按 context-w4 拉平为「**等同**」，Ungleichheit＝**不等同**。
+     这正是「同一分节留下两种译法」的典型，wave40 batch3 已改过一次、本批又犯，说明**每批必须回权威序复核**；
+  2. Macht 两处：绝对威力作「威力」（context-w4），「实现某目的的力量」作「力量」——**不作「能力」**；
+  3. **Angemessenheit 全卷拉平**：wave39b2 与 wave40 用了「适切」（8 处），按 context-w4 改为「**相宜**」，已清零。
+     共享词表另有「相称」「适切性」两行属其它分节，本次不追改，已在 context-w4 note 里写明；
+  4. 结构门再次拦下块 `172` 式的合并错误（无，本批一次过）。
+- **术语层**：共享词表 +10 条，context-w4 **293 → 306 条**。新词/新裁定：
+  Eigensinn 自作主张（与 Willkür 任意 严格分开）／formelle Freiheit 形式的自由／absoluter Wille 绝对的意志／
+  Glückseligkeit·Seligkeit 至福 与 Glück 运气 的对立／Wohl 福祉·Wohlsein 幸福·Vergnügen 快乐 三词分工／
+  Überzeugung 确信／Triebfeder 动力／Unschuld 天真（与 Schuld 罪责 分开）／Disposition 处分／
+  Beobachtung des Rechts 遵守／Familienglied 家庭成员／Kredit 信用。
+- **本批 18 条 qa 全部核实为误报**：副词 wirklich 要「现实」（全卷 31 处）、Natur→自然（物理自然，context-w4 已裁定）、
+  Leben→日常生活/来世（日常与宗教义例外）、Wesen→存在者（context-w4 既有例外条）、
+  Mitte 规则误命中 Mittel、Macht 的功能义被直接动词化为「掌握」。**一条译文都没为消警告而改。**
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / integrity / verify-coverage / audit-sentences 全 exit 0；
+  validate 仍 20 处存量 misnested（w2/w3/w5）；浏览器实测 w4/6 **pairs=303 = expected 303、errors=0、
+  emptyZh=0、emptyEn=0**；固定 8 页回归 **8/8**。
+- **进度**：15.77% → **15.89%**（14,633 / 92,117 句；段落 4,503 / 17,948 = 25.09%）；
+  第 4 卷 2,823 / 5,501 句（51.3%），**分节进度 7/16**。**下一批：切 w4/7。**

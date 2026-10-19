@@ -405,7 +405,7 @@
    "en": "right / law",
    "zh": "权利（法）",
    "type": "term",
-   "note": "裁定：① 法哲学讲稿（chunk 7 等）中 das Recht an sich、das allgemeine Recht、Rechtsverletzung 等主体间自由与人格义，一律“权利”；② 成文制度／公法义（das formelle Recht、Rechtsprinzip、positive Rechte 实定法、rechtliche Ansprüche）作“法”。判据＝语境指主体间的自由关系还是指成文制度。共享词表 Recht→权利（variante）在此卷主用法成立。 ★wave40 分义补充：作领域名与 Pflicht（义务）、Religion（宗教）并列时（§232、§245）作「法」；主体间自由与人格义仍作「权利」。"
+   "note": "裁定：① 法哲学讲稿（chunk 7 等）中 das Recht an sich、das allgemeine Recht、Rechtsverletzung 等主体间自由与人格义，一律“权利”；② 成文制度／公法义（das formelle Recht、Rechtsprinzip、positive Rechte 实定法、rechtliche Ansprüche）作“法”。判据＝语境指主体间的自由关系还是指成文制度。共享词表 Recht→权利（variante）在此卷主用法成立。 ★wave40 分义补充：作领域名与 Pflicht（义务）、Religion（宗教）并列时（§232、§245）作「法」；主体间自由与人格义仍作「权利」。 ★wave41 §22–24 法与道德的对举处（Recht und Moral、dem Rechte nach erlaubt、das Recht als solches）一律作「法」；此为与 Moralität（道德）的概念对举，不取「权利」。"
   },
   {
    "source": "Rechtslehre",
@@ -1126,7 +1126,7 @@
    "en": "adequacy",
    "zh": "相宜",
    "type": "term",
-   "note": "Dasein 与 Begriff 的相宜；Unangemessenheit→不相宜；angemessen→相宜的"
+   "note": "Dasein 与 Begriff 的相宜；Unangemessenheit→不相宜；angemessen→相宜的 ★wave41 全卷拉平：wave39b2 与 wave40 曾作「适切」（8 处已清零），本卷一律「相宜」；Unangemessenheit＝不相宜。共享词表另有「相称」「适切性」两行属其它分节，不追改。"
   },
   {
    "source": "Unangemessenheit",
@@ -1301,7 +1301,7 @@
    "en": "equality",
    "zh": "等同",
    "type": "term",
-   "note": "共享词表 Gleichheit→等同（ok，按对偶需要）；w4/4 早期单元曾循卷内先例作「相等」，本波已拉平为词表译法"
+   "note": "共享词表 Gleichheit→等同（ok，按对偶需要）；w4/4 早期单元曾循卷内先例作「相等」，本波已拉平为词表译法 ★wave41 复核：「Gleichheit mit sich selbst」亦取「等同」（本批曾误用「相等」已改）；Ungleichheit mit mir＝与自身的不等同。"
   },
   {
    "source": "Ungleichheit",
@@ -1728,7 +1728,7 @@
    "en": "power",
    "zh": "威力",
    "type": "term",
-   "note": "勿与 Gewalt（强力）混；potentiieren（自我产生）得威力"
+   "note": "勿与 Gewalt（强力）混；potentiieren（自我产生）得威力 ★wave41 分义登记：绝对威力与支配性的威力作「威力」（本条）；「die Macht 某事的能力」与「in der Macht haben」作「力量」或直接动词化为「掌握」——不作「能力」。"
   },
   {
    "source": "Dingheit",
@@ -2072,6 +2072,97 @@
    "zh": "演出",
    "type": "term",
    "note": "wave40 新增；「tragische Darstellungen der Alten」＝古代的悲剧演出；此处不作「表述」"
+  },
+  {
+   "source": "Eigensinn",
+   "en": "self-will",
+   "zh": "自作主张",
+   "type": "term",
+   "note": "wave41 新增，unsicher：★与 Willkür（任意）严格分开。Willkür 是不受制约的任意；Eigensinn 是明知没有理性根据仍固执己见（§20 原文正以此区分）。备选 刚愎"
+  },
+  {
+   "source": "formelle Freiheit",
+   "en": "formal freedom",
+   "zh": "形式的自由",
+   "type": "term",
+   "note": "wave41 新增；§19–20 主题词。与相对自由即 Willkür（任意）成对；狂热的或受自然驱动的行动「没有形式的自由」"
+  },
+  {
+   "source": "absoluter Wille",
+   "en": "absolute will",
+   "zh": "绝对的意志",
+   "type": "term",
+   "note": "wave41 新增；与相对自由／任意 对举。§19 犯罪者受罚「就包含在他自己的绝对意志之中」"
+  },
+  {
+   "source": "Glückseligkeit / Seligkeit",
+   "en": "beatitude",
+   "zh": "至福",
+   "type": "term",
+   "note": "wave41 新增：两词近义同译。★至福与 Glück（幸运）严格对立——「daß kein Glück in ihr ist」＝其中没有运气，一切皆必然"
+  },
+  {
+   "source": "Glück",
+   "en": "fortune",
+   "zh": "幸运",
+   "type": "term",
+   "note": "wave41 新增：作运气／命数义（至福中无 Glück）。★不与 Wohl（福祉）混"
+  },
+  {
+   "source": "Wohl / Wohlsein",
+   "en": "welfare / well-being",
+   "zh": "福祉／幸福",
+   "type": "term",
+   "note": "wave41 新增分工：Wohl＝福祉；Wohlsein＝幸福（作为外在与内在之适切）；Vergnügen＝快乐。三者在 §24 同时出现，必须分开"
+  },
+  {
+   "source": "Überzeugung",
+   "en": "conviction",
+   "zh": "确信",
+   "type": "term",
+   "note": "wave41 新增；与 bloße Glaube auf die Autorität anderen（对他人权威的单纯信仰）成对。方向是主体的 conviction，不是 Überredung（说服）"
+  },
+  {
+   "source": "Triebfeder",
+   "en": "motive power",
+   "zh": "动力",
+   "type": "term",
+   "note": "wave41 新增；与 Trieb（冲动）、Zwang（强制）分开；fremdartige Triebfedern＝外来的动力"
+  },
+  {
+   "source": "Unschuld",
+   "en": "innocence",
+   "zh": "天真",
+   "type": "term",
+   "note": "wave41 新增：★与 Schuld（罪责）同字不同义，必须分开。「die Unschuld der Kinder」＝儿童的天真；不作「无罪」"
+  },
+  {
+   "source": "Disposition (über das Vermögen)",
+   "en": "disposal",
+   "zh": "处分",
+   "type": "term",
+   "note": "wave41 新增；「die Disposition über mein Vermögen」＝对我的财产的处分（§23 法允许、道德限制）"
+  },
+  {
+   "source": "Beobachtung (des Rechts)",
+   "en": "observance",
+   "zh": "遵守",
+   "type": "term",
+   "note": "wave41 新增；「die Beobachtung des Rechts gegen andere」＝对他人遵守法；此处不作「观察」"
+  },
+  {
+   "source": "Familienglied",
+   "en": "member of the family",
+   "zh": "家庭成员",
+   "type": "term",
+   "note": "wave41 新增；§24 道德把人与人的关系序列：家庭成员／朋友／性格"
+  },
+  {
+   "source": "Kredit",
+   "en": "credit",
+   "zh": "信用",
+   "type": "term",
+   "note": "wave41 新增；与 guter Ruf（好名声）并列，见 §23 出于对不利后果的恐惧而守法"
   }
  ],
  "forbidden": [
