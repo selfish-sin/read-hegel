@@ -480,6 +480,47 @@
   第 4 卷 2,721 / 5,501 句（49.5%）。**wave40 收工时 w4/6 只剩 4 个单元 276 / 285 / 291 / 297（102 句）**，
   下轮做完这 4 个单元即 w4/6 整节 100%。
 
+### 第 42 波（w4/7 收官）— 15 单元 / 427 句，**w4/7 整节 100%**
+
+- **内容**：§1–§12 法/人格/强制/占有/财产 · §13–§15 不可让渡之物与契约四型（赠与/交换/买卖/租赁）·
+  §16–§17 意思表示与作为法的法、民法与刑法之别 · §18–§20 民事权利之争/人身侵犯/同态复仇（ius talionis）·
+  §21 报复与刑罚之分 · §22–§24 国家社会/家庭/自然状态 · §25–§28 法律·政府·政体四分
+  （民主制/贵族制/君主制及其变质民众统治/寡头制/专制）· §29–§31 国家法与万国法 ·
+  §32–§33 责任（Schuldigkeit）与义务（Pflicht）之分 · §34–§38 心态·快乐·幸福主义 ·
+  §39–§40 冲动与倾向的道德规定、义务四分（对自己/家庭/国家/他人）。
+- **分四批入库**（全部主代理翻译）：b1 `3dc777e`（116 句）、b2 `acbb666`（99 句）、
+  b3 `f07b72d`（92 句）、b4 `94ef48e`（122 句）。
+- **真缺陷 14 处（已修）**，其中三处值得记：
+  1. **`Erläuterung` 写成了「解释」**——context-w4 styleGuide 第 15 条与本节 bi8/11/14 已译部分都是「诠释」，
+     共享词表同名行也作「解释」。**按权威序 context-w4 高于共享词表**，本批 7 处全改「诠释」，
+     **并把共享词表那行一并更正**（顺手修掉的全库性陈旧项）。
+  2. **门按块扫禁译词，制造假警报**。改成**逐句归属**后净收益：
+     同句里「法律」来自 `Gesetz`、「政府」来自 `Regierung`、`Mitte` 误命中 `Mittel`、
+     `Person` 的「个人」命中「一个人格」、`Subjekt`（主体）误命中 `Subjektiv`（主观的）——
+     这些全消，而真问题（`Regierungsverfassung` 误用禁译「政体」）照样抓到。
+  3. **控制台吞重复汉字**：结构门报「更高目的**的的**可能性」，但打印出来只有一个「的」。
+     用 `codePointAt` 逐字打印才确认是真的。**另：「以…为目的的学说」天然含「的的」**，
+     改成「目的之学说」才躲开——这类自我碰撞在中文里比想象的多。
+- **术语层**：共享词表 **+41 条**，context-w4 **319 → 375 条**。新裁定摘要：
+  Veräußerung 让渡（压过共享词表「转让」）／Erläuterung 诠释／Persönlichkeit 人格性 vs Person 人格／
+  rechtliche Person 法律人格（复合词例外）／Schuldigkeit 责任 vs Pflicht 义务／
+  Rechtsschuldigkeit 法权责任 vs Rechtspflicht 法权义务／Wollen 意愿（动名词）vs Wille 意志（名词）／
+  Gesetz 分义（法律／规律）／Thron 分义（王位／宝座）／Vergnügen 快乐 vs Glückseligkeit 至福／
+  Staaten 各国／**Vereinigung 统一（合并 context-w4 内部冲突条目：统一 123 vs 结合 33、联结 49）**／
+  Staatverfassung 国家宪法／Völkerrecht 万国法／Eudämonismus 幸福主义／Akzidentalität 偶性／
+  Decius Mus 原样保留不音译。
+- **qa**：四批新报逐条核实，真缺陷 14 处已修，其余全为系统性误报（副词 wirklich 要「现实」全卷 33 处、
+  Mitte 误命中 Mittel、Subjekt 误命中 Subjektiv、`natürliches/vernünftiges Wesen` 作「存在者」、
+  `der Natur` 作「自然」、`Staaten` 作「各国」、Vereinigung 报的是共享词表旧行）。
+  **另有一条 major 是 zh/en 长度比 0.20**——中文天然只有英文 0.23–0.30、全块一致、无漏译，
+  **这类比值告警必须按块横向比，不能按单句绝对阈值判**。
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / integrity / verify-coverage / audit-sentences 全 exit 0；
+  validate 仍 20 处存量 misnested（w2/w3/w5）；浏览器实测 **w4/7 pairs=121 = expected 121、
+  errors=0、emptyZh=0、emptyEn=0、mismatch=0**（每个 .pair 内中英字符多重集逐一比对），
+  w4/6 对照组 pairs=303 = expected 303；固定 8 页回归 **8/8**。
+- **进度**：15.89% → **16.35%**（15,060 / 92,117 句；段落 4,620 / 17,948 = 25.74%）；
+  第 4 卷 3,250 / 5,501 句（59.1%），**分节进度 8/16**。**下一批：切 w4/8。**
+
 ### 第 41 波（w4/6 收官）— 4 单元 / 102 句，**w4/6 整节 100%**
 
 - **内容**：§19–§24——任意与形式的自由（Willkür / formelle Freiheit 的两侧）、绝对自由与自作主张（Eigensinn）的区别、
