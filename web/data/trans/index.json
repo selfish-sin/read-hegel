@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T06:31:05.475Z",
+ "generated": "2026-10-19T09:12:03.080Z",
  "pipeline": "DE → EN → ZH, produced by this agent (no published translation used)",
  "style": "平实白话中文，贴近原文语气",
  "volumes": {
@@ -319,13 +319,18 @@
     "blocks": 186,
     "sentences": 361,
     "headings": 10
+   },
+   "9": {
+    "blocks": 172,
+    "sentences": 276,
+    "headings": 67
    }
   }
  },
  "totals": {
-  "blocks": 4806,
-  "sentences": 15421,
-  "headings": 419,
+  "blocks": 4978,
+  "sentences": 15697,
+  "headings": 486,
   "segmentsTotal": 17948,
   "sentencesTotal": 92117
  }

@@ -167,7 +167,7 @@
    "en": "being",
    "zh": "存在",
    "type": "term",
-   "note": "与 das Seiende（存在者）、Dasein（定在）分开；A. Sein, Nichts, Werden＝存在、无、生成"
+   "note": "与 das Seiende（存在者）、Dasein（定在）分开；A. Sein, Nichts, Werden＝存在、无、生成 ★wave44 误报登记：系动词 sein 与物主代词 Sein（Seiner Exzellenz＝诸位阁下）被本条命中；zh 无「存在」属词形误报，不改。"
   },
   {
    "source": "Nichts",
@@ -209,7 +209,7 @@
    "en": "essence",
    "zh": "本质",
    "type": "term",
-   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」 ★wave42b4 补充：natürliches Wesen＝自然存在者（同 freies／lebendiges／vernünftiges Wesen 例外） ★wave43b1 补充：natürliches Wesen / geistiges, vernünftiges Wesen / unstetes, subjektives Wesen 一律存在物（承接本条例外）；「allgemeines Wesen」＝一般本质 ★wave43b2 补充：★wave43b2 补充：§50「sein Wesen nicht in seiner eigenen Person haben」＝不把自身的本质置于自身的人格之中（本波曾误作「实质」，已改） ★wave43b4 补充：宗教语境 absolutes Wesen（绝对存在者）、göttliches Wesen（神圣存在者）、einzelnes Wesen（个别存在者）、Weltwesen／Naturwesen／Selbstwesen 一律存在者（承接本条例外）。"
+   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」 ★wave42b4 补充：natürliches Wesen＝自然存在者（同 freies／lebendiges／vernünftiges Wesen 例外） ★wave43b1 补充：natürliches Wesen / geistiges, vernünftiges Wesen / unstetes, subjektives Wesen 一律存在物（承接本条例外）；「allgemeines Wesen」＝一般本质 ★wave43b2 补充：★wave43b2 补充：§50「sein Wesen nicht in seiner eigenen Person haben」＝不把自身的本质置于自身的人格之中（本波曾误作「实质」，已改） ★wave43b4 补充：宗教语境 absolutes Wesen（绝对存在者）、göttliches Wesen（神圣存在者）、einzelnes Wesen（个别存在者）、Weltwesen／Naturwesen／Selbstwesen 一律存在者（承接本条例外）。 ★wave44 补充：自然本质义（natürliches Wesen 在其分离语境＝自然本质）作「本质」；有知性的存在者（verständige Wesen）＝存在者（实体义例外）；理智的本质（Verstandesbestimmungen…Wesen）语境已按存在者义改写。"
   },
   {
    "source": "Erscheinung",
@@ -265,14 +265,14 @@
    "en": "ground",
    "zh": "根据",
    "type": "term",
-   "note": "Grund und Begründetes＝根据与被根据者；Satz des Grundes＝根据命题；与 Ursache（原因）区分"
+   "note": "Grund und Begründetes＝根据与被根据者；Satz des Grundes＝根据命题；与 Ursache（原因）区分 ★wave44 分义：习语 auf eigenem Grund und Boden（自己的地面与土壤）保留；根据条只管体系义。"
   },
   {
    "source": "Moment",
    "en": "moment",
    "zh": "环节",
    "type": "term",
-   "note": "严禁“时刻”；黑格尔的 Moment 是整体的环节"
+   "note": "严禁“时刻”；黑格尔的 Moment 是整体的环节 ★wave44 分义：演辞日常时间义 Moment（der schöne/dieser Moment＝这美好的时刻/这一时刻）作「时刻」；体系/环节义仍「环节」（#235 荣誉之环节已统一）。"
   },
   {
    "source": "Aufhebung",
@@ -888,7 +888,7 @@
    "en": "being-outside-self",
    "zh": "在外存在",
    "type": "term",
-   "note": "补上下文包缺失的第三档：Ansichsein（自在存在）／Fürsichsein（自为存在）／Außersichsein（在外存在）。第33波首现 1 处。"
+   "note": "补上下文包缺失的第三档：Ansichsein（自在存在）／Fürsichsein（自为存在）／Außersichsein（在外存在）。第33波首现 1 处。 ★wave44 补充：数学片段（空间时间）一律「在外存在」（#84、#86 已改），与 w1/w2 物理学用法一致。"
   },
   {
    "source": "das Eins",
@@ -923,7 +923,7 @@
    "en": "body",
    "zh": "物体",
    "type": "term",
-   "note": "与 Materie（物质）、Organismus（有机体）三分；亦不作“形体”“身体”。本波 5 处一致 wave34 核查例外：人类学语境 organischer Körper（有机身体）作“有机身体”，不机械改“有机物体”（#46） wave40 核查补充：§注释「Zustände teils unseres Körpers」指人自身身体时作「身体」（承接 wave34 organischer Körper＝有机身体的先例）；himmlische／irdische Körper＝天上的／地上的物体（物体系）仍作「物体」，Materie＝物质三分不变。 ★wave42b2 补充：wave42b2 复核：§19-20「mein Leibes und Lebens」「in meinem Körper selbst mein unmittelbares Selbstgefühl」确为人身义，作「身体」；本条 wave40 补充例外继续有效"
+   "note": "与 Materie（物质）、Organismus（有机体）三分；亦不作“形体”“身体”。本波 5 处一致 wave34 核查例外：人类学语境 organischer Körper（有机身体）作“有机身体”，不机械改“有机物体”（#46） wave40 核查补充：§注释「Zustände teils unseres Körpers」指人自身身体时作「身体」（承接 wave34 organischer Körper＝有机身体的先例）；himmlische／irdische Körper＝天上的／地上的物体（物体系）仍作「物体」，Materie＝物质三分不变。 ★wave42b2 补充：wave42b2 复核：§19-20「mein Leibes und Lebens」「in meinem Körper selbst mein unmittelbares Selbstgefühl」确为人身义，作「身体」；本条 wave40 补充例外继续有效 ★wave44 分义：灵魂与身体（Seele und Körper）人身日常义作「身体」；自然哲学物体义仍「物体」。"
   },
   {
    "source": "Materie",
@@ -951,14 +951,14 @@
    "en": "element",
    "zh": "要素",
    "type": "term",
-   "note": "黑格尔四元素（土水火气）语境；备选“元素”。与 Moment（环节）分开 wave34 核查例外：physische Elemente／Tiergeschlechter hervorkommen in Elementen 的四元素（土水火气）义作“元素”，不作“要素”（#23、#32）"
+   "note": "黑格尔四元素（土水火气）语境；备选“元素”。与 Moment（环节）分开 wave34 核查例外：physische Elemente／Tiergeschlechter hervorkommen in Elementen 的四元素（土水火气）义作“元素”，不作“要素”（#23、#32） ★wave44 分义：自然／介质日常义（重力这一元素、音乐性的元素、亲切性的元素、在这样的元素中）保留「元素」；要素条只管体系义。"
   },
   {
    "source": "Gefühl",
    "en": "feeling",
    "zh": "感觉",
    "type": "term",
-   "note": "主观精神起点；与 Affektion（感受）分开。本波 12 处一致 wave34 核查：Gefühl 一律“感觉”，曾有两处误作“感受”（与 Affektion 混），已改回（#165） ★wave43b2 补充：★wave43b2 补充：抽象名词化的「das Gefühl der X」可作「X感」（das Gefühl der Nationalehre＝民族荣誉感），不一律强作「感觉」"
+   "note": "主观精神起点；与 Affektion（感受）分开。本波 12 处一致 wave34 核查：Gefühl 一律“感觉”，曾有两处误作“感受”（与 Affektion 混），已改回（#165） ★wave43b2 补充：★wave43b2 补充：抽象名词化的「das Gefühl der X」可作「X感」（das Gefühl der Nationalehre＝民族荣誉感），不一律强作「感觉」 ★wave44 分义：演辞与讲稿的日常感受义尽量落「感觉」词根（幸福的感觉、感觉世界）；「情感」仅保留于纯日常情绪语境。"
   },
   {
    "source": "Affektion",
@@ -1049,7 +1049,7 @@
    "en": "middle",
    "zh": "中项",
    "type": "term",
-   "note": "推论的中间规定（terminus medius）；与 Extreme（极端）对举"
+   "note": "推论的中间规定（terminus medius）；与 Extreme（极端）对举 ★wave44 核查误报登记：演辞日常义 die Mitte（居中/中间）与 Mittel（手段）多次被本条命中；zh 无「中项」时属词形误报，不改。 ★wave44 补充：in ihrer Mitte（在其聚会之中）日常方位义作「中间」，非中项；另 Mittel（手段）被本条子串命中系词形误报，zh 作手段为正确。"
   },
   {
    "source": "Inhärenz",
@@ -1231,7 +1231,7 @@
    "en": "presentation",
    "zh": "表述",
    "type": "term",
-   "note": "vollständige Darstellung des Begriffs＝概念的完整表述 ★wave43b4 分义：宗教语境（die Darstellung desselben in einer menschlichen Gestalt＝他在人的形象中的表现）作「表现」；逻辑语境（vollständige Darstellung des Begriffs）仍「表述」。"
+   "note": "vollständige Darstellung des Begriffs＝概念的完整表述 ★wave43b4 分义：宗教语境（die Darstellung desselben in einer menschlichen Gestalt＝他在人的形象中的表现）作「表现」；逻辑语境（vollständige Darstellung des Begriffs）仍「表述」。 ★wave44 分义：现实/感性的呈现义（wirkliche Darstellung＝现实的表现；Darstellung 在宗教、演辞语境）作「表现」，逻辑/陈述义仍「表述」（#8、#63 已改表现，#205 仍表述）。"
   },
   {
    "source": "Versicherung",
@@ -1329,7 +1329,7 @@
    "en": "virtue",
    "zh": "美德",
    "type": "term",
-   "note": "与 Laster（恶习）对举；Tapferkeit（勇敢）是一种美德"
+   "note": "与 Laster（恶习）对举；Tapferkeit（勇敢）是一种美德 ★wave44 补充：演辞「默默无闻的美德/以功业与美德加冕」已统一美德。"
   },
   {
    "source": "Laster",
@@ -1406,7 +1406,7 @@
    "en": "nature",
    "zh": "本性",
    "type": "term",
-   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes） ★wave42b4 补充：§40「von der Natur und äußeren Umständen Abhängige」＝依赖于自然与外在情境，作「自然」不作「本性」 ★wave43b3 补充：★wave43b3：§79「人的本性与上帝的本性」作「本性」（context-w4）；与 Sinnliches＝感性之物 分开"
+   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes） ★wave42b4 补充：§40「von der Natur und äußeren Umständen Abhängige」＝依赖于自然与外在情境，作「自然」不作「本性」 ★wave43b3 补充：★wave43b3：§79「人的本性与上帝的本性」作「本性」（context-w4）；与 Sinnliches＝感性之物 分开 ★wave44 分义：事物的自然状态/风气义（der Natur des hiesigen Charakters＝此地风气的本性；Natur und Zustand＝自然本质与自然状况）按本条词根统一「本性/自然」。"
   },
   {
    "source": "Einiges",
@@ -1469,7 +1469,7 @@
    "en": "life",
    "zh": "生命",
    "type": "term",
-   "note": "Idee des Lebens＝生命的观念；观念的直接定在"
+   "note": "Idee des Lebens＝生命的观念；观念的直接定在 ★wave44 分义：演辞与讲稿的「生活/生涯」日常义尽量落「生命」词根（生命之功业、世界与生命、最初的生命）；「生活」仅保留于具体生活方式语境（家庭生活）。 ★wave44 补充：fürs bürgerliche Leben nützlich（对市民生活有用）等具体生活方式语境保留「生活」（与上条分义一致）。"
   },
   {
    "source": "organisches System",
@@ -2106,7 +2106,7 @@
    "en": "fortune",
    "zh": "幸运",
    "type": "term",
-   "note": "wave41 新增：作运气／命数义（至福中无 Glück）。★不与 Wohl（福祉）混"
+   "note": "wave41 新增：作运气／命数义（至福中无 Glück）。★不与 Wohl（福祉）混 ★wave44 补充：演辞祝辞义（Ihr Glück/das Glück des Alters）按本条作「幸运」；das Glücks（好运）亦「幸运」。 ★wave44 分义：形容词 glücklich 的日常义（幸福的感觉、glücklichen Gefühlen）保留「幸福」；本条只管名词 Glück＝幸运。"
   },
   {
    "source": "Wohl / Wohlsein",
@@ -2302,7 +2302,7 @@
    "en": "claim",
    "zh": "要求权",
    "type": "term",
-   "note": "wave42 新增：machen auf etwas Anspruch＝对某物提出要求；与 Forderung（债权）分开"
+   "note": "wave42 新增：machen auf etwas Anspruch＝对某物提出要求；与 Forderung（债权）分开 ★wave44 误报登记：in Anspruch genommen werden（被大量征用/需求）为固定习语，不作「要求权」。"
   },
   {
    "source": "Eingriff",
@@ -2372,7 +2372,7 @@
    "en": "law",
    "zh": "法律",
    "type": "term",
-   "note": "★wave42b3 分义登记：国家立法义作「法律」（§26「法律是自在自为的普遍意志的抽象表达」、§27 国家有法律）；自然律／道德律义作「规律」（§17「精神可以违反规律而行动」）。与 Naturgesetz＝自然规律（共享词表）一致"
+   "note": "★wave42b3 分义登记：国家立法义作「法律」（§26「法律是自在自为的普遍意志的抽象表达」、§27 国家有法律）；自然律／道德律义作「规律」（§17「精神可以违反规律而行动」）。与 Naturgesetz＝自然规律（共享词表）一致 ★wave44 分义：神圣的／内心的道德 Gesetz 作「法则」（本卷宗教语境既有用法）；法律条按共享词表为存疑条目（conformance 19/75），不动。"
   },
   {
    "source": "Gesetzgeber",
@@ -2806,7 +2806,7 @@
    "en": "interest",
    "zh": "利害关系",
    "type": "term",
-   "note": "wave43b1 新增：共享词表 Interesse＝利害关系；本卷 §41「ein Interesse behauptet」＝主张一种利害关系（共享词表），不作「兴趣」；「Interesse an der Wissenschaften」语境另议 ★wave43b2 补充：★wave43b2 分义登记：制度／公共层面的利害所系作「**利益**」（das Interesse des Staats＝国家的利益）；个人／道德层面的利害关联作「利害关系」（sein Interesse behaupten＝主张一种利害关系）。"
+   "note": "wave43b1 新增：共享词表 Interesse＝利害关系；本卷 §41「ein Interesse behauptet」＝主张一种利害关系（共享词表），不作「兴趣」；「Interesse an der Wissenschaften」语境另议 ★wave43b2 补充：★wave43b2 分义登记：制度／公共层面的利害所系作「**利益**」（das Interesse des Staats＝国家的利益）；个人／道德层面的利害关联作「利害关系」（sein Interesse behaupten＝主张一种利害关系）。 ★wave44 分义：公共/事务层面的Intereste（更大的利害关系、家长对子女仪度的利害关系）按分义作「利害关系」；趣味义已消除。 ★wave44 分义：日常吸引／趣味义（das anziehende Interesse＝诱人的趣味）保留「趣味」；利害关系条只管利益所系语境。"
   },
   {
    "source": "Rechtschaffenheit",
@@ -3079,7 +3079,7 @@
    "en": "divine service",
    "zh": "敬拜",
    "type": "term",
-   "note": "★wave43b4 新增：Der Gottesdienst ist die bestimmte Beschäftigung des Gedankens und der Empfindung mit Gott。与 Kultus 分译——Kultus 制度义（öffentlicher/allemeiner Kultus）作「礼拜」、行为义作「崇拜」，Gottesdienst 一律「敬拜」；共享词表 Gottesdienst→礼拜（unsicher）在本卷让位，避免与 Kultus 制度义撞车（一词一译）"
+   "note": "★wave43b4 新增：Der Gottesdienst ist die bestimmte Beschäftigung des Gedankens und der Empfindung mit Gott。与 Kultus 分译——Kultus 制度义（öffentlicher/allemeiner Kultus）作「礼拜」、行为义作「崇拜」，Gottesdienst 一律「敬拜」；共享词表 Gottesdienst→礼拜（unsicher）在本卷让位，避免与 Kultus 制度义撞车（一词一译） ★wave44 补：本波 w4/9 未再出现 Gottesdienst；Kultus 制度义「礼拜」（#8 崇敬上帝的礼拜）照旧。"
   },
   {
    "source": "Weltseele",
@@ -3269,6 +3269,34 @@
    "zh": "刺激",
    "type": "term",
    "note": "★wave43b4 新增：Not Sporn zur Tätigkeit"
+  },
+  {
+   "source": "Rede",
+   "en": "oration",
+   "zh": "演辞",
+   "type": "term",
+   "note": "★wave44 新增：文科中学官方演辞（Gymnasialreden），庄重语域保留正式语序与敬称，不作「讲话」「演讲」；Schuljahrabschluß 作学年结束"
+  },
+  {
+   "source": "Programm",
+   "en": "program",
+   "zh": "学年报告",
+   "type": "term",
+   "note": "★wave44 新增：Gymnasialprogramme 指德国中学印行的学年教学报告（Programmschrift），不作「程序」「节目」"
+  },
+  {
+   "source": "Oberklasse",
+   "en": "upper class",
+   "zh": "高年级",
+   "type": "term",
+   "note": "★wave44 新增（与 Mittelklasse＝中年级、Unterklasse＝低年级 成套，承接 context-w4 Klasse→班级；不用「高级班」）"
+  },
+  {
+   "source": "Zusammenhang",
+   "en": "coherence / connection",
+   "zh": "关联",
+   "type": "term",
+   "note": "★wave44 分义：整体/系统的贯通义（der Zusammenhang der Wissenschaften＝各门科学的关联；系统关联）作「关联」（承接 w4 先例 0.json#16 必然关联）；个别事物之间较单纯的关系义可作「联系」。本卷宗教讲稿中命运/护佑段的行动与结果之关联一律「关联」。"
   }
  ],
  "forbidden": [

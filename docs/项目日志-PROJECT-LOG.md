@@ -578,3 +578,40 @@
   固定 8 页回归 **8/8**。
 - **进度**：16.35% → **16.74%**（15,421 / 92,117 句；段落 4,806 / 17,948 = 26.78%）；
   第 4 卷 3,611 / 5,501 句（65.6%），**分节进度 9/16**。**下一节：w4/9**（`--limit 10`）。
+
+### 第 44 波（w4/9 收官）— 11 单元 / 239 块 / 276 句，**w4/9 整节 100%**
+
+- **内容**：§19–§34「精神宗教」（人与绝对存在者的合一·恩典·上帝作为绝对能动性·艺术与诗艺的原初使命·
+  神谱/寓言/变形记/自然阐释·崇拜·护佑与道德信仰·外在/内在合目的性·生机与上帝定在的证明）；
+  「两个片段」（论精神学说一页纸：知识与意识·论数学一页纸：空间时间作为抽象定在与维度）；
+  「附录：黑格尔关于其教学科目的报告」（1808/09–1815/16 学年文科中学课程报告，高级/中级/初级班科目与课时）；
+  「文科中学演辞」两篇（申克校长执教五十周年祝寿演辞·1809 年 9 月 29 日学年结束演辞：王恩、司法与教育、
+  古典语言之辩护、疏离与离心冲动、语法作为入门哲学、科目与课时占比、毕业赠言与授奖辞）。
+- **分四批推进（全部主代理翻译，不派子代理）**：b1 单元 0/19/45（78 句）、b2 单元 65/91/140（77 句）、
+  b3 单元 194/202/215（79 句）、b4 单元 224/232（45 句）；含 2 个空段落（bi 29/36）如实输出空数组。
+- **真缺陷（已修）**：
+  1. **unit 91 首轮只写了块 91–112，漏了 113–139 共 27 块**——机器门按 in.json 全块对账抓到「NOT translated」，补全后才过。
+     **教训：合并前必须用门脚本按 in.json 块号全集对账，不能按记忆的分块区间。**
+  2. **`的的` 重字 6 处**（「合目的的生成」「命运的合目的的」「计划与目的的思想」「绝对目的的核」「手段与目的的关系」等）——
+     中文自我碰撞比想象的多，改「合目的生成／目的这一思想／目的之核」才躲开。
+  3. **Zusammenhang 上下文条目自伤（wave38 教训再现）**：我为拉平「联系/关联」新写的 context 条目把主译写成「联系」，
+     而 w4 既有先例（0.json#16 必然关联、本报告哲学关联）是「关联」——**错的裁定会反过来指向自己的译文**。
+     回查后先把条目改正（主译「关联」、日常单纯关系义作「联系」），再统一本波译文为「关联」。
+  4. 锁条拉平：Gewißheit→确定性、Darstellung→表现（宗教语境）/表述（逻辑语境）、Leben→生命（世界与生命）、
+     Interesse→利害关系、Tugend→美德、Glück→幸运、Gottesverehrung→敬神、Dämon→精灵、Tätigkeiten→行动、
+     Außersichsein→在外存在、Klasse→班级（年级称谓按 高/中/低年级）、Phänomenologie des Geistes→《精神现象学》。
+- **归属/词形误报（不改动译文，已登记）**：同句 `Existenz`/`Seele`/`Regierung`/`Ideen`/`Gedanken` 的合法汉字被
+  Dasein/Geist/Staat/Begriff 条命中；`Mitte` 命中 `Mittel`（手段）；`Sein` 命中系动词与 `Seiner Exzellenz`；
+  演辞日常义 Moment→时刻、Körper→身体（灵魂与身体）、Gefühl→感觉；`gesetzliche`≠Gesetz 法律；
+  长度比 0.21（中文天然比例）；`Dürfen wir … nicht glauben` 反问句式已含否定（「岂能」），检测器不认。
+- **术语层**：共享词表 +23 条（Rede 演辞／Programm 学年报告／Oberklasse 高年级／Theogonie 神谱／Metamorphosen 变形记／
+  Abbild 摹本／Lebendigkeit 生机／Titan 提坦／Antaeus 安泰俄斯／Zensur 考语 等；4 条 unsicher：Programm、Titan、
+  Melanchthon、Zensur）；context-w4 **464 → 468 条** ＋ 17 条分义/误报登记（Darstellung、Leben、Wesen、Moment、
+  Körper、Gefühl、Glück、Interesse、Tugend、Natur、Außersichsein、Mitte、Anspruch、Sein、Gesetz、Element、Grund）。
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / integrity / verify-coverage / audit-sentences 全 exit 0；
+  validate 仍 20 处存量 misnested（w2/w3/w5）；**w4/9 浏览器实测 pairs=240 = expected 240（239 译块＋1 fn）、
+  emptyZh/emptyEn/mismatch/jsErr 全 0**；固定 8 页回归 8/8。
+- **进度**：16.74% → **17.04%**（15,697 / 92,117 句；段落 4,978 / 17,948 = 27.74%）；
+  第 4 卷 3,887 / 5,501 句（70.7%），**分节进度 10/16**。**下一节：w4/10（1810 学年结束演辞，220 句，`--limit 9`）。**
+- **`--limit` 语义实测**：make-jobs 只在分节边界检查 limit、节内 flush 不看它；切 w4/9 传 `--limit 10` 得 11 单元＝整节切完才停，
+  与交接说明记录一致（此前对"limit 是分节数"的含混表述已消除）。

@@ -1,0 +1,390 @@
+{
+ "id": "w4-9-140",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 9,
+ "chunkTitle": "Die geistige Religion",
+ "heading": "Mittelklasse",
+ "blocks": [
+  {
+   "bi": 140,
+   "k": "h",
+   "hash": "mqwmtylclj",
+   "text": "Mittelklasse"
+  },
+  {
+   "bi": 141,
+   "k": "h",
+   "hash": "e3rwjp1kqu",
+   "text": "Philosophische Vorbereitungswissenschaften wöchentlich drei Stunden"
+  },
+  {
+   "bi": 142,
+   "k": "p",
+   "hash": "2qa81k1u14",
+   "sents": [
+    "Dieses Jahr wurde die Logik vorgetragen; die zwei ersten Teile, die Lehre vom Sein und vom Wesen, oder die Kategorien und Reflexionsbestimmungen, wurden nach ihren Hauptbegriffen kürzer durchgegangen und am längsten bei dem dritten Teile, der Lehre vom Begriffe verweilt."
+   ]
+  },
+  {
+   "bi": 143,
+   "k": "h",
+   "hash": "1v3y5j01d6",
+   "text": "Religionslehre wöchentlich eine Stunde"
+  },
+  {
+   "bi": 144,
+   "k": "p",
+   "hash": "prjvbvtx2f",
+   "sents": [
+    "Gemeinschaftlich mit der Oberklasse."
+   ]
+  },
+  {
+   "bi": 145,
+   "k": "h",
+   "hash": "1vkxglac7z",
+   "text": "Unterklasse"
+  },
+  {
+   "bi": 146,
+   "k": "h",
+   "hash": "ifpmbgvs5o",
+   "text": "Rechts-, Pflichten- und Religionslehre wöchentlich vier Stunden"
+  },
+  {
+   "bi": 147,
+   "k": "p",
+   "hash": "17vt00dtjo",
+   "sents": [
+    "Die rechtlichen und moralischen Grundbegriffe wurden nach Diktaten abgehandelt und die gemachten Erläuterungen unter Anleitung des Lehrers zu Papier gebracht."
+   ]
+  },
+  {
+   "bi": 148,
+   "k": "h",
+   "hash": "orcket1swv",
+   "text": "1813/14 Oberklasse"
+  },
+  {
+   "bi": 149,
+   "k": "h",
+   "hash": "cbgw8x31hc",
+   "text": "Philosophische Enzyklopädie wöchentlich drei Stunden"
+  },
+  {
+   "bi": 150,
+   "k": "p",
+   "hash": "wcmarn1k4e",
+   "sents": [
+    "Die Übersicht über das Ganze der Wissenschaften wurde so gegeben, daß der systematische Zusammenhang einleuchten sollte und die Begriffe, welche den Grund der besonderen Wissenschaften ausmachen, erläutert wurden."
+   ]
+  },
+  {
+   "bi": 151,
+   "k": "h",
+   "hash": "1v3y5j01d6",
+   "text": "Religionslehre wöchentlich eine Stunde"
+  },
+  {
+   "bi": 152,
+   "k": "p",
+   "hash": "1rxbfjwguw",
+   "sents": [
+    "Die Lehre von den bekannten Beweisen vom Dasein Gottes wurde durchgegangen und dieselben teils in der Form, in der sie gewöhnlich aufgestellt wurden, angegeben, teils aber ihre höhere Bedeutung, wodurch sie zu wissenschaftlich-philosophischen Beweisen hergestellt werden, nachgewiesen."
+   ]
+  },
+  {
+   "bi": 153,
+   "k": "h",
+   "hash": "mqwmtylclj",
+   "text": "Mittelklasse"
+  },
+  {
+   "bi": 154,
+   "k": "h",
+   "hash": "e3rwjp1kqu",
+   "text": "Philosophische Vorbereitungswissenschaften wöchentlich drei Stunden"
+  },
+  {
+   "bi": 155,
+   "k": "p",
+   "hash": "1nt18jfwtq",
+   "sents": [
+    "Die Psychologie wurde so vorgetragen, daß zuerst in der Phänomenologie des Geistes die Grundstufen des Bewußtseins aufgezeigt, dann in der eigentlichen Geisteslehre die wesentlichen Tätigkeiten des Geistes abgeleitet und erläutert wurden."
+   ]
+  },
+  {
+   "bi": 156,
+   "k": "h",
+   "hash": "jz2n2a1j94",
+   "text": "Religionsunterricht wöchentlich eine Stunde"
+  },
+  {
+   "bi": 157,
+   "k": "p",
+   "hash": "1d7znzr1x0",
+   "sents": [
+    "Gemeinschaftlich mit der Oberklasse"
+   ]
+  },
+  {
+   "bi": 158,
+   "k": "h",
+   "hash": "1vkxglac7z",
+   "text": "Unterklasse"
+  },
+  {
+   "bi": 159,
+   "k": "h",
+   "hash": "ifpmbgvs5o",
+   "text": "Rechts-, Pflichten- und Religionslehre wöchentlich vier Stunden"
+  },
+  {
+   "bi": 160,
+   "k": "p",
+   "hash": "3wt5iw2y8r",
+   "sents": [
+    "Die Grundbestimmungen des Rechts und der Moralität wurden nach Diktaten abgehandelt und die vorgetragenen Erläuterungen unter Anleitung des Lehrers zu Papier gebracht."
+   ]
+  },
+  {
+   "bi": 161,
+   "k": "h",
+   "hash": "1qstz2d1r0",
+   "text": "1814/15 Oberklasse"
+  },
+  {
+   "bi": 162,
+   "k": "h",
+   "hash": "cbgw8x31hc",
+   "text": "Philosophische Enzyklopädie wöchentlich drei Stunden"
+  },
+  {
+   "bi": 163,
+   "k": "p",
+   "hash": "g64p9s42xz",
+   "sents": [
+    "Zuerst wurden die Grundbegriffe der allgemeinen Gegenstände, in welche sich das natürliche Universum verzweigt, und hierauf der Hauptinhalt der Wissenschaft des Geistes betrachtet und bei dem ästhetischen Teile des letzteren länger verweilt."
+   ]
+  },
+  {
+   "bi": 164,
+   "k": "h",
+   "hash": "1v3y5j01d6",
+   "text": "Religionslehre wöchentlich eine Stunde"
+  },
+  {
+   "bi": 165,
+   "k": "p",
+   "hash": "1mgytdb1xs",
+   "sents": [
+    "Nach Wiederholung und Vollendung der Beweise vom Dasein Gottes, die als verschiedene Stufen der vernünftigen Erkenntnisweise seines Begriffs vorgestellt wurden, wurde zur Betrachtung übergegangen, inwiefern dieselbe Erkenntnis sich auf Anschauung und Erfahrung bezieht."
+   ]
+  },
+  {
+   "bi": 166,
+   "k": "h",
+   "hash": "mqwmtylclj",
+   "text": "Mittelklasse"
+  },
+  {
+   "bi": 167,
+   "k": "h",
+   "hash": "e3rwjp1kqu",
+   "text": "Philosophische Vorbereitungswissenschaften wöchentlich drei Stunden"
+  },
+  {
+   "bi": 168,
+   "k": "p",
+   "hash": "djrk2w23uc",
+   "sents": [
+    "Dieses Jahr wurde die Logik vorgetragen und die Grundbegriffe der drei Teile derselben, der Lehre vom Sein, der Lehre vom Wesen und der Lehre vom Begriff, nach Diktaten erläutert."
+   ]
+  },
+  {
+   "bi": 169,
+   "k": "h",
+   "hash": "jz2n2a1j94",
+   "text": "Religionsunterricht wöchentlich eine Stunde"
+  },
+  {
+   "bi": 170,
+   "k": "p",
+   "hash": "1d7znzr1x0",
+   "sents": [
+    "Gemeinschaftlich mit der Oberklasse"
+   ]
+  },
+  {
+   "bi": 171,
+   "k": "h",
+   "hash": "1vkxglac7z",
+   "text": "Unterklasse"
+  },
+  {
+   "bi": 172,
+   "k": "h",
+   "hash": "ifpmbgvs5o",
+   "text": "Rechts-, Pflichten- und Religionslehre wöchentlich vier Stunden"
+  },
+  {
+   "bi": 173,
+   "k": "p",
+   "hash": "3wt5iw2y8r",
+   "sents": [
+    "Die Grundbestimmungen des Rechts und der Moralität wurden nach Diktaten abgehandelt und die vorgetragenen Erläuterungen unter Anleitung des Lehrers zu Papier gebracht."
+   ]
+  },
+  {
+   "bi": 174,
+   "k": "h",
+   "hash": "7ecp35voaq",
+   "text": "1815/16 Oberklasse"
+  },
+  {
+   "bi": 175,
+   "k": "h",
+   "hash": "cbgw8x31hc",
+   "text": "Philosophische Enzyklopädie wöchentlich drei Stunden"
+  },
+  {
+   "bi": 176,
+   "k": "p",
+   "hash": "12dmszpwy5",
+   "sents": [
+    "Die Übersicht über das Ganze der Wissenschaften wurde so gegeben, daß der systematische Zusammenhang einleuchten sollte und die Begriffe, welche die Grundlagen der besonderen Wissenschaften ausmachen, erläutert wurden."
+   ]
+  },
+  {
+   "bi": 177,
+   "k": "h",
+   "hash": "1v3y5j01d6",
+   "text": "Religionslehre wöchentlich eine Stunde"
+  },
+  {
+   "bi": 178,
+   "k": "p",
+   "hash": "1wm8o5z7hq",
+   "sents": [
+    "Dieses Jahr wurde die christliche Glaubenslehre, nach dem athanasischen Glaubensbekenntnis, durchgegangen."
+   ]
+  },
+  {
+   "bi": 179,
+   "k": "h",
+   "hash": "mqwmtylclj",
+   "text": "Mittelklasse"
+  },
+  {
+   "bi": 180,
+   "k": "h",
+   "hash": "e3rwjp1kqu",
+   "text": "Philosophische Vorbereitungswissenschaften wöchentlich drei Stunden"
+  },
+  {
+   "bi": 181,
+   "k": "p",
+   "hash": "bfvshj5a9w",
+   "sents": [
+    "Dieses Jahr wurde die Psychologie vorgetragen und aus der Phänomenologie des Geistes mit den Stufen des Bewußtseins der Anfang gemacht, dann in der eigentlichen Lehre vom Geist dessen wesentliche Tätigkeiten abgeleitet und erläutert."
+   ]
+  },
+  {
+   "bi": 182,
+   "k": "h",
+   "hash": "jz2n2a1j94",
+   "text": "Religionsunterricht wöchentlich eine Stunde"
+  },
+  {
+   "bi": 183,
+   "k": "p",
+   "hash": "1d7znzr1x0",
+   "sents": [
+    "Gemeinschaftlich mit der Oberklasse"
+   ]
+  },
+  {
+   "bi": 184,
+   "k": "h",
+   "hash": "1vkxglac7z",
+   "text": "Unterklasse"
+  },
+  {
+   "bi": 185,
+   "k": "h",
+   "hash": "12awb2eeqy",
+   "text": "Rechtslehre wöchentlich vier Stunden"
+  },
+  {
+   "bi": 186,
+   "k": "p",
+   "hash": "kcb94w192l",
+   "sents": [
+    "Dieses Jahr wurden die Grundbestimmungen des Rechts nach Diktaten abgehandelt und die vorgetragenen Erläuterungen unter Anleitung des Lehrers zu Papier gebracht."
+   ]
+  },
+  {
+   "bi": 187,
+   "k": "h",
+   "hash": "1bbyj2kgqu",
+   "text": "II. Gymnasialreden"
+  },
+  {
+   "bi": 188,
+   "k": "h",
+   "hash": "1jcg55i197",
+   "text": "1. Rede auf den Amtsvorgänger Rektor Schenk am 10. Juli 180996)"
+  },
+  {
+   "bi": 189,
+   "k": "p",
+   "hash": "1n93ikl1mj",
+   "sents": [
+    "Edler, verehrungswürdiger Greis!"
+   ]
+  },
+  {
+   "bi": 190,
+   "k": "p",
+   "hash": "1tmqqka1h6",
+   "sents": [
+    "Diese so glänzende als hochachtungswürdige Versammlung, welche das fünfzigjährige Verdienst ihres Lehrers feiernd ehrt, hat die Lehrer und Schüler der Gymnasialanstalt zu diesem Familienfeste eingeladen, um Zeuge einer Dankbarkeit zu sein, welche für Sie, edler Greis und hochgeschätzter Kollege, den Gegenstand derselben, und für die Versammlung selbst gleich ehrenvoll ist; um Ihres Glückes, ein so seltenes Ziel und zugleich [das] einer so würdig vollendeten Laufbahn erreicht zu haben, mit ihr uns gemeinschaftlich zu freuen.",
+    "Diese Gesellschaft hat zugleich meinen Wunsch mit wohlwollender Güte aufgenommen, in ihrer Mitte, wo sie dem Lehrer den Ausdruck der Freude ehemaliger Schüler dargebracht hat, Ihnen, teuerster Kollege, auch den glückwünschenden Gruß der Mitgenossenschaft des Lehramtes aussprechen zu dürfen."
+   ]
+  },
+  {
+   "bi": 191,
+   "k": "p",
+   "hash": "1m5bgdty20",
+   "sents": [
+    "O der schönen Stunde, die uns hier vereint, o des reichen Moments! reich an Erinnerungen der Vergangenheit, reich an glücklichen Gefühlen der Gegenwart, auch reich an Segen für die Zukunft; arm an Wünschen, denn wie wenig ist es, was Ihnen, glücklicher Greis, und uns für Sie zu wünschen übrig ist, da Sie durch die göttliche Güte und durch sich selbst das Wünschenswerteste, nämlich dieses mit Verdienst und Tugend bekrönte und mit Munterkeit und Gesundheit der Seele und des Körpers begabte Alter erreicht haben, da gegenwärtiges Fest noch die Anerkennung dieser Tugend und die Ehre dieses Verdienstes hinzufügt und gleichsam in einen Becher des edelsten Genusses vereinigt."
+   ]
+  },
+  {
+   "bi": 192,
+   "k": "p",
+   "hash": "531c3czzib",
+   "sents": [
+    "Der Lehrer, wenn er in seinem Berufe den Samen der Erkenntnis ausgestreut hat, tritt von seinem Werke zurück; wenn auch einiges des Ausgesäten nicht gedeihlichen Boden fand, ist er im ganzen der Wirkung und des Erfolgs gewiß, um der geistigen, um der höheren Kraft willen, die in der ausgespendeten Gabe liegt; er kann sich des Gedankens an die Saat, die aufgesprossen sein werde, bei sich erfreuen; aber selten wird ihm das Glück zuteil, das Feld der Garben zumal zu überschauen und in solchem Gesamtanblick seiner Arbeit zu genießen."
+   ]
+  },
+  {
+   "bi": 193,
+   "k": "p",
+   "hash": "95ms7arp8g",
+   "sents": [
+    "Ihnen, verehrter Kollege, hat diese Gesellschaft diesen seltenen Genuß zubereitet.",
+    "Der Kreis, der um Sie versammelt steht, besteht aus einer großen Zahl der achtungswürdigsten Männer dieser Stadt, Jünglinge, Männer, selbst Greise darunter, die sich in die Zeiten ihrer Jugend wieder versetzen, in die Zeiten der hoffnungsvollen Ahnungen von Welt und Leben, die auch die Zeit der Lehrjahre sind, welche für Welt und Leben vorbereiten und in sie einführen.",
+    "Diese Männer rufen ihre frühere Bestimmung, Schüler gewesen zu sein, zurück, sind in diesem Namen hier versammelt und bekennen, sich durch denselben zu ehren."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/9.p140.json"
+}

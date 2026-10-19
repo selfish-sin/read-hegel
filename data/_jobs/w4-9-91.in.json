@@ -1,0 +1,356 @@
+{
+ "id": "w4-9-91",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 9,
+ "chunkTitle": "Die geistige Religion",
+ "heading": "11. Anhang Berichte Hegels über seine Unterrichtsgegenstände",
+ "blocks": [
+  {
+   "bi": 91,
+   "k": "p",
+   "hash": "104yzk71ff",
+   "sents": [
+    "Die Dimensionen des allgemeinen Raums sind seine inneren Unterschiede, nicht quantitativer, sondern qualitativer Art, zugleich nicht außereinander, sondern wo das eine ist, ist das andere.",
+    "Auch sind sie zwar als das Erste, das Andere und das Dritte verschieden, aber dieser Unterschied ist leerer allgemeiner Unterschied überhaupt.",
+    "Diese Momente haben keine Bestimmtheit gegeneinander an ihnen selbst.",
+    "So sind sie die Dimensionen der Länge, Breite, Höhe, die sich nur in Rücksicht auf ein Drittes, an sich selbst Bestimmtes, unterscheiden."
+   ]
+  },
+  {
+   "bi": 92,
+   "k": "p",
+   "hash": "18ymqfa15t",
+   "sents": [
+    "§"
+   ]
+  },
+  {
+   "bi": 93,
+   "k": "p",
+   "hash": "dzjd1c3yih",
+   "sents": [
+    "Erst durch das Setzen einer absoluten Bestimmung treten diese Unterschiede in ein negatives, gegeneinander bestimmtes Verhältnis.",
+    "Der Punkt, die absolute Negation im Raume in positives Verhältnis mit ihm tretend, bewegt sich zur Linie, diese zur Fläche, die zugleich als dritte Dimension umschließende Fläche ist und den Raum als Totalität, aber mit einer Begrenzung herstellt, als ein begrenzter Raum."
+   ]
+  },
+  {
+   "bi": 94,
+   "k": "h",
+   "hash": "1ub5euhq3z",
+   "text": "11. Anhang Berichte Hegels über seine Unterrichtsgegenstände"
+  },
+  {
+   "bi": 95,
+   "k": "p",
+   "hash": "1xmsdtk156",
+   "sents": [
+    "Aus den gedruckten Gymnasialprogrammen"
+   ]
+  },
+  {
+   "bi": 96,
+   "k": "h",
+   "hash": "s0gd8r17ln",
+   "text": "1808/09 Oberklasse"
+  },
+  {
+   "bi": 97,
+   "k": "h",
+   "hash": "1v779ikz8q",
+   "text": "Philosophische Vorbereitungswissenschaften vier Stunden wöchentlich Lehrer: Professor und Rektor Hegel95)"
+  },
+  {
+   "bi": 98,
+   "k": "p",
+   "hash": "vpwauld3u7",
+   "sents": [
+    "Das Pensum dieser Klasse hierin war Einleitung in die Kenntnis des philosophischen Zusammenhangs der Wissenschaften; davon wurde die Logik, nämlich mit Einschluß der sonst so genannten Ontologie oder auch transzendentalen Logik, am ausführlichsten abgehandelt."
+   ]
+  },
+  {
+   "bi": 99,
+   "k": "h",
+   "hash": "17d7qkapsj",
+   "text": "Mathematik vier Stunden wöchentlich"
+  },
+  {
+   "bi": 100,
+   "k": "p",
+   "hash": "1lg94zr2o4",
+   "sents": [
+    "Die Algebra wurde von den allgemeinen Rechenarten an durch die Proportionen, Progressionen und Logarithmen bis zu den Gleichungen vom zweiten Grade einschließlich vorgetragen und eingeübt.",
+    "Die Geometrie konnte, wegen der Kürze dieses ersten Studienjahres, nur bis in das dritte Buch Euklids geführt werden."
+   ]
+  },
+  {
+   "bi": 101,
+   "k": "h",
+   "hash": "mqwmtylclj",
+   "text": "Mittelklasse"
+  },
+  {
+   "bi": 102,
+   "k": "h",
+   "hash": "b357h33ukr",
+   "text": "Logik wöchentlich vier Stunden"
+  },
+  {
+   "bi": 103,
+   "k": "p",
+   "hash": "1ibere5fd9",
+   "sents": [
+    "Es wurde mit der Lehre von dem Bewußtsein und dessen Arten angefangen, hierauf zu den Kategorien und dann zu den sich auf sie beziehenden Antinomien und deren Dialektik fortgeschritten, worauf noch zu der eigentlichen Logik übergegangen wurde."
+   ]
+  },
+  {
+   "bi": 104,
+   "k": "h",
+   "hash": "14rd9ly1x4",
+   "text": "1809/10 Oberklasse"
+  },
+  {
+   "bi": 105,
+   "k": "h",
+   "hash": "chyukt1x7c",
+   "text": "Philosophie vier Stunden wöchentlich"
+  },
+  {
+   "bi": 106,
+   "k": "p",
+   "hash": "16c4ylqu9y",
+   "sents": [
+    "Zuerst wurde die Logik in ihrer ganzen Ausdehnung abgehandelt, jedoch mit Ausschließung der objektiven oder transzendentalen Logik; alsdann von der philosophischen Enzyklopädie der Teil, der die Naturwissenschaften in sich begreift."
+   ]
+  },
+  {
+   "bi": 107,
+   "k": "h",
+   "hash": "mqwmtylclj",
+   "text": "Mittelklasse"
+  },
+  {
+   "bi": 108,
+   "k": "h",
+   "hash": "1a6xamj5co",
+   "text": "Philosophische Vorbereitungswissenschaften wöchentlich vier Stunden"
+  },
+  {
+   "bi": 109,
+   "k": "p",
+   "hash": "18xtydb994",
+   "sents": [
+    "Die Lehre von den Stufen des Bewußtseins, alsdann der theoretische Teil der Psychologie, nämlich die Lehre von der Intelligenz wurden nach diktierten Paragraphen so abgehandelt, daß die Schüler angeleitet wurden, abstrakte Vorstellungen aufzufassen und den ersten Begriff von einem systematischen Fortgange einer Wissenschaft zu erhalten."
+   ]
+  },
+  {
+   "bi": 110,
+   "k": "h",
+   "hash": "1vkxglac7z",
+   "text": "Unterklasse"
+  },
+  {
+   "bi": 111,
+   "k": "h",
+   "hash": "1a6xamj5co",
+   "text": "Philosophische Vorbereitungswissenschaften wöchentlich vier Stunden"
+  },
+  {
+   "bi": 112,
+   "k": "p",
+   "hash": "1xt3hf319o",
+   "sents": [
+    "Rektor Hegel trug zuerst die allgemeinen Begriffe der Logik vor; dann ging er zu der Rechts-, Pflichten- und Religionslehre über, wovon gleichfalls die ersten Grundbegriffe abgehandelt wurden."
+   ]
+  },
+  {
+   "bi": 113,
+   "k": "h",
+   "hash": "14xr0ut57o",
+   "text": "1810/11 Oberklasse"
+  },
+  {
+   "bi": 114,
+   "k": "h",
+   "hash": "1a6xamj5co",
+   "text": "Philosophische Vorbereitungswissenschaften wöchentlich vier Stunden"
+  },
+  {
+   "bi": 115,
+   "k": "p",
+   "hash": "1kuro6x11k",
+   "sents": [
+    "Philosophische Enzyklopädie wurde in systematischer Ordnung vorgetragen, und die Grundbegriffe der Wissenschaften der Natur und des Geistes erörtert."
+   ]
+  },
+  {
+   "bi": 116,
+   "k": "h",
+   "hash": "mqwmtylclj",
+   "text": "Mittelklasse"
+  },
+  {
+   "bi": 117,
+   "k": "h",
+   "hash": "1a6xamj5co",
+   "text": "Philosophische Vorbereitungswissenschaften wöchentlich vier Stunden"
+  },
+  {
+   "bi": 118,
+   "k": "p",
+   "hash": "pleglqa11k",
+   "sents": [
+    "Dieses Jahr wurde in dieser Klasse von zweijährigem Kursus die allgemeine Logik abgehandelt; die Hauptrücksicht, abgesehen vom Inhalte, war in Ansehung der Behandlung, die Studierenden in das abstrakte Denken einzuleiten, womit bei Gelegenheit des Dialektischen, mit dessen vormaliger Gestalt sie an den Kantischen Antinomien bekannt gemacht wurden, auch Anfänge des spekulativen Denkens sich verbanden."
+   ]
+  },
+  {
+   "bi": 119,
+   "k": "h",
+   "hash": "1vkxglac7z",
+   "text": "Unterklasse"
+  },
+  {
+   "bi": 120,
+   "k": "h",
+   "hash": "1s7j5jytzr",
+   "text": "Rechts-, Moral- und Religionslehre wöchentlich vier Stunden"
+  },
+  {
+   "bi": 121,
+   "k": "p",
+   "hash": "fl75vdyits",
+   "sents": [
+    "Da der Inhalt dieser Lehren bei den Schülern, durch den früher erhaltenen religiösen Unterricht, als bekannt vorauszusetzen ist, so konnte zu den Begriffen fortgegangen werden, auf denen sie beruhen, und aus denen die besonderen Bestimmungen sich ableiten; der Unterricht wurde dadurch zugleich der Anfang einer Übung im abstrakten Denken."
+   ]
+  },
+  {
+   "bi": 122,
+   "k": "h",
+   "hash": "v329d51p7p",
+   "text": "1811/12 Oberklasse"
+  },
+  {
+   "bi": 123,
+   "k": "h",
+   "hash": "cbgw8x31hc",
+   "text": "Philosophische Enzyklopädie wöchentlich drei Stunden"
+  },
+  {
+   "bi": 124,
+   "k": "p",
+   "hash": "1yh6zsg10f",
+   "sents": [
+    "Nach einer Wiederholung der Logik wurden die Grundbegriffe der besonderen Wissenschaften in systematischer Ordnung vorgetragen."
+   ]
+  },
+  {
+   "bi": 125,
+   "k": "h",
+   "hash": "1v3y5j01d6",
+   "text": "Religionslehre wöchentlich eine Stunde"
+  },
+  {
+   "bi": 126,
+   "k": "p",
+   "hash": "83fxiy18tr",
+   "sents": [
+    "Gemeinschaftlich mit der Mittelklasse"
+   ]
+  },
+  {
+   "bi": 127,
+   "k": "h",
+   "hash": "mqwmtylclj",
+   "text": "Mittelklasse"
+  },
+  {
+   "bi": 128,
+   "k": "h",
+   "hash": "e3rwjp1kqu",
+   "text": "Philosophische Vorbereitungswissenschaften wöchentlich drei Stunden"
+  },
+  {
+   "bi": 129,
+   "k": "p",
+   "hash": "oavo851i6q",
+   "sents": [
+    "Dieses Jahr wurde die Psychologie, welche abwechselnd mit der Logik in den zwei Jahren des Kursus dieser Klasse abgehandelt wird, vorgetragen; zuerst die Lehre von dem Bewußtsein nach den Hauptstufen desselben; alsdann die eigentliche Lehre von den Tätigkeiten des Geistes."
+   ]
+  },
+  {
+   "bi": 130,
+   "k": "h",
+   "hash": "1v3y5j01d6",
+   "text": "Religionslehre wöchentlich eine Stunde"
+  },
+  {
+   "bi": 131,
+   "k": "p",
+   "hash": "5z6k8n1w8c",
+   "sents": [
+    "Nach dem Begriffe von der Religion und von Gott wurden die gewöhnlichen Beweise vom Dasein Gottes vorgetragen, die Kantische Kritik derselben beurteilt und von da aus der richtige Standpunkt zur Begründung der Religion und zur näheren Erkenntnis der Natur Gottes gezeigt."
+   ]
+  },
+  {
+   "bi": 132,
+   "k": "h",
+   "hash": "1vkxglac7z",
+   "text": "Unterklasse"
+  },
+  {
+   "bi": 133,
+   "k": "h",
+   "hash": "ifpmbgvs5o",
+   "text": "Rechts-, Pflichten- und Religionslehre wöchentlich vier Stunden"
+  },
+  {
+   "bi": 134,
+   "k": "p",
+   "hash": "1kgxz3414r",
+   "sents": [
+    "Die Grundbegriffe wurden nach kurzen Diktaten abgehandelt, diese wurden erläutert und den Schülern Anleitung gegeben, von den Erläuterungen das Wesentliche zu Papier zu bringen."
+   ]
+  },
+  {
+   "bi": 135,
+   "k": "h",
+   "hash": "1hxlwqh165",
+   "text": "1812/13 Oberklasse"
+  },
+  {
+   "bi": 136,
+   "k": "h",
+   "hash": "cbgw8x31hc",
+   "text": "Philosophische Enzyklopädie wöchentlich drei Stunden"
+  },
+  {
+   "bi": 137,
+   "k": "p",
+   "hash": "1riusw29xn",
+   "sents": [
+    "Von den drei Teilen der philosophischen Wissenschaften, der Logik, der Philosophie der Natur und der Philosophie des Geistes, wurde bei dem zweiten, der Philosophie der Natur, länger verweilt und von deren einzelnen Wissenschaften die Grundbegriffe angegeben, der erste und dritte aber wiederholungsweise durchgegangen, weil sie bereits in der Mittelklasse vorgekommen waren."
+   ]
+  },
+  {
+   "bi": 138,
+   "k": "h",
+   "hash": "1v3y5j01d6",
+   "text": "Religionslehre wöchentlich eine Stunde"
+  },
+  {
+   "bi": 139,
+   "k": "p",
+   "hash": "yappyn1ngs",
+   "sents": [
+    "Dieses Jahr wurde von dem Begriffe Gottes zu der Erkenntnis seiner Offenbarung in den natürlichen und geistigen Dingen fortgeschritten."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/9.p91.json"
+}
