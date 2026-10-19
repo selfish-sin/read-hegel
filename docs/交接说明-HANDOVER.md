@@ -96,6 +96,44 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 ```
 
 
+### ★ 第 45 波已收官：w4/10「3. Rede zum Schuljahrabschluß am 14. September 1810」＋「4. Rede zum Schuljahrabschluß am 2. September 1811」（两篇学年结束演辞）整节 **100%**
+
+**第 45 波（2026-10-19）一次做完 w4/10 整节 9 单元 / 53 块 / 220 句**（本节无空段落），三批全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
+
+| 批次 | 单元 | 句数 | 内容 |
+|---|---|---|---|
+| b1 | 0 / 6 / 9 | 83 | 1810 演辞：学校的历史与第二学年的进展·班级序列与统一·宗教课引入与预科班·教理问答与公共礼拜·军队操练作为教养手段·教师勤勉与学生私下用功 |
+| b2 | 16 / 23 / 32 | 80 | 品性训育与教养之分·纪律与家庭教育的分工·校舍修缮·佩耶钱币收藏与矿物标本室·夜唱募捐与助学基金·教师待遇与人事变动·名次评定·1811 演辞：纪律与伦理教养的直接关系·伦理概念须早教之辩 |
+| b3 | 38 / 44 / 52 | 57 | 学校/家庭/世界的三分·公共生活与从属·评定的相对性·入学年限与家长义务·学校设施与藏品·学年评语与表彰 |
+
+**w4/10 整节 9 单元 / 53 块已全部译完。** 覆盖率 17.04% → **17.28%**（15,917 / 92,117 句；段落 5,029 / 17,948 = 28.02%）。第 4 卷 4,107 / 5,501 句（74.7%），**分节进度 11/16**。
+
+- **切片**：`node scripts/make-jobs.mjs --vol w4 --size 25 --limit 9 --prefix wave45` → units=9 sentences=220，**正好整节切完**（`--limit` 只在分节边界检查、节内 flush 不看它）。
+- **术语层**：共享词表 **+76 条新译名**（Lokation 名次评定／Promotion 升班／Fortgangsplatz 升迁名次／Jahreszensur 年度评分／
+  Generalkommissariat 皇家总务署／Rektorat 校务委员会／Katechisation 教理问答／Nachtsingkollekte 夜间唱诗募捐／
+  Schulsammlung 学校募捐／Experimentalphysik 实验物理学／Kosmographie 宇宙学／Deklamieren 公开朗诵／
+  Nationalgarde 国民卫队／Privatfleiß 私下勤勉／Kreuzer 克鲁采／Gulden 古尔登 等）；context-w4 条目数不变（**468 条**），
+  **21 条条目加注 wave45 分义** ＋ 1 条 styleGuide 门务记录。
+- **真缺陷 3 处（已修）**：
+  1. **「目的+的+的」中文自碰撞 × 2**（bi16[2]、bi27[0]）——「目的」这个词本身以「的」结尾，**任何「目的的」都会撞车**；
+     改「对这一目的本身所抱的利害关系」「显示出为达致某一目的之直接意图」才躲开（用「之」字连接是本项目既定改法）。
+  2. **bi36[2]**：同句含 Bildung 与 Erziehung，译文只有「教育」没有「教养」→ 门判 forbidden Bildung→教育；补「使人独立自主的教养」后过门。
+- **分义与误报（不改译文，已逐条登记）**：本波 55 条 minor 全是术语一致度提醒——Leben→生命 8（家庭/学校/公共生活等具体生活方式语境）、
+  Studienanstalt→高等学府 7（中等学校语境作「学校」）、Mitte→中项 6（**Mittel 子串误报**）、Person→人格 5（日常义「年长者／特殊的人」＋ Personal 子串）、
+  Teilnahme→关切 3（该条 unsicher，备选「参与」）、Anspruch→要求权 3（「占用／要求负责」义）、Kenntnis→知识 3、
+  Bildung→教养 3（Formation 义作「养成」）、Gefühl→感觉 2（「尊重感」）、Gesetz→法律 2（同句有 Recht，避免「法律」触发禁译词）、
+  Macht→威力 2、Zweck→目的 2、Tätigkeit→行动 2 等；新增 major 4 条**全是 `wirklich` 词族日常义误报**（「真正」不带「现实」字根），
+  与卷内既有 11 条同类。**机器门 GATE OK（0 FAIL / 5 WARN）**，5 条 WARN 是同句跨词条容忍（bi8[6]、bi36[2]、bi45[4] 各含
+  Bildung＋Erziehung，「教养」「教育」按词条分工共存）。
+- **验收全绿**：trans-index **ALIGNMENT OK**；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；
+  validate 仍 20 处存量 misnested（w2/w3/w5，与新译无关）；**w4/10 浏览器实测（端口 8860）pairs=54 = expected 54、
+  missing=0、mismatch=0、emptyZh=0、emptyEn=0、jsErr=0**；固定 8 页回归 **8/8**。
+- **★ 本波新踩的坑（写在这里给下一轮）**：**处方日期里的「1.」**——「der den 11. November im Jahr 1761」中的「11.」会被
+  doNotTranslate 词条「1.」按字符命中（子串），于是**英中都必须保留原德式日期写法**（EN「11. November 1761」／中「1761 年 11.11」）；
+  改写成「1761年11月11日」会被门判「doNotTranslate missing」。已写进 context-w4 的 styleGuide。同段的「z. B.」命中「B.」，
+  按门规则以「z. A.」～「z. C.」例程豁免，不必改译文。
+- **远端**：本波推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
+
 ### ★ 第 44 波已收官：w4/9「Die geistige Religion」（精神宗教＋两个片段＋附录教学报告＋两篇演辞）整节 **100%**
 
 **第 44 波（2026-10-19）一次做完 w4/9 整节 11 单元 / 239 块 / 276 句**（含 2 个空段落，如实输出 `en: []` / `zh: []`），四批全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
@@ -301,10 +339,10 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 | Bd. 1 早期著作 | ✅ 22/22 节 · 3,740 句 |
 | Bd. 2 耶拿著作 | ✅ 15/15 节 · 3,270 句 |
 | Bd. 3 精神现象学 | ✅ **正文 100%**（序言→绝对知识，w3/0–15 正文 15/15 分节 · 4,800 句） |
-| Bd. 4 纽伦堡与海德堡时期著作 | **10/16 分节 100%** · 累计 3,887 句（w4/0–9 全 100%；w4/9「Die geistige Religion」11 单元 / 239 块 / 276 句**整节译完**） |
-| 合计 | **15,697 / 92,117 句 = 17.04%** |
+| Bd. 4 纽伦堡与海德堡时期著作 | **11/16 分节 100%** · 累计 4,107 句（w4/0–10 全 100%；w4/10 两篇学年结束演辞 9 单元 / 53 块 / 220 句**整节译完**） |
+| 合计 | **15,917 / 92,117 句 = 17.28%** |
 
-覆盖率另有按段落的数字：4,978 / 17,948 = 27.74%。
+覆盖率另有按段落的数字：5,029 / 17,948 = 28.02%。
 
 **第 38 波刚完成**（2026-10-17）：w4/5 **15 单元 / 258 块 / 388 句全分节 100%**，覆盖率 14.75% → **15.17%**。
 本节内容跨两段：前 4 单元收尾 1809/10 逻辑学（关系推论 → 概念的实现 → 观念论开篇），
@@ -465,14 +503,15 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 
 ### 下一步（按优先级）
 
-1. **继续第 4 卷**：`make-jobs --vol w4` 会自动接着 w4/9 往后（上下文包 `data/_jobs/context-w4.json` 468 条已在手，可直接开译）。
-   **w4/9 已完成**；下一节 **w4/10「3. Rede zum Schuljahrabschluß am 14. September 1810」约 9 单元 / 220 句**，切片用
-   `node scripts/make-jobs.mjs --vol w4 --size 25 --limit 9 --prefix wave45`。
+1. **继续第 4 卷**：`make-jobs --vol w4` 会自动接着 w4/10 往后（上下文包 `data/_jobs/context-w4.json` 468 条已在手，可直接开译）。
+   **w4/10 已完成**；下一节 **w4/11「5. Rede zum Schuljahrabschluß am 2. September 1813」约 10 单元 / 231 句**，切片用
+   `node scripts/make-jobs.mjs --vol w4 --size 25 --limit 9 --prefix wave46`（若报出的单元跨进 w4/12，说明本节单元数不足 9，把 `--limit` 减 1 重切）。
    **`--limit` 只在分节边界检查、节内 flush 不看它**（实测：切 w4/9 传 `--limit 10` 得到 11 单元，正是整节切完才停）。
    **真正的坑（第 43 波）**：目标节已 100% 时别再跑 `make-jobs`——它会滚到下一节、覆盖 `jobs-<prefix>.json` 并多生成一批 `.in.json`；
    跑之前先确认 w4/10 是"第一个未译节"。
    学年结束演辞术语（w4/9 已立：`Programm` 学年报告、`Rede` 演辞、`Oberklasse/Mittelklasse/Unterklasse` 高/中/低年级、
-   `Generalkommissariat` 王家总署、`allerhöchst` 至高、`gnädigst` 恩霈）供 w4/10–12 直接沿用。
+   `Generalkommissariat` 王家总署、`allerhöchst` 至高、`gnädigst` 恩霈）w4/10 已沿用并扩充（`Lokation` 名次评定、`Promotion` 升班、
+   `Rektorat` 校务委员会、`Katechisation` 教理问答、`Nachtsingkollekte` 夜间唱诗募捐等），供 w4/11–12 直接沿用。
    另注意：**BYOK 子代理月度配额 2026-10-23 23:59 才重置**——在此之前不要派子代理，直接主译；
    若报 `monthly usage quota` 不重派；若报 `Token Plan 用量上限 (2067)` 属账号级可稍后重派一次。
 2. **未审校章节**：w1（22 节）、w2（15 节）整卷尚未逐章审校——它们译于词族政策之前，

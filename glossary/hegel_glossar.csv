@@ -2716,3 +2716,79 @@ athanasisches Glaubensbekenntnis,Athanasian creed,亚他那修信经,ok,die chri
 Zensur,censure,考语,unsicher,教学报告义的成绩评语；不作「审查」
 Physiographie,physiography,自然志,ok,包宇宙志 自然史 物理学
 Gymnasialanstalt,gymnasium establishment,文科中学,ok,Lehrer und Schüler der Gymnasialanstalt
+Gymnasialklassen,gymnasium classes,文科中学各班,ok,与 Gymnasium＝文科中学 成套；不作「中学班」
+Realanstalt,real school,实科学校,ok,与 Realinstitut＝实科学校 同义
+Generalkommissariat,general commissariat,皇家总务署,ok,符腾堡王家总务署（主管文教）；不作「总领事馆」
+Lokation,ranking,名次评定,ok,校内升级评定；与 Lokal（校舍）严格分开
+Promotion,promotion,升班,ok,升入更高一级之评定
+Fortgangsplatz,place of advancement,升迁名次,ok,升级后所得的名次
+Jahreszensur,annual mark,年度评分,ok,一年内综合评分；不作「学年评语」
+Auszeichnung,distinction,表彰,ok,与 Kennzeichnung 分开
+Applikation,diligence,专心,ok,学生用功；与 Fleiß 勤勉 分译
+Pensum,teaching load,授课任务,ok,教师承担的授课科目
+Rektorat,headship,校务委员会,ok,中学的校务领导机构（校长团）；不作「校长」
+Stipendium,stipendium,助学金,ok,学生助学金
+Fiskus,fund,基金,ok,专款（本文为贫苦学生助学基金）
+Kollekte,collection,募捐,ok,挨户唱诗募集的捐款
+Nachtsingkollekte,night-singing collection,夜间唱诗募捐,ok,冬季挨户唱诗之募集
+Schulsammlung,school collection,学校募捐,ok,旧时为学校募集的捐款（已停）
+Subskription,subscription,认捐,ok,市民按季认捐
+Bürgersubskription,citizens' subscription,市民认捐,ok,按季由市民认捐的款项
+Stiftungsadministration,foundation administration,基金会管理局,ok,王家慈善捐赠基金管理局
+Unterprimärklasse,lower-first class,初级最低班,ok,中学最低一级的预备班
+Experimentalphysik,experimental physics,实验物理学,ok,近代物理实验科目
+Kosmographie,cosmography,宇宙学,ok,旧式地理天文学课程
+Deklamieren,declamation,公开朗诵,ok,高年级公开朗诵练习
+Pädagogik,pedagogy,教育学,ok,与 Erziehung＝教育 分开
+Nationalgarde,National Guard,国民卫队,ok,本地民兵
+Repetition,repetition,复习,ok,课堂复习；不作「重复」
+Privatfleiß,private diligence,私下勤勉,ok,学生课外自习的勤勉
+Fleiß,diligence,勤勉,ok,学生用功的品性
+Stand,station,境况,ok,社会境况（sich über seinen Stand erheben）
+Unbescheidenheit,impropriety,不得体,ok,「谈说不得体」义；日常「不谦逊」义不用于此
+Miene,mien,神态,ok,面部神色
+Anstand,decency,得体,ok,举止得体；不作「体面」
+Schicklichkeit,fittingness,得体,ok,行事是否得体的判断
+Militär,military,军事,ok,军队（der militärische Unterricht）
+Waffenübung,weapon exercise,武器操练,ok,军事操练
+Staatbeamter,state official,国家公务人员,ok,归入国家公务人员的等级
+Kirchengemeinschaft,church community,教会共同体,ok,教会共同体（成员资格）
+Gemeindeglied,congregation member,教会成员,ok,与 Mitglied 分开
+Prüfung,examination,考试,ok,与 Zeugnis 证明书 分开
+Rechnung,account,账目,ok,财务账目
+Verzicht,renunciation,放弃,ok,放弃份额
+Geldrat,instalment of money,钱款分期,ok,经核准分期发放的钱款
+Kreuzer,kreuzer,克鲁采,ok,巴伐利亚小银币（货币单位）
+Gulden,gulden,古尔登,ok,南德古尔登（货币单位）
+Mark,mark,马克,ok,重量单位
+Petrifikation,petrification,化石标本,ok,索尔恩霍芬化石标本
+Versteinerung,fossil,化石,ok,阿尔特多夫化石
+Münzkabinett,coin cabinet,钱币收藏,ok,古钱币收藏室
+Kabinett,cabinet,标本室,ok,矿物与物理标本室（不同于 Bibliothek）
+Bibliothek,library,图书馆,ok,
+Verwaltung,administration,管理局,ok,王家慈善基金管理局一类机构
+Aufsicht,supervision,监督,ok,恩旨监督下的监督
+Milde,benevolence,仁慈之心,ok,与 Wohltätigkeit 慈善 分开
+Geber,donor,捐赠者,ok,赠礼者
+Geschenk,gift,礼物,ok,与 Gabe 捐款 分开
+Eifer,zeal,热忱,ok,与 Fleiß 勤勉 分开
+Huld,grace,恩典,ok,君主的恩眷（allerhöchste Huld）
+Einschulung,enrolment,入学,ok,与 Aufnahme 录取 分开
+Beschwerde,complaint,责难,ok,与 Klage 抱怨 分开
+Nachlässigkeit,negligence,懈怠,ok,与 Faulheit 懒惰 分开
+Verspätung,lateness,拖延,ok,交作业迟到
+Zerstreuung,dispersion,涣散,ok,精神的涣散
+Gewohnheit,habit,习惯,ok,「成为习惯」义
+Redlichkeit,honesty,正直,ok,普遍的正直
+Wohlmeinendheit,kind-heartedness,善意,ok,同 Wohlwollen＝善意；不作「好心肠」
+Unbotmäßigkeit,undue licence,放肆,ok,与 Roheit 粗暴 分开
+Unordnung,disorderliness,杂乱,ok,无条理
+Schuljahrabschluß,close of the school year,学年结束,ok,学年末的典礼与致辞（Schuljahrabschlußrede）
+Kursus,course,学程,ok,规定学制中的一段学程
+Belehrung,admonition,教诲,ok,与 Ermahnung 告诫 分开
+Ermahnung,admonition,告诫,ok,与 Belehrung 教诲 分开
+Belobung,praise,赞扬,ok,当之无愧的赞扬
+Erwartung,expectation,期待,ok,他人对某人的期待
+Zutrauen,trust,信任,ok,与 Vertrauen 分开
+Achtung,respect,尊重,ok,尊重感（das Gefühl der Achtung）
+Sorgfalt,diligence,精心,ok,精心照料

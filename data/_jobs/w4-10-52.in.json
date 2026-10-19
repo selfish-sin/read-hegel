@@ -1,0 +1,30 @@
+{
+ "id": "w4-10-52",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 10,
+ "chunkTitle": "3. Rede zum Schuljahrabschluß am 14. September 1810 103)",
+ "heading": "3. Rede zum Schuljahrabschluß am 14. September 1810103)",
+ "blocks": [
+  {
+   "bi": 52,
+   "k": "p",
+   "hash": "nex9ca1rxv",
+   "sents": [
+    "Am Ende eines Studienjahrs machen die Prüfungen vor dem Publikum sichtbar, was in den verschiedenen Klassen der Anstalt geleistet worden.",
+    "In der Preisverteilungsfeierlichkeit treten wir noch öffentlicher auf.",
+    "Hier stehen an einer Seite die Eltern und Angehörigen, an der anderen die königliche Autorität; Familie und Staat vereinigen ihr Interesse.",
+    "In den erteilt werdenden Auszeichnungen erblickt die Familie, die ihre Söhne in der Schule sich entwachsen sieht, die günstige Vorbedeutung des sich gründenden Glücks derselben, - der Staat, der sie sich zuwachsen sieht, die Vorbedeutung ihrer Brauchbarkeit.",
+    "Für Euch, die Ihr hier aus der Hand des Königlichen Kommissariats eine Auszeichnung erhaltet, beginnt darin eine öffentliche Anerkennung dessen, was Ihr geleistet; Ihr fangt damit an, aus dem stillen Kreise der Schule in eine Beziehung zum Publikum und zum Staate zu treten.",
+    "Die Auszeichnungen sind noch nicht ein letztes Urteil aber eine verdiente Belobung Eures Fleißes, der Applikation und des Betragens im verflossenen Jahre und eine Ermunterung und Aufforderung für die Zukunft, die Erwartung, die Ihr bei Euren Familien und beim Staate erweckt habt, zu erfüllen, damit Euch die Auszeichnungen nicht einst zum Vorwurf werden, sondern vielmehr angenehme Rückerinnerungen an die früheren Stufen bleiben, deren auch das folgende Leben sich würdig zu erhalten hat."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/10.p52.json"
+}

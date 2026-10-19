@@ -615,3 +615,35 @@
   第 4 卷 3,887 / 5,501 句（70.7%），**分节进度 10/16**。**下一节：w4/10（1810 学年结束演辞，220 句，`--limit 9`）。**
 - **`--limit` 语义实测**：make-jobs 只在分节边界检查 limit、节内 flush 不看它；切 w4/9 传 `--limit 10` 得 11 单元＝整节切完才停，
   与交接说明记录一致（此前对"limit 是分节数"的含混表述已消除）。
+
+### 第 45 波（w4/10 收官）— 9 单元 / 53 块 / 220 句，**w4/10 整节 100%**
+
+- **内容**：1810 年 9 月 14 日学年结束演辞（学校的历史与第二学年的进展·班级序列与统一·宗教课引入与预科班·教理问答与公共礼拜·
+  军队操练作为教养手段·教师勤勉与学生私下用功·品性训育与教养之分·纪律与家庭教育的分工·校舍修缮·佩耶钱币收藏与矿物标本室·
+  夜唱募捐与助学基金·教师待遇与人事变动·名次评定）；1811 年 9 月 2 日学年结束演辞（纪律与伦理教养的直接关系·
+  伦理概念须早教之辩·公共生活与从属·学校/家庭/世界三分·评定的相对性）。
+- **批次**：b1 单元 0/6/9（83 句）、b2 单元 16/23/32（80 句）、b3 单元 38/44/52（57 句）——全部主代理翻译，不派子代理
+  （BYOK 月度配额 2026-10-23 23:59 才重置）。
+- **切片**：`make-jobs --vol w4 --size 25 --limit 9 --prefix wave45` → units=9 sentences=220，正好整节切完。
+- **真缺陷 3 处（已修）**：
+  1. **「目的+的+的」中文自碰撞 × 2**（bi16[2]、bi27[0]）——「目的」本身以「的」结尾，**任何「目的的」都会撞车**；
+     改「对这一目的本身所抱的利害关系」「显示出为达致某一目的之直接意图」（用「之」字连接是本项目既定改法）。
+  2. **bi36[2]**：同句含 Bildung 与 Erziehung，译文只有「教育」没有「教养」→ 门判 forbidden Bildung→教育；补「使人独立自主的教养」后过门。
+- **分义与误报（不改译文，已逐条登记进 context-w4 的 wave45 分义）**：本波 55 条 minor 全是术语一致度提醒——
+  Leben→生命 8（具体生活方式语境）、Studienanstalt→高等学府 7（中等学校语境作「学校」）、Mitte→中项 6（Mittel 子串误报）、
+  Person→人格 5（日常义「年长者／特殊的人」＋ Personal 子串）、Teilnahme→关切 3、Anspruch→要求权 3、Kenntnis→知识 3、
+  Bildung→教养 3（Formation 义作「养成」）、Gefühl→感觉 2、Gesetz→法律 2（同句有 Recht，避免「法律」触发禁译词）、
+  Macht→威力 2、Zweck→目的 2、Tätigkeit→行动 2 等；新增 major 4 条**全是 `wirklich` 词族日常义误报**（「真正」不带「现实」字根），
+  与卷内既有 11 条同类。**机器门 GATE OK（0 FAIL / 5 WARN）**，5 条 WARN 为同句跨词条容忍（bi8[6]、bi36[2]、bi45[4]）。
+- **术语层**：共享词表 **+76 条**（Lokation 名次评定／Promotion 升班／Fortgangsplatz 升迁名次／Generalkommissariat 皇家总务署／
+  Rektorat 校务委员会／Katechisation 教理问答／Nachtsingkollekte 夜间唱诗募捐／Experimentalphysik 实验物理学／
+  Deklamieren 公开朗诵／Nationalgarde 国民卫队／Privatfleiß 私下勤勉／Kreuzer 克鲁采／Gulden 古尔登 等）；
+  context-w4 条目数不变（468 条），**21 条条目加注 wave45 分义** ＋ 1 条 styleGuide 门务记录。
+- **★ 本波新坑**：**处方日期里的「1.」**——「der den 11. November im Jahr 1761」的「11.」被 doNotTranslate 词条「1.」按字符命中，
+  英中都必须保留原德式日期写法（EN「11. November 1761」／中「1761 年 11.11」），改写为「1761年11月11日」会被门判缺词。
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；
+  validate 仍 20 处存量 misnested（w2/w3/w5）；**w4/10 浏览器实测 pairs=54 = expected 54、missing/mismatch/emptyZh/emptyEn/jsErr 全 0**；
+  固定 8 页回归 8/8。
+- **进度**：17.04% → **17.28%**（15,697 → 15,917 / 92,117 句；段落 4,978 → 5,029 / 17,948 = 28.02%）；
+  第 4 卷 3,887 → 4,107 句（74.7%），**分节进度 11/16**。**下一节：w4/11**「5. Rede zum Schuljahrabschluß am 2. September 1813」
+  （约 10 单元 / 231 句），切片 `--limit 9 --prefix wave46`。
