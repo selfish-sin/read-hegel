@@ -405,7 +405,7 @@
    "en": "right / law",
    "zh": "权利（法）",
    "type": "term",
-   "note": "裁定：① 法哲学讲稿（chunk 7 等）中 das Recht an sich、das allgemeine Recht、Rechtsverletzung 等主体间自由与人格义，一律“权利”；② 成文制度／公法义（das formelle Recht、Rechtsprinzip、positive Rechte 实定法、rechtliche Ansprüche）作“法”。判据＝语境指主体间的自由关系还是指成文制度。共享词表 Recht→权利（variante）在此卷主用法成立。"
+   "note": "裁定：① 法哲学讲稿（chunk 7 等）中 das Recht an sich、das allgemeine Recht、Rechtsverletzung 等主体间自由与人格义，一律“权利”；② 成文制度／公法义（das formelle Recht、Rechtsprinzip、positive Rechte 实定法、rechtliche Ansprüche）作“法”。判据＝语境指主体间的自由关系还是指成文制度。共享词表 Recht→权利（variante）在此卷主用法成立。 ★wave40 分义补充：作领域名与 Pflicht（义务）、Religion（宗教）并列时（§232、§245）作「法」；主体间自由与人格义仍作「权利」。"
   },
   {
    "source": "Rechtslehre",
@@ -531,7 +531,7 @@
    "en": "government",
    "zh": "政府",
    "type": "term",
-   "note": "本卷政治评论中与 Stände 相对的主体；Staatsregierung＝国家政府"
+   "note": "本卷政治评论中与 Stände 相对的主体；Staatsregierung＝国家政府 ★wave40 分义补充：暴君的统治「unter der Regierung eines Tyrannen」作「统治」；政治主体义仍作「政府」。"
   },
   {
    "source": "Obrigkeit",
@@ -1946,6 +1946,62 @@
    "zh": "低年级 / 下层阶级",
    "type": "term",
    "note": "wave40 两义并存裁定：学制义（chunks 0-9，与 Oberklasse 高年级成序列）作「低年级」；社会义（标题 8「Rechts-, Pflichten- und Religionslehre für die Unterklasse」）作「下层阶级」。按语境分译，不拉平——共享词表已预告此冲突"
+  },
+  {
+   "source": "wirklich (副词强调义)",
+   "en": "really",
+   "zh": "真正／实际上",
+   "type": "term",
+   "note": "wave40 新增分义登记：作副词强调义时用「真正／实际上」，不作「现实的」。名词 Wirklichkeit 仍严格「现实性」。★qa 门按词族匹配会把副词用法误报为 major（全卷同类 29 处），属已知门局限"
+  },
+  {
+   "source": "Gefühl / Gemüt",
+   "en": "feeling / heart",
+   "zh": "感觉／内心",
+   "type": "term",
+   "note": "wave40 新增；不作「感受」（那是 Empfindung）；与 Anschauung（直观）分开。§注释中 Gemüt＝内心、Gefühl＝感觉"
+  },
+  {
+   "source": "Bild (der Einbildungskraft)",
+   "en": "image",
+   "zh": "图像",
+   "type": "term",
+   "note": "wave40 新增；承接共享词表「Bilder 取图像以让位于 Vorstellung＝表象」。想象活动中唤起的 das Bild eines anderen Gegenstandes 作 图像，不作 表象"
+  },
+  {
+   "source": "Stoff (der Einbildungskraft)",
+   "en": "material",
+   "zh": "材料",
+   "type": "term",
+   "note": "wave40 新增分义登记：想象力的 Stoff 作「材料」；与 Materie（物质）严格分开"
+  },
+  {
+   "source": "Entschluß / Vorsatz / Leitung",
+   "en": "resolve / design / guidance",
+   "zh": "决心／意图／引导",
+   "type": "term",
+   "note": "wave40 新增；§8 三词并列，指内在规定向外在性过渡的三种名称。与 Wille（意志）、Zweck（目的）分开"
+  },
+  {
+   "source": "Weltlauf",
+   "en": "course of the world",
+   "zh": "世事的进程",
+   "type": "term",
+   "note": "wave40 新增；§注释中作为「外在经验」的载体。备选 世事历程"
+  },
+  {
+   "source": "Heroglyphenschrift",
+   "en": "hieroglyphic writing",
+   "zh": "象形文字",
+   "type": "term",
+   "note": "wave40 新增；与 Buchstabenschrift＝字母文字 对举"
+  },
+  {
+   "source": "Aushöhlung",
+   "en": "hollow",
+   "zh": "凹坑",
+   "type": "term",
+   "note": "wave40 新增；石头落入柔软物质所留之坑，用以说明感性直观中的现象相继"
   }
  ],
  "forbidden": [

@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T04:51:16.566Z",
- "blocks": 4834,
- "sentences": 14297,
+ "generated": "2026-10-19T04:56:02.121Z",
+ "blocks": 4857,
+ "sentences": 14414,
  "issues": [
   {
    "sev": "minor",
@@ -6415,6 +6415,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/5#216",
+   "msg": "sentence 0: \"Unbestimmtheit\" is not rendered as “不定性”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/5#238",
    "msg": "sentence 0: \"Einheit\" is not rendered as “统一”"
   },
@@ -6422,6 +6427,11 @@
    "sev": "minor",
    "where": "w4/5#253",
    "msg": "sentence 2: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#254",
+   "msg": "sentence 0: \"Unbestimmtheit\" is not rendered as “不定性”"
   },
   {
    "sev": "minor",
@@ -6607,11 +6617,46 @@
    "sev": "minor",
    "where": "w4/6#227",
    "msg": "sentence 2: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/6#228",
+   "msg": "sentence 3: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#228",
+   "msg": "sentence 6: \"Regierung\" is not rendered as “政府”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#231",
+   "msg": "sentence 2: \"Versicherung\" is not rendered as “断言”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#240",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#245",
+   "msg": "sentence 1: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/6#247",
+   "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#249",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 147,
-  "minor": 1174
+  "major": 149,
+  "minor": 1181
  }
 }
