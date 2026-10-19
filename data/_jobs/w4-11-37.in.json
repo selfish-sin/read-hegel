@@ -1,0 +1,71 @@
+{
+ "id": "w4-11-37",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 11,
+ "chunkTitle": "5. Rede zum Schuljahrabschluß am 2. September 1813 105)",
+ "heading": "5. Rede zum Schuljahrabschluß am 2. September 1813105)",
+ "blocks": [
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "1xquyx1lsa",
+   "sents": [
+    "Die einzelnen Bestimmungen näher betrachtet, für welche eine höhere Vorbereitungsanstalt nötig ist, so ist für die zur Theologie und Jurisprudenz bestimmten [Schüler] nach einhelliger Vorstellung das Gymnasialstudium unentbehrlich.",
+    "Ob in Rücksicht der Medizin (diese Wissenschaft und ihre Kunst absolut betrachtet oder wenigstens nach dem Zustande, wie sie jetzt noch beschaffen ist) dasselbe der Fall sei, diese Untersuchung steht der Kompetenz des unterz.",
+    "Rektorats nicht zu; es darf hier nur dies erwähnt werden, daß, wenn dazu die Gymnasialstudien nicht schlechthin notwendig wären, doch diese Vorstellung beim Publikum noch durchaus herrschend ist und es schwerlich einen Vater geben wird, der seinen Sohn, den er zur Medizin bestimmt, nicht jene Studien machen lassen wollte.",
+    "Noch mehr ist die positive Bestimmung anzuführen, daß nach allerh.",
+    "Befehlen (Reg.",
+    "Bl.",
+    "1808, S. 2894 f.) die schriftlichen und mündlichen Prüfungen der Mediziner bei den Medizinalkomitees in lateinischer Sprache geschehen sollen."
+   ]
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "a6cadcwudj",
+   "sents": [
+    "Anerkannt ist ferner diese Notwendigkeit für diejenigen, welche sich dem Lehramte an den Studienschulen oder Studieninstituten widmen wollen."
+   ]
+  },
+  {
+   "bi": 39,
+   "k": "p",
+   "hash": "wxzvasrlka",
+   "sents": [
+    "Für andere Bestimmungen dagegen mögen die Gymnasialstudien entbehrlicher scheinen.",
+    "Zwar ist ihre Vollendung von denjenigen allerhöchst gefordert, die \"im staatswirtschaftlichen und Kameralfache zu höheren als bloßen Kanzlistenstellen aspirieren\" (Reg.",
+    "Bl.",
+    "1809, S. 1332), ferner die Postamtskandidaten (Reg.",
+    "Bl.",
+    "1808, S. 937), für die Eleven der topographischen Schule (Reg.",
+    "Bl.",
+    "1809, S. 1657).",
+    "Indem aber von den Realinstituten aus Absolutorien der Reife für die Universität erteilt werden können, so wird sich dies auch auf die letztgenannten Bestimmungen zu erstrecken haben.",
+    "Inwiefern in Ansehung der Aspiranten zu höheren staatswirtschaftlichen und Kameralstellen die Kenntnis der alten Sprachen und der klassischen Literatur entbehrlich und für sie es gleichgültig sei, die Gymnasial- oder die Realinstitutsstudien zu durchlaufen, liegt außer dem Gesichtskreise des unterz.",
+    "Rektorats; es ist ihm nur so viel bekannt, daß das Studium der Kameralwissenschaft mit dem Studium der Jurisprudenz häufig verbunden zu werden pflegt, wie denn auch nach den allerh.",
+    "Verordnungen die Kandidaten sich bei beiden einschlägigen hohen Stellen prüfen lassen können.",
+    "Unterzeichneter muß es aber höherem Ermessen anheimgestellt sein lassen, inwiefern für höhere finanzielle Stellen das Studium der Jurisprudenz entbehrlich sei, und unerwähnt lassen, inwiefern sie somit auch der höheren Bildung, die der Gymnasialanstalt eigentümlich ist, enthoben werden können.",
+    "Wenigstens ist dies freigegeben, daß jene, welchen der Weg durch das Realinstitut offensteht, auch den Weg durch das Gymnasium wählen können, und das höchste, was zu sagen ist, wird etwa sein, daß sie in dem letzteren vielleicht einiges lernen, das ihnen nicht direkt für den empirischen Gebrauch nützlich ist, sonst aber auf diesem Weg gleichfalls die gehörige Vorbereitung für jedes Fach erlangen, das auf der Universität zu studieren ist."
+   ]
+  },
+  {
+   "bi": 40,
+   "k": "p",
+   "hash": "18lsfmjuid",
+   "sents": [
+    "Nach der bisher vom Gymnasium aus gemachten Erfahrung ist solchen entweder vom Rektorat geraten worden, sich um die Aufnahme ins Realinstitut zu melden, oder [solche] haben von selbst diesen Entschluß ergriffen, bei welchen es sichtbar war, daß sie in den Gymnasialstudien keine Fortschritte machten, worunter nicht nur die alten Sprachen, sondern die übrigen Lehrgegenstände mitbegriffen sind.",
+    "Überhaupt kann unterzeichnetes Rektorat die Unfähigkeit zu den alten Sprachen nicht in dem Mangel eines spezifischen Talents für dieselben finden, sondern in der Unfähigkeit zu einer höher gehenden geistigen Bildung insgesamt.",
+    "Die den alten Sprachen entsagen, haben dagegen neuere zu erlernen, und der Mangel des Talents für jene würde auch diese in sich schließen, wenn es sich bloß um Sprachen handelte.",
+    "Aber mit dem Erlernen der alten Sprachen ist das höhere Studium der grammatischen Begriffe zuerst und dann der klassischen Literatur verbunden und darin das Eigentümliche des Gymnasialunterrichts vornehmlich zu setzen; indem jene Subjekte aber hierzu entweder keine Anlagen besaßen oder deren Ausbildung in früherer Jugend versäumt worden war, so stand es von ihnen nicht zu erwarten, daß sie in einer wissenschaftlichen höheren Bildung, sie mochte auch eine andere Form als die des klassischen Studiums tragen, große Fortschritte machen würden."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/11.p37.json"
+}

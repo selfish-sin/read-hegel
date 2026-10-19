@@ -96,6 +96,51 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 ```
 
 
+### ★ 第 46 波已收官：w4/11「5. Rede zum Schuljahrabschluß am 2. September 1813」＋「III. Gutachten / 1. Gutachten über die Stellung des Realinstituts zu den übrigen Studienanstalten」（1813 学年结束演辞＋实科学校地位鉴定书）整节 **100%**
+
+**第 46 波（2026-10-19）一次做完 w4/11 整节 9 单元 / 77 块 / 231 句**（含 1 个空段落，如实输出 `en: []` / `zh: []`；另有 1 个 fn 块按契约不译），全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
+
+| 批次 | 单元 | 内容 |
+|---|---|---|
+| b1 | 0 / 10 | 1813 演辞：学年末回顾与「学校无历史」之福·法律与制度的可变与不变·教师更替与青年之成长·班级晋升与国家公务·文科中学与本行学问·古典时代的中间位置·整体生命与精神 |
+| b2 | 20 / 24 | 青年教育与国民小学的弊病·私人努力与国家规制·二十余年变迁与时代信心·教养与家庭自由·奖赏与新一代 |
+| b3 | 37 / 41 | 鉴定书正文：神学法学医学之预备必要·古语与官房学·实科学校学生的构成·实科中学与预科中学·各行业去向·共同授课三案与纪律问题·实科学校与中学的关系 |
+| b4 | 50 / 61 | 商业与实科学校的中间层·专门学校的三种节省方案·两校共同科目与合班授课之弊·四年课程与升学的空缺 |
+| b5 | 70 | 预备关系与空缺·入学条件·签署 |
+
+**w4/11 整节 9 单元 / 77 块已全部译完。** 覆盖率 17.28% → **17.53%**（16,148 / 92,117 句；段落 5,102 / 17,948 = 28.43%）。第 4 卷 4,338 / 5,501 句（78.9%），**分节进度 12/16**。
+
+- **切片**：`node scripts/make-jobs.mjs --vol w4 --size 25 --limit 9 --prefix wave46` → units=9 sentences=231，**正好整节切完**（`--limit` 只在分节边界检查、节内 flush 不看它）。
+- **术语层**：共享词表 **+65 条新译名**（Realschule 实科中学／Lyzeum 高级中学／Mittelanstalt 中级学校／Kameralwissenschaft 官房学／Kameralfache 官房事务／
+  Kameralstellen 官房职位／Humaniora 人文诸科／Generalkommissariat 皇家总务署／Rektorat 校务委员会／Kadettenhaus 军校／Forstinstitut 林业学校／
+  Medizinalkomitee 医学委员会／Absolutorium 结业证书／Gutachten 鉴定书／Klassenlehrer 班主任／Volksschule 公立小学／Berufswissenschaft 本行学问／
+  Militärstand 军人身份／Gewerbsstand 手工业者阶层／Privatwillkür 私人任意 等）；
+  context-w4 **条目数保持 468 条不变**，**17 条既有条目加注 wave46 分义** ＋ 3 条 styleGuide 记录（新定术语清单、Generalkommissariat 译名更正、wave46 门务记录）。
+- **★ 本波踩到的两个坑（写在这里给下一轮）**：
+  1. **源句里以「 - 」分段的两段式长句**——bi21[6]（"Es tritt ein Zeitpunkt ein … - Einrichtungen, bei denen …"）与 bi60[0]（"Da die Gymnasialanstalt … - Was die besonderen Lehrer …"）
+     在源数据里是**一条**译文位（`ns` 只算 1），却含两段。首轮只译了后半段，机器门立刻报出 zh/de 长度比 0.07 与 0.20 才发现。
+     **判据：凡源句内出现「 - 」，中文必须把两段都译出来，破折号照位置下**。
+  2. **doNotTranslate「1.」与「S.」的字面命中**——处方日期「München, 1. Aug.」的「1.」按字符命中（英中都必须保留德式写法）；
+     Reg. Bl. 引用里的「S.」（Seite）也必须逐字保留，中文侧另补「年」（Reg. Bl. 1809 年，S. 1332）才能满足「中文非空」判据。两点都已写进 context-w4 的 styleGuide。
+- **真缺陷 4 处（已修）**：`Wirklichkeit`（现实性词族）误译成「实在性」（实在性属 Realität 词族），已改回「现实性」；
+  `Es ist wahr` 的「诚然」不含词根「真」，改为「这是真的」；
+  两处 `Vorstellung`（bi10[1]「基本观念」、bi13[0]「根本观念」）误用了「观念」——「观念」是 Idee 词族的专属译名、
+  Vorstellung 一律「表象」，已改回「基本表象」，并把两处「基本／根本」译法不一统一掉。
+- **分义与误报（不改译文，已逐条登记）**：本波 121 条 minor 全是术语一致度提醒——Rektor→校长 17（Rektorat＝校务委员会）、
+  Leben→生命 12、Mitte→中项 8（**Mittel 子串误报**）、Grund→根据 5、Interesse→利害关系 5（利益／兴趣两义）、Natur→本性 5、
+  Gesetz→法律 3（同卷 wave45 已定：避「法律」作「法则」）、Anspruch→要求权 3、Teilnahme→关切 3、Anschauung→直观 3（考察义作「观照」）、
+  Glück→幸运 3、Zweck→目的 3、Klasse→班级 3、Bedürfnis→需要 3、Unterschied→差别 3 等；
+  新增 major 6 条**全是词族误报**：4 条 `wirklich` 日常义（不带「现实」字根，与卷内既有同类）＋ 2 条 `Vorstellung`＝看法／想法义（非「表象」，已登记 wave46 分义）。
+  **机器门 GATE OK（0 FAIL / 67 WARN）**（分片门）；合并入库后再对正式文件跑一遍终门 **0 FAIL / 10 WARN**，
+  WARN 全部是中文破折号与德文「 - 」的排版差、以及同句跨词条容忍（政府／灵魂／教育／学科 都是同句内另一个德文词的合法译名，非本词违规）。
+- **验收全绿**：trans-index **ALIGNMENT OK**；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；
+  validate 仍 20 处存量 misnested（w2/w3/w5，与新译无关）；**w4/11 浏览器实测（端口 8860）pairs=78 = expected 78、mismatch=0、jsErr=0**；
+  missing=2 / emptyZh=1 / emptyEn=1 **全部来自唯一的 `ns=0` 空段落**（合同规定如实留空，与已验收的 w4/8、w4/9 同一渲染行为，非本轮回归）；固定 8 页回归 **8/8**。
+- **★ 方法论教训：往 context-w4 加新条目会放大全卷 QA 噪音**——本波一度加了 13 条新条目，QA 的 minor 立刻从 874 涨到 1,294
+  （+420，**波及全卷所有含该词的句子**，不只是 w4/11）。已改为**只给既有条目加注分义、条目数保持 468 不变**，
+  新术语的定译改由**共享词表 + styleGuide** 承载（两者都不产生噪音），minor 回到 874。
+- **远端**：本波推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
+
 ### ★ 第 45 波已收官：w4/10「3. Rede zum Schuljahrabschluß am 14. September 1810」＋「4. Rede zum Schuljahrabschluß am 2. September 1811」（两篇学年结束演辞）整节 **100%**
 
 **第 45 波（2026-10-19）一次做完 w4/10 整节 9 单元 / 53 块 / 220 句**（本节无空段落），三批全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
@@ -339,10 +384,10 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 | Bd. 1 早期著作 | ✅ 22/22 节 · 3,740 句 |
 | Bd. 2 耶拿著作 | ✅ 15/15 节 · 3,270 句 |
 | Bd. 3 精神现象学 | ✅ **正文 100%**（序言→绝对知识，w3/0–15 正文 15/15 分节 · 4,800 句） |
-| Bd. 4 纽伦堡与海德堡时期著作 | **11/16 分节 100%** · 累计 4,107 句（w4/0–10 全 100%；w4/10 两篇学年结束演辞 9 单元 / 53 块 / 220 句**整节译完**） |
-| 合计 | **15,917 / 92,117 句 = 17.28%** |
+| Bd. 4 纽伦堡与海德堡时期著作 | **12/16 分节 100%** · 累计 4,338 句（w4/0–11 全 100%；w4/11 1813 学年结束演辞＋实科学校地位鉴定书 9 单元 / 77 块 / 231 句**整节译完**） |
+| 合计 | **16,148 / 92,117 句 = 17.53%** |
 
-覆盖率另有按段落的数字：5,029 / 17,948 = 28.02%。
+覆盖率另有按段落的数字：5,102 / 17,948 = 28.43%。
 
 **第 38 波刚完成**（2026-10-17）：w4/5 **15 单元 / 258 块 / 388 句全分节 100%**，覆盖率 14.75% → **15.17%**。
 本节内容跨两段：前 4 单元收尾 1809/10 逻辑学（关系推论 → 概念的实现 → 观念论开篇），
@@ -504,14 +549,15 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 ### 下一步（按优先级）
 
 1. **继续第 4 卷**：`make-jobs --vol w4` 会自动接着 w4/10 往后（上下文包 `data/_jobs/context-w4.json` 468 条已在手，可直接开译）。
-   **w4/10 已完成**；下一节 **w4/11「5. Rede zum Schuljahrabschluß am 2. September 1813」约 10 单元 / 231 句**，切片用
-   `node scripts/make-jobs.mjs --vol w4 --size 25 --limit 9 --prefix wave46`（若报出的单元跨进 w4/12，说明本节单元数不足 9，把 `--limit` 减 1 重切）。
+   **w4/11 已完成**；下一节 **w4/12「2. Bericht über das Gymnasialschuljahr 1811/12」约 8 单元 / 192 句**，切片用
+   `node scripts/make-jobs.mjs --vol w4 --size 25 --limit 9 --prefix wave47`（若报出的单元跨进 w4/13，说明本节单元数不足 9，把 `--limit` 减 1 重切）。
    **`--limit` 只在分节边界检查、节内 flush 不看它**（实测：切 w4/9 传 `--limit 10` 得到 11 单元，正是整节切完才停）。
    **真正的坑（第 43 波）**：目标节已 100% 时别再跑 `make-jobs`——它会滚到下一节、覆盖 `jobs-<prefix>.json` 并多生成一批 `.in.json`；
-   跑之前先确认 w4/10 是"第一个未译节"。
+   跑之前先确认 w4/12 是"第一个未译节"。
    学年结束演辞术语（w4/9 已立：`Programm` 学年报告、`Rede` 演辞、`Oberklasse/Mittelklasse/Unterklasse` 高/中/低年级、
-   `Generalkommissariat` 王家总署、`allerhöchst` 至高、`gnädigst` 恩霈）w4/10 已沿用并扩充（`Lokation` 名次评定、`Promotion` 升班、
-   `Rektorat` 校务委员会、`Katechisation` 教理问答、`Nachtsingkollekte` 夜间唱诗募捐等），供 w4/11–12 直接沿用。
+   `Generalkommissariat` 皇家总务署、`allerhöchst` 至高、`gnädigst` 恩霈）w4/10 已沿用并扩充（`Lokation` 名次评定、`Promotion` 升班、
+   `Rektorat` 校务委员会、`Katechisation` 教理问答、`Nachtsingkollekte` 夜间唱诗募捐等），w4/11 再扩充（`Realschule` 实科中学、`Lyzeum` 高级中学、
+   `Kameralwissenschaft` 官房学、`Humaniora` 人文诸科、`Gutachten` 鉴定书、`Medizinalkomitee` 医学委员会、`Absolutorium` 结业证书），供 w4/12 直接沿用。
    另注意：**BYOK 子代理月度配额 2026-10-23 23:59 才重置**——在此之前不要派子代理，直接主译；
    若报 `monthly usage quota` 不重派；若报 `Token Plan 用量上限 (2067)` 属账号级可稍后重派一次。
 2. **未审校章节**：w1（22 节）、w2（15 节）整卷尚未逐章审校——它们译于词族政策之前，

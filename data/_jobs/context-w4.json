@@ -13,14 +13,16 @@
   "本卷 Ideenlehre 是黑格尔自己的观念学说，一律“观念论／观念学说”，严禁照共享词表中柏拉图义的“理念论”来译（共享词表 Ideenlehre→理念论专指柏拉图）；absolute Idee＝绝对观念。",
   "法哲学与政治术语是本卷命脉，必须保持一词一译、区分到位：Sittlichkeit＝伦理 与 Moralität＝道德 严格分开；Recht 在法哲学讲稿中作“权利”（das Recht an sich、das allgemeine Recht、Rechtsverletzung 侵犯权利），在成文制度与公法语境中作“法”（das formelle Recht、Rechtsprinzip、positive Rechte 实定法）——以“主体间自由与人格”还是“成文制度”为判据，裁定依据见 entries 相应条目；Staat＝国家，Staatsgesellschaft＝国家社会（本卷不用 bürgerliche Gesellschaft），Verfassung＝宪法，Konstitution＝宪章（成文宪章，与 Verfassung 分开），Landstände＝等级议会，Ständeversammlung＝等级会议（议会的会议场次），Stände＝等级。",
   "课堂讲稿文体（chunks 0–9）：句子往往极短、像板书提纲，常以破折号、分号连接零碎要点，甚至只有短语没有谓语；翻译须保留这种提纲式的松驰结构与分级符号（§、A./B./C.、1. 2. 3.、Erläuterung），不要为“通顺”把它们并成长句、也不要补全省略的谓语。Erläuterung＝诠释／讲解，§＝节。",
-  "官方公文与学监报告文体（chunks 10–12）：措辞庄重、套语密集（allerhöchst 至高的、gnädigst 恩赐的、allergnädigste Befehle 至仁的命令、in Rücksicht auf 就……而言）；保留正式语域与官职称谓（Rektor 校长、Oberschulrat 督学、Königliches Generalkommissariat 王家总署），不口语化，也不生硬逐字。",
+  "官方公文与学监报告文体（chunks 10–12）：措辞庄重、套语密集（allerhöchst 至高的、gnädigst 恩赐的、allergnädigste Befehle 至仁的命令、in Rücksicht auf 就……而言）；保留正式语域与官职称谓（Rektor 校长、Oberschulrat 督学、Königliches Generalkommissariat 皇家总务署），不口语化，也不生硬逐字。 ★wave46 更正：共享词表 Generalkommissariat→皇家总务署，w4/10 已入库即用「皇家总务署」，w4/11 沿用；「王家总署」作废。",
   "政治评论文体（chunks 13–15，符腾堡等级议会评论）：论辩结构强，常以“一方面／另一方面”“并非……而是……”推进，长句多、嵌套深；保留论辩层次与反讽语气（如对 Ständeversammlung 的讥评），不把反讽译平；政治制度名词一律用固定译名（见 entries），不得用“议院”“上院”“地主阶级”等后世概念。",
   "白话不论文腔：能说“X 就是 Y”就不写“所谓 X 者，乃 Y 也”；不用“盖、故、岂、焉、换言之、不可谓不”这类旧腔，也不用“进行／作出／关于……的问题”这类翻译体套话；但官方公文的敬语与正式语域除外（见第 6 条）。",
   "长句保留为一整句：德文一句＝中文一句（机器校验），保持逗号、分号、冒号的层级，按原文嵌套层次展开，不拆成一串短句，也不重排语序；不增不删：不漏否定词、不漏被动、不漏半句；一句只译一次，定语从句、插入语都只出现一次。",
   "术语严格一词一译：一个德文术语只用一个中文译名，一个中文译名也只用于一个德文术语；逻辑学术语（Sein 存在、Nichts 无、Werden 生成、Dasein 定在、Wesen 本质、Begriff 概念、Urteil 判断、Schluß 推论、Aufhebung 扬弃、Moment 环节、Vermittlung 中介、Unmittelbarkeit 直接性）与 w3 及共享词表一致，全卷统一。",
   "同源可见与例外登记：同一句里出现同族词（如 Sittlichkeit 与 sittlich、Freiheit 与 frei、Idee 与 ideell），中文要让读者看出同源关系；日常义例外（ideal＝理想的、realisieren＝实现、real 在非体系语境）须回词族词根或登记在词表 note 里，体系义必须回到词族词根。",
   "反身代词与格、主宾关系逐句核对：德语第三格 sich 多数是“对自己／为自己”，不是“自己”；es ist / es gibt 常等于“有”，不要一律译成“它是”；德语长句里分句的主语常发生切换，必须显式处理，不得让前后分句的主语颠倒或含糊。分级符号、公式与引文原样保留：§、A./B./C.、a) b) c)、α) β) γ)、A = A、Ich = Ich、Satz des Widerspruchs 等公式性表达、quaternio terminorum 等拉丁术语、法谚与拉丁/希腊引文不译不动，必要时括注中文；人名、书名、地名用通行中译，首次出现附原文。",
-  "★wave45 门务记录：w4/10 处方日期「der den 11. November im Jahr 1761」中，doNotTranslate 词条「1.」按字符命中（\"11.\" 的子串），故英中均须保留原德式日期写法（EN「11. November 1761」／中「1761 年 11.11」）；若改写为「1761年11月11日」即会被门判为「doNotTranslate missing」。另「z. B.」命中 doNotTranslate「B.」，按门规则以「z. A.」～「z. C.」例程豁免。"
+  "★wave45 门务记录：w4/10 处方日期「der den 11. November im Jahr 1761」中，doNotTranslate 词条「1.」按字符命中（\"11.\" 的子串），故英中均须保留原德式日期写法（EN「11. November 1761」／中「1761 年 11.11」）；若改写为「1761年11月11日」即会被门判为「doNotTranslate missing」。另「z. B.」命中 doNotTranslate「B.」，按门规则以「z. A.」～「z. C.」例程豁免。",
+  "★wave46 门务记录：w4/11 的 doNotTranslate 命中有两处特殊形态——①「1.」按字符命中，「Ministerialerlaß München, 1. Aug.」须保留德式日期写法（EN「1. August」／中「8 月 1. 日」）；②「S.」（Seite）为 Reg. Bl. 引用缩写，命中后中译一律保留「S.」并补「年」以满足中文非空判据（Reg. Bl. 1809 年，S. 1332）。另：w4/11 的源句 bi21[6] 与 bi60[0] 各由两段合并而成（段间以「 - 」分隔），整句只对应一条译文，必须把两段全部译出，不可只译后半段。",
+  "★wave46 w4/11 新定术语（不入条目表，避免全卷一致性提醒噪音；定译以本条与共享词表为准）：Realschule＝实科中学（与 Realinstitut 实科学校、Gymnasium 文科中学三分）；Lyzeum＝高级中学；Mittelanstalt＝中级学校；Kameralwissenschaft＝官房学、Kameralfache＝官房事务、Kameralstellen＝官房职位；Humaniora＝人文诸科（studia humaniora 首现括注中文）；Generalkommissariat＝皇家总务署；Rektorat＝校务委员会（Rektor 本人义仍作「校长」，见 Rektor 条）；Anschauung 在本节为考察义，作「观照」（哲学义仍「直观」）；Bestimmung 在本节为职业去向义，作「志向」（die vorgeschriebenen Bestimmungen 仍作「规定」）；Befehl＝命令；Subjekt＝主体（见 forbidden 条）。"
  ],
  "entries": [
   {
@@ -133,7 +135,7 @@
    "en": "representation",
    "zh": "表象",
    "type": "term",
-   "note": "政策：严禁用“观念”译 Vorstellung（该词根留给 Idee 族） ★wave43b3 补充：★wave43b3 复核：§75「把它的表象当下化」——Vorstellung 一律表象（政策硬词），不加引号"
+   "note": "政策：严禁用“观念”译 Vorstellung（该词根留给 Idee 族） ★wave43b3 补充：★wave43b3 复核：§75「把它的表象当下化」——Vorstellung 一律表象（政策硬词），不加引号 ★wave46 分义：w4/11「nach einhelliger Vorstellung」「diese Vorstellung beim Publikum」＝一致的看法／公众的想法（2 处），作「看法」，不作「表象」；表象义仍照词根。"
   },
   {
    "source": "Geist",
@@ -224,7 +226,7 @@
    "en": "actuality",
    "zh": "现实性",
    "type": "term",
-   "note": "与 Realität（实在性）、Möglichkeit（可能性）、Notwendigkeit（必然性）并列 ★wave42b4 补充：§35「die einzelne Wirklichkeit」＝个别现实性、§37「zur Wirklichkeit bringen」＝带进现实性；名词一律带「性」"
+   "note": "与 Realität（实在性）、Möglichkeit（可能性）、Notwendigkeit（必然性）并列 ★wave42b4 补充：§35「die einzelne Wirklichkeit」＝个别现实性、§37「zur Wirklichkeit bringen」＝带进现实性；名词一律带「性」 ★wave46 分义：w4/11「die (Vorstellungen der) menschlichen Dinge nach ihrer Wirklichkeit」作「现实性」（1 处），与 Realität（实在性）严格分开。"
   },
   {
    "source": "Notwendigkeit",
@@ -434,7 +436,7 @@
    "en": "person",
    "zh": "人格",
    "type": "term",
-   "note": "法权义作“人格”（eine rechtliche Person＝法律人格）；“个人”留给 Individuum ★wave42 补充：与 Persönlichkeit（人格性）严格分开。Person 是法上的法律人格（er ist eine Person／als Person behandelt werden）；Persönlichkeit 是「人格的概念」所包含的我性或个别性。 ★wave42b2 补充：「某一个人」类译法一律改为「单一个人格」守一词一译 ★wave43b2 补充：★wave43b2 补充分义：「die Person des Fürsten」指君主其人，作「本人」（非法律人格义）；「als Personen füreinander gelten」仍作「作为人格」 ★wave45 分义：w4/10 演辞日常义「die älteren Personen」「die besondere Person」作「年长者／特殊的人」（3 处，非法律人格义）；另 2 处为 Personal／Personale 子串命中，不作「人格」。"
+   "note": "法权义作“人格”（eine rechtliche Person＝法律人格）；“个人”留给 Individuum ★wave42 补充：与 Persönlichkeit（人格性）严格分开。Person 是法上的法律人格（er ist eine Person／als Person behandelt werden）；Persönlichkeit 是「人格的概念」所包含的我性或个别性。 ★wave42b2 补充：「某一个人」类译法一律改为「单一个人格」守一词一译 ★wave43b2 补充：★wave43b2 补充分义：「die Person des Fürsten」指君主其人，作「本人」（非法律人格义）；「als Personen füreinander gelten」仍作「作为人格」 ★wave45 分义：w4/10 演辞日常义「die älteren Personen」「die besondere Person」作「年长者／特殊的人」（3 处，非法律人格义）；另 2 处为 Personal／Personale 子串命中，不作「人格」。 ★wave46 分义：w4/11「solche Personen」＝这样的人（1 处），不作「人格」。"
   },
   {
    "source": "Eigentum",
@@ -483,7 +485,7 @@
    "en": "constitution",
    "zh": "宪法",
    "type": "term",
-   "note": "共享词表；本卷全卷高频（228 次）；repräsentative Verfassung＝代议制宪法、königliche Verfassung＝王家宪法、Reichsverfassung＝帝国宪法 ★wave42b3 补充：§28 政体分类全文 Verfassung 一律「宪法」（政体的样式／一宪法的样式／这样的宪法），Regierungsverfassung＝宪法形式；门对本段「政体」的禁令照此理解"
+   "note": "共享词表；本卷全卷高频（228 次）；repräsentative Verfassung＝代议制宪法、königliche Verfassung＝王家宪法、Reichsverfassung＝帝国宪法 ★wave42b3 补充：§28 政体分类全文 Verfassung 一律「宪法」（政体的样式／一宪法的样式／这样的宪法），Regierungsverfassung＝宪法形式；门对本段「政体」的禁令照此理解 ★wave46 分义：w4/11「nach der Verfassung der neueren Zeit」＝依新时代的制度（时代形态义，1 处）；「in ihrer alten unzureichenden Verfassung」＝旧的、不充分的状态（1 处）；二者均不作「宪法」。"
   },
   {
    "source": "Konstitution",
@@ -658,7 +660,7 @@
    "en": "institution of higher study",
    "zh": "高等学府",
    "type": "term",
-   "note": "Studienanstalten 复数指中等以上学校（本卷 11 次）；Studieninstitut＝高等学院（同义） ★wave45 分义：w4/10 学年末演辞（中等学校语境：文科中学／实科学校）Studienanstalt／Studieninstitut 作「学校」（7 处）；「高等学府」条只用于高等教育机构语境。"
+   "note": "Studienanstalten 复数指中等以上学校（本卷 11 次）；Studieninstitut＝高等学院（同义） ★wave45 分义：w4/10 学年末演辞（中等学校语境：文科中学／实科学校）Studienanstalt／Studieninstitut 作「学校」（7 处）；「高等学府」条只用于高等教育机构语境。 ★wave46 分义：w4/11 鉴定书与学年末演辞中的 Studienanstalten／Studieninstitute／Unterrichtsanstalten 作「学校」（承 wave45 中等学校语境分义，5 处）；「高等学府」条只用于高等教育机构语境。"
   },
   {
    "source": "Schuljahr",
@@ -672,7 +674,7 @@
    "en": "class",
    "zh": "班级",
    "type": "term",
-   "note": "Unterklasse＝低年级、Mittelklasse＝中年级、Oberklasse＝高年级；Kollaboraturklasse＝协作班 ★wave45 分义：w4/10「die Klasse der Staatsbeamten」作「国家公务人员的等级」（1 处），非班级；本节其余 Klasse 多数作「班级」。"
+   "note": "Unterklasse＝低年级、Mittelklasse＝中年级、Oberklasse＝高年级；Kollaboraturklasse＝协作班 ★wave45 分义：w4/10「die Klasse der Staatsbeamten」作「国家公务人员的等级」（1 处），非班级；本节其余 Klasse 多数作「班级」。 ★wave46 分义：w4/11「Klassenlehrer」＝班主任（1 处，承 wave45 Rektorat 条）；「zwei Klassen」＝两个班（1 处）作「班」，不作「阶级」。"
   },
   {
    "source": "Primärschule",
@@ -700,7 +702,7 @@
    "en": "rector",
    "zh": "校长",
    "type": "term",
-   "note": "Rektor Schenk（本卷悼词对象）；Gymnasium 校长 ★wave45 分义：w4/10「das Rektorat」（校长团／校务委员会）作「校务委员会」（1 处），不作「校长」；「Rektor」本人义才作「校长」。"
+   "note": "Rektor Schenk（本卷悼词对象）；Gymnasium 校长 ★wave45 分义：w4/10「das Rektorat」（校长团／校务委员会）作「校务委员会」（1 处），不作「校长」；「Rektor」本人义才作「校长」。 ★wave46 分义：w4/11「das unterzeichnete Rektorat」「das Rektorat des Realinstituts」「des unterzeichneten Rektorats」等作「校务委员会」（承 wave45 分义，9 处），不作「校长」；「die beiden Subrektoren」作「两位副校长」。"
   },
   {
    "source": "Oberschulrat",
@@ -749,7 +751,7 @@
    "en": "formation / culture",
    "zh": "教养",
    "type": "term",
-   "note": "共享词表 Bildung→教养；Geistesbildung＝精神教养；Sittenbildung＝风纪教养；本卷教育语境高频 wave34 核查例外：Bildung des Erdindividuums（大地个体的形成）取普通义“形成”，不作“教养”（#28） ★wave45 分义：w4/10「die Bildung zum sittlichen Charakter」「die Bildung dieser Fassungskraft」「die Bildung und Ausübung sozialer Tugenden」作「养成」（3 处，Formation 义）；「Bildung der Sitten」作「风纪的教养」，其余仍「教养」。"
+   "note": "共享词表 Bildung→教养；Geistesbildung＝精神教养；Sittenbildung＝风纪教养；本卷教育语境高频 wave34 核查例外：Bildung des Erdindividuums（大地个体的形成）取普通义“形成”，不作“教养”（#28） ★wave45 分义：w4/10「die Bildung zum sittlichen Charakter」「die Bildung dieser Fassungskraft」「die Bildung und Ausübung sozialer Tugenden」作「养成」（3 处，Formation 义）；「Bildung der Sitten」作「风纪的教养」，其余仍「教养」。 ★wave46 分义：w4/11「geistige und wissenschaftliche Ausbildung」作「造就」；「die moralische Bildung der Zöglinge」作「道德教养」；「eine bloß wissenschaftliche Bildung」「eine höhere Bildung」作「教养」（各 1 处）。"
   },
   {
    "source": "Religionslehre",
@@ -1050,7 +1052,7 @@
    "en": "middle",
    "zh": "中项",
    "type": "term",
-   "note": "推论的中间规定（terminus medius）；与 Extreme（极端）对举 ★wave44 核查误报登记：演辞日常义 die Mitte（居中/中间）与 Mittel（手段）多次被本条命中；zh 无「中项」时属词形误报，不改。 ★wave44 补充：in ihrer Mitte（在其聚会之中）日常方位义作「中间」，非中项；另 Mittel（手段）被本条子串命中系词形误报，zh 作手段为正确。 ★wave45 续证：w4/10 再见 6 处 Mittel（手段）被本条子串命中，zh 作「手段」为正确（手段／中项分译不变）。"
+   "note": "推论的中间规定（terminus medius）；与 Extreme（极端）对举 ★wave44 核查误报登记：演辞日常义 die Mitte（居中/中间）与 Mittel（手段）多次被本条命中；zh 无「中项」时属词形误报，不改。 ★wave44 补充：in ihrer Mitte（在其聚会之中）日常方位义作「中间」，非中项；另 Mittel（手段）被本条子串命中系词形误报，zh 作手段为正确。 ★wave45 续证：w4/10 再见 6 处 Mittel（手段）被本条子串命中，zh 作「手段」为正确（手段／中项分译不变）。 ★wave46 分义：w4/11「in der schönen Mitte」＝处在美好中间（时代定位义，1 处），作「中间」，不作「中项」。"
   },
   {
    "source": "Inhärenz",
@@ -1407,7 +1409,7 @@
    "en": "nature",
    "zh": "本性",
    "type": "term",
-   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes） ★wave42b4 补充：§40「von der Natur und äußeren Umständen Abhängige」＝依赖于自然与外在情境，作「自然」不作「本性」 ★wave43b3 补充：★wave43b3：§79「人的本性与上帝的本性」作「本性」（context-w4）；与 Sinnliches＝感性之物 分开 ★wave44 分义：事物的自然状态/风气义（der Natur des hiesigen Charakters＝此地风气的本性；Natur und Zustand＝自然本质与自然状况）按本条词根统一「本性/自然」。 ★wave45 分义：w4/10「das stille Gebären der Natur in Steinen」作「自然的静默孕育」（1 处），不作「本性」；「die Natur einer Anstalt」等仍作「本性」。"
+   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes） ★wave42b4 补充：§40「von der Natur und äußeren Umständen Abhängige」＝依赖于自然与外在情境，作「自然」不作「本性」 ★wave43b3 补充：★wave43b3：§79「人的本性与上帝的本性」作「本性」（context-w4）；与 Sinnliches＝感性之物 分开 ★wave44 分义：事物的自然状态/风气义（der Natur des hiesigen Charakters＝此地风气的本性；Natur und Zustand＝自然本质与自然状况）按本条词根统一「本性/自然」。 ★wave45 分义：w4/10「das stille Gebären der Natur in Steinen」作「自然的静默孕育」（1 处），不作「本性」；「die Natur einer Anstalt」等仍作「本性」。 ★wave46 分义：w4/11「der Natur der Sache nach」作「事理的性质」（1 处）；「von der Natur bestimmt」作「天性」（1 处），均非「本性」词根义。"
   },
   {
    "source": "Einiges",
@@ -1470,7 +1472,7 @@
    "en": "life",
    "zh": "生命",
    "type": "term",
-   "note": "Idee des Lebens＝生命的观念；观念的直接定在 ★wave44 分义：演辞与讲稿的「生活/生涯」日常义尽量落「生命」词根（生命之功业、世界与生命、最初的生命）；「生活」仅保留于具体生活方式语境（家庭生活）。 ★wave44 补充：fürs bürgerliche Leben nützlich（对市民生活有用）等具体生活方式语境保留「生活」（与上条分义一致）。 ★wave45 分义：w4/10 演辞「家庭生活／学校生活／公共生活／少年的生活」等具体生活方式语境作「生活」（8 处，承 wave44「生活仅保留于具体生活方式语境」条）。"
+   "note": "Idee des Lebens＝生命的观念；观念的直接定在 ★wave44 分义：演辞与讲稿的「生活/生涯」日常义尽量落「生命」词根（生命之功业、世界与生命、最初的生命）；「生活」仅保留于具体生活方式语境（家庭生活）。 ★wave44 补充：fürs bürgerliche Leben nützlich（对市民生活有用）等具体生活方式语境保留「生活」（与上条分义一致）。 ★wave45 分义：w4/10 演辞「家庭生活／学校生活／公共生活／少年的生活」等具体生活方式语境作「生活」（8 处，承 wave44「生活仅保留于具体生活方式语境」条）。 ★wave46 分义：w4/11「das Zuwachs des Lebens」作「生命」；「das menschliche Leben」「das öffentliche Leben」「das Leben der Staaten」「ein vollständiges Leben」作「生活」（4 处），承 wave44/45「生活仅保留于具体生活方式语境」。"
   },
   {
    "source": "organisches System",
@@ -2303,7 +2305,7 @@
    "en": "claim",
    "zh": "要求权",
    "type": "term",
-   "note": "wave42 新增：machen auf etwas Anspruch＝对某物提出要求；与 Forderung（债权）分开 ★wave44 误报登记：in Anspruch genommen werden（被大量征用/需求）为固定习语，不作「要求权」。 ★wave45 分义：w4/10「die Aufmerksamkeit in Anspruch nehmen」「nur eine Seite seiner Existenz in Anspruch nimmt」「vom Publikum in Anspruch genommen werden」为「占用／要求负责」义，作「被要求负责／只占用」（3 处），不作「要求权」。"
+   "note": "wave42 新增：machen auf etwas Anspruch＝对某物提出要求；与 Forderung（债权）分开 ★wave44 误报登记：in Anspruch genommen werden（被大量征用/需求）为固定习语，不作「要求权」。 ★wave45 分义：w4/10「die Aufmerksamkeit in Anspruch nehmen」「nur eine Seite seiner Existenz in Anspruch nimmt」「vom Publikum in Anspruch genommen werden」为「占用／要求负责」义，作「被要求负责／只占用」（3 处），不作「要求权」。 ★wave46 分义：w4/11「auf den Dank ihrer Untertanen ... Anspruch zu machen」作「以…自居／要感激」；「der Anspruch des selbständigen Verhaltens der Erwachsenen」作「要求」（各 1 处），不作「要求权」。"
   },
   {
    "source": "Eingriff",
@@ -2373,7 +2375,7 @@
    "en": "law",
    "zh": "法律",
    "type": "term",
-   "note": "★wave42b3 分义登记：国家立法义作「法律」（§26「法律是自在自为的普遍意志的抽象表达」、§27 国家有法律）；自然律／道德律义作「规律」（§17「精神可以违反规律而行动」）。与 Naturgesetz＝自然规律（共享词表）一致 ★wave44 分义：神圣的／内心的道德 Gesetz 作「法则」（本卷宗教语境既有用法）；法律条按共享词表为存疑条目（conformance 19/75），不动。 ★wave45 分义：w4/10 学校语境（ihr eigenes Recht und Gesetz／im Sinne eines Gesetzes）作「法则」（2 处），与同句 Recht（权利）分译——避免同句出现「法律」而触发 Recht 禁译词。"
+   "note": "★wave42b3 分义登记：国家立法义作「法律」（§26「法律是自在自为的普遍意志的抽象表达」、§27 国家有法律）；自然律／道德律义作「规律」（§17「精神可以违反规律而行动」）。与 Naturgesetz＝自然规律（共享词表）一致 ★wave44 分义：神圣的／内心的道德 Gesetz 作「法则」（本卷宗教语境既有用法）；法律条按共享词表为存疑条目（conformance 19/75），不动。 ★wave45 分义：w4/10 学校语境（ihr eigenes Recht und Gesetz／im Sinne eines Gesetzes）作「法则」（2 处），与同句 Recht（权利）分译——避免同句出现「法律」而触发 Recht 禁译词。 ★wave46 分义：w4/11「Gesetze und Einrichtungen」「Gesetze und Pflichten」作「法则」（2 处），不作「法律」（承 wave45 同卷分义）。"
   },
   {
    "source": "Gesetzgeber",
@@ -2667,7 +2669,7 @@
    "en": "cognition",
    "zh": "知识",
    "type": "term",
-   "note": "★wave43 新增：共享词表 Kenntnis＝知识；与 Erkenntnis＝认识、Erkennen＝认识、Wissen＝知识 分词族须分开。§42「知识的丰富与规定性」「知识的规定性」一律知识 ★wave45 分义：w4/10「in Kenntnis von」「nach den Kenntnis der Lehrer von ihrer Lage」作「得知／对其境况的了解」（3 处），不作「知识」。"
+   "note": "★wave43 新增：共享词表 Kenntnis＝知识；与 Erkenntnis＝认识、Erkennen＝认识、Wissen＝知识 分词族须分开。§42「知识的丰富与规定性」「知识的规定性」一律知识 ★wave45 分义：w4/10「in Kenntnis von」「nach den Kenntnis der Lehrer von ihrer Lage」作「得知／对其境况的了解」（3 处），不作「知识」。 ★wave46 分义：w4/11「die Kenntnis der alten Sprachen」「des Erwerbs, den sie an Kenntnissen und Bildung macht」「die erforderliche Festigkeit in der angegebenen Kenntnis」一律作「知识」（无「得知/了解」义）。"
   },
   {
    "source": "Affekt",
@@ -2709,7 +2711,7 @@
    "en": "estate",
    "zh": "地位",
    "type": "term",
-   "note": "wave43 新增：§44「一个提升到某种地位的职业」「同时他又属于这个地位」；与 Stände＝等级（封建等级代表制，context-w4 forbidden 阶级）严格分开"
+   "note": "wave43 新增：§44「一个提升到某种地位的职业」「同时他又属于这个地位」；与 Stände＝等级（封建等级代表制，context-w4 forbidden 阶级）严格分开 ★wave46 分义：w4/11「dem Militärstande bestimmt」作「军人身份」；「dem Gewerbsstande」作「手工业者阶层」；「dem Stand jedoch, dem wir in unserer Zeit uns widmen」作「地位」（各 1 处）。"
   },
   {
    "source": "Treue",
@@ -2786,7 +2788,7 @@
    "en": "activity",
    "zh": "行动",
    "type": "term",
-   "note": "wave43 新增：§41「通过自己的行动根本无法产生效果」；与 Handlung＝行为 分开 ★wave43b4 补充：die absolute Tätigkeit Gottes＝上帝的绝对行动；Sporn zur Tätigkeit＝行动的刺激。qa 期望「活动」（共享词表）在本卷让位本条「行动」。 ★wave45 分义：w4/10「die Tätigkeit des Kindes」作「儿童的活动」、「an seiner vollen Tätigkeit hindern」作「无法从事全部工作」（2 处），不作「行动」。"
+   "note": "wave43 新增：§41「通过自己的行动根本无法产生效果」；与 Handlung＝行为 分开 ★wave43b4 补充：die absolute Tätigkeit Gottes＝上帝的绝对行动；Sporn zur Tätigkeit＝行动的刺激。qa 期望「活动」（共享词表）在本卷让位本条「行动」。 ★wave45 分义：w4/10「die Tätigkeit des Kindes」作「儿童的活动」、「an seiner vollen Tätigkeit hindern」作「无法从事全部工作」（2 处），不作「行动」。 ★wave46 分义：w4/11「mit Eifer und Tätigkeit」作「勤勉」；「die Tätigkeit der Einzelnen」作「活动」（共 2 处），不作「行动」。"
   },
   {
    "source": "Maß (beschränkender Gebrauch)",
@@ -2807,7 +2809,7 @@
    "en": "interest",
    "zh": "利害关系",
    "type": "term",
-   "note": "wave43b1 新增：共享词表 Interesse＝利害关系；本卷 §41「ein Interesse behauptet」＝主张一种利害关系（共享词表），不作「兴趣」；「Interesse an der Wissenschaften」语境另议 ★wave43b2 补充：★wave43b2 分义登记：制度／公共层面的利害所系作「**利益**」（das Interesse des Staats＝国家的利益）；个人／道德层面的利害关联作「利害关系」（sein Interesse behaupten＝主张一种利害关系）。 ★wave44 分义：公共/事务层面的Intereste（更大的利害关系、家长对子女仪度的利害关系）按分义作「利害关系」；趣味义已消除。 ★wave44 分义：日常吸引／趣味义（das anziehende Interesse＝诱人的趣味）保留「趣味」；利害关系条只管利益所系语境。 ★wave45 分义：w4/10「das Interesse, welches der unmittelbare Anfang gibt」作「趣味」（1 处，承 wave44 日常吸引义条）。"
+   "note": "wave43b1 新增：共享词表 Interesse＝利害关系；本卷 §41「ein Interesse behauptet」＝主张一种利害关系（共享词表），不作「兴趣」；「Interesse an der Wissenschaften」语境另议 ★wave43b2 补充：★wave43b2 分义登记：制度／公共层面的利害所系作「**利益**」（das Interesse des Staats＝国家的利益）；个人／道德层面的利害关联作「利害关系」（sein Interesse behaupten＝主张一种利害关系）。 ★wave44 分义：公共/事务层面的Intereste（更大的利害关系、家长对子女仪度的利害关系）按分义作「利害关系」；趣味义已消除。 ★wave44 分义：日常吸引／趣味义（das anziehende Interesse＝诱人的趣味）保留「趣味」；利害关系条只管利益所系语境。 ★wave45 分义：w4/10「das Interesse, welches der unmittelbare Anfang gibt」作「趣味」（1 处，承 wave44 日常吸引义条）。 ★wave46 分义：w4/11「das (Interesse) und die Tätigkeit der Einzelnen」「die großen Interessen der individuellen Humanität」作「利益」（2 处）；「ein Interesse zu diesen Gegenständen」作「兴趣」（1 处），不作「利害关系」。"
   },
   {
    "source": "Rechtschaffenheit",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T13:29:55.552Z",
- "blocks": 2435,
- "sentences": 4107,
+ "generated": "2026-10-19T15:09:39.304Z",
+ "blocks": 2512,
+ "sentences": 4338,
  "issues": [
   {
    "sev": "minor",
@@ -3992,11 +3992,646 @@
    "sev": "minor",
    "where": "w4/10#52",
    "msg": "sentence 5: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#2",
+   "msg": "sentence 2: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#2",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#2",
+   "msg": "sentence 4: \"Anspruch\" is not rendered as “要求权”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#3",
+   "msg": "sentence 0: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#4",
+   "msg": "sentence 7: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#7",
+   "msg": "sentence 2: \"Teilnahme\" is not rendered as “关切”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#7",
+   "msg": "sentence 2: \"Sporn\" is not rendered as “刺激”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/11#7",
+   "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#9",
+   "msg": "sentence 2: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#9",
+   "msg": "sentence 2: \"Trieb\" is not rendered as “冲动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#9",
+   "msg": "sentence 2: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#11",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#11",
+   "msg": "sentence 1: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#11",
+   "msg": "sentence 1: \"Verfassung\" is not rendered as “宪法”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#11",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#11",
+   "msg": "sentence 1: \"Teilnahme\" is not rendered as “关切”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#11",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#11",
+   "msg": "sentence 2: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#12",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#12",
+   "msg": "sentence 3: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#12",
+   "msg": "sentence 4: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#12",
+   "msg": "sentence 4: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#12",
+   "msg": "sentence 5: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#12",
+   "msg": "sentence 5: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#12",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#12",
+   "msg": "sentence 5: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#13",
+   "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#13",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#15",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#15",
+   "msg": "sentence 0: \"Glück\" is not rendered as “幸运”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#17",
+   "msg": "sentence 1: \"Zweck\" is not rendered as “目的”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#18",
+   "msg": "sentence 1: \"Studienanstalt\" is not rendered as “高等学府”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#18",
+   "msg": "sentence 1: \"Waffen\" is not rendered as “武器”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#18",
+   "msg": "sentence 1: \"Anspruch\" is not rendered as “要求权”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#19",
+   "msg": "sentence 4: \"Klasse\" is not rendered as “班级”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#19",
+   "msg": "sentence 7: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#19",
+   "msg": "sentence 8: \"Reihe\" is not rendered as “系列”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#19",
+   "msg": "sentence 9: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#19",
+   "msg": "sentence 9: \"Teilnahme\" is not rendered as “关切”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#21",
+   "msg": "sentence 2: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#21",
+   "msg": "sentence 3: \"Gottesdienst\" is not rendered as “敬拜”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#21",
+   "msg": "sentence 6: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#21",
+   "msg": "sentence 6: \"Zusammenhang\" is not rendered as “关联”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#22",
+   "msg": "sentence 0: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 1: \"Übel\" is not rendered as “恶”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 2: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 2: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 3: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 3: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 5: \"Mittel\" is not rendered as “手段”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/11#23",
+   "msg": "sentence 7: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 10: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 10: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 11: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 11: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 11: \"Bedeutung\" is not rendered as “意义”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 11: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#23",
+   "msg": "sentence 11: \"Vergnügen\" is not rendered as “快乐”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/11#23",
+   "msg": "sentence 11: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#24",
+   "msg": "sentence 1: \"Gefühl\" is not rendered as “感觉”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#24",
+   "msg": "sentence 1: \"Größe\" is not rendered as “量”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#24",
+   "msg": "sentence 1: \"Gleichheit\" is not rendered as “等同”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#24",
+   "msg": "sentence 1: \"Anspruch\" is not rendered as “要求权”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#24",
+   "msg": "sentence 3: \"Vergehen\" is not rendered as “消逝”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#24",
+   "msg": "sentence 4: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#24",
+   "msg": "sentence 5: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#24",
+   "msg": "sentence 5: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#24",
+   "msg": "sentence 6: \"Glück\" is not rendered as “幸运”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#31",
+   "msg": "sentence 2: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#33",
+   "msg": "sentence 0: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#33",
+   "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#34",
+   "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#34",
+   "msg": "sentence 1: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#34",
+   "msg": "sentence 1: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#35",
+   "msg": "sentence 0: \"Studienanstalt\" is not rendered as “高等学府”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#36",
+   "msg": "sentence 1: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#36",
+   "msg": "sentence 2: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#37",
+   "msg": "sentence 0: \"Vorstellung\" is not rendered as “表象”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/11#37",
+   "msg": "sentence 0: “Vorstellung” (family Vorstellung) does not keep the family root “表象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#37",
+   "msg": "sentence 2: \"Vorstellung\" is not rendered as “表象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#37",
+   "msg": "sentence 2: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/11#37",
+   "msg": "sentence 2: “Vorstellung” (family Vorstellung) does not keep the family root “表象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#38",
+   "msg": "sentence 0: \"Notwendigkeit\" is not rendered as “必然性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#39",
+   "msg": "sentence 9: \"Kenntnis\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#39",
+   "msg": "sentence 10: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#40",
+   "msg": "sentence 0: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#40",
+   "msg": "sentence 0: \"Entschluß\" is not rendered as “决断”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#40",
+   "msg": "sentence 1: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#41",
+   "msg": "sentence 0: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#41",
+   "msg": "sentence 0: \"Beschaffenheit\" is not rendered as “性质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#41",
+   "msg": "sentence 2: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#43",
+   "msg": "sentence 1: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#44",
+   "msg": "sentence 1: \"Einzelheit\" is not rendered as “个别性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#44",
+   "msg": "sentence 1: \"Bedürfnis\" is not rendered as “需要”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#45",
+   "msg": "sentence 0: \"Bedürfnis\" is not rendered as “需要”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#48",
+   "msg": "sentence 1: \"Kenntnis\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#49",
+   "msg": "sentence 2: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#49",
+   "msg": "sentence 2: \"Gnade\" is not rendered as “恩典”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#49",
+   "msg": "sentence 3: \"Glück\" is not rendered as “幸运”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#51",
+   "msg": "sentence 0: \"Klasse\" is not rendered as “班级”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#51",
+   "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#52",
+   "msg": "sentence 0: \"Bedürfnis\" is not rendered as “需要”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#52",
+   "msg": "sentence 1: \"Zweck\" is not rendered as “目的”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#56",
+   "msg": "sentence 1: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#60",
+   "msg": "sentence 1: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#64",
+   "msg": "sentence 0: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#66",
+   "msg": "sentence 1: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#66",
+   "msg": "sentence 1: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#66",
+   "msg": "sentence 2: \"Element\" is not rendered as “要素”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#66",
+   "msg": "sentence 2: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#67",
+   "msg": "sentence 1: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#67",
+   "msg": "sentence 1: \"Element\" is not rendered as “要素”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#67",
+   "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/11#67",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#68",
+   "msg": "sentence 2: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#68",
+   "msg": "sentence 2: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#68",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#69",
+   "msg": "sentence 4: \"Klasse\" is not rendered as “班级”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#71",
+   "msg": "sentence 1: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#71",
+   "msg": "sentence 2: \"Verfassung\" is not rendered as “宪法”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#71",
+   "msg": "sentence 5: \"Wollen\" is not rendered as “意愿”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#72",
+   "msg": "sentence 0: \"Zweck\" is not rendered as “目的”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#72",
+   "msg": "sentence 0: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#73",
+   "msg": "sentence 0: \"Figur\" is not rendered as “格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#73",
+   "msg": "sentence 2: \"Einteilung\" is not rendered as “划分”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#74",
+   "msg": "sentence 1: \"Rektor\" is not rendered as “校长”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/11#76",
+   "msg": "sentence 1: \"Rektor\" is not rendered as “校长”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 45,
-  "minor": 753
+  "major": 51,
+  "minor": 874
  }
 }

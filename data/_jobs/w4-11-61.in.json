@@ -1,0 +1,105 @@
+{
+ "id": "w4-11-61",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 11,
+ "chunkTitle": "5. Rede zum Schuljahrabschluß am 2. September 1813 105)",
+ "heading": "5. Rede zum Schuljahrabschluß am 2. September 1813105)",
+ "blocks": [
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "fpbieab3gt",
+   "sents": [
+    "b) daß der Unterricht in einzelnen Lehrgegenständen den Schülern beider Institute gemeinschaftlich erteilt würde."
+   ]
+  },
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "vc06et117k",
+   "sents": [
+    "Die Lehrgegenstände, welche beide Institute miteinander gemein haben, sind Geschichte, Geographie, Mathematik und Physiographie, philosophische Vorbereitungswissenschaften, vaterländische Literatur, französische Sprache."
+   ]
+  },
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "uzguyilp4y",
+   "sents": [
+    "In Ansehung der Geschichte, Geographie, auch der vaterländischen Literatur fällt es sogleich auf, daß diese Gegenstände, neben dem Studium der alten Sprachen gelehrt, anders vorgetragen werden können und anders behandelt werden müssen als in einem Institute, in welchem dieses Studium nicht damit verbunden ist.",
+    "In jenem ist das Studium der Geschichte und Geographie durch die Lektüre der alten Geschichtsschreiber unterstützt und hat Beziehung darauf; manches kann deswegen kurz, anderes muß ausführlicher behandelt werden; man kann dabei eine Menge Kenntnisse voraussetzen. - Dasselbe ist der Fall mit der deutschen Literatur; im Gymnasium ist der Schüler mit Poesie, Versmaß und dergleichen, überhaupt einer Menge dabei nötiger Vorstellungen schon bekannt."
+   ]
+  },
+  {
+   "bi": 64,
+   "k": "p",
+   "hash": "1o7ai7kygs",
+   "sents": [
+    "Mathematik und Physiographie werden in einer Gymnasialanstalt nicht in der Ausdehnung behandelt, welche sie in einem Realinstitut erhalten sollen, auch nicht in der nahen Rücksicht auf technische Zwecke, welche in dem letzteren einzutreten hat. - Das mathematische Studium erfordert ferner mehr als andere, daß der Lehrer auf die Einzelnen in jedem einzelnen Gegenstand sieht, sie individuell aufruft und examiniert, denen, die zurückbleiben wollen, ein- und nachhilft, - was den Unterschied des Gymnasialunterrichts vom Universitätsunterricht ausmacht.",
+    "Die Erfahrung ist daher häufig, daß, wer auf dem Gymnasium nicht schon in die Mathematik eingeführt worden ist, auf der Universität gewöhnlich nichts mehr lernt, wo der Lehrer nur Vorträge hält und nicht nachsehen kann, was der Einzelne davon faßt und tut, der als Zuhörer, nicht mehr als Schüler behandelt wird. - Dieses Nachsehen, Antreiben, Nachhelfen aber ist nur bei einer gewissen Anzahl von Schülern möglich; wenn sie eine gewisse Anzahl überschreiten, muß es entweder größtenteils wegfallen und viele [müssen] ganz zurückgelassen werden, da, wer in dieser Wissenschaft an einem Punkte stockt, nicht mehr weiter mit fortkommt, oder aber es hält zu lange auf und macht die fortschreitenden ungeduldig und überdrüssig.",
+    "Ohne das äußere Hindernis bei einer großen Menge, sie um die Tafel, worauf geschrieben wird, zu versammeln usf., zu erwähnen."
+   ]
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "1a0u7es1ig",
+   "sents": [
+    "Die französische Sprache ist in einem Realinstitute gleichfalls in mehr Ausdehnung zu treiben, und es paßt auch auf diesen Unterricht dasselbe, was soeben von der Mathematik gesagt worden, daß eine große Anzahl hier dem Fortschreiten sehr hinderlich ist; außerdem daß die, welche das Studium der alten Sprachen dabei fortsetzen, in jeder Rücksicht große Vorteile voraushaben."
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "1y7yq1sm4i",
+   "sents": [
+    "Bei den philosophischen Vorbereitungswissenschaften muß es am stärksten gefühlt werden, daß sie ganz anders mit Schülern behandelt werden können, die eine höhere Bildung erhalten, deren Fassungskraft durch die Bekanntschaft mit der klassischen Literatur geschärft und in eine Menge Begriffe von geistigen Verhältnissen eingeführt worden ist.",
+    "Dieser Einfluß erstreckt sich aber überhaupt auf alle Lehrgegenstände; es gründet sich dadurch schon ein Unterschied an und für sich, aber noch mehr dadurch, daß, wie oben angeführt ist, gewöhnlich teils nur Menschen von geringem Talent und Fassungsvermögen, teils andere aus Trägheit und Scheu vor geistiger Anstrengung sich den Gymnasialstudien selbst entziehen oder vom Rektorate zum Realinstitut überwiesen werden.",
+    "Dies liegt so sehr in der Natur der Sache, des verschiedenen Stoffs, der das besondere Element eines jeden der beiden Institute ausmacht, daß das Publikum dies bereits gefaßt hat und die Eltern, die ihre Söhne wenig Fortschritte in den Gymnasialstudien machen sehen, daraus schließen, daß sie wenig Anlagen zum Studieren besitzen, und daher sich nach dem mißlungenen Versuche der Gymnasialstudien um das Realinstitut für sie umsehen.",
+    "Solche dahin übergegangenen Schüler konnten - oder, bei gemeinschaftlichem Unterrichte beider Anstalten, würden - nicht in den geistigen Lehrgegenständen mit den übrigen Gymnasialschülern fortkommen, wogegen sie zur Mathematik, Physik, Chemie, Naturgeschichte - Wissenschaften, die kein eigentliches Denken und, was noch wesentlicher ist, keine besondere Tiefe des Gemüts erfordern, wie das klassische Studium - und dann zu technischen Kenntnissen und Fertigkeiten, zum Realen überhaupt, gute Anlagen haben und darin sehr brauchbar werden können.",
+    "Auf sie würde also bei gemeinschaftlichem Unterrichte mit den Gymnasialschülern wenig Rücksicht zu nehmen und sie [würden] mehr nur als Statisten anwesend sein, oder aber [es] müßten diese versäumt werden, wodurch dann beide nichts lernten."
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "225zuf1jan",
+   "sents": [
+    "Indem eine Gymnasialanstalt als eine Spezialschule der Vorbereitung zur höheren wissenschaftlichen und geistigen Bildung anzusehen ist, so erhält sie einen eigenen Ton für alle ihre Lehrgegenstände; diese Einheit des Tones, der einem Ganzen wesentlich ist und sich allein in einer geschlossenen, nach einem Zwecke wirkenden Anstalt bilden kann, würde durch eine Vermischung ihrer Schüler mit anderen, welche die übrige Bildung des Ganzen nicht erhalten, und vollends insofern sie deren nicht fähig sind, nur gestört und verdrängt. - Eine Spezialschule von jener wichtigen Bestimmung verdient es wohl, ihre eigenen Lehrer sowohl als eigene Schüler zu haben, so daß jene sich dem Zwecke ihrer Zöglinge ausschließlich widmen können und daß diese einer Art, Bildung und Bestimmung seien und nicht wegen anderer [Schüler] von heterogenen Zwecken und geringeren Fähigkeiten versäumt werden müssen.",
+    "Wenn eine solche Vereinigung in Rücksicht auf die Elementarkenntnisse möglich ist, wie sie in den Primärschulen auch wirklich stattfindet, wo der Unterricht zugleich die Probierzeit des Talents in sich faßt, so muß dagegen in einer höheren Anstalt jene Abscheidung zum Grunde liegen, welche für den einer geistigen Beschäftigung fähigen Kopf eine andere Unterrichtsweise verlangt als für den, der nicht für das Intellektuelle, sondern nur für die Wissenschaften, die ein sinnliches Element haben, wie Mathematik, Physik, Naturgeschichte, und für technische Geschicklichkeit von der Natur bestimmt ist.",
+    "Es wird für sie ein gleicher Unterricht so wenig stattfinden (oder derselbe Unterricht für sie so ungleich sein), wie ein Bauer und ein Mensch, der studiert hat, kaum miteinander militärisch exerziert werden können. - Eine höhere Anstalt, die beiden, es sei im einzelnen oder im ganzen, genügen sollte, würde keinem von beiden genügen."
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "1n6bt8218f",
+   "sents": [
+    "Diese Absonderung ist gleich wichtig in Rücksicht auf die Disziplin; ein gesittetes Betragen und Folgsamkeit kann in einer Anstalt nur zum Tone werden, wenn alle Schüler derselben unter einer Autorität in allem stehen, denselben Zweck haben, alle Unterrichtsgegenstände gleich wichtig für seine Bestimmung oder wenigstens darum für ihn notwendig sind, weil er Schüler dieser Anstalt ist, überhaupt wenn alle Schüler in denselben Unterrichtsverhältnissen stehen.",
+    "So werden z. B. Schüler, die getrennten Anstalten gehören, bei Nachlässigkeit in Ablieferung ihrer Arbeiten leicht die Ausrede für Unfleiß, Kaprice usf. an der Hand haben, daß sie für Lektionen der anderen Anstalt notwendig zu arbeiten gehabt; sie werden an Aufmerksamkeit, Benehmen usf. lässiger in den Lektionen sein, die nicht ihrer eigentlichen Bestimmungsanstalt angehören.",
+    "Positive Gesetze hierüber und formelle Einrichtungen, diesen Übelstand zu beseitigen, außerdem, daß sie die bereits sattsamen Weitläufigkeiten der Formalitäten vermehren und mehr Verwicklungen in die Verhältnisse hereinbringen würden, sind von geringer Wirksamkeit, wenn in der Natur der Sache und der Einrichtung der Hauptsache jener Unterschied liegt.",
+    "Ohnehin kreieren sich junge Leute schon aus geringen Unterschieden gerne Oppositionen, noch mehr aber aus den angegebenen, die nur dadurch nicht zu Ausbrüchen und Verdrießlichkeiten gedeihen, wenn diese verschiedenen Schüler entfernt voneinander bleiben und die äußerliche Berührung abgehalten wird."
+   ]
+  },
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "1na3tzc19b",
+   "sents": [
+    "c) Die Ersparung von Lehrstellen ergibt sich aber von selbst, wenn die Wünsche und das Bedürfnis des Publikums mit einer geringeren Anzahl von Klassen des Realinstituts befriedigt wird, als ursprünglich sollten eingerichtet werden; insofern es nämlich nach dem oben untertänigst Dargelegten scheinen sollte, daß bei der größeren Anzahl derer, welche Realstudien machen wollen, ihre Bestimmung es mit sich brächte, nur etwa bis ins 16.",
+    "Lebensjahr bei einem allgemeinen Unterrichte stehenzubleiben, und entweder neben der wissenschaftlichen Vorbereitung innerhalb dieses Alters oder unmittelbar nach demselben es nötig haben, zur Erwerbung der besonderen Fachkenntnisse und zur Übung technischer Geschicklichkeiten überzugehen.",
+    "Nach dieser Einschränkung würden vielleicht drei Professoren sehr wohl hinreichend sein; einer der Mathematik und Physik, einer der Chemie und Naturgeschichte und einer der Geschichte, Geographie, Logik und Moral, außer den besonderen Lehrern der neueren Sprachen, des Zeichnens und der Kalligraphie.",
+    "Es bliebe dabei offen, nach der Individualität der Lehrer jene Szientien anders zu verbinden, dem Lehrer der Chemie auch die Physik aufzutragen, dem Lehrer der Naturgeschichte die Logik und Moral usf.",
+    "Zwei Klassen erforderten für den Unterricht, den die Professoren zu geben haben, zwischen 40 und 45 Stunden wöchentlich, die von drei Individuen um so leichter gegeben werden könnten, wenn der Unterricht in neueren Sprachen mehr erweitert wird; es würde alsdann noch Zeit für sie übrigbleiben, einzelne nützliche Vorlesungen für ein allgemeineres Publikum und für solche, die eine besondere Bestimmung schon angetreten haben, zu halten."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/11.p61.json"
+}

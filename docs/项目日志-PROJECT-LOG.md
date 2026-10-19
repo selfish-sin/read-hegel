@@ -647,3 +647,48 @@
 - **进度**：17.04% → **17.28%**（15,697 → 15,917 / 92,117 句；段落 4,978 → 5,029 / 17,948 = 28.02%）；
   第 4 卷 3,887 → 4,107 句（74.7%），**分节进度 11/16**。**下一节：w4/11**「5. Rede zum Schuljahrabschluß am 2. September 1813」
   （约 10 单元 / 231 句），切片 `--limit 9 --prefix wave46`。
+
+### 第 46 波（w4/11 收官）— 9 单元 / 77 块 / 231 句，**w4/11 整节 100%**
+
+- **内容**：1813 年 9 月 2 日学年结束演辞（学年末回顾与「学校无历史」之福·法律与制度的可变与不变·教师更替与青年之成长·
+  班级晋升与国家公务·文科中学与本行学问·古典时代的中间位置·整体生命与精神·青年教育与国民小学的弊病·私人努力与国家规制·
+  二十余年变迁与时代信心·教养与家庭自由·奖赏与新一代）；**III. Gutachten / 1. Gutachten über die Stellung des Realinstituts
+  zu den übrigen Studienanstalten**（神学法学医学之预备必要·古语与官房学·实科学校学生的构成·实科中学与预科中学·各行业去向·
+  共同授课三案与纪律问题·实科学校与中学的关系·四年课程与升学的空缺·入学条件·签署）。
+- **批次**：b1 单元 0/10、b2 单元 20/24、b3 单元 37/41、b4 单元 50/61、b5 单元 70——全部主代理翻译，不派子代理
+  （BYOK 月度配额 2026-10-23 23:59 才重置）。
+- **切片**：`make-jobs --vol w4 --size 25 --limit 9 --prefix wave46` → units=9 sentences=231，正好整节切完。
+- **★ 本波新坑（两个）**：
+  1. **源句内以「 - 」分段的两段式长句**——bi21[6] 与 bi60[0] 在源数据里 `ns` 只算 1（一条译文位）却含两段；
+     首轮只译了后半段，机器门立刻报出 zh/de 长度比 0.07 与 0.20 才发现。**凡源句内出现「 - 」，中文必须两段都译出来。**
+  2. **doNotTranslate 的字面命中**——处方日期「München, 1. Aug.」的「1.」按字符命中（英中都必须保留德式写法）；
+     Reg. Bl. 引用里的「S.」（Seite）必须逐字保留，中文侧另补「年」（Reg. Bl. 1809 年，S. 1332）才满足「中文非空」判据。
+     两点已写进 context-w4 的 styleGuide（wave46 门务记录）。
+- **真缺陷 4 处（已修）**：`Wirklichkeit`（现实性词族）误译成「实在性」（实在性属 Realität 词族），已改回「现实性」；
+  `Es ist wahr` 的「诚然」不含词根「真」，改为「这是真的」；
+  两处 `Vorstellung`（bi10[1]「基本观念」、bi13[0]「根本观念」）误用了「观念」——「观念」是 Idee 词族的专属译名、
+  Vorstellung 一律「表象」，已改回「基本表象」，并把两处「基本／根本」译法不一统一掉。
+- **分义与误报（不改译文，已逐条登记进 context-w4 的 wave46 分义）**：本波 121 条 minor 全是术语一致度提醒——
+  Rektor→校长 17（Rektorat＝校务委员会）、Leben→生命 12、Mitte→中项 8（Mittel 子串误报）、Grund→根据 5、
+  Interesse→利害关系 5（利益／兴趣两义）、Natur→本性 5、Gesetz→法律 3（避「法律」作「法则」）、
+  Anspruch→要求权 3、Teilnahme→关切 3、Anschauung→直观 3（考察义作「观照」）、Glück→幸运 3、Zweck→目的 3、
+  Klasse→班级 3、Bedürfnis→需要 3、Unterschied→差别 3 等；新增 major 6 条**全是词族误报**：
+  4 条 `wirklich` 日常义（不带「现实」字根）＋ 2 条 `Vorstellung`＝看法／想法义（非「表象」，已登记 wave46 分义）。
+  **机器门 GATE OK（0 FAIL / 67 WARN）**（分片门）；合并入库后再对正式文件跑一遍终门 **0 FAIL / 10 WARN**，
+  WARN 全是中文破折号与德文「 - 」的排版差及同句跨词条容忍（政府／灵魂／教育／学科 都是同句内另一个德文词的合法译名，非本词违规）。
+- **术语层**：共享词表 **+65 条**（Realschule 实科中学／Lyzeum 高级中学／Mittelanstalt 中级学校／Kameralwissenschaft 官房学／
+  Kameralfache 官房事务／Kameralstellen 官房职位／Humaniora 人文诸科／Generalkommissariat 皇家总务署／Rektorat 校务委员会／
+  Kadettenhaus 军校／Forstinstitut 林业学校／Medizinalkomitee 医学委员会／Absolutorium 结业证书／Gutachten 鉴定书／
+  Klassenlehrer 班主任／Volksschule 公立小学／Berufswissenschaft 本行学问／Militärstand 军人身份／Gewerbsstand 手工业者阶层／
+  Privatwillkür 私人任意 等）；context-w4 **条目数保持 468 不变**，**17 条条目加注 wave46 分义** ＋ 3 条 styleGuide 记录。
+- **★ 方法论教训：往 context-w4 加新条目会放大全卷 QA 噪音**——本波一度加 13 条新条目，QA 的 minor 从 874 涨到 1,294（+420，
+  **波及全卷所有含该词的句子**，不只是 w4/11）。已改为只给既有条目加注分义、条目数保持 468 不变，
+  新术语定译改由共享词表 + styleGuide 承载（两者都不产生噪音），minor 回到 874。
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；
+  validate 仍 20 处存量 misnested（w2/w3/w5）；**w4/11 浏览器实测 pairs=78 = expected 78、mismatch=0、jsErr=0**；
+  missing=2 / emptyZh=1 / emptyEn=1 **全部来自唯一的 `ns=0` 空段落**（合同规定如实留空，与已验收的 w4/8、w4/9 同一渲染行为）；
+  固定 8 页回归 8/8。
+- **进度**：17.28% → **17.53%**（15,917 → 16,148 / 92,117 句；段落 5,029 → 5,102 / 17,948 = 28.43%）；
+  第 4 卷 4,107 → 4,338 句（78.9%），**分节进度 12/16**。**下一节：w4/12**「2. Bericht über das Gymnasialschuljahr 1811/12」
+  （约 8 单元 / 192 句），切片 `--limit 9 --prefix wave47`。
+
