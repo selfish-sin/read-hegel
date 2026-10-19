@@ -209,7 +209,7 @@
    "en": "essence",
    "zh": "本质",
    "type": "term",
-   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。"
+   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」"
   },
   {
    "source": "Erscheinung",
@@ -433,7 +433,7 @@
    "en": "person",
    "zh": "人格",
    "type": "term",
-   "note": "法权义作“人格”（eine rechtliche Person＝法律人格）；“个人”留给 Individuum ★wave42 补充：与 Persönlichkeit（人格性）严格分开。Person 是法上的法律人格（er ist eine Person／als Person behandelt werden）；Persönlichkeit 是「人格的概念」所包含的我性或个别性。"
+   "note": "法权义作“人格”（eine rechtliche Person＝法律人格）；“个人”留给 Individuum ★wave42 补充：与 Persönlichkeit（人格性）严格分开。Person 是法上的法律人格（er ist eine Person／als Person behandelt werden）；Persönlichkeit 是「人格的概念」所包含的我性或个别性。 ★wave42b2 补充：「某一个人」类译法一律改为「单一个人格」守一词一译"
   },
   {
    "source": "Eigentum",
@@ -923,7 +923,7 @@
    "en": "body",
    "zh": "物体",
    "type": "term",
-   "note": "与 Materie（物质）、Organismus（有机体）三分；亦不作“形体”“身体”。本波 5 处一致 wave34 核查例外：人类学语境 organischer Körper（有机身体）作“有机身体”，不机械改“有机物体”（#46） wave40 核查补充：§注释「Zustände teils unseres Körpers」指人自身身体时作「身体」（承接 wave34 organischer Körper＝有机身体的先例）；himmlische／irdische Körper＝天上的／地上的物体（物体系）仍作「物体」，Materie＝物质三分不变。"
+   "note": "与 Materie（物质）、Organismus（有机体）三分；亦不作“形体”“身体”。本波 5 处一致 wave34 核查例外：人类学语境 organischer Körper（有机身体）作“有机身体”，不机械改“有机物体”（#46） wave40 核查补充：§注释「Zustände teils unseres Körpers」指人自身身体时作「身体」（承接 wave34 organischer Körper＝有机身体的先例）；himmlische／irdische Körper＝天上的／地上的物体（物体系）仍作「物体」，Materie＝物质三分不变。 ★wave42b2 补充：wave42b2 复核：§19-20「mein Leibes und Lebens」「in meinem Körper selbst mein unmittelbares Selbstgefühl」确为人身义，作「身体」；本条 wave40 补充例外继续有效"
   },
   {
    "source": "Materie",
@@ -1301,7 +1301,7 @@
    "en": "equality",
    "zh": "等同",
    "type": "term",
-   "note": "共享词表 Gleichheit→等同（ok，按对偶需要）；w4/4 早期单元曾循卷内先例作「相等」，本波已拉平为词表译法 ★wave41 复核：「Gleichheit mit sich selbst」亦取「等同」（本批曾误用「相等」已改）；Ungleichheit mit mir＝与自身的不等同。"
+   "note": "共享词表 Gleichheit→等同（ok，按对偶需要）；w4/4 早期单元曾循卷内先例作「相等」，本波已拉平为词表译法 ★wave41 复核：「Gleichheit mit sich selbst」亦取「等同」（本批曾误用「相等」已改）；Ungleichheit mit mir＝与自身的不等同。 ★wave42b2 补充：§20 的「普遍性或等同」「被他所侵害的等同」均按本条取「等同」，非「平等」"
   },
   {
    "source": "Ungleichheit",
@@ -2254,6 +2254,104 @@
    "zh": "舍弃",
    "type": "term",
    "note": "wave42 新增：「sich meines Eigentums entäußern」＝舍弃自己的财产；财产可经自由意志转移给他人"
+  },
+  {
+   "source": "Veräußerung",
+   "en": "alienation",
+   "zh": "让渡",
+   "type": "term",
+   "note": "§13-15 主题词。★本卷一律「让渡」；共享词表另有 veräußern＝转让 一行，按权威序 context-w4 高于共享词表，故以本条为准。unveräußerlich＝不可让渡的（沿用共享词表，与让渡同根）。不与 Entäußerung（表现）混。"
+  },
+  {
+   "source": "Erläuterung",
+   "en": "explanation",
+   "zh": "诠释",
+   "type": "term",
+   "note": "styleGuide 第 15 条裁定的「诠释／讲解」，本卷取「诠释」。w4/6 bi222「对导言的诠释」与 w4/7 bi8/11/14 已译部分均作「诠释」；共享词表同名行原作「解释」已更正。"
+  },
+  {
+   "source": "Willenserklärung",
+   "en": "declaration of will",
+   "zh": "意思表示",
+   "type": "term",
+   "note": "wave42 新增：民法术语，§16 契约中的意思表示尚非给付"
+  },
+  {
+   "source": "Leistung",
+   "en": "performance",
+   "zh": "给付",
+   "type": "term",
+   "note": "wave42 新增：§16「这种以契约为根据的转移就是给付」（原文残句无句末标点，照残句译）；与 Leistungen（服务，共享词表）分开"
+  },
+  {
+   "source": "Ware",
+   "en": "commodity",
+   "zh": "商品",
+   "type": "term",
+   "note": "wave42 新增：§15 金钱是普遍的商品；与 Geld（金钱）分译，不作「货物」"
+  },
+  {
+   "source": "Miete",
+   "en": "lease",
+   "zh": "租赁",
+   "type": "term",
+   "note": "wave42 新增：§15 四种契约（赠与／交换／买卖／租赁）之第四"
+  },
+  {
+   "source": "Anspruch",
+   "en": "claim",
+   "zh": "要求权",
+   "type": "term",
+   "note": "wave42 新增：machen auf etwas Anspruch＝对某物提出要求；与 Forderung（债权）分开"
+  },
+  {
+   "source": "Eingriff",
+   "en": "interference",
+   "zh": "干预",
+   "type": "term",
+   "note": "wave42 新增：§17/§18 对他人权利的干预行为的统称；与 Eingriff ins Eigentum 同族"
+  },
+  {
+   "source": "Beraubung",
+   "en": "deprivation",
+   "zh": "剥夺",
+   "type": "term",
+   "note": "wave42 新增：§19 以监禁或奴役对自由的剥夺；与 Raub（抢劫）分开"
+  },
+  {
+   "source": "Gewalttätigkeit",
+   "en": "act of violence",
+   "zh": "暴力行为",
+   "type": "term",
+   "note": "wave42 新增：§19；Gewalt＝强力（共享词表），本词为其实施行为"
+  },
+  {
+   "source": "Wiedervergeltung",
+   "en": "retaliation",
+   "zh": "报复",
+   "type": "term",
+   "note": "wave42 新增：§20 与 ius talionis 同段；不与 Rache（复仇）混"
+  },
+  {
+   "source": "Rechtsstreit",
+   "en": "litigation",
+   "zh": "诉讼",
+   "type": "term",
+   "note": "wave42 新增：bürgerlicher Rechtsstreit＝民事诉讼，与 Kriminalrecht（刑法）对举"
+  },
+  {
+   "source": "bürgerliches Recht / Zivilrecht",
+   "en": "civil law",
+   "zh": "民事法／民法",
+   "type": "term",
+   "note": "wave42 新增：§17 成文制度义的 Recht 作「法」。「民法」用于 Zivilrecht 与 Zivilrechtsstreit，「民事法」用于 bürgerliches Recht 原作；两处并存不作拉平"
+  },
+  {
+   "source": "peinliches Recht",
+   "en": "penal law",
+   "zh": "刑事法",
+   "type": "term",
+   "note": "wave42 新增：§17 与 bürgerliches Recht（民事法）对举；通行的简称「刑法」在此不作简称，与 Kriminalrecht（＝刑法）分开"
   }
  ],
  "forbidden": [

@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T05:18:02.869Z",
- "blocks": 4944,
- "sentences": 14749,
+ "generated": "2026-10-19T05:29:20.886Z",
+ "blocks": 4967,
+ "sentences": 14848,
  "issues": [
   {
    "sev": "minor",
@@ -5140,6 +5140,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/0#24",
+   "msg": "sentence 2: \"Entäußerung\" is not rendered as “舍弃”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/0#26",
    "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
   },
@@ -5745,6 +5750,16 @@
   },
   {
    "sev": "minor",
+   "where": "w4/1#119",
+   "msg": "sentence 1: \"Bezeichnung\" is not rendered as “标记”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#121",
+   "msg": "sentence 1: \"Bezeichnung\" is not rendered as “标记”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/1#123",
    "msg": "sentence 1: \"Folge\" is not rendered as “后果”"
   },
@@ -5821,6 +5836,11 @@
   {
    "sev": "minor",
    "where": "w4/1#174",
+   "msg": "sentence 1: \"Eingriff\" is not rendered as “干预”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#174",
    "msg": "sentence 2: \"Natur\" is not rendered as “本性”"
   },
   {
@@ -5830,8 +5850,33 @@
   },
   {
    "sev": "minor",
+   "where": "w4/1#178",
+   "msg": "sentence 0: \"Persönlichkeit\" is not rendered as “人格性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#182",
+   "msg": "sentence 0: \"Persönlichkeit\" is not rendered as “人格性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#184",
+   "msg": "sentence 0: \"Persönlichkeit\" is not rendered as “人格性”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/1#186",
    "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#186",
+   "msg": "sentence 0: \"Persönlichkeit\" is not rendered as “人格性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#186",
+   "msg": "sentence 1: \"Persönlichkeit\" is not rendered as “人格性”"
   },
   {
    "sev": "minor",
@@ -6292,6 +6337,26 @@
    "sev": "minor",
    "where": "w4/3#207",
    "msg": "sentence 1: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#207",
+   "msg": "sentence 1: \"Formierung\" is not rendered as “塑形”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#207",
+   "msg": "sentence 1: \"Entäußerung\" is not rendered as “舍弃”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#207",
+   "msg": "sentence 2: \"Entäußerung\" is not rendered as “舍弃”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#209",
+   "msg": "sentence 0: \"Entäußerung\" is not rendered as “舍弃”"
   },
   {
    "sev": "minor",
@@ -6992,11 +7057,61 @@
    "sev": "minor",
    "where": "w4/7#32",
    "msg": "sentence 7: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#38",
+   "msg": "sentence 3: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#44",
+   "msg": "sentence 9: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#50",
+   "msg": "sentence 2: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/7#50",
+   "msg": "sentence 8: \"Recht\" rendered with forbidden “法律” (expected “权利（法）”)"
+  },
+  {
+   "sev": "major",
+   "where": "w4/7#50",
+   "msg": "sentence 12: \"Recht\" rendered with forbidden “法律” (expected “权利（法）”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#50",
+   "msg": "sentence 14: \"Anspruch\" is not rendered as “要求权”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#53",
+   "msg": "sentence 2: \"Anspruch\" is not rendered as “要求权”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#56",
+   "msg": "sentence 4: \"Körper\" is not rendered as “物体”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/7#56",
+   "msg": "sentence 4: \"Körper\" rendered with forbidden “身体” (expected “物体”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#58",
+   "msg": "sentence 2: \"Wesen\" is not rendered as “本质”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 155,
-  "minor": 1243
+  "major": 158,
+  "minor": 1263
  }
 }
