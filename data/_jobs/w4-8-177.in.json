@@ -1,0 +1,161 @@
+{
+ "id": "w4-8-177",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "I. Pflichten gegen sich",
+ "heading": "I. Pflichten gegen sich",
+ "blocks": [
+  {
+   "bi": 177,
+   "k": "p",
+   "hash": "qi3x6v115u",
+   "sents": [
+    "Die Religion ist die Art und Weise, wie der Mensch sich des göttlichen Wesens bewußt wird und sich das Dasein desselben bestimmt und die Einigkeit mit demselben sucht und hervorbringt.",
+    "Sie ist das höchste Bewußtsein des Geistes und alles andere Bewußtsein davon abhängig."
+   ]
+  },
+  {
+   "bi": 178,
+   "k": "p",
+   "hash": "14ph46o1ex",
+   "sents": [
+    "[Sie] ist ein Verhälenis des Menschen zu Gott; aber ebensosehr Gottes zum Menschen.",
+    "Das Dasein Gottes: Gott hat Dasein nur in der Religion - objektive Religion."
+   ]
+  },
+  {
+   "bi": 179,
+   "k": "p",
+   "hash": "167ty4uokp",
+   "sents": [
+    "§ [13]"
+   ]
+  },
+  {
+   "bi": 180,
+   "k": "p",
+   "hash": "op5in81btq",
+   "sents": [
+    "Der einfache Begriff vom Wesen Gottes, welcher der Religion zugrunde liegt, ist gestaltlos.",
+    "Die Fortbildung der Religion besteht darin, das Göttliche Wesen in seiner realen Gestalt zu erkennen; diese aber ist Gott als Geist."
+   ]
+  },
+  {
+   "bi": 181,
+   "k": "p",
+   "hash": "1fuj861w99",
+   "sents": [
+    "Wie Gott im Bewußtsein ist, dies ist die Weise seines Daseins; Verhalten zu anderen"
+   ]
+  },
+  {
+   "bi": 182,
+   "k": "p",
+   "hash": "167ia15h21",
+   "sents": [
+    "§ [14]"
+   ]
+  },
+  {
+   "bi": 183,
+   "k": "p",
+   "hash": "fi9iapnsqs",
+   "sents": [
+    "Die einfachste Religion ist die Verehrung Gottes als bildlosen Wesens, das Eines und über alles bestimmte Dasein erhaben ist, an demselben nicht seine Gestalt, sondern nur ein verschwindendes Akzidens hat."
+   ]
+  },
+  {
+   "bi": 184,
+   "k": "p",
+   "hash": "15j3t2k32s",
+   "sents": [
+    "Erscheinung im feurigen Busche Gott der aber nicht alle Menschen liebt, als Subjekt desto beschränkter Bacchantischer Taumel der Natur Unmittelbares Dasein.",
+    "Gestirndienst Emanation"
+   ]
+  },
+  {
+   "bi": 185,
+   "k": "p",
+   "hash": "ncenysmooe",
+   "sents": [
+    "§ [15]"
+   ]
+  },
+  {
+   "bi": 186,
+   "k": "p",
+   "hash": "xt489jfe1c",
+   "sents": [
+    "Dem Wesen in seiner Einfachheit stellt sich die Wirklichkeit gegenüber, als ein von jenem unabhängiges Prinzip, die ursprüngliche Materie oder auch das böse Prinzip."
+   ]
+  },
+  {
+   "bi": 187,
+   "k": "p",
+   "hash": "nc2zv31qfj",
+   "sents": [
+    "§ [16]"
+   ]
+  },
+  {
+   "bi": 188,
+   "k": "p",
+   "hash": "1eadce6wv8",
+   "sents": [
+    "Insofern das einfache Wesen ein Dasein an ihm hat, kann es nur ein einfaches Dasein haben und wird als eines der einfachen Naturwesen verehrt."
+   ]
+  },
+  {
+   "bi": 189,
+   "k": "p",
+   "hash": "og4k4yhzzr",
+   "sents": [
+    "§ [17]"
+   ]
+  },
+  {
+   "bi": 190,
+   "k": "p",
+   "hash": "1uh3pp01vv",
+   "sents": [
+    "Die Religion der Kunst gestaltet das göttliche Wesen für die Vorstellung und enthält den Übergang, daß dasselbe nicht nur als Naturwesen, sondern ein wirkliches Dasein als die Geister der Völker und als die besonderen sittlichen Mächte hat, über welchen aber die einfache Macht des Wesens als ein unbegreifliches Schicksal schwebt."
+   ]
+  },
+  {
+   "bi": 191,
+   "k": "p",
+   "hash": "16kpm1d1wh",
+   "sents": [
+    "noch nicht das Einzelne mit dem Allgemeinen absolut vereinigt.",
+    "Trauer.",
+    "Schöne Religion.",
+    "Griechische Religion hat das göttliche Wesen dem Menschen näher gebracht.",
+    "\"Als die Götter menschlicher noch waren, Waren auch die Menschen göttlicher.\""
+   ]
+  },
+  {
+   "bi": 192,
+   "k": "p",
+   "hash": "1675o191be",
+   "sents": [
+    "§ [18]"
+   ]
+  },
+  {
+   "bi": 193,
+   "k": "p",
+   "hash": "1u08ybtt6f",
+   "sents": [
+    "Die geistige Religion endlich enthält die Versöhnung der Welt mit Gott und die Darstellung desselben in einer menschlichen Gestalt, nämlich das Bewußtsein, daß Gott dem Menschen nicht ein Fremdes ist, sondern in ihm sich die Anschauung seiner selbst gibt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/8.p177.json"
+}

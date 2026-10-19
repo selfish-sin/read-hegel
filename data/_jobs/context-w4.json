@@ -209,7 +209,7 @@
    "en": "essence",
    "zh": "本质",
    "type": "term",
-   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」 ★wave42b4 补充：natürliches Wesen＝自然存在者（同 freies／lebendiges／vernünftiges Wesen 例外）"
+   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」 ★wave42b4 补充：natürliches Wesen＝自然存在者（同 freies／lebendiges／vernünftiges Wesen 例外） ★wave43b1 补充：natürliches Wesen / geistiges, vernünftiges Wesen / unstetes, subjektives Wesen 一律存在物（承接本条例外）；「allgemeines Wesen」＝一般本质"
   },
   {
    "source": "Erscheinung",
@@ -370,7 +370,7 @@
    "en": "measure",
    "zh": "度",
    "type": "term",
-   "note": "逻辑三一体“质—量—度”"
+   "note": "逻辑三一体“质—量—度” ★wave43b1 补充：★wave43b1 已另立分义条目 Maß (beschränkender Gebrauch)＝分寸；本条 Maß＝度 仅限逻辑三分语境 ★wave43b1 补充：★wave43b1 日常义见 Maß (beschränkender Gebrauch)"
   },
   {
    "source": "Urteil",
@@ -2646,6 +2646,167 @@
    "zh": "动机",
    "type": "term",
    "note": "wave42b4 新增：§33「以对权利的敬重为动机」"
+  },
+  {
+   "source": "Individuum",
+   "en": "individual",
+   "zh": "个体",
+   "type": "term",
+   "note": "★wave43 新增三分：名词 Individuum＝个体（本节 §41「人作为个体与自身相关」）、形容词 Einzelner＝个别者、抽象名词 Einzelheit＝个别性（共享词表＋context-w4 一致）。三者不得混用"
+  },
+  {
+   "source": "Einzelwesen",
+   "en": "individual being",
+   "zh": "个别存在者",
+   "type": "term",
+   "note": "wave43 新增：§41「把作为个别者的自己提升到其一般本性上去」；承接 Wesen 例外条（存在物／存在者），不作「个别本质」"
+  },
+  {
+   "source": "Kenntnis",
+   "en": "cognition",
+   "zh": "知识",
+   "type": "term",
+   "note": "★wave43 新增：共享词表 Kenntnis＝知识；与 Erkenntnis＝认识、Erkennen＝认识、Wissen＝知识 分词族须分开。§42「知识的丰富与规定性」「知识的规定性」一律知识"
+  },
+  {
+   "source": "Affekt",
+   "en": "affect",
+   "zh": "情感",
+   "type": "term",
+   "note": "wave43 新增：§41「盲目地顺着这种情感行事」；与 Affektion＝感受（共享词表）分开"
+  },
+  {
+   "source": "Beleidigung",
+   "en": "insult",
+   "zh": "侮辱",
+   "type": "term",
+   "note": "★wave43 新增：与 Verletzung＝侵害（共享词表：对领域／人格／义务）严格分开——Beleidigung 是对人的侮辱。★据此更正 w4/7 §21 b62「法作为复仇施行就又成了一项新的侮辱」（原作「侵害」，与 Verletzung 撞词）"
+  },
+  {
+   "source": "Gesichtspunkt",
+   "en": "viewpoint",
+   "zh": "观点",
+   "type": "term",
+   "note": "wave43 新增：§42「据以评判事物的观点的普遍性」「忽略其余的观点」「对普遍观点的认识」"
+  },
+  {
+   "source": "Urteilsfähigkeit",
+   "en": "ability to judge",
+   "zh": "判断能力",
+   "type": "term",
+   "note": "wave43 新增：§42「知道自己判断能力的界限」；与 Urteil＝判断 同根"
+  },
+  {
+   "source": "ungebildet",
+   "en": "uneducated",
+   "zh": "未受教养的",
+   "type": "term",
+   "note": "wave43 新增：与 Bildung＝教养（context-w4 forbidden 教育）同根；本节 §41-42 多处并出（der ungebildete Mensch＝未受教养的人）"
+  },
+  {
+   "source": "Stand (Beruf)",
+   "en": "estate",
+   "zh": "地位",
+   "type": "term",
+   "note": "wave43 新增：§44「一个提升到某种地位的职业」「同时他又属于这个地位」；与 Stände＝等级（封建等级代表制，context-w4 forbidden 阶级）严格分开"
+  },
+  {
+   "source": "Treue",
+   "en": "fidelity",
+   "zh": "忠诚",
+   "type": "term",
+   "note": "wave43 新增：§45「职业中的忠诚与服从」"
+  },
+  {
+   "source": "Eigensucht",
+   "en": "self-seeking",
+   "zh": "自私",
+   "type": "term",
+   "note": "wave43 新增：与 Eigensinn＝自作主张（context-w4）、Eigendünkel＝自负（共享词表）三分"
+  },
+  {
+   "source": "Mäßigung",
+   "en": "moderation",
+   "zh": "节制",
+   "type": "term",
+   "note": "wave43 新增：与 Besonnenheit＝清醒（共享词表）配对成 §43 实践教养的二要素「清醒与节制」，二者严格分开"
+  },
+  {
+   "source": "Gesundheit",
+   "en": "health",
+   "zh": "健康",
+   "type": "term",
+   "note": "wave43 新增：§43「出于健康的缘故是必要的」"
+  },
+  {
+   "source": "Abstumpfung",
+   "en": "blunting",
+   "zh": "迟钝",
+   "type": "term",
+   "note": "wave43 新增：与 Schwäche＝虚弱 配对，「迟钝与虚弱」"
+  },
+  {
+   "source": "un-/eigennützig",
+   "en": "un-/self-interested",
+   "zh": "无私的／自利的",
+   "type": "term",
+   "note": "wave43 新增：§42 对举；「无私的兴趣」与「自利的利害关系」"
+  },
+  {
+   "source": "Laune",
+   "en": "mood",
+   "zh": "情绪",
+   "type": "term",
+   "note": "wave43 新增：§42「摆脱了任意、情绪和怪癖」；与 Willkür＝任意、Kaprice＝怪癖 并列"
+  },
+  {
+   "source": "Kaprice",
+   "en": "caprice",
+   "zh": "怪癖",
+   "type": "term",
+   "note": "wave43 新增：同上"
+  },
+  {
+   "source": "Vortrefflichkeit",
+   "en": "excellence",
+   "zh": "卓越",
+   "type": "term",
+   "note": "wave43 新增：§45「意识到自己的卓越」"
+  },
+  {
+   "source": "Widerstreb",
+   "en": "resistance",
+   "zh": "抵触",
+   "type": "term",
+   "note": "wave43 新增：§44「脆硬的和抵触的东西」"
+  },
+  {
+   "source": "Tätigkeit",
+   "en": "activity",
+   "zh": "行动",
+   "type": "term",
+   "note": "wave43 新增：§41「通过自己的行动根本无法产生效果」；与 Handlung＝行为 分开"
+  },
+  {
+   "source": "Maß (beschränkender Gebrauch)",
+   "en": "measure",
+   "zh": "分寸",
+   "type": "term",
+   "note": "★wave43 分义登记：Maß 的逻辑三分义（A./B./C. 度）作「度」（context-w4）；作为尺度／分寸的日常义作「分寸」——§41「ohne Maß und Ziel」＝不加限度与目标、§43「das genaue Maß」「Überschreitung des Maßes」＝分寸"
+  },
+  {
+   "source": "zur Folge haben",
+   "en": "to lead to",
+   "zh": "导致",
+   "type": "term",
+   "note": "wave43 新增：Folge＝后果（共享词表）的动词式「zur Folge haben」作「导致」；名词 Folge 仍作「后果」"
+  },
+  {
+   "source": "Interesse",
+   "en": "interest",
+   "zh": "利害关系",
+   "type": "term",
+   "note": "wave43b1 新增：共享词表 Interesse＝利害关系；本卷 §41「ein Interesse behauptet」＝主张一种利害关系（共享词表），不作「兴趣」；「Interesse an der Wissenschaften」语境另议"
   }
  ],
  "forbidden": [

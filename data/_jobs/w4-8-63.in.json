@@ -1,0 +1,96 @@
+{
+ "id": "w4-8-63",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "I. Pflichten gegen sich",
+ "heading": "I. Pflichten gegen sich",
+ "blocks": [
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "1rrs43kc0o",
+   "sents": [
+    "Erläuterung.",
+    "Heuchelei besteht darin, daß die Menschen böse handeln, sich aber gegen andere den Schein geben, eine gute Absicht zu haben, etwas Gutes haben tun zu wollen.",
+    "Die äußerliche Handlung ist aber nicht von der inneren verschieden.",
+    "Bei einer bösen Tat ist auch die Absicht wesentlich böse und nicht gut gewesen.",
+    "Es kann dabei der Fall sein, daß der Mensch etwas Gutes oder wenigstens Erlaubtes hat erreichen wollen.",
+    "Man kann aber dabei nicht das, was an und für sich böse ist, zum Mittel von etwas Gutem machen wollen.",
+    "Der Zweck oder die Absicht heiligt nicht die Mittel.",
+    "Das moralische Prinzip geht vornehmlich auf die Gesinnung oder auf die Absicht.",
+    "Aber es ist ebenso wesentlich, daß nicht nur die Absicht, sondern auch die Handlung gut ist. - Ebenso muß sich der Mensch nicht überreden, daß er bei dem gemeinen Handeln des individuellen Lebens wichtige, vortreffliche Absichten habe.",
+    "Wie nun der Mensch einerseits seinen eigenen Handlungen gern gute Absichten unterlegt und seine an und für sich unwichtigen Handlungen durch Reflexionen groß zu machen sucht, so geschieht es umgekehrt gegen andere, daß er großen oder wenigstens guten Handlungen anderer durch eine eigennützige Absicht etwas Böses beilegen will."
+   ]
+  },
+  {
+   "bi": 64,
+   "k": "p",
+   "hash": "1heovobkef",
+   "sents": [
+    "§ 65"
+   ]
+  },
+  {
+   "bi": 65,
+   "k": "p",
+   "hash": "1q8wtamvve",
+   "sents": [
+    "Die Gesinnung, anderen mit Wissen und Willen zu schaden, ist böse.",
+    "Die Gesinnung, welche sich Pflichten gegen andere, auch gegen sich selbst zu verletzen erlaubt aus Schwäche gegen seine Neigung, ist schlecht."
+   ]
+  },
+  {
+   "bi": 66,
+   "k": "p",
+   "hash": "12pb8pn1q7",
+   "sents": [
+    "Erläuterung.",
+    "Dem Guten steht das Böse, aber auch das Schlechte entgegen.",
+    "Das Böse enthält, daß es mit Entschluß des Willens geschieht.",
+    "Es hat also vor dem Schlechten das Formelle, eine Stärke des Willens, die auch Bedingung des Guten ist, voraus.",
+    "Das Schlechte hingegen ist etwas Willenloses.",
+    "Der Schlechte geht seiner Neigung nach und versäumt dadurch Pflichten.",
+    "Dem Schlechten wäre es auch recht, wenn die Pflichten erfüllt würden, nur hat er den Willen nicht, seine Neigungen oder Gewohnheiten zu bemeistern."
+   ]
+  },
+  {
+   "bi": 67,
+   "k": "p",
+   "hash": "1hoohda1i9",
+   "sents": [
+    "§ 66"
+   ]
+  },
+  {
+   "bi": 68,
+   "k": "p",
+   "hash": "pclsn1ylop",
+   "sents": [
+    "Welche Dienste wir anderen Menschen zu erweisen haben oder erweisen können, hängt von zufälligen Verhältnissen ab, in denen wir mit ihnen stehen, und von den besonderen Umständen, in denen wir uns selbst befinden.",
+    "Sind wir imstande, einem anderen einen Dienst zu tun, so haben wir nur dies, daß er ein Mensch ist, und seine Not zu betrachten."
+   ]
+  },
+  {
+   "bi": 69,
+   "k": "p",
+   "hash": "xum6j71ho9",
+   "sents": [
+    "Erläuterung.",
+    "Die erste Bedingung, anderen Hilfe zu leisten, besteht darin, daß wir ein Recht dazu haben, nämlich sie als Notleidende zu betrachten und gegen sie als solche zu handeln.",
+    "Es muß also die Hilfe mit ihrem Willen geschehen.",
+    "Dies setzt eine gewisse Bekanntschaft oder Vertraulichkeit voraus.",
+    "Der Bedürftige ist als solcher dem Unbedürftigen ungleich.",
+    "Es hängt also von seinem Willen ab, ob er als Bedürftiger erscheinen will.",
+    "Er wird dies wollen, wenn er überzeugt ist, daß ich ihn, dieser Ungleichheit ungeachtet, als einen mir Gleichen behandle und betrachte. - Zweitens muß ich die Mittel in Händen haben, ihm zu helfen. - Endlich kann es auch Fälle geben, wo seine Not offenbar ist und darin gleichsam die Erklärung seines Willens liegt, daß ihm geholfen werde."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/8.p63.json"
+}

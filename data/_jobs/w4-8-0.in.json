@@ -1,0 +1,92 @@
+{
+ "id": "w4-8-0",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "I. Pflichten gegen sich",
+ "heading": "I. Pflichten gegen sich",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1bgnqx0ks3",
+   "text": "I. Pflichten gegen sich"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "dgime112ih",
+   "sents": [
+    "§ 41"
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1leqq3f1d6",
+   "sents": [
+    "Der Mensch als Individuum verhält sich zu sich selbst.",
+    "Er hat die gedoppelte Seite seiner Einzelheit und seines allgemeinen Wesens.",
+    "Seine Pflicht gegen sich ist insofern teils seine physische Erhaltung, teils [dies], sein Einzelwesen zu seiner allgemeinen Natur zu erheben, sich zu bilden."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "1utv9d3182",
+   "sents": [
+    "Erläuterung.",
+    "Der Mensch ist einerseits ein natürliches Wesen.",
+    "Als solches verhält er sich nach Willkür und Zufall, als ein unstetes, subjektives Wesen.",
+    "Er unterscheidet das Wesentliche nicht vom Unwesentlichen. - Zweitens ist er ein geistiges, vernünftiges Wesen.",
+    "Nach dieser Seite ist er nicht von Natur, was er sein soll.",
+    "Das Tier bedarf keiner Bildung, denn es ist von Natur, was es sein soll.",
+    "Es ist nur ein natürliches Wesen.",
+    "Der Mensch aber muß seine gedoppelte Seite in Übereinstimmung bringen, seine Einzelheit seiner vernünftigen Seite gemäß zu machen oder die letztere zur herrschenden zu machen.",
+    "Es ist z. B. ungebildet, wenn der Mensch sich seinem Zorne überläßt und blind nach diesem Affekt handelt, weil er darin eine Beleidigung oder Verletzung für eine unendliche Verletzung ansieht und sie durch eine Verletzung des Beleidigers oder anderer Gegenstände ohne Maß und Ziel auszugleichen sucht. - Es ist ungebildet, wenn einer ein Interesse behauptet, das ihn nichts angeht oder wo er durch seine Tätigkeit nichts bewirken kann, weil man verständigerweise nur das zu seinem Interesse machen kann, wo man durch seine Tätigkeit etwas zustande bringt. - Ferner wenn der Mensch bei Begegnissen des Schicksals ungeduldig wird, so macht er sein besonderes Interesse zu einer höchst wichtigen Angelegenheit, als etwas, wonach sich die Menschen und die Umstände hätten richten sollen."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "cmjtb41crz",
+   "sents": [
+    "§ 42"
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "mzf3ni1ee4",
+   "sents": [
+    "Zur theoretischen Bildung gehört außer der Mannigfaltigkeit und Bestimmtheit der Kenntnisse und der Allgemeinheit der Gesichtspunkte, aus denen die Dinge zu beurteilen sind, der Sinn für die Objekte in ihrer freien Selbständigkeit, ohne ein subjektives Interesse."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "hjhmso1q5n",
+   "sents": [
+    "Erläuterung.",
+    "Die Mannigfaltigkeit der Kenntnisse an und für sich gehört zur Bildung, weil der Mensch dadurch aus dem partikulären Wissen von unbedeutenden Dingen der Umgebung zu einem allgemeinen Wissen sich erhebt, durch welches er eine größere Gemeinschaftlichkeit der Kenntnisse mit anderen Menschen erreicht, in den Besitz allgemein interessanter Gegenstände kommt.",
+    "Indem der Mensch über das, was er unmittelbar weiß und erfährt, hinausgeht, so lernt er, daß es auch andere und bessere Weisen des Verhaltens und Tuns gibt und die seinige nicht die einzig notwendige ist.",
+    "Er entfernt sich von sich selbst und kommt zur Unterscheidung des Wesentlichen und Unwesentlichen. - Die Bestimmtheit der Kenntnisse betrifft den wesentlichen Unterschied derselben, die Unterschiede, die den Gegenständen unter allen Umständen zukommen.",
+    "Zur Bildung gehört ein Urteil über die Verhältnisse und Gegenstände der Wirklichkeit.",
+    "Dazu ist erforderlich, daß man wisse, worauf es ankommt, was die Natur und der Zweck einer Sache und der Verhältnisse zueinander sind.",
+    "Diese Gesichtspunkte sind nicht unmittelbar durch die Anschauung gegeben, sondern durch die Beschäftigung mit der Sache, durch das Nachdenken über ihren Zweck und Wesen und über die Mittel, wie weit dieselben reichen oder nicht.",
+    "Der ungebildete Mensch bleibt bei der unmittelbaren Anschauung stehen.",
+    "Er hat kein offenes Auge und sieht nicht, was ihm vor den Füßen liegt.",
+    "Es ist nur ein subjektives Sehen und Auffassen.",
+    "Er sieht nicht die Sache.",
+    "Er weiß nur ungefähr, wie diese beschaffen ist, und das nicht einmal recht, weil nur die Kenntnis der allgemeinen Gesichtspunkte dahin leitet, was man wesentlich betrachten muß, oder weil sie schon das Hauptsächliche der Sache selbst ist, schon die vorzüglichsten Fächer derselben enthält, in die man also das äußerliche Dasein sozusagen nur hineinzulegen braucht und also sie viel leichter und richtiger aufzufassen fähig ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/8.p0.json"
+}

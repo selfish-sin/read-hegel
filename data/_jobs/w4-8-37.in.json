@@ -1,0 +1,139 @@
+{
+ "id": "w4-8-37",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "I. Pflichten gegen sich",
+ "heading": "IV. Pflichten gegen andere",
+ "blocks": [
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "ntgqmn1j6f",
+   "sents": [
+    "Das natürliche Ganze, das die Familie ausmacht, erweitert sich zu dem Ganzen eines Volkes und Staates, in welchem die Individuen für sich einen selbständigen Willen haben."
+   ]
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "8la5j41p48",
+   "sents": [
+    "Erläuterung.",
+    "Der Staat geht einerseits darauf hin, die Gesinnung der Bürger entbehren zu können, nämlich insofern er sich von dem Willen der Einzelnen unabhängig machen muß.",
+    "Er schreibt daher den Einzelnen genau ihre Schuldigkeiten vor, nämlich den Anteil, den sie für das Ganze leisten müssen.",
+    "Er kann sich auf die bloße Gesinnung nicht verlassen, weil sie ebensowohl eigennützig sein und sich dem Interesse des Staats entgegensetzen kann. - Auf diesem Wege wird der Staat Maschine, ein System äußerer Abhängigkeiten.",
+    "Aber auf der andern Seite kann er die Gesinnung der Bürger nicht entbehren.",
+    "Die Vorschrift der Regierung kann bloß das Allgemeine enthalten.",
+    "Die wirkliche Handlung, die Ausfüllung der Staatszwecke, enthält die besondere Weise der Wirksamkeit.",
+    "Diese kann nur aus dem individuellen Verstande, aus der Gesinnung des Menschen entspringen."
+   ]
+  },
+  {
+   "bi": 39,
+   "k": "p",
+   "hash": "dqldkze6np",
+   "sents": [
+    "§ 54"
+   ]
+  },
+  {
+   "bi": 40,
+   "k": "p",
+   "hash": "13b0v2r4fc",
+   "sents": [
+    "Der Staat faßt Gesellschaft nicht nur unter rechtlichen Verhältnissen, sondern vermittelt als ein wahrhaft höheres moralisches Gemeinwesen die Einigkeit in Sitten, Bildung und allgemeiner Denk- und Handlungsweise (indem jeder in dem anderen seine Allgemeinheit geistigerweise anschaut und erkennt)."
+   ]
+  },
+  {
+   "bi": 41,
+   "k": "p",
+   "hash": "dglrw01shi",
+   "sents": [
+    "§ 55"
+   ]
+  },
+  {
+   "bi": 42,
+   "k": "p",
+   "hash": "ntxf7jt0wl",
+   "sents": [
+    "In dem Geiste eines Volkes hat jeder einzelne Bürger seine geistige Substanz.",
+    "Die Erhaltung der Einzelnen ist nicht nur auf die Erhaltung dieses lebendigen Ganzen begründet, sondern dasselbe macht die allgemeine geistige Natur oder das Wesen eines jeden gegen seine Einzelheit aus.",
+    "Die Erhaltung des Ganzen geht daher der Erhaltung des Einzelnen vor, und alle sollen diese Gesinnung haben."
+   ]
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "eakkyxum3g",
+   "sents": [
+    "§ 56"
+   ]
+  },
+  {
+   "bi": 44,
+   "k": "p",
+   "hash": "oa8mn613p7",
+   "sents": [
+    "Bloß nach der rechtlichen Seite betrachtet, insofern der Staat die Privatrechte der Einzelnen schützt und der Einzelne zunächst auf das Seine sieht, ist gegen den Staat wohl eine Aufopferung eines Teils des Eigentums möglich, um das Übrige zu erhalten.",
+    "Der Patriotismus aber gründet sich nicht auf diese Berechnung, sondern auf das Bewußtsein der Absolutheit des Staats.",
+    "Diese Gesinnung, Eigentum und Leben für das Ganze aufzuopfern, ist um so größer in einem Volke, je mehr die Einzelnen für das Ganze mit eigenem Willen und Selbsttätigkeit handeln können und je größeres Zutrauen sie zu demselben haben.",
+    "(Schöner Patriotismus der Griechen. - Unterschied von Bürger als bourgeois und citoyen.)"
+   ]
+  },
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "e0kz9y1vrs",
+   "sents": [
+    "§ 57"
+   ]
+  },
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "aysu0411ey",
+   "sents": [
+    "Die Gesinnung des Gehorsams gegen die Befehle der Regierung, der Anhänglichkeit an die Person des Fürsten und an die Verfassung und das Gefühl der Nationalehre sind die Tugenden des Bürgers jedes ordnungsmäßigen Staates."
+   ]
+  },
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "h2glwnxwdt",
+   "sents": [
+    "§ 58"
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "1x8u9og1s8",
+   "sents": [
+    "Der Staat beruht nicht auf einem ausdrücklichen Vertrag eines mit allen und aller mit einem oder des Einzelnen und der Regierung miteinander, und der allgemeine Wille des Ganzen ist nicht der ausdrückende Wille der Einzelnen, sondern ist der absolut allgemeine Wille, der für die Einzelnen an und für sich verbindlich ist."
+   ]
+  },
+  {
+   "bi": 49,
+   "k": "h",
+   "hash": "uaj9lw1rzd",
+   "text": "IV. Pflichten gegen andere"
+  },
+  {
+   "bi": 50,
+   "k": "p",
+   "hash": "gsh07o1lwx",
+   "sents": [
+    "§ 59"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/8.p37.json"
+}

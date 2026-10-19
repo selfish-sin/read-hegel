@@ -1,0 +1,33 @@
+{
+ "id": "w4-8-194",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "I. Pflichten gegen sich",
+ "heading": "I. Pflichten gegen sich",
+ "blocks": [
+  {
+   "bi": 194,
+   "k": "p",
+   "hash": "ohw5ib6lm6",
+   "sents": [
+    "Das Böse überwunden; Ges[et]z und Natur böse, - Vorsehung."
+   ]
+  },
+  {
+   "bi": 195,
+   "k": "p",
+   "hash": "ewm7k01mil",
+   "sents": [
+    "Okt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/8.p194.json"
+}

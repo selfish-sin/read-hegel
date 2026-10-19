@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T05:40:24.964Z",
- "blocks": 5029,
- "sentences": 15060,
+ "generated": "2026-10-19T05:50:56.343Z",
+ "blocks": 5048,
+ "sentences": 15137,
  "issues": [
   {
    "sev": "minor",
@@ -5515,11 +5515,6 @@
   },
   {
    "sev": "minor",
-   "where": "w4/0#244",
-   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
-  },
-  {
-   "sev": "minor",
    "where": "w4/0#250",
    "msg": "sentence 0: \"Quantum\" is not rendered as “量数”"
   },
@@ -5592,6 +5587,11 @@
    "sev": "minor",
    "where": "w4/1#25",
    "msg": "sentence 1: \"Entgegensetzung\" is not rendered as “对立”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#25",
+   "msg": "sentence 2: \"Vereinigung\" is not rendered as “统一”"
   },
   {
    "sev": "minor",
@@ -6490,6 +6490,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/3#217",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “统一”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/3#221",
    "msg": "sentence 0: \"Wissen\" is not rendered as “知识”"
   },
@@ -6557,6 +6562,11 @@
    "sev": "minor",
    "where": "w4/4#270",
    "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/4#272",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “统一”"
   },
   {
    "sev": "minor",
@@ -6647,21 +6657,6 @@
    "sev": "minor",
    "where": "w4/5#103",
    "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/5#103",
-   "msg": "sentence 4: \"Vereinigung\" is not rendered as “结合”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/5#112",
-   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/5#113",
-   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
   },
   {
    "sev": "minor",
@@ -6905,11 +6900,6 @@
   },
   {
    "sev": "minor",
-   "where": "w4/6#191",
-   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
-  },
-  {
-   "sev": "minor",
    "where": "w4/6#206",
    "msg": "sentence 2: \"Mitte\" is not rendered as “中项”"
   },
@@ -6997,11 +6987,6 @@
    "sev": "major",
    "where": "w4/6#247",
    "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
-  },
-  {
-   "sev": "minor",
-   "where": "w4/6#249",
-   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
   },
   {
    "sev": "minor",
@@ -7415,11 +7400,6 @@
   },
   {
    "sev": "minor",
-   "where": "w4/7#87",
-   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
-  },
-  {
-   "sev": "minor",
    "where": "w4/7#90",
    "msg": "sentence 1: \"Staat\" is not rendered as “国家”"
   },
@@ -7452,11 +7432,56 @@
    "sev": "minor",
    "where": "w4/7#118",
    "msg": "sentence 3: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#2",
+   "msg": "sentence 2: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#3",
+   "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#3",
+   "msg": "sentence 2: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#3",
+   "msg": "sentence 6: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#6",
+   "msg": "sentence 6: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#8",
+   "msg": "sentence 2: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#11",
+   "msg": "sentence 5: \"Körper\" is not rendered as “物体”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/8#11",
+   "msg": "sentence 5: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/8#11",
+   "msg": "sentence 5: \"Körper\" rendered with forbidden “身体” (expected “物体”)"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 160,
-  "minor": 1330
+  "major": 161,
+  "minor": 1334
  }
 }

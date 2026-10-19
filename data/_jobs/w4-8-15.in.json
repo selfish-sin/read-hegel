@@ -1,0 +1,70 @@
+{
+ "id": "w4-8-15",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "I. Pflichten gegen sich",
+ "heading": "I. Pflichten gegen sich",
+ "blocks": [
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "11vjua818s",
+   "sents": [
+    "Erläuterung.",
+    "Der Mensch, in Rücksicht auf die äußerlichen Umstände des Schicksals und alles, was er überhaupt unmittelbar ist, muß sich so verhalten, daß er dasselbe zu dem seinigen macht, daß er ihm die Form eines äußerlichen Daseins benimmt.",
+    "Es kommt nicht darauf an, in welchem äußerlichen Zustande der Mensch sich durch das Schicksal befindet, wenn er das, was er ist, recht ist, d. h. wenn er alle Seiten seines Berufs ausfüllt.",
+    "Der Beruf zu einem Stande ist eine vielseitige Substanz.",
+    "Er ist gleichsam ein Stoff oder Material, das er nach allen Richtungen hin durcharbeiten muß, damit dasselbe nichts Fremdes, Sprödes und Widerstrebendes in sich hat.",
+    "Insofern ich es vollkommen zu dem Meinigen für mich gemacht habe, bin ich frei darin.",
+    "Der Mensch ist vorzüglich dadurch unzufrieden, wenn er seinen Beruf nicht ausfüllt.",
+    "Er gibt sich ein Verhältnis, das er nicht wahrhaft als das seinige hat.",
+    "Zugleich gehört er diesem Stande an.",
+    "Er kann sich nicht von ihm losmachen.",
+    "Er lebt und handelt also in einem widerwärtigen Verhältnis mit sich selbst."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "ekh15xisr2",
+   "sents": [
+    "§ 45"
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1vtolwe1cl",
+   "sents": [
+    "Treue und Gehorsam in seinem Beruf sowie Gehorsam gegen das Schicksal und Selbstvergessenheit in seinem Handeln haben zum Grunde das Aufgeben der Eitelkeit, des Eigendünkels und der Eigensucht gegen das, was an und für sich und notwendig ist."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "dgeq11y4ua",
+   "sents": [
+    "Erläuterung.",
+    "Der Beruf ist etwas Allgemeines und Notwendiges und macht irgendeine Seite des menschlichen Zusammenlebens aus.",
+    "Er ist also ein Teil des ganzen Menschenwerkes.",
+    "Wenn der Mensch einen Beruf hat, tritt er zu dem Anteil und Mitwirken an dem Allgemeinen ein.",
+    "Er wird dadurch ein Objektives.",
+    "Der Beruf ist zwar eine einzelne, beschränkte Sphäre, macht jedoch ein notwendiges Glied des Ganzen aus und ist auch in sich selbst wieder ein Ganzes.",
+    "Wenn der Mensch etwas werden soll, so muß er sich zu beschränken wissen, d. h. seinen Beruf ganz zu seiner Sache machen.",
+    "Dann ist er keine Schranke für ihn.",
+    "Er ist alsdann einig mit sich selbst, mit seiner Äußerlichkeit, seiner Sphäre.",
+    "Er ist ein Allgemeines, Ganzes. - Wenn der Mensch sich etwas Eitles, d. h. Unwesentliches, Nichtiges zum Zweck macht, so liegt hierbei nicht das Interesse an einer, sondern an seiner Sache zugrunde.",
+    "Das Eitle ist nichts an und für sich Bestehendes, sondern wird nur durch das Subjekt erhalten.",
+    "Der Mensch sieht darin nur sich selbst; z. B. es kann auch eine moralische Eitelkeit geben, wenn der Mensch überhaupt bei seinem Handeln sich seiner Vortrefflichkeit bewußt ist und das Interesse mehr an sich als an der Sache hat. - Der Mensch, der geringe Geschäfte treu erfüllt, zeigt sich fähig zu größeren, weil er Gehorsam gezeigt hat, ein Aufgeben seiner Wünsche, Neigungen und Einbildungen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/8.p15.json"
+}

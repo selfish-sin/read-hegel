@@ -1,0 +1,147 @@
+{
+ "id": "w4-8-84",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "I. Pflichten gegen sich",
+ "heading": "I. Pflichten gegen sich",
+ "blocks": [
+  {
+   "bi": 84,
+   "k": "p",
+   "hash": "i5a2is19wr",
+   "sents": [
+    "Dies absolute Wesen ist gegenwärtig in unserem reinen Bewußtsein und offenbart sich uns darin.",
+    "Das Wissen von ihm ist, als durch es in uns vermittelt, für uns unmittelbar und kann insofern Glauben genannt werden."
+   ]
+  },
+  {
+   "bi": 85,
+   "k": "p",
+   "hash": "1j2pnc41xd",
+   "sents": [
+    "§ 73"
+   ]
+  },
+  {
+   "bi": 86,
+   "k": "p",
+   "hash": "nemqqf910f",
+   "sents": [
+    "Die Erhebung über das Sinnliche und Endliche macht zwar negativ, von unserer Seite, die Vermittlung dieses Wissens aus, aber nur insofern, als von Sinnlichem und Endlichem zwar ausgegangen, es aber zugleich verlassen und in seiner Nichtigkeit erkannt wird.",
+    "Allein dies Wissen von dem Absoluten ist selbst ein absolutes und unmittelbares Wissen und kann nicht etwas Endliches zu seinem positiven Grunde haben oder durch etwas, das es nicht selbst ist, als einen Beweis vermittelt sein."
+   ]
+  },
+  {
+   "bi": 87,
+   "k": "p",
+   "hash": "1isq1n5zi1",
+   "sents": [
+    "§ 74"
+   ]
+  },
+  {
+   "bi": 88,
+   "k": "p",
+   "hash": "ho5x801hp6",
+   "sents": [
+    "Dies Wissen muß sich näher bestimmen und nicht inneres Gefühl, Glauben an das unbestimmte Wesen überhaupt bleiben, sondern ein Erkennen desselben werden.",
+    "Die Erkenntnis Gottes ist nicht über die Vernunft - denn diese ist nur Widerschein Gottes und ist wesentlich das Wissen vom Absoluten -, sondern jene Erkenntnis ist nur über den Verstand, das Wissen vom Endlichen und Relativen."
+   ]
+  },
+  {
+   "bi": 89,
+   "k": "p",
+   "hash": "1iiqfy61u3",
+   "sents": [
+    "§ 75"
+   ]
+  },
+  {
+   "bi": 90,
+   "k": "p",
+   "hash": "1fhyqjk1rz",
+   "sents": [
+    "Die Religion selbst besteht in der Beschäftigung des Gefühls und Gedankens mit dem absoluten Wesen und in der Vergegenwärtigung seiner Vorstellung, womit die Selbstvergessenheit seiner Besonderheit in dieser Erhebung und das Handeln in diesem Sinn, in Rücksicht auf das absolute Wesen notwendig verbunden ist."
+   ]
+  },
+  {
+   "bi": 91,
+   "k": "p",
+   "hash": "1i8qu97w7r",
+   "sents": [
+    "§ 76"
+   ]
+  },
+  {
+   "bi": 92,
+   "k": "p",
+   "hash": "1hjok4o1cs",
+   "sents": [
+    "Gott ist der absolute Geist, d. h. er ist das reine Wesen, das sich zum Gegenstande macht, aber darin nur sich selbst anschaut oder in seinem Anderswerden schlechthin in sich selbst zurückkehrt und sich selbst gleich ist."
+   ]
+  },
+  {
+   "bi": 93,
+   "k": "p",
+   "hash": "1hyr8k81qs",
+   "sents": [
+    "§ 77"
+   ]
+  },
+  {
+   "bi": 94,
+   "k": "p",
+   "hash": "913173y2lq",
+   "sents": [
+    "Gott ist, nach den Momenten seines Wesens, 1. absolut heilig, insofern er das schlechthin in sich allgemeine Wesen ist.",
+    "Er ist 2. absolute Macht, insofern er das Allgemeine verwirklicht und das Einzelne im Allgemeinen erhält, oder ewiger Schöpfer des Universums.",
+    "Er ist 3.",
+    "Weisheit, insofern seine Macht nur heilige Macht ist, 4.",
+    "Güte, insofern er das Einzelne in seiner Wirklichkeit gewähren läßt, und 5.",
+    "Gerechtigkeit, insofern er es zum Allgemeinen ewig zurückbringt."
+   ]
+  },
+  {
+   "bi": 95,
+   "k": "p",
+   "hash": "1hormv9sxh",
+   "sents": [
+    "§ 78"
+   ]
+  },
+  {
+   "bi": 96,
+   "k": "p",
+   "hash": "116k38p1j6",
+   "sents": [
+    "Das Böse ist die Entfremdung von Gott, insofern das Einzelne nach seiner Freiheit sich von dem Allgemeinen trennt und in der Ausschließung von demselben absolut für sich zu sein strebt.",
+    "Insofern es die Natur des endlichen freien Wesens ist, in diese Einzelheit sich zu reflektieren, ist sie als böse zu betrachten."
+   ]
+  },
+  {
+   "bi": 97,
+   "k": "p",
+   "hash": "1hes16a1ni",
+   "sents": [
+    "§ 79"
+   ]
+  },
+  {
+   "bi": 98,
+   "k": "p",
+   "hash": "1tm3emy1bv",
+   "sents": [
+    "Aber die Freiheit des einzelnen Wesens ist zugleich an sich eine Gleichheit des Wesens mit sich selbst, oder sie ist an sich göttlicher Natur.",
+    "Diese Erkenntnis, daß die menschliche Natur der göttlichen Natur nicht wahrhaft ein Fremdes ist, vergewissert den Menschen der göttlichen Gnade und läßt ihn dieselbe ergreifen, wodurch die Versöhnung Gottes mit der Welt oder das Entschwinden ihrer Entfremdung von Gott zustande kommt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/8.p84.json"
+}

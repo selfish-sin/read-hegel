@@ -1,0 +1,166 @@
+{
+ "id": "w4-8-19",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "I. Pflichten gegen sich",
+ "heading": "II. Familienpflicht",
+ "blocks": [
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "dqi8301go5",
+   "sents": [
+    "§ 46"
+   ]
+  },
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "gh9zt4omso",
+   "sents": [
+    "Durch die intellektuelle und moralische Bildung erhält der Mensch die Fähigkeit, die Pflichten gegen andere zu erfüllen, welche Pflichten reale genannt werden können, dahingegen die Pflichten, die sich auf die Bildung beziehen, mehr formeller Natur sind."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "e0htrzfigp",
+   "sents": [
+    "§ 47"
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "1krc0st1jv",
+   "sents": [
+    "Insofern die Erfüllung der Pflichten mehr als subjektives Eigentum eines Individuums erscheint und mehr seinem natürlichen Charakter angehört, ist sie Tugend."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "fefu8u1ddv",
+   "sents": [
+    "§ 48"
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "wibbo29kx3",
+   "sents": [
+    "Weil die Tugend zum Teil mit dem natürlichen Charakter zusammenhängt, so erscheint sie als eine Moralität von bestimmter Art und von größerer Lebendigkeit und Intensität.",
+    "Sie ist zugleich weniger mit dem Bewußtsein der Pflicht verknüpft als die eigentliche Moralität."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "h",
+   "hash": "1aqt9zs103",
+   "text": "II. Familienpflicht"
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "foffxtpdbr",
+   "sents": [
+    "§ 49"
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "1hjna951ev",
+   "sents": [
+    "Indem der Mensch gebildet ist, hat er die Möglichkeit zu handeln.",
+    "Insofern er wirklich handelt, ist er notwendig in Verhältnis mit anderen Menschen.",
+    "Das erste notwendige Verhältnis, worin das Individuum zu anderen tritt, ist das Familienverhältnis.",
+    "Es hat zwar auch eine rechtliche Seite, aber sie ist der Seite der moralischen Gesinnung, der Liebe und des Zutrauens untergeordnet."
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "1s8oc6318w",
+   "sents": [
+    "Erläuterung.",
+    "Die Familie macht wesentlich nur eine Substanz, nur eine Person aus.",
+    "Die Familienglieder sind nicht Personen gegeneinander.",
+    "Sie treten in ein solches Verhältnis erst, insofern durch ein Unglück das moralische Band sich aufgelöst hat.",
+    "Bei den Alten hieß die Gesinnung der Familienliebe, das Handeln in ihrem Sinn pietas.",
+    "Die Pietät hat mit der Frömmigkeit, die auch mit diesem Wort bezeichnet wird, gemeinschaftlich, daß sie ein absolutes Band voraussetzen, die an und für sich seiende Einheit in einer geistigen Substanz, ein Band, das nicht durch besondere Willkür oder Zufall geknüpft ist."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "eujscvkr8e",
+   "sents": [
+    "§ 50"
+   ]
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "1ffk18o1sg",
+   "sents": [
+    "Diese Gesinnung besteht näher darin, daß jedes Glied der Familie sein Wesen nicht in seiner eigenen Person hat, sondern daß nur das Ganze der Familie ihre Persönlichkeit ausmacht."
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "ekk6nw18rs",
+   "sents": [
+    "§ 51"
+   ]
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "1k44og01tf",
+   "sents": [
+    "Die Verbindung von Personen zweierlei Geschlechts, welche Ehe ist, ist wesentlich weder bloß natürliche, tierische Vereinigung noch bloßer Zivilvertrag, sondern eine moralische Vereinigung der Gesinnung in gegenseitiger Liebe und Zutrauen, die sie zu einer Person macht."
+   ]
+  },
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "feizqtawdc",
+   "sents": [
+    "§ 52"
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "1udic01ktk",
+   "sents": [
+    "Die Pflicht der Eltern gegen die Kinder ist, für ihre Erhaltung und Erziehung zu sorgen, - die der Kinder, [ihnen] zu gehorchen, bis sie selbständig werden, und sie ihr ganzes Leben zu ehren, - die der Geschwister überhaupt, nach Liebe und vorzüglicher Billigkeit gegeneinander zu handeln."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "h",
+   "hash": "e36zypc0fn",
+   "text": "III. Staatspflichten"
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "f4je1u1c22",
+   "sents": [
+    "§ 53"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/8.p19.json"
+}

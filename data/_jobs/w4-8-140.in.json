@@ -1,0 +1,173 @@
+{
+ "id": "w4-8-140",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 8,
+ "chunkTitle": "I. Pflichten gegen sich",
+ "heading": "Religionslehre",
+ "blocks": [
+  {
+   "bi": 140,
+   "k": "p",
+   "hash": "fsebo8ug9w",
+   "sents": [
+    "Kosmol[ogischer Beweis] fängt von der Erfahrung an, daß etwas existiert, schließt [auf] absolute Notwendigkeit - vom Zufälligen auf Ursache - Form der Endlichkeit, Erfahrung, Sinnlichkeit - weil Ursache selbst Endliches ist; - Ursache bedingt durch das Sein.82)"
+   ]
+  },
+  {
+   "bi": 141,
+   "k": "p",
+   "hash": "tjsgti15z8",
+   "sents": [
+    "Physikoteleolog[ischer Beweis] - Kant nur Form der Dinge, Einrichtung, nicht Substanz."
+   ]
+  },
+  {
+   "bi": 142,
+   "k": "p",
+   "hash": "16vnkkwovu",
+   "sents": [
+    "- proportionierte Ursache; dieser Inhalt Zweck - wieder nicht schließen auf Ursache vom Zweck - müßiger Inhalt -83)"
+   ]
+  },
+  {
+   "bi": 143,
+   "k": "p",
+   "hash": "1lx04xrc7d",
+   "sents": [
+    "Erkennen nicht ein Schluß von einem Dasein aus; Gott in Zusammenhang mit dem Dasein.",
+    "Sondern Dasein erkennen, d. h. seine Endlichkeit erkennen, das Unendliche, das Ewige, das Vernünftige darin erkennen.",
+    "Gott ist das Sein in allem Dasein; [das] Göttliche darin; das Leben in allem Lebendigen; die Vernunft in allem Vernünftigen, [das] Unendliche in allem Endlichen - das Wesen.",
+    "Alles Dasein ist Werden, das sich selbst Einige ist das Wesen; - Alles ..."
+   ]
+  },
+  {
+   "bi": 144,
+   "k": "p",
+   "hash": "4bkxvc3eoq",
+   "sents": [
+    "Gott erstlich als Sein - [das] Unendliche, des Endlichen"
+   ]
+  },
+  {
+   "bi": 145,
+   "k": "p",
+   "hash": "7h50tqep0l",
+   "sents": [
+    "β) Wesen, Substanz, in der Zufälligkeit zusammenhängend - die Macht und blinde Notwendigkeit84)"
+   ]
+  },
+  {
+   "bi": 146,
+   "k": "p",
+   "hash": "7wps4l1b3a",
+   "sents": [
+    "γ) das Allgemeine, der Begriff von Allem; das absolute Subjekt, Leben, Weltseele und Intelligenz, Geist, - nichts niedriger als die Vernunft."
+   ]
+  },
+  {
+   "bi": 147,
+   "k": "h",
+   "hash": "320j3p18fc",
+   "text": "Religionslehre"
+  },
+  {
+   "bi": 148,
+   "k": "p",
+   "hash": "1nu27kmuvi",
+   "sents": [
+    "I. Sein Gottes; alle Dinge [gehen] in ihn zurück und aus ihm hervor - Grund ist die Wahrheit - [dem] steht die sinnliche Denkart entgegen."
+   ]
+  },
+  {
+   "bi": 149,
+   "k": "p",
+   "hash": "t87rip1ghx",
+   "sents": [
+    "II.",
+    "Begriff.",
+    "Sein."
+   ]
+  },
+  {
+   "bi": 150,
+   "k": "p",
+   "hash": "gwfvz71ya0",
+   "sents": [
+    "III.",
+    "Seine Gestalt, Religion."
+   ]
+  },
+  {
+   "bi": 151,
+   "k": "h",
+   "hash": "4d8xd2sph3",
+   "text": "Über den Begriff Gottes"
+  },
+  {
+   "bi": 152,
+   "k": "p",
+   "hash": "20zseh1i9n",
+   "sents": [
+    "§ [1]"
+   ]
+  },
+  {
+   "bi": 153,
+   "k": "p",
+   "hash": "rdli0t2kww",
+   "sents": [
+    "Gott ist 1. das Sein in allem Sein, das einfache Erste und Unmittelbare.",
+    "Dies Sein ist nur die Abstraktion von aller Bestimmtheit, das Unbestimmte, Bewegungslose.85)"
+   ]
+  },
+  {
+   "bi": 154,
+   "k": "p",
+   "hash": "1jaq4hed4e",
+   "sents": [
+    "§ [2]"
+   ]
+  },
+  {
+   "bi": 155,
+   "k": "p",
+   "hash": "1n92rishvx",
+   "sents": [
+    "Das Sein ist Wesen.",
+    "Das reine Sein ist nämlich nicht die äußerliche Negation aller Bestimmtheit, sondern es ist an ihm selbst das Einfache, die negative Beziehung auf sich; sich selbst bestimmende Reflexion."
+   ]
+  },
+  {
+   "bi": 156,
+   "k": "p",
+   "hash": "1i6ok7j1k5",
+   "sents": [
+    "§ [3]"
+   ]
+  },
+  {
+   "bi": 157,
+   "k": "p",
+   "hash": "18afsibp43",
+   "sents": [
+    "Das Wesen scheint in sich selbst; es ist Grund der Existenz und erscheint; es offenbart sich als absolute Substanz.86)"
+   ]
+  },
+  {
+   "bi": 158,
+   "k": "p",
+   "hash": "1i7cub41fx",
+   "sents": [
+    "§ [4]"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/8.p140.json"
+}
