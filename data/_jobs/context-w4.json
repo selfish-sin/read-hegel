@@ -482,7 +482,7 @@
    "en": "constitution",
    "zh": "宪法",
    "type": "term",
-   "note": "共享词表；本卷全卷高频（228 次）；repräsentative Verfassung＝代议制宪法、königliche Verfassung＝王家宪法、Reichsverfassung＝帝国宪法"
+   "note": "共享词表；本卷全卷高频（228 次）；repräsentative Verfassung＝代议制宪法、königliche Verfassung＝王家宪法、Reichsverfassung＝帝国宪法 ★wave42b3 补充：§28 政体分类全文 Verfassung 一律「宪法」（政体的样式／一宪法的样式／这样的宪法），Regierungsverfassung＝宪法形式；门对本段「政体」的禁令照此理解"
   },
   {
    "source": "Konstitution",
@@ -1301,7 +1301,7 @@
    "en": "equality",
    "zh": "等同",
    "type": "term",
-   "note": "共享词表 Gleichheit→等同（ok，按对偶需要）；w4/4 早期单元曾循卷内先例作「相等」，本波已拉平为词表译法 ★wave41 复核：「Gleichheit mit sich selbst」亦取「等同」（本批曾误用「相等」已改）；Ungleichheit mit mir＝与自身的不等同。 ★wave42b2 补充：§20 的「普遍性或等同」「被他所侵害的等同」均按本条取「等同」，非「平等」"
+   "note": "共享词表 Gleichheit→等同（ok，按对偶需要）；w4/4 早期单元曾循卷内先例作「相等」，本波已拉平为词表译法 ★wave41 复核：「Gleichheit mit sich selbst」亦取「等同」（本批曾误用「相等」已改）；Ungleichheit mit mir＝与自身的不等同。 ★wave42b2 补充：§20 的「普遍性或等同」「被他所侵害的等同」均按本条取「等同」，非「平等」 ★wave42b3 补充：§20-21「eine Wiederherstellung der Gleichheit」＝等同的恢复（同 b58 保持一词一译；本波曾误作「同等」已改）"
   },
   {
    "source": "Ungleichheit",
@@ -1406,7 +1406,7 @@
    "en": "nature",
    "zh": "本性",
    "type": "term",
-   "note": "identische Natur beider＝两者的同一本性"
+   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes）"
   },
   {
    "source": "Einiges",
@@ -1728,7 +1728,7 @@
    "en": "power",
    "zh": "威力",
    "type": "term",
-   "note": "勿与 Gewalt（强力）混；potentiieren（自我产生）得威力 ★wave41 分义登记：绝对威力与支配性的威力作「威力」（本条）；「die Macht 某事的能力」与「in der Macht haben」作「力量」或直接动词化为「掌握」——不作「能力」。"
+   "note": "勿与 Gewalt（强力）混；potentiieren（自我产生）得威力 ★wave41 分义登记：绝对威力与支配性的威力作「威力」（本条）；「die Macht 某事的能力」与「in der Macht haben」作「力量」或直接动词化为「掌握」——不作「能力」。 ★wave42b3 补充：§27「die Macht, die Gesetze zu geben und zu handhaben」按本条 wave41 分义作「力量」（不定式结构），不作「威力」；§22「die Gewalt habende … Macht」作「威力」"
   },
   {
    "source": "Dingheit",
@@ -1819,7 +1819,7 @@
    "en": "difference",
    "zh": "差别",
    "type": "term",
-   "note": "★ 与 Verschiedenheit（相异）严格分工；勿与之混用 ★wave40 短语登记：「im Unterschied von」作 有别于（保留 别 词根）、「einen Unterschied machen」作 作出区分；名词本体仍严格 差别。"
+   "note": "★ 与 Verschiedenheit（相异）严格分工；勿与之混用 ★wave40 短语登记：「im Unterschied von」作 有别于（保留 别 词根）、「einen Unterschied machen」作 作出区分；名词本体仍严格 差别。 ★wave42b3 补充：§25「ihren Unterschied … geltend machen」＝差别（本波曾误作「差异」已改）"
   },
   {
    "source": "Mittel",
@@ -2352,6 +2352,160 @@
    "zh": "刑事法",
    "type": "term",
    "note": "wave42 新增：§17 与 bürgerliches Recht（民事法）对举；通行的简称「刑法」在此不作简称，与 Kriminalrecht（＝刑法）分开"
+  },
+  {
+   "source": "Unrechte",
+   "en": "unright",
+   "zh": "不法",
+   "type": "term",
+   "note": "wave42b3 新增：名词化的「不法」（Unrechthandelnder＝不法行为者、Unrechte 转化为法）；与形容词 Unrecht（＝不义）分译，见 b58"
+  },
+  {
+   "source": "Wollen",
+   "en": "willing",
+   "zh": "意愿",
+   "type": "term",
+   "note": "★wave42b3 登记动名词分义：Wollen＝意愿；名词 Wille／Willens＝意志（见 Wille 条 forbidden 意愿）。本节 bi31 已确立该分工（das Wollen anderer＝别人的意愿，des freien Willens＝自由意志）。门对「Wille 未译作意愿」类告警属词形误配，不改译文"
+  },
+  {
+   "source": "Gesetz",
+   "en": "law",
+   "zh": "法律",
+   "type": "term",
+   "note": "★wave42b3 分义登记：国家立法义作「法律」（§26「法律是自在自为的普遍意志的抽象表达」、§27 国家有法律）；自然律／道德律义作「规律」（§17「精神可以违反规律而行动」）。与 Naturgesetz＝自然规律（共享词表）一致"
+  },
+  {
+   "source": "Gesetzgeber",
+   "en": "legislator",
+   "zh": "立法者",
+   "type": "term",
+   "note": "wave42b3 新增：沿用 Gesetz＝法律；「立法者所给出的并不是任意的规定」"
+  },
+  {
+   "source": "Verwirklichung",
+   "en": "realization",
+   "zh": "现实化",
+   "type": "term",
+   "note": "wave42b3 新增：名词化的实现动作；与 Wirklichkeit（现实性）分开，本词不作「现实性」"
+  },
+  {
+   "source": "Oberhaupt",
+   "en": "head of the household",
+   "zh": "家长",
+   "type": "term",
+   "note": "wave42b3 新增：§23 家庭中唯一意志的归属者"
+  },
+  {
+   "source": "Pietät",
+   "en": "piety",
+   "zh": "孝敬",
+   "type": "term",
+   "note": "wave42b3 新增：§23「自然的服从（孝敬）」；沿用共享词表 Familienpietät＝家庭孝敬"
+  },
+  {
+   "source": "Regierungsverfassung",
+   "en": "governmental constitution",
+   "zh": "宪法形式",
+   "type": "term",
+   "note": "★wave42b3 新增：Verfassung 一律「宪法」（见 Verfassung 条 forbidden 政体）；故 Regierungsverfassung 作「宪法形式」而非「政体」"
+  },
+  {
+   "source": "Demokratie",
+   "en": "democracy",
+   "zh": "民主制",
+   "type": "term",
+   "note": "wave42b3 新增：与 Demokrat（民主的人）分开；政体四分的第一类"
+  },
+  {
+   "source": "Aristokratie",
+   "en": "aristocracy",
+   "zh": "贵族制",
+   "type": "term",
+   "note": "wave42b3 新增：政体四分之二"
+  },
+  {
+   "source": "Oligarchie",
+   "en": "oligarchy",
+   "zh": "寡头制",
+   "type": "term",
+   "note": "wave42b3 新增：贵族制的变质（Ausartung＝变质，共享词表）"
+  },
+  {
+   "source": "Erbmonarchie",
+   "en": "hereditary monarchy",
+   "zh": "世袭君主制",
+   "type": "term",
+   "note": "wave42b3 新增：与 Wahlreich＝选举制国家 对举"
+  },
+  {
+   "source": "Wahlreich",
+   "en": "elective state",
+   "zh": "选举制国家",
+   "type": "term",
+   "note": "wave42b3 新增：王位更迭时可能发生纷争与公民战争者"
+  },
+  {
+   "source": "Despotismus",
+   "en": "despotism",
+   "zh": "专制",
+   "type": "term",
+   "note": "wave42b3 新增：君主制的变质"
+  },
+  {
+   "source": "Ochlokratie",
+   "en": "ochlocracy",
+   "zh": "民众统治",
+   "type": "term",
+   "note": "wave42b3 新增：民主制的变质；与 Pöbel＝群氓（共享词表）同句并出"
+  },
+  {
+   "source": "Kollegien",
+   "en": "colleges",
+   "zh": "委员会",
+   "type": "term",
+   "note": "wave42b3 新增：君主受托行使特殊权力之所"
+  },
+  {
+   "source": "Reichsstände",
+   "en": "imperial estates",
+   "zh": "帝国等级",
+   "type": "term",
+   "note": "★wave42b3 新增：与 Landstände＝等级议会（见 Landstände 条）严格分开；Reichs＝帝国。与 Ständeversammlung＝等级会议亦不同"
+  },
+  {
+   "source": "Thron",
+   "en": "throne",
+   "zh": "王位",
+   "type": "term",
+   "note": "★wave42b3 分义登记：作为统治权位的 Thron 作「王位」（Thronveränderung＝王位更迭、Hoffnung zum Thron＝对王位的指望）；作为座位的具体物作「宝座」（共享词表 Richterthron＝审判宝座）"
+  },
+  {
+   "source": "Roheit",
+   "en": "rudeness",
+   "zh": "粗暴",
+   "type": "term",
+   "note": "wave42b3 新增：§25 自然状态的三特征之一（Roheit／Gewalt 强力／Ungerechtigkeit 不正义）"
+  },
+  {
+   "source": "Gerichtshöfe",
+   "en": "courts",
+   "zh": "法院",
+   "type": "term",
+   "note": "wave42b3 新增：§28 政体分类；与 richterliche Gewalt＝司法权 分译"
+  },
+  {
+   "source": "Beamten",
+   "en": "official",
+   "zh": "官员",
+   "type": "term",
+   "note": "wave42b3 新增：§28 司法权与军事权是否合一的载体"
+  },
+  {
+   "source": "Steuern",
+   "en": "taxes",
+   "zh": "税",
+   "type": "term",
+   "note": "wave42b3 新增：auflegen＝征收／verwenden＝动用；与 Staatsfinanzen（国家财政）分开"
   }
  ],
  "forbidden": [

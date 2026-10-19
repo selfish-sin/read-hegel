@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T05:29:20.886Z",
- "blocks": 4967,
- "sentences": 14848,
+ "generated": "2026-10-19T05:34:41.082Z",
+ "blocks": 4992,
+ "sentences": 14939,
  "issues": [
   {
    "sev": "minor",
@@ -7107,11 +7107,41 @@
    "sev": "minor",
    "where": "w4/7#58",
    "msg": "sentence 2: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#59",
+   "msg": "sentence 3: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#68",
+   "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#74",
+   "msg": "sentence 3: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/7#77",
+   "msg": "sentence 4: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#79",
+   "msg": "sentence 1: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#82",
+   "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 158,
-  "minor": 1263
+  "major": 159,
+  "minor": 1268
  }
 }
