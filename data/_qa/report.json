@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-19T05:34:41.082Z",
- "blocks": 4992,
- "sentences": 14939,
+ "generated": "2026-10-19T05:40:24.964Z",
+ "blocks": 5029,
+ "sentences": 15060,
  "issues": [
   {
    "sev": "minor",
@@ -5156,6 +5156,11 @@
   {
    "sev": "minor",
    "where": "w4/0#29",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#29",
    "msg": "sentence 2: \"Bestimmtheit\" is not rendered as “规定性”"
   },
   {
@@ -5167,6 +5172,16 @@
    "sev": "minor",
    "where": "w4/0#33",
    "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#33",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#44",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -5250,6 +5265,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/0#79",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/0#87",
    "msg": "sentence 0: \"Unterschied\" is not rendered as “差别”"
   },
@@ -5280,6 +5300,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/0#100",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/0#109",
    "msg": "sentence 1: \"Sein-für-Anderes\" is not rendered as “为他存在的存在”"
   },
@@ -5292,6 +5317,11 @@
    "sev": "minor",
    "where": "w4/0#114",
    "msg": "sentence 2: \"Darstellung\" is not rendered as “表述”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#122",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -5406,6 +5436,11 @@
   {
    "sev": "minor",
    "where": "w4/0#218",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#218",
    "msg": "sentence 2: \"Natur\" is not rendered as “本性”"
   },
   {
@@ -5432,6 +5467,11 @@
    "sev": "minor",
    "where": "w4/0#231",
    "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/0#231",
+   "msg": "sentence 0: \"Verwirklichung\" is not rendered as “现实化”"
   },
   {
    "sev": "minor",
@@ -5635,6 +5675,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/1#89",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/1#91",
    "msg": "sentence 0: \"Folge\" is not rendered as “后果”"
   },
@@ -5765,6 +5810,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/1#129",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/1#138",
    "msg": "sentence 0: \"Beschaffenheit\" is not rendered as “性质”"
   },
@@ -5810,6 +5860,16 @@
   },
   {
    "sev": "minor",
+   "where": "w4/1#163",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#163",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/1#165",
    "msg": "sentence 1: \"Natur\" is not rendered as “本性”"
   },
@@ -5827,6 +5887,16 @@
    "sev": "minor",
    "where": "w4/1#165",
    "msg": "sentence 3: \"Begierde\" is not rendered as “欲求”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#169",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/1#169",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -5971,6 +6041,11 @@
   {
    "sev": "minor",
    "where": "w4/2#35",
+   "msg": "sentence 4: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#35",
    "msg": "sentence 11: \"Leben\" is not rendered as “生命”"
   },
   {
@@ -6034,9 +6109,24 @@
    "msg": "sentence 0: \"Gefühl\" is not rendered as “感觉”"
   },
   {
+   "sev": "minor",
+   "where": "w4/2#102",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#105",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
    "sev": "major",
    "where": "w4/2#114",
    "msg": "sentence 0: zh/de length ratio 0.22 (12/55)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/2#118",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -6095,6 +6185,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/2#188",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/2#218",
    "msg": "sentence 0: \"Äußerung\" is not rendered as “表现”"
   },
@@ -6140,8 +6235,18 @@
   },
   {
    "sev": "minor",
+   "where": "w4/3#35",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/3#36",
    "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#36",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -6170,6 +6275,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/3#39",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/3#40",
    "msg": "sentence 0: \"Folge\" is not rendered as “后果”"
   },
@@ -6177,6 +6287,11 @@
    "sev": "minor",
    "where": "w4/3#40",
    "msg": "sentence 0: \"Reihe\" is not rendered as “系列”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#42",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -6236,7 +6351,17 @@
   {
    "sev": "minor",
    "where": "w4/3#170",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#170",
    "msg": "sentence 2: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/3#170",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -6375,6 +6500,31 @@
   },
   {
    "sev": "minor",
+   "where": "w4/4#49",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/4#51",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/4#57",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/4#61",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/4#63",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/4#71",
    "msg": "sentence 0: \"Figur\" is not rendered as “格”"
   },
@@ -6455,6 +6605,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/5#68",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/5#86",
    "msg": "sentence 0: \"Wissenschaft der Logik\" is not rendered as “《逻辑学》”"
   },
@@ -6481,7 +6636,17 @@
   {
    "sev": "minor",
    "where": "w4/5#103",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#103",
    "msg": "sentence 2: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/5#103",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -6540,6 +6705,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/5#218",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/5#238",
    "msg": "sentence 0: \"Einheit\" is not rendered as “统一”"
   },
@@ -6555,8 +6725,28 @@
   },
   {
    "sev": "minor",
+   "where": "w4/5#257",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#4",
    "msg": "sentence 0: \"Wirkung\" is not rendered as “效果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#4",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#18",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#22",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -6570,13 +6760,38 @@
   },
   {
    "sev": "minor",
+   "where": "w4/6#64",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#65",
    "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
   },
   {
    "sev": "minor",
+   "where": "w4/6#65",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#68",
    "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#68",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#71",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#73",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -6592,6 +6807,11 @@
    "sev": "minor",
    "where": "w4/6#80",
    "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#80",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -6670,6 +6890,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/6#177",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#184",
    "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
   },
@@ -6724,6 +6949,11 @@
    "msg": "sentence 2: \"Unterschied\" is not rendered as “差别”"
   },
   {
+   "sev": "minor",
+   "where": "w4/6#227",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
    "sev": "major",
    "where": "w4/6#228",
    "msg": "sentence 3: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
@@ -6742,6 +6972,11 @@
    "sev": "minor",
    "where": "w4/6#231",
    "msg": "sentence 2: \"Versicherung\" is not rendered as “断言”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#236",
+   "msg": "sentence 8: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "minor",
@@ -6802,6 +7037,11 @@
    "sev": "minor",
    "where": "w4/6#255",
    "msg": "sentence 4: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#257",
+   "msg": "sentence 8: \"Roheit\" is not rendered as “粗暴”"
   },
   {
    "sev": "minor",
@@ -6901,6 +7141,11 @@
   {
    "sev": "minor",
    "where": "w4/6#275",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#275",
    "msg": "sentence 3: \"Erscheinung\" is not rendered as “现象”"
   },
   {
@@ -6960,6 +7205,16 @@
   },
   {
    "sev": "minor",
+   "where": "w4/6#296",
+   "msg": "sentence 6: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#296",
+   "msg": "sentence 7: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/6#299",
    "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
   },
@@ -6982,6 +7237,11 @@
    "sev": "minor",
    "where": "w4/6#299",
    "msg": "sentence 7: \"Glück\" is not rendered as “幸运”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/6#299",
+   "msg": "sentence 8: \"Wollen\" is not rendered as “意愿”"
   },
   {
    "sev": "minor",
@@ -7030,6 +7290,11 @@
   },
   {
    "sev": "minor",
+   "where": "w4/7#14",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
    "where": "w4/7#17",
    "msg": "sentence 1: \"Wesen\" is not rendered as “本质”"
   },
@@ -7071,7 +7336,17 @@
   {
    "sev": "minor",
    "where": "w4/7#50",
+   "msg": "sentence 1: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#50",
    "msg": "sentence 2: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#50",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
   },
   {
    "sev": "major",
@@ -7137,11 +7412,51 @@
    "sev": "minor",
    "where": "w4/7#82",
    "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#87",
+   "msg": "sentence 0: \"Vereinigung\" is not rendered as “结合”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#90",
+   "msg": "sentence 1: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#107",
+   "msg": "sentence 0: \"Wesen\" is not rendered as “本质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#108",
+   "msg": "sentence 7: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#108",
+   "msg": "sentence 8: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#112",
+   "msg": "sentence 5: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/7#118",
+   "msg": "sentence 1: zh/de length ratio 0.20 (12/61)"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/7#118",
+   "msg": "sentence 3: \"Natur\" is not rendered as “本性”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 159,
-  "minor": 1268
+  "major": 160,
+  "minor": 1330
  }
 }

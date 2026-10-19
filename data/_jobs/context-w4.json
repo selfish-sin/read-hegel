@@ -209,7 +209,7 @@
    "en": "essence",
    "zh": "本质",
    "type": "term",
-   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」"
+   "note": "与 Erscheinung（现象）对举；Dialektik der Kategorien des Wesens＝本质范畴的辩证法 wave34 核查例外：Wesen 复数在“能表象的存在者”“自我意识的存在”语境作“存在／存在者”，不作“本质”（#117、#172） 单数 freies Wesen（自由的存在）同属此例外（#189）；另 mit Wissen＝明知（副词义，非「知识」，#191）、bestehen＝在于（动词义，非「存在」，#193）均按词形误报，译文正确不改 wave37 补充：单数 endliches Wesen（有限的存在者）同属实体义例外（w4/4 #270） ★wave40 补充：「lebendiges Wesen／unendliches Wesen／anderes Wesen」一律作 存在物／存在者（承接本条既有的 Wesen 例外）。 ★wave42b2 补充：vernünftiges Wesen＝有理性的存在者（同本条 freies／lebendiges／unendliches Wesen 例外）；b58「行动者是一个有理性的存在者」不作「本质」 ★wave42b4 补充：natürliches Wesen＝自然存在者（同 freies／lebendiges／vernünftiges Wesen 例外）"
   },
   {
    "source": "Erscheinung",
@@ -223,7 +223,7 @@
    "en": "actuality",
    "zh": "现实性",
    "type": "term",
-   "note": "与 Realität（实在性）、Möglichkeit（可能性）、Notwendigkeit（必然性）并列"
+   "note": "与 Realität（实在性）、Möglichkeit（可能性）、Notwendigkeit（必然性）并列 ★wave42b4 补充：§35「die einzelne Wirklichkeit」＝个别现实性、§37「zur Wirklichkeit bringen」＝带进现实性；名词一律带「性」"
   },
   {
    "source": "Notwendigkeit",
@@ -391,7 +391,7 @@
    "en": "purpose",
    "zh": "目的",
    "type": "term",
-   "note": "共享词表；teleologischer Begriff＝目的论概念；Endzweck＝终极目的（共享词表）"
+   "note": "共享词表；teleologischer Begriff＝目的论概念；Endzweck＝终极目的（共享词表） ★wave42b4 补充：§36「zum Zwecke haben」＝以…为目的（本波曾误作「目标」已改）"
   },
   {
    "source": "Antinomie",
@@ -461,7 +461,7 @@
    "en": "state",
    "zh": "国家",
    "type": "term",
-   "note": "共享词表；本卷政治哲学核心词（全卷高频）；Staatsregierung＝国家政府；Der Staat (Realer Geist)＝国家（现实精神）"
+   "note": "共享词表；本卷政治哲学核心词（全卷高频）；Staatsregierung＝国家政府；Der Staat (Realer Geist)＝国家（现实精神） ★wave42b4 补充：复数 Staaten 作「各国」（§31 彼此独立的国家之间的自然关系与纷争）；单数 Staat 一律「国家」"
   },
   {
    "source": "Staatsgesellschaft",
@@ -1397,16 +1397,16 @@
   {
    "source": "Vereinigung",
    "en": "union",
-   "zh": "结合",
+   "zh": "统一",
    "type": "term",
-   "note": "die Vereinigung der Besonderheit mit der Einzelheit＝特殊性与个别性的结合"
+   "note": "★wave42b4 合并裁定：本卷一律「统一」。原 base 条作「结合」、wave40 条作「统一」并存冲突；按卷内实测（w4 已译部分 统一 123 处、结合 33 处、联结 49 处）以「统一」为准。与 Einheit＝统一同族；不作「结合」「联结」。"
   },
   {
    "source": "Natur",
    "en": "nature",
    "zh": "本性",
    "type": "term",
-   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes）"
+   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes） ★wave42b4 补充：§40「von der Natur und äußeren Umständen Abhängige」＝依赖于自然与外在情境，作「自然」不作「本性」"
   },
   {
    "source": "Einiges",
@@ -1819,7 +1819,7 @@
    "en": "difference",
    "zh": "差别",
    "type": "term",
-   "note": "★ 与 Verschiedenheit（相异）严格分工；勿与之混用 ★wave40 短语登记：「im Unterschied von」作 有别于（保留 别 词根）、「einen Unterschied machen」作 作出区分；名词本体仍严格 差别。 ★wave42b3 补充：§25「ihren Unterschied … geltend machen」＝差别（本波曾误作「差异」已改）"
+   "note": "★ 与 Verschiedenheit（相异）严格分工；勿与之混用 ★wave40 短语登记：「im Unterschied von」作 有别于（保留 别 词根）、「einen Unterschied machen」作 作出区分；名词本体仍严格 差别。 ★wave42b3 补充：§25「ihren Unterschied … geltend machen」＝差别（本波曾误作「差异」已改） ★wave42b4 补充：★wave42b4 拉平：§38「macht Unterschiede」＝造成差别、「einen qualitativen Unterschied」＝质的差别，本波曾误作「区分」已改；与 unterscheiden（动词＝区分）分开"
   },
   {
    "source": "Mittel",
@@ -2506,6 +2506,146 @@
    "zh": "税",
    "type": "term",
    "note": "wave42b3 新增：auflegen＝征收／verwenden＝动用；与 Staatsfinanzen（国家财政）分开"
+  },
+  {
+   "source": "Moral (Überschrift)",
+   "en": "moral teaching",
+   "zh": "道德学说",
+   "type": "term",
+   "note": "wave42b4 新增：此处作标题副名（Pflichtenlehre oder Moral），取共享词表 Moral＝道德学说；与 Moralität＝道德 分开"
+  },
+  {
+   "source": "Schuldigkeit",
+   "en": "liability",
+   "zh": "责任",
+   "type": "term",
+   "note": "★wave42b4 新增：与 Pflicht＝义务 严格分开——「按权利所能要求的是一种责任」／「但义务是某种就其出于道德理由而应予遵守的东西」。Rechtsschuldigkeit＝法权责任"
+  },
+  {
+   "source": "Rechtsschuldigkeit",
+   "en": "legal liability",
+   "zh": "法权责任",
+   "type": "term",
+   "note": "wave42b4 新增：与 Rechtspflicht＝法权义务 分译（责任 vs 义务）"
+  },
+  {
+   "source": "Rechtsgebot",
+   "en": "legal command",
+   "zh": "法的命令",
+   "type": "term",
+   "note": "wave42b4 新增：das rechtliche Gebot（keine Rechtsschuldigkeit）＝法的命令（没有法权责任）"
+  },
+  {
+   "source": "Achtung (vor der Pflicht / dem Rechte)",
+   "en": "respect",
+   "zh": "敬重",
+   "type": "term",
+   "note": "wave42b4 新增：沿用共享词表 Achtung＝敬重（对法则的敬重）；「出于对义务的敬重」「以对权利的敬重为动机」一律敬重，不作「尊重」"
+  },
+  {
+   "source": "Vollkommenheit / vollkommen",
+   "en": "perfection",
+   "zh": "完满",
+   "type": "term",
+   "note": "wave42b4 新增：共享词表 Vollkommenheit＝完善；形容词 vollkommen 取「完满」（完满的义务／完满状态／完全普遍）"
+  },
+  {
+   "source": "Vergnügen",
+   "en": "pleasure",
+   "zh": "快乐",
+   "type": "term",
+   "note": "★wave42b4 登记：w4/6 bi299 已确立 Vergnügen＝快乐、Glückseligkeit＝至福 的分工（共享词表另有 Glückseligkeit＝幸福 一行，按权威序以本包为准）。§36-38 快乐一词高频，不得与至福混"
+  },
+  {
+   "source": "Glückseligkeit",
+   "en": "happiness",
+   "zh": "至福",
+   "type": "term",
+   "note": "★wave42b4 登记：w4/6 bi299 已确立至福＝Glückseligkeit；Glück＝幸运、Wohl＝福祉、Wohlsein＝幸福、Vergnügen＝快乐 五词分工。共享词表 Glückseligkeit＝幸福 一行在本卷作废"
+  },
+  {
+   "source": "Eudämonismus",
+   "en": "eudaimonism",
+   "zh": "幸福主义",
+   "type": "term",
+   "note": "wave42b4 新增：§36 以快乐／至福为目的的学说；「完全粗野、粗陋的幸福主义」与「更好的」对举"
+  },
+  {
+   "source": "Akzidentalität",
+   "en": "accidentality",
+   "zh": "偶性",
+   "type": "term",
+   "note": "wave42b4 新增：共享词表偶性；§37「只生活在事情之中，而不出在他们自己的偶性之中」。与 Zufälligkeit＝偶然性 分开"
+  },
+  {
+   "source": "Staatsverfassung",
+   "en": "state constitution",
+   "zh": "国家宪法",
+   "type": "term",
+   "note": "wave42b4 新增：Verfassung 一律「宪法」（见 Verfassung 条 forbidden 政体），本词作「国家宪法」"
+  },
+  {
+   "source": "inneres / äußeres Staatsrecht",
+   "en": "internal / external state law",
+   "zh": "内在的／外在的国家法",
+   "type": "term",
+   "note": "wave42b4 新增：§30「作为内在的国家法」／§31「外在的国家法」"
+  },
+  {
+   "source": "Völkerrecht",
+   "en": "law of nations",
+   "zh": "万国法",
+   "type": "term",
+   "note": "wave42b4 新增：§31 外在国家法所涉及者；不作「国际法」"
+  },
+  {
+   "source": "Decius Mus",
+   "en": "Decius Mus",
+   "zh": "Decius Mus",
+   "type": "term",
+   "note": "wave42b4 登记：罗马人名，原样保留不音译（同 res nullius／ius talionis 惯例）；§37 以之为「效果不应当作为享受回到他身上」的范例"
+  },
+  {
+   "source": "Angenehm / das Angenehme",
+   "en": "agreeable",
+   "zh": "愉快",
+   "type": "term",
+   "note": "wave42b4 新增：共享词表 angenehm＝令人愉快的；「愉快的感觉」「愉快之物」「朝向愉快之物的方向」。与 Vergnügen＝快乐 分开（本节两者并出：Angenehme 是形式，Vergnügen 是内容）"
+  },
+  {
+   "source": "begehrenswert / begehren",
+   "en": "desirable / to desire",
+   "zh": "值得欲求的／欲求",
+   "type": "term",
+   "note": "wave42b4 新增：§38「值得欲求之物的普遍者与本质者」「人应当为哪些对象自身而欲求它们」"
+  },
+  {
+   "source": "eigensüchtig",
+   "en": "selfish",
+   "zh": "利己的",
+   "type": "term",
+   "note": "wave42b4 新增：§38「愉快之物的冲动总是利己的」；与 Wille＝意志、Eigensinn＝自作主张 分开"
+  },
+  {
+   "source": "Doppelwesen",
+   "en": "double being",
+   "zh": "双重存在物",
+   "type": "term",
+   "note": "wave42b4 新增：§39「人不是一个漠然无干的双重存在物」"
+  },
+  {
+   "source": "Ungleiche",
+   "en": "the unlike",
+   "zh": "不同",
+   "type": "term",
+   "note": "wave42b4 新增：§40「把人彼此区分开来的那种不同」；与 Ungleichheit＝不等同（对称概念）分开"
+  },
+  {
+   "source": "Beweggrund",
+   "en": "motive",
+   "zh": "动机",
+   "type": "term",
+   "note": "wave42b4 新增：§33「以对权利的敬重为动机」"
   }
  ],
  "forbidden": [
