@@ -803,3 +803,17 @@
 - **可复现性**：2 个构建脚本重建 5 个 part 文件 → `merge-trans.mjs`（27 块）→ `trans-index.mjs` ALIGNMENT OK，与入库 `web/data/trans/w5/0.json` 同源。
 - **远端**：推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍为 `f8cd477`。
 - **进度**：18.79% → **18.94%**（17,446 / 92,117 句；段落 5,382 / 17,948 = 29.99%）；第 5 卷 0 → 135 句（1.5%），**分节进度 1/38（部分）**。**下一批**：w5/0 剩余 6 单元（27/37/42/47/53/60）/ 37 块 / 164 句，译完即 w5/0 整节 100%；随后 w5/1（8 单元 / 192 句）。
+
+### 第 51 波（续）— w5/0 整节收官 — 6 单元 / 37 块 / 164 句，**w5/0 整节 100%**
+
+- **内容**：w5/0《大逻辑》第一部分「客观逻辑」卷首的其余部分——第二版序言之续（思维与客体·逻辑的实在性·批判哲学与后来的观念论·逻辑学为何被轻视·教科书式规则的空洞）、导言（逻辑科学概念的演绎·柏拉图式辩证法·康德抬高辩证法·思辨的最难一面·逻辑学必须改造·方法与概念的体系）、以及「逻辑学与语法」的两种看点（个人教养与逻辑的关系·逻辑学是影子的王国·思维获得独立自主）。
+- **批次**：b3 单元 w5-0-27 / w5-0-37 / w5-0-42 = 20 块 / 84 句；b4 单元 w5-0-47 / w5-0-53 / w5-0-60 = 17 块 / 80 句。**本波合计 6 单元 / 37 块 / 164 句**（w5/0 全节 65 块 / 299 句；加上批 1/2 的 5 单元 / 27 块 / 135 句，**第 51 波合计 11 单元 / 64 块 / 299 句，w5/0 整节 100%**）。全部主代理翻译，不派子代理（BYOK 月度配额 2026-10-23 23:59 才重置）。
+- **★ 机器门判据升级（本波最有价值的结构性改进）**：① 禁译判定由「中文含宜译词即跳过」改为**按德文出现次数与中文宜译词次数比对**——原规则会漏掉同一句里第二次误译（bi35[2]「Realität…Realität」首处作「实在性」、次处误作「现实性」，因句中已含「实在性」而被整体跳过）；② **补上 entries 一词一译检查**（此前只有 `qa-trans.mjs` 有、机器门没有）；③ 判据改动另以 **8 例自检脚本**（`_gate_selftest.mjs`）回归，确认既抓得住目标缺陷、又不误报正确译法。
+- **★ 真实修掉的缺陷 17 类**：Realität 误作「现实性」2 处、Objekt 误作「对象」3 处、Vorstellung 误作「看法」2 处、real 词族误作「现实的」2 处、Wesen 误作「本性」1 处、Denkbestimmung 误作「思维的规定」2 处、Zweck 误作「有意」1 处、Inhalt 误作「充实」1 处、Verschiedenheit 误作「不同」1 处、Unterschied 误作「差异」1 处、Methode 误作「办法」1 处、Realitäten 误作「现实」1 处、「她」用于抽象概念 1 处、简繁误写「規定」1 处、**漏译 1 处**（bi60[6]「die Wahrheit zu enthüllen」漏「真理」）、wahrhaft 误作「真实认识」1 处、Wissenschaft 同句内两译 2 处（bi13 s0、bi25 s0 的「学问」改「科学」）。
+- **★ 术语层方向性错误已纠正**：context-w5 的 `Existenz` 禁译规则原写成「禁『存在』宜『定在』」，**方向反了**——共享词表、`qa-trans.mjs` 的 `BUILTIN_FORBIDDEN` 与已入库实测三处证据一致（w1–w4 共 105 句 `Existenz` 中 **104 句作「存在」、0 句作「实存」**），已改为「禁『定在』宜『存在』」；同批补入 `Materie` 条目与禁译（禁「质料」宜「物质」，w4 已入库先例），并把 styleGuide 里与共享词表冲突的「das System＝系统」改为「体系」。context-w5 最终 **entries 84 / forbidden 30 / doNotTranslate 26 / styleGuide 10**。
+- **分义与误报**：qa 对 w5 报 **4 条，全为误报**——`Dasein` 神学日常义「上帝的存在」（共享词表有「上帝存在的证明」条目）、bi35[0] 短句 zh/de 比 0.20、bi44[6]「ohne Hülle」译「脱去外壳」而无显式否定、bi54[1] 源文把「Wissenschaft」误断为「Wissen schaft」致 entries 规则误报；全部登记进 context-w5 的 styleGuide，**0 条真缺陷**。
+- **术语层（共享词表）**：批 1–2 **+27 条**（`w5-0-b1.glossar.csv`）；批 3–4 再 **+6 条新键**（Sittenspruch 道德格言／Wolff 沃尔夫／Ansicht 观点／Methode 方法／Elementarlehre 要素论／Methodik 方法论）＋ **+5 条同源并存条目**（Sinn 感觉／Willkür 任性／Stoff 材料／Ausdruck 表达／Anstoß 阻碍，与共享词表原有同源条目并存，本卷以 context-w5 styleGuide 为准）。
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 20 处存量 misnested（w2/w3/w5，与新译无关）；**w5/0 浏览器实测（8860）pairs=65 = expected 65、missing=0、mismatch=0、emptyZh=0、emptyEn=0、jsErr=0**（整节译完，渲染零缺口）；回归 w4/15（81/81）、w3/0（74/74）、w1/0（70/70）全 OK；固定 8 页回归 **8/8**。
+- **可复现性**：4 个构建脚本（`_build_w51a/b/c/d.mjs`）重建 11 个 part 文件 → `merge-trans.mjs`（64 块）→ `trans-index.mjs` ALIGNMENT OK，与入库 `web/data/trans/w5/0.json` 同源。
+- **远端**：推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍为 `f8cd477`。
+- **进度**：18.79% → **19.12%**（17,610 / 92,117 句；段落 5,419 / 17,948 = 30.19%）；第 5 卷 0 → **299 句（3.4%）**，**分节进度 1/38（w5/0 完成）**。**下一批**：w5/1（8 单元 / 192 句，任务文件 `data/_jobs/w5-1-*.in.json` 已切好）。

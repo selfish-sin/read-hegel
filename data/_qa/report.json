@@ -1,17 +1,32 @@
 {
- "generated": "2026-10-20T13:58:51.314Z",
- "blocks": 27,
- "sentences": 135,
+ "generated": "2026-10-20T15:12:40.918Z",
+ "blocks": 64,
+ "sentences": 299,
  "issues": [
   {
    "sev": "major",
    "where": "w5/0#3",
    "msg": "sentence 3: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "major",
+   "where": "w5/0#35",
+   "msg": "sentence 0: zh/de length ratio 0.20 (12/59)"
+  },
+  {
+   "sev": "major",
+   "where": "w5/0#44",
+   "msg": "sentence 6: German negation with no Chinese negation (“Dieses Reich ist die Wahrheit, wie sie ohne Hülle an und für…” → “这个领域就是真理，是真理脱去外壳而自在自为的样子。…”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/0#54",
+   "msg": "sentence 1: \"Wissen\" is not rendered as “知识”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 1,
-  "minor": 0
+  "major": 3,
+  "minor": 1
  }
 }
