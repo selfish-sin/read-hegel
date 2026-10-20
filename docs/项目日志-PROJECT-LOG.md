@@ -817,3 +817,4 @@
 - **可复现性**：4 个构建脚本（`_build_w51a/b/c/d.mjs`）重建 11 个 part 文件 → `merge-trans.mjs`（64 块）→ `trans-index.mjs` ALIGNMENT OK，与入库 `web/data/trans/w5/0.json` 同源。
 - **远端**：推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍为 `f8cd477`。
 - **进度**：18.79% → **19.12%**（17,610 / 92,117 句；段落 5,419 / 17,948 = 30.19%）；第 5 卷 0 → **299 句（3.4%）**，**分节进度 1/38（w5/0 完成）**。**下一批**：w5/1（8 单元 / 192 句，任务文件 `data/_jobs/w5-1-*.in.json` 已切好）。
+- **★ 跨卷待裁决（本波查出，未擅自改动已入库的 w1–w4）**：① `Wissenschaft`→「学问」在 w1–w4 有 34 句无「科学」、7 句兼有，抽样至少 3 句是 1:1 对应（w1/0 b9、w1/6 b1、w1/11 b37），其余多为 `Gelehrsamkeit/gelehrt` 的正当译法；是否全库拉平需逐句甄别约 34 句。② `Vorstellung`→「看法」在 w4 有 2 句（w4/11 b37、w4/15 b21），而共享词表明定「表象」、w4 包未登记该分义。③ 共享词表主条与本卷用法的五处分叉（`Sinn`/`Willkür`/`Stoff`/`Ausdruck`/`Anstoß`）已以同源并存条目＋本卷 styleGuide 分义登记解决，跨卷拉平待裁决。详见交接说明的「跨卷待裁决清单」。

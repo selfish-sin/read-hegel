@@ -130,6 +130,10 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 - **可复现性**：4 个构建脚本（`_build_w51a.mjs` / `_build_w51b.mjs` / `_build_w51c.mjs` / `_build_w51d.mjs`）重建 11 个 part 文件 → `merge-trans.mjs`（64 块）→ `trans-index.mjs` ALIGNMENT OK；重建产物与入库 `web/data/trans/w5/0.json` 同源。
 - **远端**：本波推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
 - **下一批**：**w5/1（8 单元 / 192 句，任务文件 `data/_jobs/w5-1-{0,8,20,26,33,40,45,57}.in.json` 已切好）**。**注意**：w5 共 38 分片 / 8,925 句，本波收掉 1/38（299 句）；按当前节奏（每轮约 135 句）需数十轮；w5 是本项目最长的卷。
+- **★ 跨卷待裁决清单（本波查出，**未**擅自改动已入库的 w1–w4，留给下一波/用户裁决）**：
+  1. **`Wissenschaft`→「学问」**：w1–w4 已入库 34 句含「学问」而无「科学」、另 7 句同句兼有。抽样确认至少 3 句是 1:1 对应 `Wissenschaft`（w1/0 b9、w1/6 b1、w1/11 b37），其余多为 `Gelehrsamkeit/gelehrt` 的正当译法。共享词表定 `Wissenschaft`＝科学、不作「学术」，本波已把 w5/0 的 2 处（同句内两译）改齐。**是否全库拉平需逐句回源甄别约 34 句，建议列为独立工作项**。
+  2. **`Vorstellung`→「看法」**：w4/11 b37、w4/15 b21 共 2 句（w4/13、w4/15 另有「设想」已作为分义登记在案）。共享词表明定「表象」，w4 包**未**登记「看法」这一分义。**建议或统一为「表象」（与 w5 的做法一致），或补登记分义**。
+  3. **共享词表主条与本卷用法的五处分叉**：`Sinn`＝意味／本卷「感觉」、`Willkür`＝任意／本卷「任性」、`Stoff`＝质料／本卷「材料」、`Ausdruck`＝说法／本卷「表达」、`Anstoß`＝推动力／本卷「阻碍」。已在共享词表**追加同源并存条目**、并在本卷 styleGuide 登记分义，**未改动已入库卷**；跨卷拉平与否待裁决。
 
 ### ★ 第 50 波已收官：w4/15「2. [Beurteilung der] Verhandlungen in der Versammlung der Landstände des Königreichs Württemberg im Jahr 1815 und 1816」（符腾堡王国等级议会评述·**续篇**）整节 **100%** —— **第 4 卷收官**
 
