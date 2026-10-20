@@ -96,6 +96,36 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 ```
 
 
+### ★ 第 50 波已收官：w4/15「2. [Beurteilung der] Verhandlungen in der Versammlung der Landstände des Königreichs Württemberg im Jahr 1815 und 1816」（符腾堡王国等级议会评述·**续篇**）整节 **100%** —— **第 4 卷收官**
+
+**第 50 波（2026-10-21）一次做完 w4/15 整节 14 单元 / 80 块 / 366 句**（含 7 个 `ns=0` 空段落，如实输出 `en: []` / `zh: []`；另有 1 个 fn 块 bi80 按契约不译），全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
+
+| 批次 | 单元 | 块 | 句 | 内容 |
+|---|---|---|---|---|
+| b1 | 0 / 8 / 14 / 21 / 26 | 32 | 143 | 旧宪法的认真程度、形式法原则、王家宪法与等级议会的对立、第五个预备条款 |
+| b2 | 32 / 39 / 44 / 47 / 55 | 30 | 141 | 文书吏之弊的发现与批判、格明根报告、格里辛格意见书、等级议会的最后通牒 |
+| b3 | 62 / 69 / 74 / 79 | 18 | 82 | 「一位一票」之争、休会与散会、新宪法草案与六条款的落幕 |
+
+**w4/15 整节 14 单元 / 80 块 / 366 句已全部译完。** 覆盖率 18.40% → **18.79%**（17,311 / 92,117 句；段落 5,360 / 17,948 = 29.86%）。第 4 卷 5,135 → **5,501 句（100%）**，**分节进度 16/16 —— 第 4 卷（Nürnberger und Heidelberger Schriften 1808–1817）整卷收官**。
+
+- **★ 首轮机器门 7 条真缺陷已修**：6 条 EN 侧缺 DNT 日期点号（u62 bi64[0]、u62 bi68[3]、u69 bi69[5]、u74 bi74[4]、u74 bi77[7]、u74 bi77[9]）＋ 1 条 `Verstand` 误作「理智」（u69 bi70[4]→「知性」）。
+- **★ 体例裁定①：德式日期点号**（先例考证 w4/10–w4/14 全库统计）——点号**不是文体特征**，只为保住 DNT 字面 `1.` / `2.` / `3.`；**日号末位为 1/2/3 时 EN 与 ZH 两侧都保留点号，否则两侧都不带**（w4/14 先例：「3 月 22. 日」有点、「3 月 15 日」无点）。本节 29 处带点 / 71 处不带，EN/ZH 完全对称。
+- **★ 体例裁定②：编者方括号**（先例考证 w4/10–w4/14：110 处中两侧同弃 24 / 两侧同留 73 / 仅一侧 9，后者以纯语法插入为主）——**实词编者补入（专名、实词）EN/ZH 两侧都保留、中文侧译出内容并用半角方括号；纯语法插入（冠词、连词、介词、动词变位、断词连字符）两侧都弃**。本节 12 处实测：两侧同留 5 / 两侧同弃 7 / **不对称 0**（据此修 4 处：u14 bi20[8]、u32 bi35[6]、u55 bi58[4] 删 EN 侧语法括号；u44 bi46[4] 中文侧补 `[分支]`）。
+- **★ 用字对扫（全卷 de→zh 统计）又查出并修 17 处**：bi77[4]/[5] **主句归属错位** 1 处（主句「der Unwille gegen Schreiberei-Unfug laut geworden」被提前放进 [4]，[5] 只剩引文残片 → qa 报 zh/de 0.22、en/de 0.22 两条 major，已把主句移回 [5]）；**「宪制」违反硬禁** 3 处（bi58[4]「内在宪制」→「内在宪法」；bi27[2]「宪制与立法上的安排」→「宪章与立法上的安排」；bi70[0]「宪章契约」→「宪法契约」——机器门只查「政体」抓不到「宪制」，须靠人工回源）；用字不一致 6 处（`Prinzipal`「中坚」→「头目」、`Landplage`「盘剥」→「灾祸」、`Schreiberei`「文书吏事务/这件事」→「文书吏衙门」×3）；**漏译地名「（来自）阿伦」2 处**（bi21[0]、bi9[7]）；EN 收紧 2 处（bi30[0]、bi77[5]）。
+- **★ 补齐 `ns=0` 空段落 bi78**：现行 `make-jobs.mjs` 第 46 行会跳过零句块（`if (b.k === 'p' && !sents.length) return;`），导致 bi78（`<p> </p>`，hash `ztntfp9zlo`）没进任何 job 单元，w4 段落覆盖卡在 2522/2523。已把该块补进 `w4-15-74.in.json` 与构建脚本，以 `en: []` / `zh: []` 如实落盘（与 wave49 的 8 个空段落同一处理）→ w4 段落 **2523/2523 = 100%**。**后续分节若遇 `ns=0` 块，须同样手动补进 job 文件。**
+- **分义与误报（不改译文，已逐条登记进 context-w4 的 wave50 分义）**：本节 qa 报 **190 条（major 23 / minor 167）**。
+  23 条 major **全部为分义误报或规则性例外，0 条真缺陷**：`Vorstellung` 词族 10（本节 Vorstellung 一律行政语境的「想法/看法/设想/陈述」，非《精神现象学》的「表象」）＋ 小写 `wirklich` 词族 9（承 wave47／wave49 分义，「真正/事实上」不带「现实」字根）＋ `Idee` 词族 1（bi20[6]「科塔博士先生思想」＝思想，非观念）＋ 长度比 2（bi37[0] 拉丁引文 zh/de 1.34；bi42[4] 德文分词计数 en/de 1.62）＋ 否定词 1（bi44[5]「很难」被误判为缺否定）。
+  167 条 minor 全是共享词表一致性提示（分义：Interesse→利害关系 10、Vorstellung→表象 10、Mitte→中项 9、Rede→演辞 9、Übel→恶 8、Verhältnis→关系 7、Klasse→班级 7、Darstellung→表述 6、Folge→后果 6、Tätigkeit→行动 5、Vortrag→讲授 5、Erläuterung→诠释 5…）——本节是行政/政治语汇，与《精神现象学》取向的词表规则天然冲突。
+- **术语层**：共享词表 **+46 条**（`data/_jobs/w4-15-b1.glossar.csv`），其中 `Prinzipal`／`Gerichtsschreiber` 由 `unsicher` 升为 `ok`（全卷 0 miss 已验证），`Konkurrenz` **保留 `unsicher`**（w4/14 3 处作「竞争」、w4/15 2 处作「同意」，全局词表单一 zh 不能两义同包）。
+  context-w4：**entries 468 → 503（+35 条）**，另 2 条既有条目加注 wave50 分义（`Vorstellung`、`Vortrag`）＋ 1 条 styleGuide 记录（新定术语清单、两条体例裁定、门务记录）。
+  ★ **与 wave46 教训的差异**：wave46 一次加 13 条条目使全卷 QA minor 从 874 涨到 1,294（+420）；本波 35 条**逐条先做全卷用字对扫、确认 0 miss 后才写入**，QA minor 前后均为 1,396（w4 卷），新增告警 **0**。
+  ★ 仍按既定体例**不入条目表**的（因全卷用字不一致、写入会给已入库章节制造 minor）：`Landtag`（w4/14 3 处另译）、`Konsulent`（w4/10「法律顾问」）、`Amtsschreiber`（w4/14「文书官」）、`Schreiberei`（机构义/活动义两译）、`Konkurrenz`（两义）、`Gleich`（w4/14 的 das Gleichgewicht 同形异义）——全部记入 styleGuide。
+- **验收全绿**：trans-index **ALIGNMENT OK**；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 仍 20 处存量 misnested（w2/w3/w5，与新译无关）；**w4/15 浏览器实测（端口 8860）pairs=81 = expected 81（80 译块＋1 fn）、mismatch=0、emptyZh=7、emptyEn=7、missing=14、jsErr=0**（missing/empty 全部来自 7 个 `ns=0` 空段落，合同规定如实留空，与已验收的 w4/12、w4/14 同一渲染行为）；w4/14（104/104）、w4/13（29/29）、w4/12（58/58）复测通过；固定 8 页回归 **8/8**。
+- **可复现性**：5 个构建脚本重建 14 个 part 文件 → `merge-trans.mjs`（80 块）→ `trans-index.mjs` ALIGNMENT OK；重建产物与入库 `web/data/trans/w4/15.json` 同源。
+- **远端**：本波推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
+- **下一节**：w4 全部 16 节已 100% 完结，**第 4 卷整卷收官**；下一卷为 **w5（Wissenschaft der Logik，《逻辑学》，38 个分片）**，切片 `node scripts/make-jobs.mjs --vol w5 --size 25 --limit 10 --prefix wave51`（**`--limit` 是单元数上限**，但循环按分片推进，一次通常会吃完整片；目标节已 100% 时会滚到下一节并覆盖 `jobs-<prefix>.json`，第 48 波踩过）。
+
+
 ### ★ 第 49 波已收官：w4/14「2. [Beurteilung der] Verhandlungen in der Versammlung der Landstände des Königreichs Württemberg im Jahr 1815 und 1816」（符腾堡王国等级议会 1815/1816 年审议评述）整节 **100%**
 
 **第 49 波（2026-10-20）一次做完 w4/14 整节 15 单元 / 103 块 / 402 句**（含 8 个 `ns=0` 空段落，如实输出 `en: []` / `zh: []`；另有 1 个 fn 块按契约不译），全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：

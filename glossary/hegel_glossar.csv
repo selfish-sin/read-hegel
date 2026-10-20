@@ -2872,3 +2872,49 @@ causa sui,cause of itself,自因,ok,w4/13 定译；斯宾诺莎；拉丁原形�
 Benedictus,Benedictus,本尼迪克特,unsicher,w4/13 为雅可比信中对斯宾诺莎的称呼；拉丁原形保留不译，中文侧括注。
 das Positive (in der Religion),the positive,实证,variant,宗教语境「被给予／正面确立的」义；跨卷先例 w1「实证宗教」；立法义另作「实定」，抽象肯定—否定义作「肯定」。
 Idealist,idealist,理想主义者,ok,w4/13 定译；与 Idealismus（观念论）分开。
+Landtag,diet,邦议会,ok,w4/15 定译：符腾堡邦等级议会（与 Ständeversammlung「等级会议」严格分开）；共享词表原无此词
+Bundestag,federal diet,联邦议会,ok,w4/15 新增：德意志联邦议会（1815 年后联邦中央机构），与 Reichstag「帝国议会」分开
+Reichshofrat,imperial supreme court,帝国最高法院,ok,w4/15 新增：维也纳帝国最高法院（Reichshofrat），与 Reichsrat「帝国议会」分开
+Konsulent,legal counsellor,法务顾问,ok,w4/15 新增：等级会议所聘法律顾问（格里辛格等）；刻意不用「法律顾问」以免触发 Recht 禁译对
+Amtsschreiber,office clerk,事务文书官,ok,w4/15 新增：行政区划的专职事务文书（与 Schreiber「文书吏」分层：Amtsschreiber 有专门职守与垄断权，Schreiber 为泛称）
+Schreiber,clerk / scribal man,文书吏,ok,w4/15 新增：符腾堡旧制度下的文书吏（垄断书写、盘剥为祸）；Schreiberei「文书吏衙门」、Schreiberei-Unfug「文书吏之弊」由此派生
+Schreiberei,scribal institution,文书吏衙门,ok,w4/15 新增：文书吏构成的衙门机构（w4/15 14 处）
+Schreiberei-Unfug,absurdity of the scribal business,文书吏之弊,ok,w4/15 新增：与 Schreiberei「文书吏衙门」配套；-Unfug＝弊端/荒唐做法
+Gerichtsschreiber,court clerk,法庭文书吏,ok,w4/15 新增：与 Amtsschreiber「事务文书官」分层；本节两处一致，已由 unsicher 升为 ok
+Prinzipal,principal,头目,ok,w4/15 新增：文书吏机构中的头目；bi31[2]/bi32[1]/bi45[0]/bi45[2] 四处一致，已由 unsicher 升为 ok
+Konkurrenz,concurrence / competing claim,同意,unsicher,w4/15 新增：分义——等级议会的同意权义作「同意」（本节 2 处）／并行的竞争性要求义作「竞争」（w4/14 3 处）；共享词表为全局表，单一 zh 不能两义同包，故保留 unsicher
+Diäten,diets (allowances),津贴,ok,w4/15 新增：议员津贴（Diäten），区别于 Besoldung「薪俸」与 Pension「养老金」
+Staatsanlehen,state loan,国家公债,ok,w4/15 新增：等级议会要求的国家公债
+Deputation,deputation,代表团,ok,w4/15 新增：王家与等级双方共同组成的代表团
+Rezeß,recess,决议,ok,w4/15 新增：谈判达成的决议文书（与 Konkurrenz 语境中的「协议」区分）
+Verabschiedung,sanction / approval,批准,ok,w4/15 新增：国王对宪章的批准（与 Konstitution「宪章」搭配）
+Landplage,plague,灾祸,ok,w4/15 新增：文书吏盘剥被斥为「灾祸」
+Inventar,inventory,清册,ok,w4/15 新增：财产清册
+Dukaten,ducat,杜卡特,ok,w4/15 新增：金币单位（一天百余杜卡特的花费）
+Palladium,palladium,守护神,ok,w4/15 分义：等级议会视之为守护神的制度（委员会的不间断存续）；与古义「保障物」同源
+Griesinger,Griesinger,格里辛格,ok,w4/15 人名译法（符腾堡等级会议法务顾问）
+Naucler,Naucler,诺克拉,ok,w4/15 人名译法（《Chronogr. gener.》作者）
+Weishaar,Weishaar,魏斯哈尔,ok,w4/15 人名译法（等级会议成员，呈文起草人）
+Bolley,Bolley,博莱,ok,w4/15 人名译法（等级会议成员，事务文书官）
+Forstner,von Forstner,福斯特纳,ok,w4/15 人名译法（反文书吏之弊的提案人）
+Varnbüler,von Varnbüler,瓦恩布勒,ok,w4/15 人名译法
+Knapp,Knapp,克纳普,ok,w4/15 人名译法
+Cotta,Cotta,科塔,ok,w4/15 人名译法
+Waldek,Waldek,瓦尔德克,ok,w4/15 人名译法
+Öttingen-Wallerstein,Öttingen-Wallerstein,厄廷根－瓦勒施泰因,ok,w4/15 人名译法（符腾堡亲王；全角连接号用「－」以示复合）
+Gemmingen,Gemmingen,格明根,ok,w4/15 人名译法（符腾堡前政府总理）
+Aalen,Aalen,阿伦,ok,w4/15 地名译法（符腾堡城市，格莱希的选区）
+Urach,Urach,乌拉赫,ok,w4/15 地名译法
+Gmünd,Gmünd,格明德,ok,w4/15 地名译法
+Mögglingen,Mögglingen,默格林根,ok,w4/15 地名译法
+Horb,Horb,霍尔布,ok,w4/15 地名译法
+Regensburg,Regensburg,雷根斯堡,ok,w4/15 地名译法（帝国议会所在地）
+Chronogr. gener.,Chronogr. gener.,《Chronogr. gener.》,ok,w4/15：诺克拉《Chronogr. gener.》拉丁文引名，不译不动、括注中文
+Idee der Staatsverfassung,Idea of a state constitution,《国家宪法的观念》,ok,w4/15 书名译法
+Die Verwaltung der württembergischen Landeskasse,The administration of the Württemberg land fund,《符腾堡土地资金管理》,ok,w4/15 书名译法；德文原名括注保留
+Allgemeine Zeitung,Allgemeine Zeitung,《法兰克福总汇报报》,ok,w4/15 报刊名译法
+animae viles,animae viles,animae viles,ok,w4/15 拉丁引文不译不动、括注中文
+de iuribus singulorum,de iuribus singulorum,de iuribus singulorum,ok,w4/15 拉丁引文不译不动、括注中文（个人的权利）
+Iura singulorum,Iura singulorum,Iura singulorum,ok,w4/15 拉丁引文不译不动、括注中文（个人的权利）
+a priori,a priori,a priori,ok,w4/15 须在 EN 与 ZH 中逐字出现
+salva ratificatione,salva ratificatione,salva ratificatione,ok,w4/15 须在 EN 与 ZH 中逐字出现

@@ -1,0 +1,25 @@
+{
+ "id": "w4-15-79",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 15,
+ "chunkTitle": "",
+ "heading": "",
+ "blocks": [
+  {
+   "bi": 79,
+   "k": "p",
+   "hash": "156kthnpyb",
+   "sents": [
+    "Nach dieser so weitläufigen Darstellung - deren Gegenstand man verkennen würde, wenn man ihr den Zweck einer Verteidigung von etwas anderem als von dem mit dem höchsten Interesse verknüpften Begriffe der Landstände gegen die ihm so unangemessene und doch so anmaßliche Wirklichkeit, die sich durch den Druck ihrer Verhandlungen dem Publikum geschildert und zur Beurteilung hingestellt hat, unterlegen wollte - ist nur noch das merkwürdige Endresultat anzuführen, das Schicksal dieser Versammlung nämlich, durch den ganzen Lauf ihres langen und teuren Zusammenseins ohnehin nicht eine Übereinkunft mit dem Könige, aber auch nicht innerhalb ihrer selbst einen Beschluß über irgendeinen Inhalt eines Verfassungsgegenstandes zuwege gebracht zu haben."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/15.p79.json"
+}
