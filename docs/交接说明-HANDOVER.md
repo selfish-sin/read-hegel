@@ -96,6 +96,34 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 ```
 
 
+### ★ 第 51 波（第 1 轮）已完成：w5/0「Erster Teil. Die objektive Logik」（《大逻辑》第一部分·客观逻辑）序言与导言 —— **第 5 卷开卷**
+
+**第 51 波（2026-10-21）译完 w5/0 前 5 单元 / 27 块 / 135 句**（w5/0 全节 65 块 / 299 句，本波覆盖 45%；其中 1 个 fn 块 bi64 按契约不译），全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
+
+| 批次 | 单元 | 块 | 句 | 内容 |
+|---|---|---|---|---|
+| b1 | w5-0-0 / w5-0-8 / w5-0-14 | 17 | 80 | 第一版序言（形而上学的没落·康德的外显学说·逻辑学自身的命运）、第二版序言（知性与理性·意识的推进·概念的内在发展）、论语言与思维形式·逻辑的「超自然」·极性范畴 |
+| b2 | w5-0-17 / w5-0-20 | 10 | 55 | 序言之续（思维规定不能只当作形式·概念的内在发展·健康理性对学校法则的反感）、导言（逻辑学作为科学只能从事情本身开始·柏拉图七易其稿·1831 年 11 月 7 日柏林） |
+
+**第 5 卷开卷。** 覆盖率 18.79% → **18.94%**（17,311 → 17,446 / 92,117 句；段落 5,360 → 5,382 / 17,948 = 29.99%）。第 5 卷 0 → **135 句（1.5%）**，**分节进度 1/38（w5/0 部分）**。
+
+- **★ 新建 w5 术语层 `data/_jobs/context-w5.json`**（第 5 卷首次建包）：**entries 83 条 / forbidden 29 条 / doNotTranslate 26 条 / styleGuide 7 条**。风格规则首条即「权威顺序（不可颠倒）」，并含「词根一致」条款（check-policy 的两条硬性检查均通过）。
+  - ★ **入表前先做「用字对扫」，只把能在本卷一致落地的词写进 entries**：`Wissenschaft`→科学（共享词表明写「不作『学术』」，本波据此把 7 处「学问/学术」改回「科学」）、`System`→体系（共享词表定译）、`Moment`→环节、`Verschiedenheit`→相异 与 `Unterschied`→差别 严格分工、`Identität`→同一性、`Totalität`→总体性、`Dasein`→定在、`Geist`→精神、`Begriff`→概念、`Vorstellung`→表象。
+  - ★ **按 wave46 教训，以下三类**不**入条目表**（入表会给全卷制造 minor 噪音），只记 styleGuide 分义：① `Leben`（序言里是日常义「生活」，仅第二部分第三章标题与体系语境作「生命」）；② `Ursache`（「Ursache genug」＝「有充分理由」，固定短语不适用「原因」）；③ `Form`（QA 的词条正则 `Form[a-z]{0,3}` 会把 **Formeln（公式）** 一并命中，故 `Form`＝形式、`Formel`＝公式 二者只登记分义、不做机器约束）；④ `Objekt` 与 `Allgemeinheit` 保留在表内但本波译文一律遵其词根（「利益的对象」→「利益的客体」、「das Allgemeine / die Allgemeinheiten」→「普遍性」）。
+- **★ 本波真实修掉的缺陷 6 类（机器门与 QA 各出一半，不是 QA 噪音）**：
+  1. **整段漏译（最重的一处）**：w5-0-17 bi18[6] 把「so ungerecht es ist zu verkennen, daß sie ihr Feld in der Erkenntnis haben … und zugleich, daß sie wesentliches Material für das Denken der Vernunft sind」整条插入语漏掉——机器门靠 `Vernunft`→理性 的禁译规则当场抓到（ZH 里有「知性」而无「理性」）。
+  2. **中文里残留英文单词**：w5-0-17 bi16[9]「这类情感与精神的 **determinations** 向我们显现出来」→ 改「诸规定」。
+  3. **DNT 命中处理**：`z.B.`（无空格写法）触发 `B.` 的 DNT 字面，机器门的豁免规则只认「z. B.」带空格 → 豁免正则改为 `z\.\s*B\.`（本波 3 处命中，全部为合法豁免）。
+  4. **政策词族回改**：bi16[4]「与亚里士多德上述**看法**相抵触」→ **表象**（Vorstellung 词族，机器门 major）；bi3[3]「上帝的存在的证明」按 w4/12、w4/13 已入库先例作「上帝的**存在**」（神学日常义，**登记为分义误报**）。
+  5. **用字回改 7 处**：`Logik`→逻辑学 3 处、`Denken`→思维 1 处、`Wissenschaft`→科学 7 处、`Zweck`→目的 1 处、`Wahrheit`→真理性 1 处、`Bestimmung`→诸规定 1 处、`Vorstellung`→总体表象 1 处、`Objekt`→客体 1 处、`Allgemeinheit`→普遍性 3 处。
+  6. **否定词漏译**：bi25[2]「ohne weiteres anzuwenden」译作「径直运用」缺否定，改「无须多言地运用」（QA 报 major）。
+- **分义与误报（不改译文，已逐条登记进 context-w5 的 styleGuide）**：本波 qa 对 w5 报 **27 条 → 修后 8 条 → 修后 1 条**。最终剩下的 1 条是 `Dasein`→禁「存在」：**神学日常义「上帝的存在」**，与 w4 已入库的 2 条同类（w4/12 bi25[3]、w4/13 bi8[12]），按分义登记、机器门设豁免，**0 条真缺陷**。
+- **术语层（共享词表）**：**+27 条新译名**（`data/_jobs/w5-0-b1.glossar.csv` → `merge-glossar.mjs`）：rationale Psychologie 理性心理学、natürliche Theologie 自然神学、Allerheiligstes 至圣所、exoterisch 外显的、Hirngespinste 头脑的幻影、Endursachen 终极原因、medianische Ursachen 中介原因、Gärung 发酵、Systematisierung 体系化、Formalisismus 形式主义、Erwerbung 获取、Muße 闲暇、Denkform 思维形式、Denkverhältnisse 思维关系、Partikel 虚词、Augment 增音前缀、Flexionszeichen 屈折标记、Substantiv 名词、Verb 动词、Polarität 极性、Untrennbares 不可分者、Abbreviatur 缩略词、Epitom 概括、Immanenz/immanent 内在性/内在的、Erschließen 推演、Empirismus 经验主义。
+- **验收全绿**：trans-index **ALIGNMENT OK**；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 仍 20 处存量 misnested（w2/w3/w5，与新译无关）；**w5/0 浏览器实测（端口 8860）pairs=65 = expected 65（64 译/未译块＋1 fn）、mismatch=0、emptyZh=37、emptyEn=37、missing=74、jsErr=0**（missing/empty 全部来自本卷**尚未翻译的 37 个块**，属部分翻译分节的正常渲染；整节译完后应归零）；回归页 w4/15（81/81）、w3/0（74/74）、w1/0（70/70）全 OK；固定 8 页回归 **8/8**。
+- **可复现性**：2 个构建脚本（`_build_w51a.mjs` / `_build_w51b.mjs`）重建 5 个 part 文件 → `merge-trans.mjs`（27 块）→ `trans-index.mjs` ALIGNMENT OK；重建产物与入库 `web/data/trans/w5/0.json` 同源。
+- **远端**：本波推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
+- **下一批**：**w5/0 剩余 6 单元 / 37 块 / 164 句**（单元 27 / 37 / 42 / 47 / 53 / 60，任务文件 `data/_jobs/w5-0-{27,37,42,47,53,60}.in.json` 已切好），译完即 w5/0 整节 100%；随后是 w5/1（8 单元 / 192 句，任务文件 `w5-1-*.in.json` 已切好）。**注意**：w5 共 38 分片 / 8,925 句，按当前节奏（每轮约 135 句）需数十轮；w5 是本项目最长的卷。
+
 ### ★ 第 50 波已收官：w4/15「2. [Beurteilung der] Verhandlungen in der Versammlung der Landstände des Königreichs Württemberg im Jahr 1815 und 1816」（符腾堡王国等级议会评述·**续篇**）整节 **100%** —— **第 4 卷收官**
 
 **第 50 波（2026-10-21）一次做完 w4/15 整节 14 单元 / 80 块 / 366 句**（含 7 个 `ns=0` 空段落，如实输出 `en: []` / `zh: []`；另有 1 个 fn 块 bi80 按契约不译），全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：

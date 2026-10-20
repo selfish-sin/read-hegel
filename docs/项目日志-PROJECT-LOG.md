@@ -788,3 +788,18 @@
   ★ **与 wave46 教训的差异**：wave46 加 13 条条目使全卷 QA minor +420；本波 35 条**逐条先做全卷用字对扫、确认 0 miss 才写入**，QA minor 前后均 1,396（w4 卷），新增告警 **0**。仍不入条目表的：Landtag、Konsulent、Amtsschreiber、Schreiberei、Konkurrenz、Gleich（全卷用字不一致，写入会给已入库章节制造 minor）。
 - **验收全绿**：trans-index ALIGNMENT OK；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 仍 20 处存量 misnested（w2/w3/w5）；**w4/15 浏览器实测 pairs=81 = expected 81（80 译块＋1 fn）、mismatch=0、emptyZh=7、emptyEn=7、missing=14、jsErr=0**（全部来自 7 个 `ns=0` 空段落，同 w4/12／w4/14 的渲染行为）；w4/14（104/104）、w4/13（29/29）、w4/12（58/58）复测通过；固定 8 页回归 **8/8**。
 - **进度**：18.40% → **18.79%**（16,945 → 17,311 / 92,117 句；段落 5,280 → 5,360 / 17,948 = 29.86%）；第 4 卷 5,135 → **5,501 句（100%）**，**分节进度 16/16，第 4 卷整卷收官**。**下一卷：w5（Wissenschaft der Logik，《逻辑学》，38 分片）**，切片 `node scripts/make-jobs.mjs --vol w5 --size 25 --limit 10 --prefix wave51`（`--limit` 为单元数上限，循环按分片推进故通常一次吃完整片）。
+
+### 第 51 波（w5/0「Erster Teil. Die objektive Logik」序言与导言·第 5 卷开卷，2026-10-21）
+
+- **内容**：w5/0《大逻辑》第一部分「客观逻辑」的卷首部分——第一版序言（形而上学的没落·康德的外显学说·逻辑学自身的命运·新创造的发酵期）、第二版序言（知性与理性·辩证理性与肯定理性·意识的推进与概念的内在发展·「自然逻辑学」与学校法则之争·逻辑学的形而上学地位）、以及《导言》（逻辑科学只能从事情本身开始·柏拉图七易其稿·1831 年 11 月 7 日柏林·逻辑学的一般概念）。
+- **批次**：b1 单元 w5-0-0 / w5-0-8 / w5-0-14 = 17 块 / 80 句；b2 单元 w5-0-17 / w5-0-20 = 10 块 / 55 句。**合计 5 单元 / 27 块 / 135 句**（w5/0 全节 65 块 / 299 句，本波覆盖 45%）。全部主代理翻译，不派子代理（BYOK 月度配额 2026-10-23 23:59 才重置）。
+- **切片**：`make-jobs.mjs --vol w5 --size 25 --limit 12 --prefix wave51` → units=19 sentences=491（w5/0 11 单元 + w5/1 8 单元）；本波只做 w5/0 的前 5 个单元，其余 14 个单元的任务文件已入库留给后续波次。
+- **★ 新建 `context-w5.json` 术语层**（第 5 卷首包）：entries 83 / forbidden 29 / doNotTranslate 26 / styleGuide 7。权威顺序与「词根一致」两条硬性检查通过（check-policy 第一次跑就抓出 `idealistisch` 被我写成「观念的」，按政策改为「观念论的」）。
+  - ★ 入表纪律沿用 wave46 教训：只用「全卷用字对扫 0 miss」的词入 entries；`Leben`（日常义「生活」）、`Ursache`（「Ursache genug」＝理由）、`Form`（正则会连 `Formeln`＝公式 一起命中）三类**不入表**，只记 styleGuide 分义。
+- **★ 本波真实缺陷 6 类**：① **整段漏译**（w5-0-17 bi18[6] 漏掉「…und zugleich, daß sie wesentliches Material für das Denken der Vernunft sind」整条插入语，由 `Vernunft`→理性 的禁译规则当场抓到）；② 中文里残留英文单词（bi16[9]「determinations」→「诸规定」）；③ `z.B.` 无空格写法使 DNT 豁免失效（豁免正则放宽为 `z\.\s*B\.`）；④ Vorstellung 词族回改（「看法」→「表象」「总体概念」→「总体表象」）；⑤ 用字回改 12 处（Logik/Denken/Wissenschaft/Zweck/Wahrheit/Bestimmung/Objekt/Allgemeinheit 等）；⑥ 否定词漏译（bi25[2]「径直运用」→「无须多言地运用」）。
+- **分义与误报**：qa 对 w5 报 27 条 → 8 条 → **1 条**；最后 1 条为 `Dasein` 神学日常义「上帝的存在」，与 w4 已入库的 2 条同类，登记为分义、机器门设豁免，**0 条真缺陷**。
+- **术语层（共享词表）**：**+27 条**（`data/_jobs/w5-0-b1.glossar.csv`）：rationale Psychologie 理性心理学／natürliche Theologie 自然神学／Allerheiligstes 至圣所／exoterisch 外显的／Hirngespinste 头脑的幻影／Endursachen 终极原因／medianische Ursachen 中介原因／Gärung 发酵／Systematisierung 体系化／Formalisismus 形式主义／Erwerbung 获取／Muße 闲暇／Denkform 思维形式／Denkverhältnisse 思维关系／Partikel 虚词／Augment 增音前缀／Flexionszeichen 屈折标记／Substantiv 名词／Verb 动词／Polarität 极性／Untrennbares 不可分者／Abbreviatur 缩略词／Epitom 概括／Immanenz 内在性／immanent 内在的／Erschließen 推演／Empirismus 经验主义。
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 20 处存量 misnested（w2/w3/w5，与新译无关）；**w5/0 浏览器实测（8860）pairs=65 = expected 65、mismatch=0、emptyZh=37、emptyEn=37、missing=74、jsErr=0**（37 个未译块所致，部分翻译分节正常；整节译完应归零）；回归 w4/15、w3/0、w1/0 全 OK；固定 8 页回归 **8/8**。
+- **可复现性**：2 个构建脚本重建 5 个 part 文件 → `merge-trans.mjs`（27 块）→ `trans-index.mjs` ALIGNMENT OK，与入库 `web/data/trans/w5/0.json` 同源。
+- **远端**：推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍为 `f8cd477`。
+- **进度**：18.79% → **18.94%**（17,446 / 92,117 句；段落 5,382 / 17,948 = 29.99%）；第 5 卷 0 → 135 句（1.5%），**分节进度 1/38（部分）**。**下一批**：w5/0 剩余 6 单元（27/37/42/47/53/60）/ 37 块 / 164 句，译完即 w5/0 整节 100%；随后 w5/1（8 单元 / 192 句）。

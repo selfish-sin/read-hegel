@@ -10,7 +10,7 @@
   "本卷＝《大逻辑》（Wissenschaft der Logik）。全书体系术语一词一译：Sein 存在／Nichts 无／Werden 生成；Wesen 本质／Begriff 概念／Urteil 判断／Schluß 推论／Aufhebung 扬弃／Moment 环节／Vermittlung 中介／Unmittelbarkeit 直接性；Allgemeinheit 普遍性／Besonderheit 特殊性／Einzelnes 个别；Notwendigkeit 必然性／Zufall 偶然／Zweck 目的／Ursache 原因／Wirkung 效果；Reflexion 反思／Bestimmung 规定／Bestimmtheit 规定性／Substanz 实体；Identität 同一性／Verschiedenheit 相异／Unterschied 差别（严格分工，不得互换）；Totalität 总体性／Allheit 全体性／Ganzes 整体／Schranke 界限／Einheit 统一（勿用“统一体”）；Subjekt 主体／Objekt 客体／Subjektivität 主观性。",
   "★跨卷说明：Identität 本卷作“同一性”（与 w2、w3 已入库译法及共享词表一致）；w4 卷内曾按 wave38 裁定作“同一”，那是 w4 本卷包的分义，不适用于本卷；本卷一律“同一性”，非同一性＝ Nichtidentität“不可同一”。",
   "本卷体裁（文体）：① 序言（Vorrede zur ersten/zweiten Ausgabe）文体是论辩性的长句，破折号插入语多，主谓宾常有省略或倒装；译成中文时保持长句，不拆成一串短句，但可用中文破折号承载原文的插入结构。② 正文章节（Sein／Wesen／Begriff 三部）高度体系化，术语密集，一词一译；正文中的“Anmerkung”＝注（编号注，如“Anmerkung 1”“Anmerkung 4”），不译内容只译标题？——译者注：编者注块（k=fn）不译，正文中的“Anmerkung”标题照译为“注”。③ “Erster Teil／Erster Abschnitt／Erster Band／Erstes Kapitel”等分级词一律用“第一部分／第一节／第一卷／第一章”，与 § 编号并存。④ § 编号（§ 1、§ 12）原样保留，中文侧不译“§”本身。",
-  "正文中常见的分义登记（不入条目表，避免一致性提醒噪音；定译以本条为准）：das Leben 在本卷序言与讲稿中多作日常义「生活」（如 das Leben der Völker und der Individuen＝各民族与各个人的生活），仅第二部分第三章标题与体系语境作「生命」；Ursache 作「原因」，但固定短语「Ursache genug」＝「有充分理由」；das Allgemeine / die Allgemeinheiten（形容词名词化）作「普遍者／普遍物」，Allgemeinheit（名词）作「普遍性」；die Momente 在序言中作「环节」（die allgemeinen Momente＝一般环节），勿作「时刻」；das Positive＝肯定、das Negative＝否定、das Negative als das Bestimmte＝否定者即规定者；Notwendiges＝必然者、Zufälliges＝偶然者；die Notwendigkeit＝必然性、die Zufälligkeit＝偶然性；das Sein＝存在、das Nichts＝无、das Werden＝生成；die Idee＝观念、das Begriff＝概念（冠词变格不改变词根）；der Begriff als Sein＝作为存在的概念；das unmittelbare Wissen＝直接知识；die Anschauung＝直观、die Vorstellung＝表象、das Denken＝思维、die Denkform＝思维形式、die Denkbestimmung＝思维规定、die Denkverhältnisse＝思维关系；die Kategorie＝范畴；der Inhalt＝内容、die Form＝形式、die Gestalt＝形态、die Bestimmung＝规定、das Gesetz＝规律、die Regel＝规则；die Methode＝方法、das System＝系统、die Wissenschaft＝科学、das Ganze＝整体、das Teil＝部分；die Kraft＝力、die Polarität＝极性、die Notwendigkeit＝必然性；das Subjekt＝主体、das Objekt＝客体；die Freiheit＝自由、der Wille＝意志、die Willkür＝任性；das Gefühl＝感受、der Trieb＝冲动；die Anschauung＝直观（w4 已用“直观”）；das Denken＝思维（w3/w4 已用“思维”）。",
+  "正文中常见的分义登记（不入条目表，避免一致性提醒噪音；定译以本条为准）：das Leben 在本卷序言与讲稿中多作日常义「生活」（如 das Leben der Völker und der Individuen＝各民族与各个人的生活），仅第二部分第三章标题与体系语境作「生命」；Ursache 作「原因」，但固定短语「Ursache genug」＝「有充分理由」；das Allgemeine / die Allgemeinheiten（形容词名词化）作「普遍者／普遍物」，Allgemeinheit（名词）作「普遍性」；die Momente 在序言中作「环节」（die allgemeinen Momente＝一般环节），勿作「时刻」；Form ＝形式、Formel ＝公式，二者严格分开（QA 的词条正则 Form[a-z]{0,3} 会把 Formeln 一并命中，故 Form 不入条目表）；das Positive＝肯定、das Negative＝否定、das Negative als das Bestimmte＝否定者即规定者；Notwendiges＝必然者、Zufälliges＝偶然者；die Notwendigkeit＝必然性、die Zufälligkeit＝偶然性；das Sein＝存在、das Nichts＝无、das Werden＝生成；die Idee＝观念、das Begriff＝概念（冠词变格不改变词根）；der Begriff als Sein＝作为存在的概念；das unmittelbare Wissen＝直接知识；die Anschauung＝直观、die Vorstellung＝表象、das Denken＝思维、die Denkform＝思维形式、die Denkbestimmung＝思维规定、die Denkverhältnisse＝思维关系；die Kategorie＝范畴；der Inhalt＝内容、die Form＝形式、die Gestalt＝形态、die Bestimmung＝规定、das Gesetz＝规律、die Regel＝规则；die Methode＝方法、das System＝系统、die Wissenschaft＝科学、das Ganze＝整体、das Teil＝部分；die Kraft＝力、die Polarität＝极性、die Notwendigkeit＝必然性；das Subjekt＝主体、das Objekt＝客体；die Freiheit＝自由、der Wille＝意志、die Willkür＝任性；das Gefühl＝感受、der Trieb＝冲动；die Anschauung＝直观（w4 已用“直观”）；das Denken＝思维（w3/w4 已用“思维”）。",
   "★门务记录（w5 首波）：① doNotTranslate 中的“1.”“2.”“3.”“A.”“B.”“C.”按字符命中，故凡源句中出现这些字面者，英中两侧均须含该字面；德式日期日号末位为 1/2/3 时保留点号（EN「22. March」／中「3 月 22. 日」）。②“z. B.”命中“B.”，按门规则以“z. A.”～“z. C.”例程豁免。③希腊／拉丁引文不译不动、括注中文（如 § 1 的“τὸ ὄν”）。④编者方括号〔〕在原文中为编者插入：实词编者补入英中两侧都保留（中文侧译出内容并用半角方括号），纯语法插入（冠词、连词、动词变位）两侧都弃。⑤“-man”“man”不定代词译“人们”，不译“我们”。"
  ],
  "entries": [
@@ -419,13 +419,6 @@
    "zh": "范畴",
    "type": "term",
    "note": "康德义与亚里士多德义同译"
-  },
-  {
-   "source": "Form",
-   "en": "form",
-   "zh": "形式",
-   "type": "term",
-   "note": "与 Inhalt（内容）、Gestalt（形态）三分"
   },
   {
    "source": "Inhalt",
