@@ -721,3 +721,33 @@
   第 4 卷 4,338 → 4,530 句（82.3%），**分节进度 13/16**。**下一节：w4/13**「Heidelberger Schriften」
   （约 7 单元 / 203 句），切片 `--limit 9 --prefix wave48`。
 
+### 第 48 波（w4/13 收官）— 7 单元 / 28 块 / 203 句，**w4/13 整节 100%**
+
+- **内容**：评述雅可比《文集》第三卷（莱比锡 1816）——含 1799 年致费希特的信、1801 年《论批判理性使其降为知性》、
+  《论利希滕贝格的一则预言》、《论神圣之物及其启示》；正文前段为该卷的书目评述与提要，
+  后段转入雅可比体系的评述（理性·道德原则·亚里士多德对苏格拉底的责备）、主体—客体与实体—否定的讲法、
+  自由即人格性，末段评哈曼与「实证宗教」之争。
+- **批次**：b1 单元 0/7、b2 单元 9/13、b3 单元 17/21、b4 单元 25——全部主代理翻译，不派子代理
+  （BYOK 月度配额 2026-10-23 23:59 才重置）。
+- **切片**：`make-jobs --vol w4 --size 25 --limit 9 --prefix wave48` → units=22 sentences=605，**跨节溢出**——w4/13 只有 7 单元（203 句），
+  多出的 15 个单元（402 句）是 w4/14 的。**处置**：只做 w4/13，`jobs-wave48.json` 裁为 7 个 w4/13 单元 id，
+  多生成的 `w4-14-*.in.json`（15 个）删掉（可恢复删除）再提交。
+- **★ 逐句回源复核后修正 25 处**（机器门 0 FAIL 之后、QA 之前做的回源核对；全部同步 patch 5 个构建脚本，重建后与入库文件逐字一致）：
+  `das Positive` 宗教义 2 处「积极者」→「实证」（跨卷先例 w1 实证宗教）；`Geist` 5 处「心灵」→「精神」；
+  **漏译 1 处**（bi14[5]「同样是无精神的」被吞，已补回并重排句序）；`Wissen` 5 处「认识／学问」→「知识」；
+  `Persönlichkeit` 7 处「人格」→「人格性」（按 w4/7 同卷先例，bi27[0] 具体个人义仍作「人格」）；
+  `Idee` 1 处（bi25[7] 术语被吞，已补回「观念」）；`begreifendes Erkennen` 1 处→「以概念把握的认识」（w4/2 先例）；
+  `Macht` 1 处「力量」→「威力」；`Gefühl` 1 处「情绪」→「感觉」（与 Laune 撞词）；bi26[0] 句序重排。
+- **分义与误报（不改译文，已逐条登记进 context-w4 的 wave48 分义）**：本节 117 → **86** 条（major 17 → **4**），
+  4 条 major 全是词族误报：`Dasein` 神学日常义「上帝的存在」1 条 ＋ `Vorstellung`／`vorgestellt` 作「设想」义 3 条；
+  minor 主要是 Natur→本性 9、Gesetz→法律 6、Erscheinung→现象 5、Gewißheit→确定性 5、Leben→生命 4 等分义提醒。
+  **机器门 GATE OK（0 FAIL / 66 WARN）**（分片门）。
+- **术语层**：共享词表 **+8 条**（Ding an sich 自在之物／Apperzeption 统觉／Hamann 哈曼／Moralprinzip 道德原则／
+  causa sui 自因／Benedictus 本尼迪克特／das Positive（in der Religion）实证／Idealist 理想主义者）；
+  context-w4 **条目数保持 468 不变**，**40 条既有条目加注 wave48 分义** ＋ 2 条 styleGuide 记录（新定术语清单、wave48 门务记录）。
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；
+  validate 仍 20 处存量 misnested（w2/w3/w5）；**w4/13 浏览器实测 pairs=29 = expected 29（28 译块＋1 fn）、mismatch=0、emptyZh=0、emptyEn=0、jsErr=0**
+  （本节无 `ns=0` 空段落，故 missing 全 0）；w4/12（58/58）、w4/11（78/78）、w4/10（54/54）复测通过；固定 8 页回归 8/8。
+- **进度**：17.74% → **17.96%**（16,340 → 16,543 / 92,117 句；段落 5,153 → 5,178 / 17,948 = 28.85%）；
+  第 4 卷 4,530 → 4,733 句（86.0%），**分节进度 14/16**。**下一节：w4/14**「Heidelberger Schriften」续
+  （约 15 单元 / 402 句），切片 `--limit 9 --prefix wave49`。

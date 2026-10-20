@@ -24,7 +24,9 @@
   "★wave46 门务记录：w4/11 的 doNotTranslate 命中有两处特殊形态——①「1.」按字符命中，「Ministerialerlaß München, 1. Aug.」须保留德式日期写法（EN「1. August」／中「8 月 1. 日」）；②「S.」（Seite）为 Reg. Bl. 引用缩写，命中后中译一律保留「S.」并补「年」以满足中文非空判据（Reg. Bl. 1809 年，S. 1332）。另：w4/11 的源句 bi21[6] 与 bi60[0] 各由两段合并而成（段间以「 - 」分隔），整句只对应一条译文，必须把两段全部译出，不可只译后半段。",
   "★wave46 w4/11 新定术语（不入条目表，避免全卷一致性提醒噪音；定译以本条与共享词表为准）：Realschule＝实科中学（与 Realinstitut 实科学校、Gymnasium 文科中学三分）；Lyzeum＝高级中学；Mittelanstalt＝中级学校；Kameralwissenschaft＝官房学、Kameralfache＝官房事务、Kameralstellen＝官房职位；Humaniora＝人文诸科（studia humaniora 首现括注中文）；Generalkommissariat＝皇家总务署；Rektorat＝校务委员会（Rektor 本人义仍作「校长」，见 Rektor 条）；Anschauung 在本节为考察义，作「观照」（哲学义仍「直观」）；Bestimmung 在本节为职业去向义，作「志向」（die vorgeschriebenen Bestimmungen 仍作「规定」）；Befehl＝命令；Subjekt＝主体（见 forbidden 条）。",
   "★wave47 w4/12 新定术语（不入条目表，避免全卷一致性提醒噪音；定译以本条与共享词表为准）：Normativ＝规章（w4/10、w4/11、w4/12 三处已统一回改为「规章」）；Metaphysik＝形而上学；Kosmologie＝宇宙论；Ontologie＝本体论；Unterprimärschule＝下级初级学校（与共享词表 Unterprimärklasse 初级最低班分属两词）；Oberprimärschule＝上级初级学校（与 Oberprimärklasse 初级最高班分属两词）；Kollegium＝讲课（讲授课时义；合议机构义另论）；Metrik＝韵律学；Wortweisheit＝咬文嚼字；Salbaderei＝卖弄（审美上的卖弄）；Erbauung＝感化；Idiosynkrasie＝怪癖；Übersicht＝概览；Regierungsrat＝政府参议；Konversatorium＝讨论课；Pensum＝授课任务（共享词表已有）；Anthropologie＝人类学（共享词表已有）。",
-  "★wave47 门务记录：w4/12 有三处特殊命中与两处字面命中——①拉丁／希腊引文按 styleGuide 一律不译不动、括注中文，本节保留「Organon de categoriis」（《范畴篇》）、「entium」（存在者）、「natura prius」（有先于自然的）、「pulcre, quam venuste」（多么优美，多么雅致）四处；②「Ideal」按字符命中禁译词 Idealismus，w4/12 的 Idealismus 已作「观念论」，不作「理想」；③「Dasein」命中神学语境 Gottes／Gott（作「存在」，见 Dasein 条 wave47 分义）；④doNotTranslate 字面命中：德式日期「den 23.」（bi8、bi40）与「den 2.」（bi56）按字符命中「3.」「2.」，英中均须保留原德式日期写法（EN「Nuremberg, 23.」／中「纽伦堡，23. 日」＋次句「October／10 月」；EN「Nuremberg, 2.」／中「纽伦堡，2. 日」＋「August／8 月」）；⑤枚举符 1.／2.／3.／A.／B.／a)／b)／§ 在中文侧原样保留，须用半角句点，不得改写成「。」。"
+  "★wave47 门务记录：w4/12 有三处特殊命中与两处字面命中——①拉丁／希腊引文按 styleGuide 一律不译不动、括注中文，本节保留「Organon de categoriis」（《范畴篇》）、「entium」（存在者）、「natura prius」（有先于自然的）、「pulcre, quam venuste」（多么优美，多么雅致）四处；②「Ideal」按字符命中禁译词 Idealismus，w4/12 的 Idealismus 已作「观念论」，不作「理想」；③「Dasein」命中神学语境 Gottes／Gott（作「存在」，见 Dasein 条 wave47 分义）；④doNotTranslate 字面命中：德式日期「den 23.」（bi8、bi40）与「den 2.」（bi56）按字符命中「3.」「2.」，英中均须保留原德式日期写法（EN「Nuremberg, 23.」／中「纽伦堡，23. 日」＋次句「October／10 月」；EN「Nuremberg, 2.」／中「纽伦堡，2. 日」＋「August／8 月」）；⑤枚举符 1.／2.／3.／A.／B.／a)／b)／§ 在中文侧原样保留，须用半角句点，不得改写成「。」。",
+  "★wave48 w4/13 新定术语（不入条目表，避免全卷一致性提醒噪音；定译以本条与共享词表为准）：Substanz＝实体；Negation＝否定（Negation der Negation＝否定之否定／否定的否定）；Vermittlung＝中介；Unmittelbarkeit＝直接性；Subjektivität＝主观性（与 Subjekt＝主体严格分开）；Subjekt-Objekt＝主体—客体；Ding an sich＝自在之物（康德义，与 Ansichsein＝自在存在分开）；Apperzeption＝统觉（康德「原初—综合」统觉）；Endzweck＝终极目的；causa sui＝自因（拉丁原形保留并括注）；Jacobi＝雅可比（非「雅各比」，与共享词表、w2 一致）；Spinoza＝斯宾诺莎；Hamann＝哈曼；Benedictus 保留拉丁原形；Moralprinzip＝道德原则（亚里士多德语境）；Idee＝观念（本节 22 处「观念」全部对应 Idee，禁「理念」）；Gewißheit＝确定性（心中确信义另作「确信」）；Realität＝实在性（与 Wirklichkeit＝现实性分开）；Idealist＝理想主义者（与 Idealismus＝观念论分开）；sittlich＝伦理、moralisch＝道德严格分工（sittliches Gesetz＝伦理的法则、Moralprinzip＝道德原则）；das Positive 宗教义＝实证（跨卷先例 w1「实证宗教」「实证的东西」；立法义＝实定，抽象肯定—否定义＝肯定）；Persönlichkeit 概念义＝人格性（与 w4/7 同卷先例一致）、具体个人义＝人格；Natur 本节一律「自然」不作「本性」；Tugend 亚里士多德语境＝德性（诸德性），本卷日常道德语境＝美德；Tätigkeit 本节＝活动（本卷 82 处中仅 13 处作「行动」）；Kopula＝系词（与 w4/3、w4/4、w4/6 并用一致）；Vortrag 在「Vortrag von Versicherungen」＝呈现；Rede 在「die Rede finden」＝说法（演辞义留给文科中学官方演辞）；Macht＝威力（支配义）。",
+  "★wave48 门务记录：w4/13「Heidelberger Schriften」一节（28 块 / 203 句）有五类特殊命中——①拉丁／希腊引文一律不译不动、括注中文，本节保留「cogito ergo sum」（我思故我在）、「omnis determinatio est negatio」（一切规定即否定）、「a priori」（先天）、「causa sui」（自因）、「principio contradictionis」（矛盾律原理）、「principio exclusi tertii」（排中律原理）、「coincidentiae oppositorum」（对立者之重合）、「privilegium aggratiandi」（施恩特权）、「otium cum dignitate」（尊严的闲适）、Ήϑιϰ. μεγ. Α [Große Ethik, A]、ἐπιστήμη、λόγος、πάϑος ϰαὶ ἠ ͂ϑος——共 16 处，按字面收录进门白名单；②「S.」（Seite）命中 doNotTranslate 13 处（S. 40、S. 46、S. 49、S. 74、S. 416 等），英中一律保留「S.」，中文侧不补「页」字以免破坏原样；③德式卷期「31.」（bi4[2]）按字符命中「1.」，英中均保留原写法（ZH「31. Heft 1801」）；④德文书名「(Über die Lehre des Spinoza)」（bi24[6]）中的「a)」按字符命中 doNotTranslate「a)」，故连括注整体保留不译；⑤「z. B.」命中 doNotTranslate「B.」（6 处：bi23[0]、bi23[4]、bi24[5]、bi24[6]、bi25[2]、bi26[2]），按门规则以「z. A.」～「z. C.」例程豁免；另「vgl.」（bi25[1]）保留原样。本节另有四处分义须登记：Vorstellung／vorgestellt 作「设想」义（bi8[12]、bi19[1]、bi24[6]）不作「表象」；Dasein 在 bi8[12]「die Beweise vom Dasein Gottes」为神学日常义作「上帝的存在」，不作「定在」。"
  ],
  "entries": [
   {
@@ -32,7 +34,7 @@
    "en": "idea",
    "zh": "观念",
    "type": "term",
-   "note": "政策：词族 Idee 的词根是“观念”，严禁“理念”；absolute Idee＝绝对观念"
+   "note": "政策：词族 Idee 的词根是“观念”，严禁“理念”；absolute Idee＝绝对观念 ★wave48 分义：w4/13「Mit der Idee des Geistes」（bi25[7]）作「精神的观念」——本波初译把该术语吞成「把精神理解为…」，已改回；本节 15 句中的 22 处「观念」全部对应 Idee，无一处误用于 Vorstellung。"
   },
   {
    "source": "ideell",
@@ -95,7 +97,7 @@
    "en": "reality",
    "zh": "实在性",
    "type": "term",
-   "note": "与 Idealität（观念性）对举；严禁“现实性” wave34 核查附注：reell（实在的）与 Realität（实在性）是不同词形，守卫按 Realität 家族匹配 reell 会误报 major；译文作“实在的”即为正确（#155）"
+   "note": "与 Idealität（观念性）对举；严禁“现实性” wave34 核查附注：reell（实在的）与 Realität（实在性）是不同词形，守卫按 Realität 家族匹配 reell 会误报 major；译文作“实在的”即为正确（#155） ★wave48 分义：w4/13 bi16[7]「eine natürliche Realität」作「自然的实在性」——本波初译作「自然的现实性」，已改回；与 Wirklichkeit（现实性）严格分开。"
   },
   {
    "source": "real",
@@ -123,7 +125,7 @@
    "en": "concept",
    "zh": "概念",
    "type": "term",
-   "note": "与 Vorstellung（表象）、Anschauung（直观）区分；严禁用“观念”"
+   "note": "与 Vorstellung（表象）、Anschauung（直观）区分；严禁用“观念” ★wave48 分义：w4/13 bi23[0]「begreifendes Erkennen」作「以概念把握的认识」，与 w4/2「Die Wissenschaft ist die begreifende Erkenntnis des absoluten Geistes」→「科学是以概念把握绝对精神的认识」同卷先例一致。"
   },
   {
    "source": "begreifen",
@@ -137,14 +139,14 @@
    "en": "representation",
    "zh": "表象",
    "type": "term",
-   "note": "政策：严禁用“观念”译 Vorstellung（该词根留给 Idee 族） ★wave43b3 补充：★wave43b3 复核：§75「把它的表象当下化」——Vorstellung 一律表象（政策硬词），不加引号 ★wave46 分义：w4/11「nach einhelliger Vorstellung」「diese Vorstellung beim Publikum」＝一致的看法／公众的想法（2 处），作「看法」，不作「表象」；表象义仍照词根。"
+   "note": "政策：严禁用“观念”译 Vorstellung（该词根留给 Idee 族） ★wave43b3 补充：★wave43b3 复核：§75「把它的表象当下化」——Vorstellung 一律表象（政策硬词），不加引号 ★wave46 分义：w4/11「nach einhelliger Vorstellung」「diese Vorstellung beim Publikum」＝一致的看法／公众的想法（2 处），作「看法」，不作「表象」；表象义仍照词根。 ★wave48 分义：w4/13 bi6[9]「eine bloße Vorstellung」、bi8[2]「die Vorstellung aus der absoluten Substanz」、bi21[8]、bi21[10] 作「表象」；「设想／看法」义（bi8[12]「zu der Vorstellung veranlaßt」、bi19[1]、bi24[6]「vorgestellt」）作「设想」——与 wave47「一致的看法／公众的想法」同类分义，不取「观念」。"
   },
   {
    "source": "Geist",
    "en": "spirit",
    "zh": "精神",
    "type": "term",
-   "note": "与 Seele（灵魂）、Bewußtsein（意识）区分；不作“心灵”“灵魂” wave34 核查例外：Geistern（复数）在神秘学语境指精灵／神灵（Umgang mit höheren Geistern），不作“精神”（#96） wave35 核查确认：Seelenlehre（灵魂学说）实测作「灵魂学说」正确——「灵魂」留给 Seele，本条禁的是把 Geist 译成灵魂（#b53、#b69）。"
+   "note": "与 Seele（灵魂）、Bewußtsein（意识）区分；不作“心灵”“灵魂” wave34 核查例外：Geistern（复数）在神秘学语境指精灵／神灵（Umgang mit höheren Geistern），不作“精神”（#96） wave35 核查确认：Seelenlehre（灵魂学说）实测作「灵魂学说」正确——「灵魂」留给 Seele，本条禁的是把 Geist 译成灵魂（#b53、#b69）。 ★wave48 分义：w4/13「seines Geistes」（bi6[5]）、「der edle Geist」（bi21[4]）、「Manier seines Geistes」（bi23[0]）、「Der Geist und die Grundanschauung Jacobis」（bi26[0]）、「den Geist Hamanns」（bi27[10]）一律「精神」——本波初译作「心灵」，已改回；「geistlos」（bi14[5]）作「无精神的」，该句本波初译漏译「无精神的」，已补回并重排句序。"
   },
   {
    "source": "geistig",
@@ -158,7 +160,7 @@
    "en": "knowing / knowledge",
    "zh": "知识",
    "type": "term",
-   "note": "活动义作“知”，结果义作“知识”；与 Erkenntnis（认识）分开；Idee des Wissens oder der Wahrheit＝知识或真理的观念 ★wave47 分义：w4/12「der Trieb nach Wissen」作「追求知识的冲动」（1 处），按本条用「知识」；「nach Erwerb」作「获取」（1 处）。"
+   "note": "活动义作“知”，结果义作“知识”；与 Erkenntnis（认识）分开；Idee des Wissens oder der Wahrheit＝知识或真理的观念 ★wave47 分义：w4/12「der Trieb nach Wissen」作「追求知识的冲动」（1 处），按本条用「知识」；「nach Erwerb」作「获取」（1 处）。 ★wave48 分义：w4/13「Wissen von Gott」（bi8[12]、bi8[13]）作「对上帝的知识」；「das Wissen dessen, was sein soll」（bi11[7]）作「所应者的知识」；「Erkenntnis, Wissen, theoretische Vernunft」（bi14[4]）作「认识、知识、理论理性」；「ein Wissen der Ideen」（bi27[10]）作「……的知识」——一律「知识」，不与 Erkenntnis（认识）混；本波初译 bi14[4] 作「学问」、bi8[12]／bi8[13]／bi11[7]／bi27[10] 作「认识」，已统一改回。"
   },
   {
    "source": "Wahrheit",
@@ -193,7 +195,7 @@
    "en": "determinate being",
    "zh": "定在",
    "type": "term",
-   "note": "与 Existenz（存在）严格分开；凡 Dasein 一律“定在” ★wave47 分义：w4/12「vom Dasein Gottes」＝上帝的存在（1 处，神学日常义），不作「定在」；本条「凡 Dasein 一律定在」在此分义下不适用。"
+   "note": "与 Existenz（存在）严格分开；凡 Dasein 一律“定在” ★wave47 分义：w4/12「vom Dasein Gottes」＝上帝的存在（1 处，神学日常义），不作「定在」；本条「凡 Dasein 一律定在」在此分义下不适用。 ★wave48 分义：w4/13「die Beweise vom Dasein Gottes」（bi8[12]）作「上帝的存在之证明」（神学日常义），不作「定在」；与 wave47 同类分义一致。"
   },
   {
    "source": "Fürsichsein",
@@ -221,28 +223,28 @@
    "en": "appearance",
    "zh": "现象",
    "type": "term",
-   "note": "与 Schein（假象）、Wesen（本质）区分；Erscheinungswelt＝现象世界 ★wave40 短语级登记：「nach ihrer Erscheinung betrachtet」作 就其外观来看；名词本体仍严格 现象。 ★wave43b4 分义：动词化用法（Erscheinung im feurigen Busche＝在燃烧的荆棘中显现）作「显现」；名词本体仍「现象」。"
+   "note": "与 Schein（假象）、Wesen（本质）区分；Erscheinungswelt＝现象世界 ★wave40 短语级登记：「nach ihrer Erscheinung betrachtet」作 就其外观来看；名词本体仍严格 现象。 ★wave43b4 分义：动词化用法（Erscheinung im feurigen Busche＝在燃烧的荆棘中显现）作「显现」；名词本体仍「现象」。 ★wave48 分义：w4/13 bi4[0]「von ihrer ersten Erscheinung her」作「自它首次问世以来」、bi5[0]「der Erscheinung nach」作「按其出现的先后来看」、bi8[10] 作「显得像是」——均为「出现」义，名词本体仍严格「现象」。"
   },
   {
    "source": "Wirklichkeit",
    "en": "actuality",
    "zh": "现实性",
    "type": "term",
-   "note": "与 Realität（实在性）、Möglichkeit（可能性）、Notwendigkeit（必然性）并列 ★wave42b4 补充：§35「die einzelne Wirklichkeit」＝个别现实性、§37「zur Wirklichkeit bringen」＝带进现实性；名词一律带「性」 ★wave46 分义：w4/11「die (Vorstellungen der) menschlichen Dinge nach ihrer Wirklichkeit」作「现实性」（1 处），与 Realität（实在性）严格分开。 ★wave47 分义：w4/12「ein Beruf der Wirklichkeit」作「一种现实中的职业」（1 处，日常「现实」义，不作「现实性」）；另「wirklich」在本节 4 处（bi3[1]、bi29[0]、bi29[1]、bi36[2]）为日常义「真正／确实」，不带「现实」字根，属词族规则的词形误报，不改。"
+   "note": "与 Realität（实在性）、Möglichkeit（可能性）、Notwendigkeit（必然性）并列 ★wave42b4 补充：§35「die einzelne Wirklichkeit」＝个别现实性、§37「zur Wirklichkeit bringen」＝带进现实性；名词一律带「性」 ★wave46 分义：w4/11「die (Vorstellungen der) menschlichen Dinge nach ihrer Wirklichkeit」作「现实性」（1 处），与 Realität（实在性）严格分开。 ★wave47 分义：w4/12「ein Beruf der Wirklichkeit」作「一种现实中的职业」（1 处，日常「现实」义，不作「现实性」）；另「wirklich」在本节 4 处（bi3[1]、bi29[0]、bi29[1]、bi36[2]）为日常义「真正／确实」，不带「现实」字根，属词族规则的词形误报，不改。 ★wave48 分义：w4/13 bi11[9]「die als äußerlich vorgefundene Wirklichkeit」作「现实性」、bi17[6]「äußerlich-konkrete Wirklichkeiten」作「具体的现实」——名词本体仍「现实性」，具体者作「现实」。"
   },
   {
    "source": "Notwendigkeit",
    "en": "necessity",
    "zh": "必然性",
    "type": "term",
-   "note": "共享词表；与 Zufälligkeit（偶然性）对举 wave34 补注：物理语境“自然的必然性与规律”同作“必然性”，不拆为“必要”"
+   "note": "共享词表；与 Zufälligkeit（偶然性）对举 wave34 补注：物理语境“自然的必然性与规律”同作“必然性”，不拆为“必要” ★wave48 分义：w4/13 一律「必然性」（含「这一必然性」「在必然性上去认识」）。"
   },
   {
    "source": "Substanz",
    "en": "substance",
    "zh": "实体",
    "type": "term",
-   "note": "“实体即主体”（Substanz als Subjekt）；本卷 Wirklichkeit 部分 1. Substanz 2. Ursache 3. Wechselwirkung"
+   "note": "“实体即主体”（Substanz als Subjekt）；本卷 Wirklichkeit 部分 1. Substanz 2. Ursache 3. Wechselwirkung ★wave48 分义：w4/13「die absolute Substanz」「die gediegene Substanz」作「绝对实体／扎实实体」；bi8[3]「als Substanz oder als Geist bestimmt」作「被规定为实体还是被规定为精神」——实体与精神对举处不可互换。"
   },
   {
    "source": "Ursache",
@@ -256,7 +258,7 @@
    "en": "effect",
    "zh": "效果",
    "type": "term",
-   "note": "兼有“作用”义；与 Ursache（原因）对举"
+   "note": "兼有“作用”义；与 Ursache（原因）对举 ★wave48 分义：w4/13 bi24[6]「eine andere Ursache sowie auch eine andere Wirkung」作「另一种原因以及另一种作用」——作用义，非「效果」。"
   },
   {
    "source": "Wechselwirkung",
@@ -298,14 +300,14 @@
    "en": "mediation",
    "zh": "中介",
    "type": "term",
-   "note": "与 Unmittelbarkeit（直接性）成对；不作“媒介化”"
+   "note": "与 Unmittelbarkeit（直接性）成对；不作“媒介化” ★wave48 分义：w4/13 bi8[3]、bi8[4]、bi8[10]、bi8[17] 一律「中介」（如「认识作为对中介的扬弃」），与 Unmittelbarkeit（直接性）成对。"
   },
   {
    "source": "Unmittelbarkeit",
    "en": "immediacy",
    "zh": "直接性",
    "type": "term",
-   "note": "与 Vermittlung（中介）成对"
+   "note": "与 Vermittlung（中介）成对 ★wave48 分义：w4/13 bi8[3]「die Unmittelbarkeit der Vernunft」作「理性的直接性」、bi7[1]、bi8[10] 的「das Unmittelbare」作「直接者」——与 Vermittlung（中介）成对。"
   },
   {
    "source": "Reflexion",
@@ -326,7 +328,7 @@
    "en": "certainty",
    "zh": "确定性",
    "type": "term",
-   "note": "与 Bestimmtheit（规定性）分开"
+   "note": "与 Bestimmtheit（规定性）分开 ★wave48 分义：w4/13 术语义作「确定性」（bi8[3]「确定性之感」、bi11[9]「内在确定性」），心中确信义作「确信」（bi18[2]「内在确信」、bi21[3]「不可抗拒的确信」、bi27[10]「有把握地说」）；与 Bestimmtheit（规定性）分开，bi8[3] 同句二者已厘清。"
   },
   {
    "source": "Identität",
@@ -347,7 +349,7 @@
    "en": "negation",
    "zh": "否定",
    "type": "term",
-   "note": "Negation der Negation＝否定之否定；omnis determinatio est negatio 见 doNotTranslate（拉丁引文）"
+   "note": "Negation der Negation＝否定之否定；omnis determinatio est negatio 见 doNotTranslate（拉丁引文） ★wave48 分义：w4/13 bi8[3]「die Negation der Negation」作「否定的否定」（与「否定之否定」同义）、「die absolute Negativität」作「绝对否定性」——名词本体仍「否定」。"
   },
   {
    "source": "Negativität",
@@ -438,7 +440,7 @@
    "en": "person",
    "zh": "人格",
    "type": "term",
-   "note": "法权义作“人格”（eine rechtliche Person＝法律人格）；“个人”留给 Individuum ★wave42 补充：与 Persönlichkeit（人格性）严格分开。Person 是法上的法律人格（er ist eine Person／als Person behandelt werden）；Persönlichkeit 是「人格的概念」所包含的我性或个别性。 ★wave42b2 补充：「某一个人」类译法一律改为「单一个人格」守一词一译 ★wave43b2 补充：★wave43b2 补充分义：「die Person des Fürsten」指君主其人，作「本人」（非法律人格义）；「als Personen füreinander gelten」仍作「作为人格」 ★wave45 分义：w4/10 演辞日常义「die älteren Personen」「die besondere Person」作「年长者／特殊的人」（3 处，非法律人格义）；另 2 处为 Personal／Personale 子串命中，不作「人格」。 ★wave46 分义：w4/11「solche Personen」＝这样的人（1 处），不作「人格」。 ★wave47 分义：w4/12「Ihr unterhabendes Personal」＝您属下的人员（1 处，Personal 子串命中），不作「人格」。"
+   "note": "法权义作“人格”（eine rechtliche Person＝法律人格）；“个人”留给 Individuum ★wave42 补充：与 Persönlichkeit（人格性）严格分开。Person 是法上的法律人格（er ist eine Person／als Person behandelt werden）；Persönlichkeit 是「人格的概念」所包含的我性或个别性。 ★wave42b2 补充：「某一个人」类译法一律改为「单一个人格」守一词一译 ★wave43b2 补充：★wave43b2 补充分义：「die Person des Fürsten」指君主其人，作「本人」（非法律人格义）；「als Personen füreinander gelten」仍作「作为人格」 ★wave45 分义：w4/10 演辞日常义「die älteren Personen」「die besondere Person」作「年长者／特殊的人」（3 处，非法律人格义）；另 2 处为 Personal／Personale 子串命中，不作「人格」。 ★wave46 分义：w4/11「solche Personen」＝这样的人（1 处），不作「人格」。 ★wave47 分义：w4/12「Ihr unterhabendes Personal」＝您属下的人员（1 处，Personal 子串命中），不作「人格」。 ★wave48 分义：w4/13 bi8[4]「in der von ihm unterschiedenen Person」作「在与他相区别的人格中」——法上人格义；bi26[2]「persönlich」「die persönliche Gesinnung」作「个人」「个人心态」为日常个人义。"
   },
   {
    "source": "Eigentum",
@@ -725,7 +727,7 @@
    "en": "delivery / lectures",
    "zh": "讲授",
    "type": "term",
-   "note": "Über den Vortrag der Philosophie auf Gymnasien＝关于在文科中学讲授哲学；Vortrag 指讲授法/讲授方式，不作“讲座”"
+   "note": "Über den Vortrag der Philosophie auf Gymnasien＝关于在文科中学讲授哲学；Vortrag 指讲授法/讲授方式，不作“讲座” ★wave48 分义：w4/13 bi21[4]「dem Vortrage von Versicherungen」作「这种断言的呈现」——本节 Vortrag 非「讲授」义（文科学堂讲授义留给 w4/12 等）。"
   },
   {
    "source": "Disziplin",
@@ -823,14 +825,14 @@
    "en": "Jacobi",
    "zh": "雅可比",
    "type": "person",
-   "note": "本卷海德堡书评对象；Jacobische Philosophie＝雅可比哲学；通行中译“雅可比”"
+   "note": "本卷海德堡书评对象；Jacobische Philosophie＝雅可比哲学；通行中译“雅可比” ★wave48 分义：w4/13 全部 69 处作「雅可比」（共享词表与 w2 一致）——本波初译误作「雅各比」69 处，已全部改回。"
   },
   {
    "source": "Spinoza",
    "en": "Spinoza",
    "zh": "斯宾诺莎",
    "type": "person",
-   "note": "Spinozismus＝斯宾诺莎主义；雅可比《关于斯宾诺莎学说的书信》"
+   "note": "Spinozismus＝斯宾诺莎主义；雅可比《关于斯宾诺莎学说的书信》 ★wave48 分义：w4/13 9 处作「斯宾诺莎」；bi24[6] 德文书名「(Über die Lehre des Spinoza)」连括注保留原样不译。"
   },
   {
    "source": "Niethammer",
@@ -963,7 +965,7 @@
    "en": "feeling",
    "zh": "感觉",
    "type": "term",
-   "note": "主观精神起点；与 Affektion（感受）分开。本波 12 处一致 wave34 核查：Gefühl 一律“感觉”，曾有两处误作“感受”（与 Affektion 混），已改回（#165） ★wave43b2 补充：★wave43b2 补充：抽象名词化的「das Gefühl der X」可作「X感」（das Gefühl der Nationalehre＝民族荣誉感），不一律强作「感觉」 ★wave44 分义：演辞与讲稿的日常感受义尽量落「感觉」词根（幸福的感觉、感觉世界）；「情感」仅保留于纯日常情绪语境。 ★wave45 分义：w4/10「das Gefühl des Respekts und Gehorsams」「das Gefühle der Achtung und des Gehorsams」作「尊重感与服从感」（2 处，承 wave43b2「X感」条）。"
+   "note": "主观精神起点；与 Affektion（感受）分开。本波 12 处一致 wave34 核查：Gefühl 一律“感觉”，曾有两处误作“感受”（与 Affektion 混），已改回（#165） ★wave43b2 补充：★wave43b2 补充：抽象名词化的「das Gefühl der X」可作「X感」（das Gefühl der Nationalehre＝民族荣誉感），不一律强作「感觉」 ★wave44 分义：演辞与讲稿的日常感受义尽量落「感觉」词根（幸福的感觉、感觉世界）；「情感」仅保留于纯日常情绪语境。 ★wave45 分义：w4/10「das Gefühl des Respekts und Gehorsams」「das Gefühle der Achtung und des Gehorsams」作「尊重感与服从感」（2 处，承 wave43b2「X感」条）。 ★wave48 分义：w4/13 bi7[1]「das ebenso feste Gefühl」作「同样坚定的感觉」——本波初译作「情绪」，与 Laune 撞词，已改回；bi8[3]「Gefühle der Gewißheit」作「确定性之感」为复合短语。"
   },
   {
    "source": "Affektion",
@@ -1054,7 +1056,7 @@
    "en": "middle",
    "zh": "中项",
    "type": "term",
-   "note": "推论的中间规定（terminus medius）；与 Extreme（极端）对举 ★wave44 核查误报登记：演辞日常义 die Mitte（居中/中间）与 Mittel（手段）多次被本条命中；zh 无「中项」时属词形误报，不改。 ★wave44 补充：in ihrer Mitte（在其聚会之中）日常方位义作「中间」，非中项；另 Mittel（手段）被本条子串命中系词形误报，zh 作手段为正确。 ★wave45 续证：w4/10 再见 6 处 Mittel（手段）被本条子串命中，zh 作「手段」为正确（手段／中项分译不变）。 ★wave46 分义：w4/11「in der schönen Mitte」＝处在美好中间（时代定位义，1 处），作「中间」，不作「中项」。 ★wave47 分义：w4/12 门命中 4 处全是词形误报——「Mittel」（手段）与「Mittel- und Unterklasse」（中年级）含「Mitte」子串，zh 作「手段」「中年级」为正确，不改。"
+   "note": "推论的中间规定（terminus medius）；与 Extreme（极端）对举 ★wave44 核查误报登记：演辞日常义 die Mitte（居中/中间）与 Mittel（手段）多次被本条命中；zh 无「中项」时属词形误报，不改。 ★wave44 补充：in ihrer Mitte（在其聚会之中）日常方位义作「中间」，非中项；另 Mittel（手段）被本条子串命中系词形误报，zh 作手段为正确。 ★wave45 续证：w4/10 再见 6 处 Mittel（手段）被本条子串命中，zh 作「手段」为正确（手段／中项分译不变）。 ★wave46 分义：w4/11「in der schönen Mitte」＝处在美好中间（时代定位义，1 处），作「中间」，不作「中项」。 ★wave47 分义：w4/12 门命中 4 处全是词形误报——「Mittel」（手段）与「Mittel- und Unterklasse」（中年级）含「Mitte」子串，zh 作「手段」「中年级」为正确，不改。 ★wave48 分义：w4/13 bi11[6]「die Mitte des Schlusses」作「推论的中项」——推论中项义本条适用；bi21[12] 的命中系 Mittel（手段）子串误报，zh 作「手段」为正确。"
   },
   {
    "source": "Inhärenz",
@@ -1243,7 +1245,7 @@
    "en": "assertion",
    "zh": "断言",
    "type": "term",
-   "note": "本卷逻辑语境＝「断言／肯定宣称」，与 p136 平行句一致；共享词表通用条「保证」（保证义）在本语境不适用 ★wave43b4 分义：宗教语境（die Versicherung dieser Einigkeit＝给自己以这种一致的确信）作「确信」；逻辑语境仍「断言」。共享词表「保证」在本卷两义均不适用。 ★wave47 分义：w4/12「die Versicherung meiner ausgezeichneten Hochachtung und Ergebenheit」作「我最诚挚的敬意与归附的保证」（1 处），不作「断言」。"
+   "note": "本卷逻辑语境＝「断言／肯定宣称」，与 p136 平行句一致；共享词表通用条「保证」（保证义）在本语境不适用 ★wave43b4 分义：宗教语境（die Versicherung dieser Einigkeit＝给自己以这种一致的确信）作「确信」；逻辑语境仍「断言」。共享词表「保证」在本卷两义均不适用。 ★wave47 分义：w4/12「die Versicherung meiner ausgezeichneten Hochachtung und Ergebenheit」作「我最诚挚的敬意与归附的保证」（1 处），不作「断言」。 ★wave48 分义：w4/13 bi21[3]「nur mit dem Werte von Versicherungen」作「只显出断言的价值」——断言义，与 wave43b4 逻辑语境一致。"
   },
   {
    "source": "willkürlich",
@@ -1264,7 +1266,7 @@
    "en": "proposition",
    "zh": "命题",
    "type": "term",
-   "note": "逻辑术语；als Satz ausgedrückt＝作为命题表达出来；勿与 Schlußsatz 混"
+   "note": "逻辑术语；als Satz ausgedrückt＝作为命题表达出来；勿与 Schlußsatz 混 ★wave48 分义：w4/13 bi24[6]「des Satzes, daß alles seine Ursache habe」作「那个「一切都有其原因」的命题」——命题义。"
   },
   {
    "source": "Figur",
@@ -1299,7 +1301,7 @@
    "en": "sphere",
    "zh": "领域",
    "type": "term",
-   "note": "allgemeine Sphäre＝一般领域；共享词表 variante"
+   "note": "allgemeine Sphäre＝一般领域；共享词表 variante ★wave48 分义：w4/13 bi17[6]「der sittlichen oder moralischen Sphäre」作「伦理或道德范围」、bi18[1]「ihre Sphäre」作「那个范围」——本节取「范围／领域」义。"
   },
   {
    "source": "Gleichheit",
@@ -1320,7 +1322,7 @@
    "en": "copula",
    "zh": "连系词",
    "type": "term",
-   "note": "判断中联系主谓的词；共享词表 unsicher，卷内已统一"
+   "note": "判断中联系主谓的词；共享词表 unsicher，卷内已统一 ★wave48 分义：w4/13 bi12[5]「die ganz abstrakte Kopula Ist, Ist, Ist」作「全然抽象的系词「是、是、是」」——本卷 w4/3、w4/4、w4/6 系词与连系词并用，本节沿用「系词」。"
   },
   {
    "source": "Umkehrung",
@@ -1334,7 +1336,7 @@
    "en": "virtue",
    "zh": "美德",
    "type": "term",
-   "note": "与 Laster（恶习）对举；Tapferkeit（勇敢）是一种美德 ★wave44 补充：演辞「默默无闻的美德/以功业与美德加冕」已统一美德。"
+   "note": "与 Laster（恶习）对举；Tapferkeit（勇敢）是一种美德 ★wave44 补充：演辞「默默无闻的美德/以功业与美德加冕」已统一美德。 ★wave48 分义：w4/13 bi16[5]「die Tugenden」（亚里士多德 aretai）作「诸德性」、bi16[9]「die Tugend von Sokrates」作「德性」——亚里士多德德性论语境取「德性」；本卷日常道德语境取「美德」（w4/3、w4/4、w4/8、w4/10、w4/11 等）。"
   },
   {
    "source": "Laster",
@@ -1369,7 +1371,7 @@
    "en": "demand",
    "zh": "要求",
    "type": "term",
-   "note": "推论的形式包含着前提须被证明的要求"
+   "note": "推论的形式包含着前提须被证明的要求 ★wave48 分义：w4/13 bi18[2]「eine Forderung an die Philosophie」作「向哲学提出的一个要求」。"
   },
   {
    "source": "Wiederholung",
@@ -1411,7 +1413,7 @@
    "en": "nature",
    "zh": "本性",
    "type": "term",
-   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes） ★wave42b4 补充：§40「von der Natur und äußeren Umständen Abhängige」＝依赖于自然与外在情境，作「自然」不作「本性」 ★wave43b3 补充：★wave43b3：§79「人的本性与上帝的本性」作「本性」（context-w4）；与 Sinnliches＝感性之物 分开 ★wave44 分义：事物的自然状态/风气义（der Natur des hiesigen Charakters＝此地风气的本性；Natur und Zustand＝自然本质与自然状况）按本条词根统一「本性/自然」。 ★wave45 分义：w4/10「das stille Gebären der Natur in Steinen」作「自然的静默孕育」（1 处），不作「本性」；「die Natur einer Anstalt」等仍作「本性」。 ★wave46 分义：w4/11「der Natur der Sache nach」作「事理的性质」（1 处）；「von der Natur bestimmt」作「天性」（1 处），均非「本性」词根义。 ★wave47 分义：w4/12 门命中 6 句：5 句作「自然」（含复合词 Philosophie der Natur／Naturbetrachtung／Naturphilosophie，以及「das Leben der Natur」「reines Denken, Natur und Geist」「die Regionen der Natur」）；1 句「die Natur des Epos, der Tragödie, der Komödie」（艺术作品的本性）作「性质」。另「die Natur des abzuhandelnden Inhalts」「die Natur des Gegenstandes」仍作「本性」（2 处，未被门命中）。"
+   "note": "identische Natur beider＝两者的同一本性 ★wave42b3 补充：§23「durch die Natur」「nach der Natur」皆作「自然」（人按自然相处），不作「本性」；「本性」仍限于物之本性（如 Natur des Geistes） ★wave42b4 补充：§40「von der Natur und äußeren Umständen Abhängige」＝依赖于自然与外在情境，作「自然」不作「本性」 ★wave43b3 补充：★wave43b3：§79「人的本性与上帝的本性」作「本性」（context-w4）；与 Sinnliches＝感性之物 分开 ★wave44 分义：事物的自然状态/风气义（der Natur des hiesigen Charakters＝此地风气的本性；Natur und Zustand＝自然本质与自然状况）按本条词根统一「本性/自然」。 ★wave45 分义：w4/10「das stille Gebären der Natur in Steinen」作「自然的静默孕育」（1 处），不作「本性」；「die Natur einer Anstalt」等仍作「本性」。 ★wave46 分义：w4/11「der Natur der Sache nach」作「事理的性质」（1 处）；「von der Natur bestimmt」作「天性」（1 处），均非「本性」词根义。 ★wave47 分义：w4/12 门命中 6 句：5 句作「自然」（含复合词 Philosophie der Natur／Naturbetrachtung／Naturphilosophie，以及「das Leben der Natur」「reines Denken, Natur und Geist」「die Regionen der Natur」）；1 句「die Natur des Epos, der Tragödie, der Komödie」（艺术作品的本性）作「性质」。另「die Natur des abzuhandelnden Inhalts」「die Natur des Gegenstandes」仍作「本性」（2 处，未被门命中）。 ★wave48 分义：w4/13「eine unbestimmte Natur」「eine Natur」「die Natur des Inhalts」等一律「自然」（不作「本性」）——本节 Natur 不取物之本性义。"
   },
   {
    "source": "Einiges",
@@ -1474,7 +1476,7 @@
    "en": "life",
    "zh": "生命",
    "type": "term",
-   "note": "Idee des Lebens＝生命的观念；观念的直接定在 ★wave44 分义：演辞与讲稿的「生活/生涯」日常义尽量落「生命」词根（生命之功业、世界与生命、最初的生命）；「生活」仅保留于具体生活方式语境（家庭生活）。 ★wave44 补充：fürs bürgerliche Leben nützlich（对市民生活有用）等具体生活方式语境保留「生活」（与上条分义一致）。 ★wave45 分义：w4/10 演辞「家庭生活／学校生活／公共生活／少年的生活」等具体生活方式语境作「生活」（8 处，承 wave44「生活仅保留于具体生活方式语境」条）。 ★wave46 分义：w4/11「das Zuwachs des Lebens」作「生命」；「das menschliche Leben」「das öffentliche Leben」「das Leben der Staaten」「ein vollständiges Leben」作「生活」（4 处），承 wave44/45「生活仅保留于具体生活方式语境」。"
+   "note": "Idee des Lebens＝生命的观念；观念的直接定在 ★wave44 分义：演辞与讲稿的「生活/生涯」日常义尽量落「生命」词根（生命之功业、世界与生命、最初的生命）；「生活」仅保留于具体生活方式语境（家庭生活）。 ★wave44 补充：fürs bürgerliche Leben nützlich（对市民生活有用）等具体生活方式语境保留「生活」（与上条分义一致）。 ★wave45 分义：w4/10 演辞「家庭生活／学校生活／公共生活／少年的生活」等具体生活方式语境作「生活」（8 处，承 wave44「生活仅保留于具体生活方式语境」条）。 ★wave46 分义：w4/11「das Zuwachs des Lebens」作「生命」；「das menschliche Leben」「das öffentliche Leben」「das Leben der Staaten」「ein vollständiges Leben」作「生活」（4 处），承 wave44/45「生活仅保留于具体生活方式语境」。 ★wave48 分义：w4/13 bi6[5]「ein ermattetes Leben」作「疲惫生活」，bi8[4]、bi8[17]、bi9[3] 的 Leben 作「生命」——生活／生命按语境分（沿用 wave44 已立之例）。"
   },
   {
    "source": "organisches System",
@@ -1502,7 +1504,7 @@
    "en": "the ought",
    "zh": "应然",
    "type": "term",
-   "note": "「2. 应然或善」节标题；应然性是自由的法则"
+   "note": "「2. 应然或善」节标题；应然性是自由的法则 ★wave48 分义：w4/13「was sein soll」作「所应者／应当」——应然为节标题义，日常语境作「应当」。"
   },
   {
    "source": "Definition",
@@ -1719,7 +1721,7 @@
    "en": "difference",
    "zh": "相异",
    "type": "term",
-   "note": "★ 与 Unterschied（差别）严格分工：Unterschied 作「差别」、Verschiedenheit 作「相异」（共享词表 Verschiedene=相异）。勿与 Ähnlichkeit（相似）混 ★wave47 分义：w4/12「Jene Verschiedenheit」「für eine Verschiedenheit」作「差异」（2 处），不作「相异」。"
+   "note": "★ 与 Unterschied（差别）严格分工：Unterschied 作「差别」、Verschiedenheit 作「相异」（共享词表 Verschiedene=相异）。勿与 Ähnlichkeit（相似）混 ★wave47 分义：w4/12「Jene Verschiedenheit」「für eine Verschiedenheit」作「差异」（2 处），不作「相异」。 ★wave48 分义：w4/13 bi12[6]、bi12[10] 作「差异」（与 w4/12 同），不取「相异」。"
   },
   {
    "source": "Akzidenz",
@@ -1733,7 +1735,7 @@
    "en": "power",
    "zh": "威力",
    "type": "term",
-   "note": "勿与 Gewalt（强力）混；potentiieren（自我产生）得威力 ★wave41 分义登记：绝对威力与支配性的威力作「威力」（本条）；「die Macht 某事的能力」与「in der Macht haben」作「力量」或直接动词化为「掌握」——不作「能力」。 ★wave42b3 补充：§27「die Macht, die Gesetze zu geben und zu handhaben」按本条 wave41 分义作「力量」（不定式结构），不作「威力」；§22「die Gewalt habende … Macht」作「威力」 ★wave43b4 补充：seine Macht ist unbedeutend, sie auszuführen（他的力量微不足道，不足以实行它）按 wave41 分义作「力量」；schöpferische Macht des Geistes＝精神的创造威力作「威力」。 ★wave45 分义：w4/10「eine Macht, mit demselben fertig zu werden」「die Macht über die unmittelbaren Vorstellungen」作「力量」（2 处，承 wave41「die Macht 某事的能力」条），不作「威力」。"
+   "note": "勿与 Gewalt（强力）混；potentiieren（自我产生）得威力 ★wave41 分义登记：绝对威力与支配性的威力作「威力」（本条）；「die Macht 某事的能力」与「in der Macht haben」作「力量」或直接动词化为「掌握」——不作「能力」。 ★wave42b3 补充：§27「die Macht, die Gesetze zu geben und zu handhaben」按本条 wave41 分义作「力量」（不定式结构），不作「威力」；§22「die Gewalt habende … Macht」作「威力」 ★wave43b4 补充：seine Macht ist unbedeutend, sie auszuführen（他的力量微不足道，不足以实行它）按 wave41 分义作「力量」；schöpferische Macht des Geistes＝精神的创造威力作「威力」。 ★wave45 分义：w4/10「eine Macht, mit demselben fertig zu werden」「die Macht über die unmittelbaren Vorstellungen」作「力量」（2 处，承 wave41「die Macht 某事的能力」条），不作「威力」。 ★wave48 分义：w4/13 bi18[2]「Macht und Majestät über sie」作「威力与威严」——支配义取本条「威力」——本波初译作「力量」，已改回。"
   },
   {
    "source": "Dingheit",
@@ -1789,7 +1791,7 @@
    "en": "expression",
    "zh": "表现",
    "type": "term",
-   "note": "力的表现＝其自在地所是者"
+   "note": "力的表现＝其自在地所是者 ★wave48 分义：w4/13 bi21[12]「die Form und Gestalt der Äußerung」作「表达」、bi26[1]「Äußerungen über Persönlichkeit」作「表述」——与 Darstellung（表述）在此节同现，取义有别。"
   },
   {
    "source": "unbedingt",
@@ -2230,7 +2232,7 @@
    "en": "personality",
    "zh": "人格性",
    "type": "term",
-   "note": "wave42 新增：★与 Person（人格）严格分开。Person 是法上的法律人格；Persönlichkeit 是「人格的概念」所包含的我性或个别性"
+   "note": "wave42 新增：★与 Person（人格）严格分开。Person 是法上的法律人格；Persönlichkeit 是「人格的概念」所包含的我性或个别性 ★wave48 分义：w4/13 概念义（自由即人格性、人格的概念、我性／个别性）一律「人格性」（bi7[5]、bi7[6]、bi7[7]、bi8[4]、bi17[7]、bi26[1]、bi27[10]），与 w4/7 同卷先例一致；具体个人义（bi27[0]「那慈爱、善思而开朗的人格」）作「人格」。本波初译 8 处混用作「人格」，已按 w4/7 先例统一。"
   },
   {
    "source": "widerrechtlich",
@@ -2377,7 +2379,7 @@
    "en": "law",
    "zh": "法律",
    "type": "term",
-   "note": "★wave42b3 分义登记：国家立法义作「法律」（§26「法律是自在自为的普遍意志的抽象表达」、§27 国家有法律）；自然律／道德律义作「规律」（§17「精神可以违反规律而行动」）。与 Naturgesetz＝自然规律（共享词表）一致 ★wave44 分义：神圣的／内心的道德 Gesetz 作「法则」（本卷宗教语境既有用法）；法律条按共享词表为存疑条目（conformance 19/75），不动。 ★wave45 分义：w4/10 学校语境（ihr eigenes Recht und Gesetz／im Sinne eines Gesetzes）作「法则」（2 处），与同句 Recht（权利）分译——避免同句出现「法律」而触发 Recht 禁译词。 ★wave46 分义：w4/11「Gesetze und Einrichtungen」「Gesetze und Pflichten」作「法则」（2 处），不作「法律」（承 wave45 同卷分义）。"
+   "note": "★wave42b3 分义登记：国家立法义作「法律」（§26「法律是自在自为的普遍意志的抽象表达」、§27 国家有法律）；自然律／道德律义作「规律」（§17「精神可以违反规律而行动」）。与 Naturgesetz＝自然规律（共享词表）一致 ★wave44 分义：神圣的／内心的道德 Gesetz 作「法则」（本卷宗教语境既有用法）；法律条按共享词表为存疑条目（conformance 19/75），不动。 ★wave45 分义：w4/10 学校语境（ihr eigenes Recht und Gesetz／im Sinne eines Gesetzes）作「法则」（2 处），与同句 Recht（权利）分译——避免同句出现「法律」而触发 Recht 禁译词。 ★wave46 分义：w4/11「Gesetze und Einrichtungen」「Gesetze und Pflichten」作「法则」（2 处），不作「法律」（承 wave45 同卷分义）。 ★wave48 分义：w4/13「das Gesetz」在伦理—宗教语境一律「法则」（含「理性法则」「法则的字面」「伦理的法则」「确定的法则」），不作「法律」；立法义本节未出现。"
   },
   {
    "source": "Gesetzgeber",
@@ -2657,7 +2659,7 @@
    "en": "individual",
    "zh": "个体",
    "type": "term",
-   "note": "★wave43 新增三分：名词 Individuum＝个体（本节 §41「人作为个体与自身相关」）、形容词 Einzelner＝个别者、抽象名词 Einzelheit＝个别性（共享词表＋context-w4 一致）。三者不得混用 ★wave43b2 补充：★wave43b2 复核：§47「eines Individuums」＝一个个体（沿用本条三分裁定）"
+   "note": "★wave43 新增三分：名词 Individuum＝个体（本节 §41「人作为个体与自身相关」）、形容词 Einzelner＝个别者、抽象名词 Einzelheit＝个别性（共享词表＋context-w4 一致）。三者不得混用 ★wave43b2 补充：★wave43b2 复核：§47「eines Individuums」＝一个个体（沿用本条三分裁定） ★wave48 分义：w4/13 bi18[2]「seltene Individuen」作「罕见的人」、bi21[4]「des verehrten … Individuums」作「个人的」——日常个人义不取「个体」。"
   },
   {
    "source": "Einzelwesen",
@@ -2790,7 +2792,7 @@
    "en": "activity",
    "zh": "行动",
    "type": "term",
-   "note": "wave43 新增：§41「通过自己的行动根本无法产生效果」；与 Handlung＝行为 分开 ★wave43b4 补充：die absolute Tätigkeit Gottes＝上帝的绝对行动；Sporn zur Tätigkeit＝行动的刺激。qa 期望「活动」（共享词表）在本卷让位本条「行动」。 ★wave45 分义：w4/10「die Tätigkeit des Kindes」作「儿童的活动」、「an seiner vollen Tätigkeit hindern」作「无法从事全部工作」（2 处），不作「行动」。 ★wave46 分义：w4/11「mit Eifer und Tätigkeit」作「勤勉」；「die Tätigkeit der Einzelnen」作「活动」（共 2 处），不作「行动」。"
+   "note": "wave43 新增：§41「通过自己的行动根本无法产生效果」；与 Handlung＝行为 分开 ★wave43b4 补充：die absolute Tätigkeit Gottes＝上帝的绝对行动；Sporn zur Tätigkeit＝行动的刺激。qa 期望「活动」（共享词表）在本卷让位本条「行动」。 ★wave45 分义：w4/10「die Tätigkeit des Kindes」作「儿童的活动」、「an seiner vollen Tätigkeit hindern」作「无法从事全部工作」（2 处），不作「行动」。 ★wave46 分义：w4/11「mit Eifer und Tätigkeit」作「勤勉」；「die Tätigkeit der Einzelnen」作「活动」（共 2 处），不作「行动」。 ★wave48 分义：w4/13 bi11[4]「jener endlichen Tätigkeit」作「有限活动」、bi13[3]「die Tätigkeiten des Geistes」作「诸种活动」——本卷 Tätigkeit 82 处中仅 13 处作「行动」，「活动」为卷内多数实际用字，本节沿用；「行动」仍留给「绝对行动」等固定搭配。"
   },
   {
    "source": "Maß (beschränkender Gebrauch)",
@@ -3224,7 +3226,7 @@
    "en": "the undetermined",
    "zh": "不定者",
    "type": "term",
-   "note": "★wave43b4 新增：das Unbestimmte Bewegungslose"
+   "note": "★wave43b4 新增：das Unbestimmte Bewegungslose ★wave48 分义：w4/13 bi6[1]「eine unbestimmte Natur」作「不确定的自然」、bi17[5]、bi17[6]、bi27[5]「das absolut Unbestimmte」作「绝对无规定者」——形容词义不取「不定者」的名词化形式。"
   },
   {
    "source": "Schöpfung",
@@ -3280,7 +3282,7 @@
    "en": "oration",
    "zh": "演辞",
    "type": "term",
-   "note": "★wave44 新增：文科中学官方演辞（Gymnasialreden），庄重语域保留正式语序与敬称，不作「讲话」「演讲」；Schuljahrabschluß 作学年结束 ★wave45 分义：w4/10「das viele moralische Gerede」（道德说教／空谈）作「道德说教」（1 处），不作「演辞」；本卷「Rede」条只管文科中学官方演辞。"
+   "note": "★wave44 新增：文科中学官方演辞（Gymnasialreden），庄重语域保留正式语序与敬称，不作「讲话」「演讲」；Schuljahrabschluß 作学年结束 ★wave45 分义：w4/10「das viele moralische Gerede」（道德说教／空谈）作「道德说教」（1 处），不作「演辞」；本卷「Rede」条只管文科中学官方演辞。 ★wave48 分义：w4/13 bi23[0]「die Rede finden」作「我们在他那里读到这样的说法」——本节 Rede 非文科中学官方演辞义，「演辞」条不适用。"
   },
   {
    "source": "Programm",

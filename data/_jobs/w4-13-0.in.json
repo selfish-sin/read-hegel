@@ -1,0 +1,89 @@
+{
+ "id": "w4-13-0",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 13,
+ "chunkTitle": "Heidelberger Schriften",
+ "heading": "Heidelberger Schriften",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1wkep1tvqv",
+   "text": "Heidelberger Schriften"
+  },
+  {
+   "bi": 1,
+   "k": "h",
+   "hash": "vtxw1ts6hr",
+   "text": "Zwei Aufsätze aus den Heidelbergischen Jahrbüchern der Literatur (1817)"
+  },
+  {
+   "bi": 2,
+   "k": "h",
+   "hash": "1oe7t7dcc2",
+   "text": "1. [Über] Friedrich Heinrich Jacobis Werke Dritter Band"
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "1g8w41514j",
+   "sents": [
+    "Leipzig, bei Gerhard Fleischer dem Jüngeren, 1816.",
+    "XXXVI und 568 S.118)"
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "1vg8yj2d09",
+   "sents": [
+    "Referent freut sich der bald nach dem vorhergehenden erfolgten Erscheinung eines neuen Bandes der gesammelten Werke Jacobis und wünscht dem edlen Greise ebenso wie dem Publikum Glück zu der ungestörten Fortführung dieses Geschäfts. - Der vorliegende dritte Band enthält vier Schriften, die nach dem Ausdrucke der Vorrede \"gewissermaßen auch zugleich entstanden und nur auseinandergetretene Teile eines Ganzen sind, das sich in jedem dieser Teile auf eine andere Weise wiederholt\".",
+    "Es sind 1. der im Jahre 1799 erschienene Brief Jacobis an Fichte; 2.",
+    "Die Abhandlung, die wir zuerst in Reinholds Beiträgen usw. 31.",
+    "Heft 1801 lasen, Über das Unternehmen des Kritizismus, die Vernunft zu Verstande zu bringen und der Philosophie überhaupt eine neue Ansicht zu geben; 3.",
+    "Über eine Weissagung Lichtenbergs, zuerst gedruckt 1801; 4.",
+    "Die Schrift Von den göttlichen Dingen und ihrer Offenbarung mit einem Vorberichte zu der gegenwärtigen neuen Ausgabe.",
+    "Eine interessante Zugabe von 23 Briefen an Joh.",
+    "Müller, G[eorg] Forster, Herder, Kant (darunter auch einem von Kant an Jacobi), Geh.",
+    "Rat Schlosser, J[ohann] G[eorg] Jacobi und an einige Ungenannte beschließt den Band."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "zv0mtri3jt",
+   "sents": [
+    "Vielleicht hätte man wünschen mögen, daß in der Folgenreihe dieser Sammlung die frühere Schrift Jacobis, die Briefe über die Lehre des Spinoza119) , den im gegenwärtigen Bande enthaltenen Abhandlungen vorausgeschickt worden wäre, da diese Briefe sich an ein Zeitinteresse knüpfen, das der Erscheinung nach älter ist als die philosophischen Gestalten, mit denen sich jene Abhandlungen beschäftigen, nämlich an die zur letzten Mattheit herabgesunkene Leibnizisch-Wolffische Metaphysik, an welcher die Jacobische Philosophie zugleich den gemeinschaftlichen Ausgangspunkt mit der Kantischen Philosophie hat, welcher sie später gegenübergetreten ist.",
+    "Die genannten Briefe stellen auch die Ansicht Jacobis von der Nichtigkeit aller wissenschaftlichen Erkenntnis des Göttlichen in einer gewissen Ausführung und Begründung dar, - eine Ansicht, die in den vorliegenden Schriften nicht bloß mit der Einschränkung auf die darin behandelten philosophischen Systeme, sondern in ihrer ganzen Allgemeinheit herrschend ist und, mit soviel Geist und Wärme begleitet sie [auch] vorkommt, doch für die, welche über die Wahrheit noch nach Gründen zu fragen gewohnt sind, weitere Wünsche zuläßt; die Vorausschickung der Briefe hätte mehr noch als die Vorausschickung des Gesprächs David Hume über den Glauben im II.",
+    "Bande als eine dieser Gewohnheit noch erzeigte Ehre angesehen werden können. - Die Art und Weise, welche in gegenwärtiger Anzeige darzustellen ist, wie sich Jacobi den in vorliegendem Bande behandelten Philosophien gegenüberstellt, wird mehr Klarheit und Anschaulichkeit gewinnen, wenn wir vorher daran erinnert haben, wie sein Geist sich in das Studium des Spinozismus vertieft und sich in dieser Beschäftigung sein Standpunkt fixiert hat, auf welchem ihn, schon mit sich fertig, die Kantische Philosophie bei ihrer Erscheinung antraf.",
+    "Zur Erläuterung dessen ist aber einiges über den damaligen Zustand der Philosophie ins Gedächtnis zu rufen."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "1r6pqxj1ec",
+   "sents": [
+    "Die französische Philosophie hatte den großen Geist des cartesianischen cogito ergo sum, den Gedanken als den Grund des Seins zu wissen und die Gestaltungen des letzteren nur aus und in jenem zu erkennen, aufgegeben und den umgekehrten Weg des Lockeanismus eingeschlagen, den Gedanken aus dem unmittelbar Gegebenen der Erscheinungswelt abzuleiten.",
+    "Insofern noch das Bedürfnis blieb, auch in dieser einen allgemeinen Grund zu fassen, wurde eine begrifflose Allgemeinheit, nämlich eine unbestimmte Natur oder vielmehr eine Natur, an welche die ganze Oberflächlichkeit einiger dürftiger Reflexionsbestimmungen von Ganzem, Kräften, Zusammensetzung und dergleichen Formen der Äußerlichkeit und des Mechanismus geheftet wurde, als Grundwesen ausgesprochen.",
+    "Die deutsche Bildung hatte der Sache nach dieselbe Richtung genommen und die Aufklärung die Traditionen ehrwürdiger Lehre und Sitte, den empfangenen und unmittelbar gegebenen Inhalt einer göttlichen Welt nach allen Seiten aufgelöst und dieses sogenannte Positive, weil und insofern das Selbstbewußtsein sich in ihm nicht oder, was dasselbe ist, weil es sich nicht im Selbstbewußtsein fand, aufgegeben und verworfen.",
+    "Was übrigblieb, war der Totenkopf eines abstrakten leeren Wesens, das nicht erkannt werden könne, d. h. in welchem das Denken sich selbst nicht habe; das an und für sich Seiende war damit eigentlich auf nichts reduziert, denn was das Selbstbewußtsein in sich fand, waren endliche Zwecke und die Nützlichkeit als die Beziehung aller Dinge auf solche Zwecke.",
+    "Dieser Ansteckung begnügten sich andere, ihr religiöses Gefühl entgegenzusetzen, schrieben auch die theoretischen Resultate Fehlern, die das Erkennen begehe, zu und suchten etwa die Wahrheit durch Berichtigung und Verbesserung der Erkenntnis derselben zu stützen und zu retten.",
+    "Jacobi dagegen setzte nicht nur die Sicherheit seines Gemüts entgegen, sondern die tiefe Gründlichkeit seines Geistes blieb nicht bei den kahlen Resten, in denen die Metaphysik ein ermattetes Leben dürftig fristete und noch schale Hoffnungen nährte, stehen; sie faßte vielmehr die Philosophie in den Quellen des Wissens auf und versenkte sich in ihre kräftigste Gediegenheit.",
+    "Wie auch das philosophische Bestreben sonst in Materien der Metaphysik sich mit Analysieren, Unterscheiden oder Zusammenleimen, mit Erfinden von Denkmöglichkeiten und Widerlegung anderer Möglichkeiten abmühen mag, - wenn es die gediegene unendliche Anschauung und Erkenntnis des einen Substantiellen, welche der Spinozismus ist und in deren Besitz wir Jacobi sehen, nicht zu seiner Grundlage hat und alle weiteren Bestimmungen nicht daran mißt, so fehlt diejenige Beziehung, durch welche alle Erkenntnisbestimmungen allein Wahrheit erhalten, die Beziehung, welche Spinoza so ausdrückt, daß alles unter der Gestalt des Ewigen betrachtet werden müsse.",
+    "Jacobi trat mit dieser ausgezeichneten Überlegenheit in der Zeit der vormaligen Metaphysik auf, weil ihm die Gediegenheit jener Anschauung beiwohnte, die anderen aber das Interesse des Erkennens in etliche dürftige begrifflose Verstandesbestimmungen von Dasein, Möglichkeit, Begriff und dergleichen legten.",
+    "Es macht keinen Unterschied, daß Gott dabei der Gegenstand und das Ziel war; indem er durch Bestimmungen dieser Art gefaßt werden soll, so sind sie das, was den Inhalt der Erkenntnis ausmacht.",
+    "Die Idee Gottes selbst bleibt außer solchem endlichen Inhalt eine bloße Vorstellung oder Empfindung, die nach ihrer Unendlichkeit nicht in jenes Erkennen eintritt.",
+    "In dem einen Absoluten aber sind diese Endlichkeiten des Inhalts und damit ebenso des subjektiven Abmühens mit denselben aufgezehrt; der Geist erreicht dasselbe nur und wird Bewußtsein der Vernunft, indem er diese seine Beschränkungen als nichtige, als Formen bloß der Erscheinung erkennt und sie somit in jenen Abgrund versenkt. - Jacobi hatte diese höchste Anschauung nicht bloß im Gefühl und in der Vorstellung erreicht - einer Form, bei welcher die bloße Religiosität stehenbleibt -, sondern durch den höheren Weg des Gedankens mit Spinoza erkannt, daß sie das letzte wahrhafte Resultat des Denkens ist, daß jedes konsequente Philosophieren auf den Spinozismus führen muß."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/13.p0.json"
+}
