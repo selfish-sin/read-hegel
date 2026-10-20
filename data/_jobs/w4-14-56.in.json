@@ -1,0 +1,80 @@
+{
+ "id": "w4-14-56",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 14,
+ "chunkTitle": "2. [Beurteilung der] Verhandlungen in der Versammlung der Landstände des Königreichs Württemberg im Jahr 1815 und 1816. XXXIII Abteilungen. 124)",
+ "heading": "2. [Beurteilung der] Verhandlungen in der Versammlung der Landstände des Königreichs Württemberg im Jahr 1815 und 1816. XXXIII Abteilungen.124)",
+ "blocks": [
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "xshtwnsbpm",
+   "sents": [
+    "Es entsteht mit solcher Auseinandersetzung das gewöhnliche endlose Hin- und Herreden, weil solche Gründe und Gegengründe keine letzte Entscheidung in sich haben, wenn der Prätor fehlt, der diese Entscheidung geben müßte.",
+    "Worauf es ankommt, ist allein die Natur der Sache, und diese ist im vorliegenden Falle sehr einfach.",
+    "Die Veränderung, die sich seit Jahrhunderten vorbereitet und spät genug vollendet hat, ist der schon genannte Übergang der beträchtlicheren deutschen Länder aus dem Verhältnis von Reichslehen in das Verhältnis von souveränen Ländern, d. i. von Staaten.",
+    "In jenen konnten einerseits der Fürst, andererseits Land und Leute - obgleich die letzteren als Untertanen (selbst oft bis zum Grade der Leibeigenschaft) - mit einer Unabhängigkeit einander gegenüberstehen, welche von beiden Seiten sich fast Souveränitätsrechten nähern konnte.",
+    "Denn zwischen beiden stand Kaiser und Reich als ein äußerliches Band, welches beide in dieser Selbständigkeit hielt und auch notdürftig zusammenhielt, - wie der Privatmann gegen den Privatmann eine unabhängige Person ist.",
+    "In den Verhältnissen, die sie miteinander knüpfen, gehen sie von dem subjektiven Bedürfnis und der Willkür aus; aber allein, weil sie zugleich in einem Staate sind, eine Obrigkeit und Gerichte über sich haben, werden Verhältnisse zu Verträgen, hat es einen vollständigen wirklichen Sinn, Verträge zu schließen, und werden die Einzelnen in ihrer Selbständigkeit und in ihren Verhältnissen aufrechterhalten.",
+    "Je ohnmächtiger aber jene Zwischen- und Obermacht sich bewies, desto schlimmer mußten beide Teile in ihren Kollisionen daran sein, weil sie, bei ihrer Unabhängigkeit zugleich als Regierung und Untertanen aneinander gebunden, nicht auseinanderkommen konnten."
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "1wiyoiun44",
+   "sents": [
+    "Ein solcher Zustand, in welchem Fürst und Volk durch eine so äußerliche Macht verknüpft waren, führte es mit sich, daß eigentliche Staatsrechte sich auf seiten der Untertanen befanden.",
+    "Zu Rechten dieser Art gehören die meisten derjenigen, welche aus dem Lehensverhältnisse flossen; doch wäre es überflüssig, hier solche zu berühren, weil sich in Altwürttemberg nur ein unbedeutender Adel vorfand, dessen Rechte überhaupt von keiner großen Konsequenz für das Staatsverhältnis waren.",
+    "Eine wesentliche Erwähnung aber verdient das Recht der vormaligen württembergischen Landstände, die Steuerkasse in Händen zu haben.",
+    "Es war damit das Recht für sie verbunden, nicht nur selbst Diäten zu genießen, sondern auch Beamte, Konsulenten und vornehmlich einen Ausschuß zu ernennen und dessen Mitgliedern sowie jenen Beamten Besoldungen aus der Steuerkasse anzuweisen.",
+    "Ja, dieser Ausschuß hatte selbst die Verwaltung der Kasse, aus der er seine im ganzen von den Ständen bestimmte Besoldung bezog; aber außerdem erstreckte sich sein Verwaltungsrecht so weit, daß er sich sogar auch Besoldungszuschüsse und Remunerationen dekretierte, ferner seinen Mitgliedern sowie anderen Individuen für wirkliche oder eingebildete Dienste Belohnungen und Pensionen dekretierte und ausbezahlte; ja gerade diese Verwendung der Landesgelder fürs Persönliche, für sich selbst, welche geheim zu halten die Ehre am allermeisten verschmähen wird, war aller Kontrolle entzogen."
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "1t988p81s5",
+   "sents": [
+    "Der inneren Zerrüttung und sittlichen Versumpfung, die in einer solchen Privatplünderung und einem solchen Zustande überhaupt liegt, ist die förmliche Staatszerrüttung ganz nahe verwandt, daß Landstände durch die Kasse, welche sie in Händen haben, sich für sich als eine Art von souveräner Macht für ihre Zwecke mit äußeren Mächten in Verbindung setzen.",
+    "Von der eigenen Kasse ist kein großer Schritt zur Unterhaltung eigener Truppen, und es würde nur lächerlich sein, das letztere Ständen gesetzlich zu verbieten, durch die erstere ihnen aber die Macht und die Mittel dazu in die Hände zu geben.",
+    "Wenn die vorgenannte Zwischen- und Obermacht des Kaisers und Reichs noch vorhanden war, dann konnte eine solche Folge in einzelnen Fällen verhütet werden, - wo nämlich jene Macht wirksam war, sowie auch im Fall es ihr beliebte; aber es blieb eine Zufälligkeit, ob diese Folge verhütet wurde oder nicht.",
+    "Doch fehlte es im Deutschen Reiche auch nicht an Fällen, wo Stände zur Haltung eigener Truppen berechtigt waren, wie z. B. in Ostfriesland die Stadt Emden, ebensowenig daran, daß in eben diesem Lande, das entfernter von der Einwirkung des Reichs lag, die Stände selbst Truppen gegen ihren Fürsten warben, mit ausländischen Mächten Traktate schlossen und deren Armeen ins Land riefen und sie besoldeten.",
+    "Es gibt in dieser Rücksicht nicht leicht eine lehrreichere Geschichte als die vortreffliche von Wiarda verfaßte Geschichte von Ostfriesland128) ; wir sehen darin ein zusammenhängendes Gemälde der schmählichsten, widrigsten und zerstörendsten Zerrüttung, die aus dem Verhältnisse vom Fürsten und von Landständen hervorging, in deren Händen sich Rechte befanden, die der Souveränität zustehen.",
+    "In größeren Zügen ist dergleichen übrigens z. B. in Frankreichs, Englands Geschichte vorhanden, ehe diese Länder ihre Bildung zu Staaten vollendet hatten, um Polens nicht zu erwähnen, nur daß diese Geschichten auch von der ekelhaften Seite, nämlich dem vollständigen Rechts- und Papierformalismus des deutschen Landes, mehr befreit sind."
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "eb1xay1pw1",
+   "sents": [
+    "Dem genannten Geschichtsschreiber waren die Archive der ostfriesischen Landstände, bei denen er selbst in Diensten steht und auf deren Auftrag er sein Werk schrieb, geöffnet.",
+    "Die württembergischen Landstände haben eine solche Geschichte nicht veranlaßt; den berühmten Moser129) , der dazu befähigt, der auch ihr Konsulent war, haben sie aus ihrer Mitte vertrieben.",
+    "Doch unter anderen Einzelheiten, die dem Publikum vorliegen, zeichnet sich eine Broschüre aus, die in eine Seite des berührten Gegenstandes, in die unabhängige ständische Kassenverwaltung während einer Periode wenigstens Blicke tun läßt und unter dem Titel erschienen ist: Die Verwaltung der württembergischen Landeskasse durch die vormaligen, nun kassierten Ausschüsse der württembergischen Landstandschaft; aus landschaftlichen Rechnungen, Akten und Urkunden gezogen (ohne Druckort) 1799.",
+    "Die Landesversammlung, welche im Jahre 1796 nach etwa 25 Jahren wieder einmal zusammenberufen wurde, untersuchte die Rechnungen der von ihr vorgefundenen Ausschüsse; die genannte Broschüre liefert wenigstens einen Teil der Resultate dieser Untersuchung.",
+    "Die Vorrede sagt darüber sommarisch: \"Die Resultate dieser Rechnungen enthalten nicht nur etliche Tonnen Goldes, welche gesetzwidrig verwendet worden sind, sondern sie laufen in Millionen und betragen von dem letzteren Landtage 1771 bis zu Anfange des gegenwärtigen, im März 1797, wo dem Unwesen ein Ende gemacht wurde, die enorme Summe von 4 238 000 Fl., sage: vier Millionen zweihundertachtunddreißigtausend Gulden Staatsvermögen, über deren treue Verwaltung und Verwendung die Ausschüsse Eid und Pflicht hatten.\""
+   ]
+  },
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "19ysedhhca",
+   "sents": [
+    "Dies Resultat mag hinreichend sein zu erwähnen; ein detailliertes Gemälde, wie tief die Unabhängigkeit diese ständische Verwaltung hat sinken lassen, daraus auszuziehen, gehört nicht hierher.",
+    "Es wären insbesondere die vielfachen Remunerationen auszuheben, welche die Ausschußmitglieder für jedes bedeutende und unbedeutende Geschäft außer ihrem ordentlichen Gehalt (z. B. einem Kanzlisten dafür, daß er sich nach dem Befinden des Herzogs erkundigte) sich selbst zuteilten, und so manches, was eine förmliche Prellerei scheint genannt werden zu können, wobei dieselben Familiennamen besonders häufig vorkommen.",
+    "Alsdann wären auch die sauberen Proben diplomatischer Versuche und Sendungen und vornehmlich deren Belohnungen merkwürdig; in der Rechnung von 1778 bis 1781 kommt eine Summe von 5000 Fl. vor, die einem auswärtigen Hofrat im Jahre 1770 zu einer Reise nach Petersburg übermacht wurden, um die dort verlegenen (??)",
+    "Landesangelegenheiten zu betreiben; eine Reise nach München in Kommerzangelegenheiten á 8700 Fl. usw. - Es hilft nichts zu sagen, daß Vergeudungen und Plünderungen der Staatskasse Mißbräuche und Gesetzwidrigkeiten gewesen seien; wenn in 26 Jahren die Summe von gesetzwidrig verwendetem Landesgelde sich auf vier Millionen belaufen kann, so taugen gewiß die Gesetze nichts, bei welchen dergleichen Gesetzwidrigkeit möglich ist; eine gute Verfassung ist ja wohl nur dann eine solche, wenn durch sie Gesetzwidrigkeiten bestraft und noch mehr verhütet werden. - Wenn solches geschah am grünen Holze, möchte man fragen, was soll's am dürren werden?",
+    "Wenn Plünderung und Vergeudung geschah zu einer Zeit, wo Kaiser und Reichsgerichte noch über den Landständen standen, wo die Stände selbst einen langwierigen, höchst kostspieligen Prozeß gegen ihren Fürsten wegen Erpressungen und Gesetzwidrigkeiten beendigt und eine große Schuldenmasse - deren Abtragung seit bald 50 Jahren bis diese Stunde noch nicht vollendet sein mag - übernommen hatten; - zu einer Zeit, die man als eine Zeit deutscher Redlichkeit, landständischer Würdigkeit, einer durch die Verfassung erschaffenen Glückseligkeit im Gegensatze gegen das Verderben, den Luxus und das Unrecht neuerer Zeit lobpreisen hört!"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/14.p56.json"
+}

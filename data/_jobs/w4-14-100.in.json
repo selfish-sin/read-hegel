@@ -1,0 +1,55 @@
+{
+ "id": "w4-14-100",
+ "volume": {
+  "id": "w4",
+  "bands": [
+   4
+  ],
+  "de": "Nürnberger und Heidelberger Schriften 1808–1817",
+  "zh": "纽伦堡与海德堡时期著作"
+ },
+ "chunk": 14,
+ "chunkTitle": "2. [Beurteilung der] Verhandlungen in der Versammlung der Landstände des Königreichs Württemberg im Jahr 1815 und 1816. XXXIII Abteilungen. 124)",
+ "heading": "2. [Beurteilung der] Verhandlungen in der Versammlung der Landstände des Königreichs Württemberg im Jahr 1815 und 1816. XXXIII Abteilungen.124)",
+ "blocks": [
+  {
+   "bi": 100,
+   "k": "p",
+   "hash": "1bwdce41di",
+   "sents": [
+    "Man hätte übrigens noch die Ansicht fassen können, daß es den Ständen mit ihrer Forderung der vergangenen Verfassung nicht eigentlich so Ernst gewesen wäre, und sie hätten nur die verständige Absicht gehabt, die Abänderung einiger Punkte der königlichen Konstitution, vornehmlich eine umfassendere Entwicklung der Grundsätze zu erlangen, zugleich aber ein wirksames Mittel zur Erreichung dieses Zwecks gesucht.",
+    "Man kann zugeben, daß sie zu keinem Mittel greifen konnten, das wenigstens von mehr äußerlicher Gewalt gewesen wäre als die Erweckung der Zauberformel, wie der Name der altwürttembergischen Verfassung auch von ihnen genannt wird.",
+    "Die sogenannte Einmütigkeit der Versammlung hierüber haben wir gesehen.",
+    "Derjenige hohe und niedere Adel, welcher noch Rechte ansprach, die mit dem Interesse und Rechte des Volks und des Staats in Widerspruche standen, ja, der es überhaupt als problematisch stellte, ob er bereits zu Württemberg gehörte, und von Bedingungen sprach, unter welchen erst er in ein Subjektionsverhältnis zu treten geneigt zu sein belieben würde, - mußte für seine Ansprüche die Zauberformel \"gutes altes Recht\" ganz passend finden.",
+    "Die sogenannten Neuwürttemberger, welche zunächst die Abhilfe des mannigfaltigen Druckes, unter dem sie seufzten, nicht unmittelbar in der königlichen Verfassung erblicken konnten, schlossen in der ersten Unklarheit über die Sache ihre Opposition gegen den gegenwärtigen Zustand an jenen Titel an."
+   ]
+  },
+  {
+   "bi": 101,
+   "k": "p",
+   "hash": "otjtgu19za",
+   "sents": [
+    "Von allen Seiten liefen Adressen und Petitionen der Städte und Ämter ein, Deputationen erschienen, welche das Verlangen der Wiederherstellung der erbländischen Verfassung ausdrückten, und ein großer Teil der Sitzungen der Versammlung wurde mit dem Verlesen der Adressen verbracht.",
+    "So verbraucht und außer Kredit gekommen das Mittel der Volksadressen ist, so wurde es hier nicht verschmäht; es war um so leichter anzuwenden, je größer der Einfluß der Schreiberklasse bei dem Volke ist, wovon nachher die Rede sein wird; aber um so weniger Gehalt und Autorität konnte jenes Mittel in den Augen des Einsichtsvolleren haben; es war eher geeignet, einen Schatten auf die Versammlung zu werfen."
+   ]
+  },
+  {
+   "bi": 102,
+   "k": "p",
+   "hash": "15g7so12np",
+   "sents": [
+    "- Ohnehin ist es an sich der Platz einer Ständeversammlung, das vermittelnde Organ zwischen Fürst und Volk zu sein; und unter den vorwaltenden äußeren Umständen der neuen Unruhen in Frankreich, bei dem mit allem guten Willen gewöhnlichen Unverstande des sogenannten Volkes, wenn es über allgemeine Angelegenheiten zu sprechen kommt, noch mehr bei der Neuheit der Lage, dem Mangel der Begriffe im Volke über eine Staatsverfassung, da es die Sache noch nie gehabt hatte, bei dem Übergange aus seiner politischen Nullität in einen bisher unbekannten Anteil und Einfluß auf das Ganze eines Staates - war es um so mehr die Stellung der Landständeversammlung, das Volk mit seinen bisherigen Meinungen aus dem Spiele zu lassen. - In der fünften Sitzung fand es Herr Graf von Waldek für nötig, da nach sicheren Nachrichten das Volk durch Publikation der königlichen Konstitutionsurkunde beunruhigt sei, dasselbe zu beruhigen, und trug als das Mittel, dies ohne Aufsehen zu tun, vor, daß die Repräsentanten dem Volke berichten sollten, daß sie sich an die Spitze seiner Vorurteile gestellt haben.",
+    "Wer möchte das Beruhigung des Volkes nennen, wenn ihm die Ständeversammlung erklärt, daß es in ihr - im Gegensatze gegen den König - die Stütze seiner Unruhe zu sehen habe!",
+    "Übrigens so viele Petitionen verlesen wurden und soviel die Ständeversammlung sich auf sie zugute tat, so sieht man auch wieder, daß sie sehr vernachlässigt worden sind, und erkennt eben nicht aus den Protokollen, wodurch die Auswahl bestimmt worden, einen Teil zu verlesen, andere, wie es scheint, nicht einmal zu erwähnen und im Protokoll zu bemerken.",
+    "Nur einige Beispiele: In einer Sitzung vom 20.",
+    "Dez.",
+    "1815 (Abt. XVII, S. 49), kommt ein Antrag vor, eine Anzahl eingekommener Adressen wenigstens im Protokoll zu bemerken, sie für verlesen anzunehmen und zu den Akten zu legen.",
+    "Am 21.",
+    "Febr.",
+    "1816 kommt eine Petition der Stadt Riedlingen vom 12. April 1815 zum Verlesen.",
+    "Am 5. April 1816 bittet ein Repräsentant, eine schon am 11. Juni vorigen Jahres übergebene Petition einer Sektion der Versammlung übergeben zu dürfen; aber unter diesem Datum, wo keine Sitzung war, aber auch am 12. Juni, wo eine Sitzung gehalten wurde, geschieht jener Petition gar keine Erwähnung. - Viele andere dergleichen Data zeigen eben nicht, daß die Ständeversammlung für die Petitionen des Volks eine objektive Achtung, d. h. insofern sie nicht bloß zweckdienlich für die Absichten der Versammlung waren, gehabt habe."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w4/14.p100.json"
+}

@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-20T02:29:12.829Z",
- "blocks": 2597,
- "sentences": 4733,
+ "generated": "2026-10-20T05:02:29.860Z",
+ "blocks": 2700,
+ "sentences": 5135,
  "issues": [
   {
    "sev": "minor",
@@ -5272,11 +5272,1261 @@
    "sev": "minor",
    "where": "w4/13#27",
    "msg": "sentence 10: \"Gewißheit\" is not rendered as “确定性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#1",
+   "msg": "sentence 0: \"Monarchie\" is not rendered as “君主制”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#1",
+   "msg": "sentence 0: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#1",
+   "msg": "sentence 1: \"Urteil\" is not rendered as “判断”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#1",
+   "msg": "sentence 2: \"Regierung\" is not rendered as “政府”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#1",
+   "msg": "sentence 2: \"Monarchie\" is not rendered as “君主制”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#2",
+   "msg": "sentence 0: \"Zusammenhang\" is not rendered as “关联”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#2",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#2",
+   "msg": "sentence 3: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#2",
+   "msg": "sentence 3: \"Kredit\" is not rendered as “信用”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#3",
+   "msg": "sentence 0: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#3",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#3",
+   "msg": "sentence 2: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#3",
+   "msg": "sentence 2: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#5",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#6",
+   "msg": "sentence 0: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#6",
+   "msg": "sentence 3: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#6",
+   "msg": "sentence 4: \"Reihe\" is not rendered as “系列”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#6",
+   "msg": "sentence 5: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#6",
+   "msg": "sentence 6: \"Element\" is not rendered as “要素”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#7",
+   "msg": "sentence 1: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#7",
+   "msg": "sentence 2: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#7",
+   "msg": "sentence 4: \"Staat\" is not rendered as “国家”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#8",
+   "msg": "sentence 1: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#8",
+   "msg": "sentence 1: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#9",
+   "msg": "sentence 1: \"Klasse\" is not rendered as “班级”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#9",
+   "msg": "sentence 1: \"Thron\" is not rendered as “王位”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#9",
+   "msg": "sentence 1: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#14",
+   "msg": "sentence 0: \"Erde\" is not rendered as “大地”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#14",
+   "msg": "sentence 1: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#14",
+   "msg": "sentence 1: \"Reihe\" is not rendered as “系列”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#14",
+   "msg": "sentence 3: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#14",
+   "msg": "sentence 3: \"Gefühl\" is not rendered as “感觉”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#14",
+   "msg": "sentence 3: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#14",
+   "msg": "sentence 4: \"Substanz\" is not rendered as “实体”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#16",
+   "msg": "sentence 1: \"Besitz\" is not rendered as “占有”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#18",
+   "msg": "sentence 1: \"Vorstellung\" is not rendered as “表象”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#18",
+   "msg": "sentence 1: “Vorstellung” (family Vorstellung) does not keep the family root “表象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#19",
+   "msg": "sentence 0: \"Vorstellung\" is not rendered as “表象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#19",
+   "msg": "sentence 0: \"Vortrag\" is not rendered as “讲授”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#19",
+   "msg": "sentence 0: “Vorstellung” (family Vorstellung) does not keep the family root “表象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#20",
+   "msg": "sentence 0: \"Urteil\" is not rendered as “判断”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#22",
+   "msg": "sentence 0: \"Partikularität\" is not rendered as “特称性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#22",
+   "msg": "sentence 4: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#22",
+   "msg": "sentence 4: \"Element\" is not rendered as “要素”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#22",
+   "msg": "sentence 5: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#22",
+   "msg": "sentence 5: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#22",
+   "msg": "sentence 6: \"Äußerung\" is not rendered as “表现”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#23",
+   "msg": "sentence 0: \"Element\" is not rendered as “要素”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#23",
+   "msg": "sentence 1: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#23",
+   "msg": "sentence 4: \"Klasse\" is not rendered as “班级”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#23",
+   "msg": "sentence 5: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#23",
+   "msg": "sentence 6: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#24",
+   "msg": "sentence 0: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#24",
+   "msg": "sentence 1: \"Existenz\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#24",
+   "msg": "sentence 1: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#24",
+   "msg": "sentence 2: \"Dienst\" is not rendered as “效劳”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#24",
+   "msg": "sentence 3: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#24",
+   "msg": "sentence 4: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#24",
+   "msg": "sentence 6: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#25",
+   "msg": "sentence 0: \"Übel\" is not rendered as “恶”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#25",
+   "msg": "sentence 3: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#25",
+   "msg": "sentence 4: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#25",
+   "msg": "sentence 4: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#25",
+   "msg": "sentence 4: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#26",
+   "msg": "sentence 1: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#26",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#26",
+   "msg": "sentence 4: \"Tapferkeit\" is not rendered as “勇敢”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#27",
+   "msg": "sentence 0: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#27",
+   "msg": "sentence 0: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#27",
+   "msg": "sentence 1: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#27",
+   "msg": "sentence 1: \"Regierung\" is not rendered as “政府”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#27",
+   "msg": "sentence 1: \"Leben\" is not rendered as “生命”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#27",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#28",
+   "msg": "sentence 0: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#28",
+   "msg": "sentence 1: \"Person\" is not rendered as “人格”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#28",
+   "msg": "sentence 1: \"Gnade\" is not rendered as “恩典”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#29",
+   "msg": "sentence 0: \"Klasse\" is not rendered as “班级”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#29",
+   "msg": "sentence 0: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#29",
+   "msg": "sentence 3: \"Vertrag\" is not rendered as “契约”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#29",
+   "msg": "sentence 3: \"Unterschied\" is not rendered as “差别”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#30",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#30",
+   "msg": "sentence 2: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#30",
+   "msg": "sentence 4: \"Pflicht\" is not rendered as “义务”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#30",
+   "msg": "sentence 5: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#32",
+   "msg": "sentence 4: \"Besitz\" is not rendered as “占有”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#32",
+   "msg": "sentence 5: \"Existenz\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#33",
+   "msg": "sentence 1: \"Bedürfnis\" is not rendered as “需要”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#33",
+   "msg": "sentence 3: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#33",
+   "msg": "sentence 3: \"Unrechte\" is not rendered as “不法”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#33",
+   "msg": "sentence 4: \"Zusammenhang\" is not rendered as “关联”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#34",
+   "msg": "sentence 0: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#34",
+   "msg": "sentence 2: \"Wirkung\" is not rendered as “效果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#34",
+   "msg": "sentence 2: \"Staatsbürger\" is not rendered as “国家公民”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#34",
+   "msg": "sentence 2: \"Ungleichheit\" is not rendered as “不等同”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#34",
+   "msg": "sentence 2: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#34",
+   "msg": "sentence 2: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#34",
+   "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#35",
+   "msg": "sentence 1: \"Regierung\" is not rendered as “政府”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#35",
+   "msg": "sentence 1: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#35",
+   "msg": "sentence 1: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#35",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#35",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#36",
+   "msg": "sentence 0: \"Klasse\" is not rendered as “班级”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#38",
+   "msg": "sentence 1: \"Besitz\" is not rendered as “占有”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#38",
+   "msg": "sentence 1: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#38",
+   "msg": "sentence 1: \"Element\" is not rendered as “要素”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#38",
+   "msg": "sentence 1: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#38",
+   "msg": "sentence 2: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#38",
+   "msg": "sentence 4: \"Leistung\" is not rendered as “给付”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#39",
+   "msg": "sentence 2: \"Element\" is not rendered as “要素”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#39",
+   "msg": "sentence 2: \"Trieb\" is not rendered as “冲动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#39",
+   "msg": "sentence 3: \"Trieb\" is not rendered as “冲动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#39",
+   "msg": "sentence 6: \"Gefühl\" is not rendered as “感觉”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#39",
+   "msg": "sentence 8: \"Teilnahme\" is not rendered as “关切”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#40",
+   "msg": "sentence 1: \"Notwendigkeit\" is not rendered as “必然性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#40",
+   "msg": "sentence 1: \"Größe\" is not rendered as “量”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#40",
+   "msg": "sentence 2: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#40",
+   "msg": "sentence 4: \"Gefühl\" is not rendered as “感觉”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#40",
+   "msg": "sentence 4: \"Entschluß\" is not rendered as “决断”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#41",
+   "msg": "sentence 0: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#41",
+   "msg": "sentence 2: \"Willkür\" is not rendered as “任意”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#41",
+   "msg": "sentence 2: \"Bedeutung\" is not rendered as “意义”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#43",
+   "msg": "sentence 0: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#45",
+   "msg": "sentence 10: \"Kenntnis\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#46",
+   "msg": "sentence 0: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#46",
+   "msg": "sentence 3: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#48",
+   "msg": "sentence 0: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#48",
+   "msg": "sentence 2: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#49",
+   "msg": "sentence 0: \"Klasse\" is not rendered as “班级”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#50",
+   "msg": "sentence 0: \"Teilnahme\" is not rendered as “关切”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#50",
+   "msg": "sentence 2: \"Aufhebung\" is not rendered as “扬弃”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#50",
+   "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#51",
+   "msg": "sentence 0: \"Teilnahme\" is not rendered as “关切”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#51",
+   "msg": "sentence 0: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#52",
+   "msg": "sentence 0: \"Äußerung\" is not rendered as “表现”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#53",
+   "msg": "sentence 0: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#53",
+   "msg": "sentence 5: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#53",
+   "msg": "sentence 8: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#53",
+   "msg": "sentence 9: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#55",
+   "msg": "sentence 0: \"Notwendigkeit\" is not rendered as “必然性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#55",
+   "msg": "sentence 1: \"Konstruktion\" is not rendered as “构造”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#55",
+   "msg": "sentence 4: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#56",
+   "msg": "sentence 5: \"Obrigkeit\" is not rendered as “当局”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#56",
+   "msg": "sentence 5: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#57",
+   "msg": "sentence 0: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#57",
+   "msg": "sentence 4: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#58",
+   "msg": "sentence 0: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#58",
+   "msg": "sentence 1: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#58",
+   "msg": "sentence 1: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#58",
+   "msg": "sentence 2: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#58",
+   "msg": "sentence 5: \"Bildung\" is not rendered as “教养”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#59",
+   "msg": "sentence 0: \"Dienst\" is not rendered as “效劳”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#59",
+   "msg": "sentence 1: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#59",
+   "msg": "sentence 2: \"Einzelheit\" is not rendered as “个别性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#59",
+   "msg": "sentence 4: \"Pflicht\" is not rendered as “义务”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#60",
+   "msg": "sentence 4: \"Glückseligkeit\" is not rendered as “至福”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#61",
+   "msg": "sentence 2: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#61",
+   "msg": "sentence 3: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#61",
+   "msg": "sentence 5: \"Notwendigkeit\" is not rendered as “必然性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#61",
+   "msg": "sentence 5: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#62",
+   "msg": "sentence 0: \"Verschiedenheit\" is not rendered as “相异”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#62",
+   "msg": "sentence 3: \"Zusammenhang\" is not rendered as “关联”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#62",
+   "msg": "sentence 4: \"Zusammenhang\" is not rendered as “关联”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#64",
+   "msg": "sentence 0: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#65",
+   "msg": "sentence 2: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#65",
+   "msg": "sentence 4: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#66",
+   "msg": "sentence 3: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#66",
+   "msg": "sentence 6: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#69",
+   "msg": "sentence 0: \"Äußerung\" is not rendered as “表现”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#69",
+   "msg": "sentence 0: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#69",
+   "msg": "sentence 1: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#69",
+   "msg": "sentence 2: \"Versicherung\" is not rendered as “断言”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#70",
+   "msg": "sentence 0: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#70",
+   "msg": "sentence 1: \"Schluß\" is not rendered as “推论”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#72",
+   "msg": "sentence 0: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#73",
+   "msg": "sentence 0: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#74",
+   "msg": "sentence 3: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#74",
+   "msg": "sentence 3: \"Äußerung\" is not rendered as “表现”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#74",
+   "msg": "sentence 3: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#75",
+   "msg": "sentence 0: \"Materie\" is not rendered as “物质”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#75",
+   "msg": "sentence 2: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#75",
+   "msg": "sentence 2: \"Anspruch\" is not rendered as “要求权”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#75",
+   "msg": "sentence 3: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#75",
+   "msg": "sentence 4: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#75",
+   "msg": "sentence 5: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#76",
+   "msg": "sentence 0: \"Vortrag\" is not rendered as “讲授”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#76",
+   "msg": "sentence 1: \"Deputierte\" is not rendered as “议员”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#76",
+   "msg": "sentence 2: \"Vortrag\" is not rendered as “讲授”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#76",
+   "msg": "sentence 3: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#76",
+   "msg": "sentence 3: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#77",
+   "msg": "sentence 0: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#77",
+   "msg": "sentence 1: \"Besitz\" is not rendered as “占有”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#78",
+   "msg": "sentence 1: \"Äußerung\" is not rendered as “表现”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#78",
+   "msg": "sentence 1: \"Persönlichkeit\" is not rendered as “人格性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#78",
+   "msg": "sentence 1: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#78",
+   "msg": "sentence 3: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#78",
+   "msg": "sentence 5: \"Gesetz\" is not rendered as “法律”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#78",
+   "msg": "sentence 6: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#79",
+   "msg": "sentence 2: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#79",
+   "msg": "sentence 3: \"Ausschließung\" is not rendered as “排除”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#79",
+   "msg": "sentence 4: \"Tätigkeit\" is not rendered as “行动”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#80",
+   "msg": "sentence 0: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#80",
+   "msg": "sentence 0: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#80",
+   "msg": "sentence 0: \"Äußerung\" is not rendered as “表现”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#81",
+   "msg": "sentence 1: \"Kenntnis\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#81",
+   "msg": "sentence 2: \"Gesinnung\" is not rendered as “心态”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#81",
+   "msg": "sentence 2: \"Licht\" is not rendered as “光”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#81",
+   "msg": "sentence 4: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#82",
+   "msg": "sentence 0: \"Regierung\" is not rendered as “政府”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#82",
+   "msg": "sentence 0: \"Gefühl\" is not rendered as “感觉”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#83",
+   "msg": "sentence 1: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#84",
+   "msg": "sentence 1: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#84",
+   "msg": "sentence 5: \"Folge\" is not rendered as “后果”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#85",
+   "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#85",
+   "msg": "sentence 3: \"Reihe\" is not rendered as “系列”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#86",
+   "msg": "sentence 1: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#86",
+   "msg": "sentence 2: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#87",
+   "msg": "sentence 0: \"Forderung\" is not rendered as “要求”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#87",
+   "msg": "sentence 0: \"Verhältnis\" is not rendered as “关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#87",
+   "msg": "sentence 1: \"Staatsministerium\" is not rendered as “国务部”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#87",
+   "msg": "sentence 1: \"Reihe\" is not rendered as “系列”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#87",
+   "msg": "sentence 1: \"Erläuterung\" is not rendered as “诠释”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#88",
+   "msg": "sentence 1: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#88",
+   "msg": "sentence 3: \"Gefühl\" is not rendered as “感觉”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#90",
+   "msg": "sentence 0: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#90",
+   "msg": "sentence 3: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#90",
+   "msg": "sentence 4: \"Erscheinung\" is not rendered as “现象”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#90",
+   "msg": "sentence 4: \"Vergehen\" is not rendered as “消逝”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#92",
+   "msg": "sentence 0: \"Wirklichkeit\" is not rendered as “现实性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#92",
+   "msg": "sentence 0: \"Entschluß\" is not rendered as “决断”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#92",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#92",
+   "msg": "sentence 2: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "major",
+   "where": "w4/14#92",
+   "msg": "sentence 6: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#93",
+   "msg": "sentence 0: \"Grund\" is not rendered as “根据”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#93",
+   "msg": "sentence 0: \"Natur\" is not rendered as “本性”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#93",
+   "msg": "sentence 0: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#93",
+   "msg": "sentence 2: \"Mäßigung\" is not rendered as “节制”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#94",
+   "msg": "sentence 1: \"Macht\" is not rendered as “威力”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#94",
+   "msg": "sentence 1: \"Ungeschicklichkeit\" is not rendered as “不灵巧”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#94",
+   "msg": "sentence 1: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#99",
+   "msg": "sentence 3: \"Licht\" is not rendered as “光”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#100",
+   "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#100",
+   "msg": "sentence 1: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#100",
+   "msg": "sentence 3: \"Widerspruch\" is not rendered as “矛盾”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#100",
+   "msg": "sentence 3: \"Interesse\" is not rendered as “利害关系”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#101",
+   "msg": "sentence 1: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#101",
+   "msg": "sentence 1: \"Kredit\" is not rendered as “信用”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#101",
+   "msg": "sentence 1: \"Rede\" is not rendered as “演辞”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#102",
+   "msg": "sentence 0: \"Mitte\" is not rendered as “中项”"
+  },
+  {
+   "sev": "minor",
+   "where": "w4/14#102",
+   "msg": "sentence 0: \"Mittel\" is not rendered as “手段”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 60,
-  "minor": 994
+  "major": 75,
+  "minor": 1229
  }
 }
