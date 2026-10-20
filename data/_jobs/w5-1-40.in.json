@@ -1,0 +1,78 @@
+{
+ "id": "w5-1-40",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 1,
+ "chunkTitle": "Allgemeine Einteilung der Logik",
+ "heading": "Allgemeine Einteilung der Logik",
+ "blocks": [
+  {
+   "bi": 40,
+   "k": "p",
+   "hash": "1k4c6hn11s",
+   "sents": [
+    "Hierin ist auch das Nähere enthalten, daß das, womit der Anfang zu machen ist, nicht ein Konkretes, nicht ein solches sein kann, das eine Beziehung innerhalb seiner selbst enthält.",
+    "Denn ein solches setzt ein Vermitteln und Herübergehen von einem Ersten zu einem Anderen innerhalb seiner voraus, wovon das einfachgewordene Konkrete das Resultat wäre.",
+    "Aber der Anfang soll nicht selbst schon ein Erstes und ein Anderes sein; ein solches, das ein Erstes und ein Anderes in sich ist, enthält bereits ein Fortgegangensein.",
+    "Was den Anfang macht, der Anfang selbst, ist daher als ein Nichtanalysierbares, in seiner einfachen unerfüllten Unmittelbarkeit, also als Sein, als das ganz Leere zu nehmen."
+   ]
+  },
+  {
+   "bi": 41,
+   "k": "p",
+   "hash": "1heeni93i0",
+   "sents": [
+    "Wenn man etwa, gegen die Betrachtung des abstrakten Anfangs ungeduldig, sagen wollte, es solle nicht mit dem Anfange angefangen werden, sondern geradezu mit der Sache, so ist diese Sache nichts als jenes leere Sein; denn was die Sache sei, dies ist es, was sich eben erst im Verlaufe der Wissenschaft ergeben soll, was nicht vor ihr als bekannt vorausgesetzt werden kann."
+   ]
+  },
+  {
+   "bi": 42,
+   "k": "p",
+   "hash": "1mvsjmuxz0",
+   "sents": [
+    "Welche Form sonst genommen werde, um einen anderen Anfang zu haben als das leere Sein, so leidet er an den angeführten Mängeln.",
+    "Diejenigen, welche mit diesem Anfange unzufrieden bleiben, mögen sich zu der Aufgabe auffordern, es anders anzufangen, um dabei diese Mängel zu vermeiden."
+   ]
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "t57l8b4fn4",
+   "sents": [
+    "Ein origineller Anfang der Philosophie aber kann nicht ganz unerwähnt gelassen werden, der sich in neuerer Zeit berühmt gemacht hat, der Anfang mit Ich.",
+    "Er kam teils aus der Reflexion, daß aus dem ersten Wahren alles Folgende abgeleitet werden müsse, teils aus dem Bedürfnisse, daß das erste Wahre ein Bekanntes und noch mehr ein unmittelbar Gewisses sei.",
+    "Dieser Anfang ist im allgemeinen nicht eine solche Vorstellung, die zufällig ist und in einem Subjekte so, in einem anderen anders beschaffen sein kann.",
+    "Denn Ich, dies unmittelbare Selbstbewußtsein, erscheint zunächst selbst teils als ein Unmittelbares, teils als ein in einem viel höheren Sinne Bekanntes als eine sonstige Vorstellung; etwas sonst Bekanntes gehört zwar dem Ich an, aber ist noch ein von ihm unterschiedener, damit sogleich zufälliger Inhalt; Ich hingegen ist die einfache Gewißheit seiner selbst.",
+    "Aber Ich überhaupt ist auch zugleich ein Konkretes, oder Ich ist vielmehr das Konkreteste,- das Bewußtsein seiner als unendlich mannigfaltiger Welt.",
+    "Daß Ich Anfang und Grund der Philosophie sei, dazu wird die Absonderung dieses Konkreten erfordert, – der absolute Akt, wodurch Ich von sich selbst gereinigt wird und als abstraktes Ich in sein Bewußtsein tritt.",
+    "Allein dies reine Ich ist nun nicht ein unmittelbares, noch das bekannte, das gewöhnliche Ich unseres Bewußtseins, woran unmittelbar und für jeden die Wissenschaft angeknüpft werden sollte.",
+    "Jener Akt wäre eigentlich nichts anderes als die Erhebung auf den Standpunkt des reinen Wissens, auf welchem der Unterschied des Subjektiven und Objektiven verschwunden ist.",
+    "Aber wie diese Erhebung so unmittelbar gefordert ist, ist sie ein subjektives Postulat; um als wahrhafte Forderung sich zu erweisen, müßte die Fortbewegung des konkreten Ichs vom unmittelbaren Bewußtsein zum reinen Wissen an ihm selbst, durch seine eigene Notwendigkeit, aufgezeigt und dargestellt worden sein.",
+    "Ohne diese objektive Bewegung erscheint das reine Wissen, auch als die intellektuelle Anschauung bestimmt, als ein willkürlicher Standpunkt oder selbst als einer der empirischen Zustände des Bewußtseins, in Rücksicht dessen es darauf ankommt, ob ihn der eine in sich vorfinde oder hervorbringen könne, ein anderer aber nicht.",
+    "Insofern aber dies reine Ich das wesentliche reine Wissen sein muß und das reine Wissen aber nur durch den absoluten Akt der Selbsterhebung im individuellen Bewußtsein gesetzt wird und nicht unmittelbar in ihm vorhanden ist, geht gerade der Vorteil verloren, der aus diesem Anfange der Philosophie entspringen soll, daß er nämlich etwas schlechthin Bekanntes sei, was jeder unmittelbar in sich finde und daran die weitere Reflexion anknüpfen könne; jenes reine Ich ist vielmehr in seiner abstrakten Wesenheit etwas dem gewöhnlichen Bewußtsein Unbekanntes, etwas, das es nicht darin vorfindet.",
+    "Damit tritt vielmehr der Nachteil der Täuschung ein, daß von etwas Bekanntem, dem Ich des empirischen Selbstbewußtseins die Rede sein solle, indem in der Tat von etwas diesem Bewußtsein Fernem die Rede ist.",
+    "Die Bestimmung des reinen Wissens als Ich führt die fortdauernde Rückerinnerung an das subjektive Ich mit sich, dessen Schranken vergessen werden sollen, und erhält die Vorstellung gegenwärtig, als ob die Sätze und Verhältnisse, die sich in der weiteren Entwicklung vom Ich ergeben, im gewöhnlichen Bewußtsein, da es ja das sei, von dem sie behauptet werden, vorkommen und darin vorgefunden werden können.",
+    "Diese Verwechslung bringt statt unmittelbarer Klarheit vielmehr nur eine um so grellere Verwirrung und gänzliche Desorientierung hervor; nach außen hat sie vollends die gröbsten Mißverständnisse veranlaßt."
+   ]
+  },
+  {
+   "bi": 44,
+   "k": "p",
+   "hash": "kprjvj1ph2",
+   "sents": [
+    "Was ferner die subjektive Bestimmtheit des Ich überhaupt betrifft, so benimmt wohl das reine Wissen dem Ich seine beschränkte Bedeutung, an einem Objekte seinen unüberwindlichen Gegensatz zu haben.",
+    "Aus diesem Grunde wäre es aber wenigstens überflüssig, noch diese subjektive Haltung und die Bestimmung des reinen Wesens als Ich beizubehalten.",
+    "Allein diese Bestimmung führt nicht nur jene störende Zweideutigkeit mit sich, sondern sie bleibt auch, näher betrachtet, ein subjektives Ich.",
+    "Die wirkliche Entwicklung der Wissenschaft, die vom Ich ausgeht, zeigt es, daß das Objekt darin die perennierende Bestimmung eines Anderen für das Ich hat und behält, daß also das Ich, von dem ausgegangen wird, nicht das reine Wissen, das den Gegensatz des Bewußtseins in Wahrheit überwunden hat, sondern noch in der Erscheinung befangen ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/1.p40.json"
+}

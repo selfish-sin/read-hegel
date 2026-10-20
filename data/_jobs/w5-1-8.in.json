@@ -1,0 +1,126 @@
+{
+ "id": "w5-1-8",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 1,
+ "chunkTitle": "Allgemeine Einteilung der Logik",
+ "heading": "Erstes BuchDie Lehre vom Sein",
+ "blocks": [
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "2emsrcnylx",
+   "sents": [
+    "Indem nun das Interesse der Kantischen Philosophie auf das sogenannte Transzendentale der Denkbestimmungen gerichtet war, ist die Abhandlung derselben selbst leer ausgegangen; was sie an ihnen selbst sind, ohne die abstrakte, allen gleiche Relation auf Ich, ihre Bestimmtheit gegen- und ihr Verhältnis zueinander, ist nicht zu einem Gegenstande der Betrachtung gemacht worden; die Erkenntnis ihrer Natur hat sich daher durch diese Philosophie nicht im geringsten gefördert gefunden.",
+    "Das einzige Interessante, was hierauf Beziehung hat, kommt in der Kritik der Ideen vor.",
+    "Für den wirklichen Fortschritt der Philosophie aber war es notwendig, daß das Interesse des Denkens auf die Betrachtung der formellen Seite, des Ich, des Bewußtseins als solchen, d. i. der abstrakten Beziehung eines subjektiven Wissens auf ein Objekt, gezogen, daß die Erkenntnis der unendlichen Form, d. i. des Begriffs, auf diese Weise eingeleitet wurde.",
+    "Um jedoch diese Erkenntnis zu erreichen, mußte jene endliche Bestimmtheit, in der die Form als Ich, Bewußtsein ist, noch abgestreift werden.",
+    "Die Form, so in ihre Reinheit herausgedacht, enthält es dann in sich selbst, sich zu bestimmen, d. i. sich Inhalt zu geben, und zwar denselben in seiner Notwendigkeit, – als System der Denkbestimmungen."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "4fmcx1vb1u",
+   "sents": [
+    "Die objektive Logik tritt damit vielmehr an die Stelle der vormaligen Metaphysik, als welche das wissenschaftliche Gebäude über die Welt war, das nur durch Gedanken aufgeführt sein sollte.",
+    "– Wenn wir auf die letzte Gestalt der Ausbildung dieser Wissenschaft Rücksicht nehmen, so ist [es] erstens unmittelbar die Ontologie, an deren Stelle die objektive Logik tritt, – der Teil jener Metaphysik, der die Natur des Ens überhaupt erforschen sollte; das Ens begreift sowohl Sein als Wesen in sich, für welchen Unterschied unsere Sprache glücklicherweise den verschiedenen Ausdruck gerettet hat.",
+    "– Alsdann aber begreift die objektive Logik auch die übrige Metaphysik insofern in sich, als diese mit den reinen Denkformen die besonderen, zunächst aus der Vorstellung genommenen Substrate, die Seele, die Welt, Gott, zu fassen suchte und die Bestimmungen des Denkens das Wesentliche der Betrachtungsweise ausmachten.",
+    "Aber die Logik betrachtet diese Formen frei von jenen Substraten, den Subjekten der Vorstellung, und ihre Natur und Wert an und für sich selbst.",
+    "Jene Metaphysik unterließ dies und zog sich daher den gerechten Vorwurf zu, sie ohne Kritik gebraucht zu haben, ohne die vorgängige Untersuchung, ob und wie sie fähig seien, Bestimmungen des Dings-an-sich, nach Kantischem Ausdruck, oder vielmehr des Vernünftigen zu sein.",
+    "– Die objektive Logik ist daher die wahrhafte Kritik derselben – eine Kritik, die sie nicht nach der abstrakten Form der Apriorität gegen das Aposteriorische, sondern sie selbst in ihrem besonderen Inhalte betrachtet."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "10e4y3b1es",
+   "sents": [
+    "Die subjektive Logik ist die Logik des Begriffs, – des Wesens, das seine Beziehung auf ein Sein oder seinen Schein aufgehoben hat und in seiner Bestimmung nicht äußerlich mehr, sondern das freie selbständige, sich in sich bestimmende Subjektive oder vielmehr das Subjekt selbst ist.",
+    "– Indem das Subjektive das Mißverständnis von Zufälligem und Willkürlichem sowie überhaupt von Bestimmungen, die in die Form des Bewußtseins gehören, mit sich führt, so ist hier auf den Unterschied von Subjektivem und Objektivem, der sich späterhin innerhalb der Logik selbst näher entwickeln wird, kein besonderes Gewicht zu legen."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "1242udn1kh",
+   "sents": [
+    "Die Logik zerfällt also zwar überhaupt in objektive und subjektive Logik; bestimmter aber hat sie die drei Teile:"
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "p",
+   "hash": "15ocbqe1u1",
+   "sents": [
+    "I. Die Logik des Seins,"
+   ]
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "19ggsyjj85",
+   "sents": [
+    "II. die Logik des Wesens und"
+   ]
+  },
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "1ot9stq1x4",
+   "sents": [
+    "III. die Logik des Begriffs."
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "h",
+   "hash": "tbhqucfubw",
+   "text": "Erstes BuchDie Lehre vom Sein"
+  },
+  {
+   "bi": 16,
+   "k": "h",
+   "hash": "gnlrsms2qk",
+   "text": "Womit muß der Anfang der Wissenschaft gemacht werden?"
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1kdjy83uma",
+   "sents": [
+    "In neueren Zeiten erst ist das Bewußtsein entstanden, daß es eine Schwierigkeit sei, einen Anfang in der Philosophie zu finden, und der Grund dieser Schwierigkeit sowie die Möglichkeit, sie zu lösen, ist vielfältig besprochen worden.",
+    "Der Anfang der Philosophie muß entweder ein Vermitteltes oder Unmittelbares sein, und es ist leicht zu zeigen, daß er weder das eine noch das andere sein könne; somit findet die eine oder die andere Weise des Anfangens ihre Widerlegung."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "70k8n01wve",
+   "sents": [
+    "Das Prinzip einer Philosophie drückt wohl auch einen Anfang aus, aber nicht sowohl einen subjektiven als objektiven, den Anfang aller Dinge.",
+    "Das Prinzip ist ein irgendwie bestimmter Inhalt:, das Wasser, das Eine, Nus, Idee,",
+    "– Substanz, Monade usf.; oder wenn es sich auf die Natur des Erkennens bezieht und damit mehr nur ein Kriterium als eine objektive Bestimmung sein soll – Denken, Anschauen, Empfinden, Ich, die Subjektivität selbst –, so ist es hier gleichfalls die Inhaltsbestimmung, auf welche das Interesse geht.",
+    "Das Anfangen als solches dagegen bleibt als ein Subjektives in dem Sinne einer zufälligen Art und Weise, den Vortrag einzuleiten, unbeachtet und gleichgültig, somit auch das Bedürfnis der Frage, womit anzufangen sei, unbedeutend gegen das Bedürfnis des Prinzips, als in welchem allein das Interesse der Sache zu liegen scheint, das Interesse, was das Wahre, was der absolute Grund von allem sei."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "1fdryplkae",
+   "sents": [
+    "Aber die moderne Verlegenheit um den Anfang geht aus einem weiteren Bedürfnisse hervor, welches diejenigen noch nicht kennen, denen es dogmatisch um das Erweisen des Prinzips zu tun ist oder skeptisch um das Finden eines subjektiven Kriteriums gegen dogmatisches Philosophieren, und welches diejenigen ganz verleugnen, die wie aus der Pistole aus ihrer inneren Offenbarung, aus Glauben, intellektueller Anschauung usw. anfangen und der Methode und Logik überhoben sein wollten.",
+    "Wenn das früher abstrakte Denken zunächst nur für das Prinzip als Inhalt sich interessiert, aber im Fortgange der Bildung auf die andere Seite, auf das Benehmen des Erkennens zu achten getrieben ist, so wird auch das subjektive Tun als wesentliches Moment der objektiven Wahrheit erfaßt, und das Bedürfnis führt sich herbei, daß die Methode mit dem Inhalt, die Form mit dem Prinzip vereint sei.",
+    "So soll das Prinzip auch Anfang und das, was das Prius für das Denken ist, auch das Erste im Gange des Denkens sein."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/1.p8.json"
+}

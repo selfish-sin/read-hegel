@@ -1,0 +1,92 @@
+{
+ "id": "w5-0-47",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Erster TeilDie objektive Logik",
+ "blocks": [
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "1w6zgzw1mj",
+   "sents": [
+    "Die kritische Philosophie machte zwar bereits die Metaphysik zur Logik, aber sie wie der spätere Idealismus gab, wie vorhin erinnert worden, aus Angst vor dem Objekt den logischen Bestimmungen eine wesentliche subjektive Bedeutung; dadurch blieben sie zugleich mit dem Objekte, das sie flohen, behaftet, und ein Ding-an-sich, ein unendlicher Anstoß, blieb als ein Jenseits an ihnen übrig.",
+    "Aber die Befreiung von dem Gegensatze des Bewußtseins, welche die Wissenschaft muß voraussetzen können, erhebt die Denkbestimmungen über diesen ängstlichen, unvollendeten Standpunkt und fordert die Betrachtung derselben, wie sie an und für sich, ohne eine solche Beschränkung und Rücksicht, das Logische, das Rein-Vernünftige sind."
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "1qqiwr01tv",
+   "sents": [
+    "Kant preist sonst die Logik, nämlich das Aggregat von Bestimmungen und Sätzen, das im gewöhnlichen Sinne Logik heißt, darüber glücklich, daß ihr vor anderen Wissenschaften eine so frühe Vollendung zuteil geworden sei; seit Aristoteles habe sie keinen Rückschritt getan, aber auch keinen Schritt vorwärts, das letztere deswegen, weil sie allem Ansehen nach geschlossen und vollendet zu sein scheine.",
+    "– Wenn die Logik seit Aristoteles keine Veränderung erlitten hat – wie denn in der Tat die Veränderungen, wenn man die neueren Kompendien der Logik betrachtet, häufig mehr nur in Weglassungen bestehen –, so ist daraus eher zu folgern, daß sie um so mehr einer totalen Umarbeitung bedürfe; denn ein zweitausendjähriges Fortarbeiten des Geistes muß ihm ein höheres Bewußtsein über sein Denken und über seine reine Wesenheit in sich selbst verschafft haben.",
+    "Die Vergleichung der Gestalten, zu denen sich der Geist der praktischen und der religiösen Welt und der Geist der Wissenschaft in jeder Art reellen und ideellen Bewußtseins emporgehoben hat, mit der Gestalt, in der sich die Logik, sein Bewußtsein über sein reines Wesen, befindet, zeigt einen zu großen Unterschied, als daß es nicht der oberflächlichsten Betrachtung sogleich auffallen sollte, daß dies letztere Bewußtsein den ersteren Erhebungen durchaus unangemessen und ihrer unwürdig ist."
+   ]
+  },
+  {
+   "bi": 49,
+   "k": "p",
+   "hash": "jm39ud1r3p",
+   "sents": [
+    "In der Tat ist das Bedürfnis einer Umgestaltung der Logik längst gefühlt worden.",
+    "In der Form und im Inhalt, wie sie sich in den Lehrbüchern zeigt, ist sie, man darf sagen, in Verachtung gekommen.",
+    "Sie wird noch mitgeschleppt mehr im Gefühle, daß eine Logik überhaupt nicht zu entbehren sei, und aus einer noch fortdauernden Gewohnheit an die Tradition von ihrer Wichtigkeit als aus Überzeugung, daß jener gewöhnliche Inhalt und die Beschäftigung mit jenen leeren Formen Wert und Nutzen habe."
+   ]
+  },
+  {
+   "bi": 50,
+   "k": "p",
+   "hash": "5l5pul12us",
+   "sents": [
+    "Die Erweiterungen, die ihr durch psychologisches, pädagogisches und selbst physiologisches Material eine Zeitlang gegeben wurden, sind nachher für Verunstaltungen ziemlich allgemein anerkannt worden.",
+    "An und für sich muß ein großer Teil dieser psychologischen, pädagogischen, physiologischen Beobachtungen, Gesetze und Regeln, sie mochten in der Logik oder wo es sei stehen, als sehr schal und trivial erscheinen.",
+    "Vollends solche Regeln als zum Beispiel, daß man dasjenige durchdenken und prüfen solle, was man in Büchern lese oder mündlich höre; daß man, wenn man nicht gut sehe, seinen Augen durch Brillen zu Hilfe zu kommen habe – Regeln, die von den Lehrbüchern in der sogenannten angewandten Logik, und zwar ernsthaft in Paragraphen abgeteilt, gegeben wurden, auf daß man zur Wahrheit gelange –, müssen jedermann als überflüssig vorkommen, nur höchstens dem Schriftsteller oder Lehrer nicht, der in Verlegenheit ist, den sonst zu kurzen und toten Inhalt der Logik durch irgend etwas auszudehnen.3"
+   ]
+  },
+  {
+   "bi": 51,
+   "k": "p",
+   "hash": "1x7cpgf10e",
+   "sents": [
+    "Was solchen Inhalt betrifft, so ist schon oben der Grund angegeben worden, warum er so geistlos ist.",
+    "Die Bestimmungen desselben gelten in ihrer Festigkeit unverrückt und werden nur in äußerliche Beziehung miteinander gebracht.",
+    "Dadurch, daß bei den Urteilen und Schlüssen die Operationen vornehmlich auf das Quantitative der Bestimmungen zurückgeführt und gegründet werden, beruht alles auf einem äußerlichen Unterschiede, auf bloßer Vergleichung, wird ein völlig analytisches Verfahren und begriffloses Kalkulieren.",
+    "Das Ableiten der sogenannten Regeln und Gesetze, des Schließens vornehmlich, ist nicht viel besser als ein Befingern von Stäbchen von ungleicher Länge, um sie nach ihrer Größe zu sortieren und zu verbinden, – als die spielende Beschäftigung der Kinder, von mannigfaltig zerschnittenen Gemälden die passenden Stücke zusammenzusuchen.",
+    "– Man hat daher nicht mit Unrecht dieses Denken dem Rechnen und das Rechnen wieder diesem Denken gleichgesetzt.",
+    "In der Arithmetik werden die Zahlen als das Begrifflose genommen, das außer seiner Gleichheit oder Ungleichheit, d.h. außer seinem ganz äußerlichen Verhältnisse keine Bedeutung hat, das weder an ihm selbst noch dessen Beziehung ein Gedanke ist.",
+    "Wenn auf mechanische Weise ausgerechnet wird, daß drei Viertel mit zwei Dritteln multipliziert ein Halbes ausmacht, so enthält diese Operation ungefähr soviel und sowenig Gedanken als die Berechnung, ob in einer Figur diese oder jene Art des Schlusses statthaben könne."
+   ]
+  },
+  {
+   "bi": 52,
+   "k": "p",
+   "hash": "1f6j70818a",
+   "sents": [
+    "Damit, daß dies tote Gebein der Logik durch den Geist zu Gehalt und Inhalt belebt werde, muß ihre Methode diejenige sein, wodurch sie allein fähig ist, reine Wissenschaft zu sein.",
+    "In dem Zustande, in dem sie sich befindet, ist kaum eine Ahnung von wissenschaftlicher Methode zu erkennen.",
+    "Sie hat ungefähr die Form einer Erfahrungswissenschaft.",
+    "Erfahrungswissenschaften haben für das, was sie sein sollen, ihre eigentümliche Methode des Definierens und des Klassifizierens ihres Stoffes, so gut es geht, gefunden.",
+    "Auch die reine Mathematik hat ihre Methode, die für ihre abstrakten Gegenstände und für die quantitative Bestimmung, in der sie sie allein betrachtet, passend ist.",
+    "Ich habe über diese Methode und überhaupt das Untergeordnete der Wissenschaftlichkeit, die in der Mathematik stattfinden kann, in der Vorrede zur Phänomenologie des Geistes das Wesentliche gesagt; aber sie wird auch innerhalb der Logik selbst näher betrachtet werden.",
+    "Spinoza, Wolff und andere haben sich verführen lassen, sie auch auf die Philosophie anzuwenden und den äußerlichen Gang der begrifflosen Quantität zum Gange des Begriffes zu machen, was an und für sich widersprechend ist.",
+    "Bisher hatte die Philosophie ihre Methode noch nicht gefunden; sie betrachtete mit Neid das systematische Gebäude der Mathematik und borgte sie, wie gesagt, von ihr oder behalf sich mit der Methode von Wissenschaften, die nur Vermischungen von gegebenem Stoffe, Erfahrungssätzen und Gedanken sind, – oder half sich auch mit dem rohen Wegwerfen aller Methode.",
+    "Die Exposition dessen aber, was allein die wahrhafte Methode der philosophischen Wissenschaft sein kann, fällt in die Abhandlung der Logik selbst; denn die Methode ist das Bewußtsein über die Form der inneren Selbstbewegung ihres Inhalts.",
+    "Ich habe in der Phänomenologie des Geistes ein Beispiel von dieser Methode an einem konkreteren Gegenstande, an dem Bewußtsein, aufgestellt.4 Es sind hier Gestalten des Bewußtseins, deren jede in ihrer Realisierung sich zugleich selbst auflöst, ihre eigene Negation zu ihrem Resultate hat – und damit in eine höhere Gestalt übergegangen ist.",
+    "Das Einzige, um den wissenschaftlichen Fortgang zu gewinnen – und um dessen ganz einfache Einsicht sich wesentlich zu bemühen ist –, ist die Erkenntnis des logischen Satzes, daß das Negative ebensosehr positiv ist oder daß das sich Widersprechende sich nicht in Null, in das abstrakte Nichts auflöst, sondern wesentlich nur in die Negation seines besonderen Inhalts, oder daß eine solche Negation nicht alle Negation, sondern die Negation der bestimmten Sache, die sich auflöst, somit bestimmte Negation ist; daß also im Resultate wesentlich das enthalten ist, woraus es resultiert, – was eigentlich eine Tautologie ist, denn sonst wäre es ein Unmittelbares, nicht ein Resultat.",
+    "Indem das Resultierende, die Negation, bestimmte Negation ist, hat sie einen Inhalt.",
+    "Sie ist ein neuer Begriff, aber der höhere, reichere Begriff als der vorhergehende; denn sie ist um dessen Negation oder Entgegengesetztes reicher geworden, enthält ihn also, aber auch mehr als ihn, und ist die Einheit seiner und seines Entgegengesetzten.",
+    "– In diesem Wege hat sich das System der Begriffe überhaupt zu bilden – und in unaufhaltsamem, reinem, von außen nichts hereinnehmendem Gange sich zu vollenden."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p47.json"
+}

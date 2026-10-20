@@ -1,0 +1,102 @@
+{
+ "id": "w5-1-0",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 1,
+ "chunkTitle": "Allgemeine Einteilung der Logik",
+ "heading": "Allgemeine Einteilung der Logik",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1464xsn1pl",
+   "text": "Allgemeine Einteilung der Logik"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "pqds85ubud",
+   "sents": [
+    "In dem, was über den Begriff dieser Wissenschaft und wohin seine Rechtfertigung falle, gesagt worden ist, liegt, daß die allgemeine Einteilung hier nur vorläufig sein, gleichsam nur insofern angegeben werden kann, als der Verfasser die Wissenschaft bereits kennt, daher historisch hier zum voraus anzuführen imstande ist, zu welchen Hauptunterschieden sich der Begriff in seiner Entwicklung bestimmen wird."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "12u1op1xq4",
+   "sents": [
+    "Doch kann versucht werden, das, was zum Einteilen erforderlich ist, zum voraus im allgemeinen verständlich zu machen, obgleich auch dabei ein Verfahren der Methode in Anspruch genommen werden muß, das seine volle Verständigung und Rechtfertigung erst innerhalb der Wissenschaft erhält.",
+    "– Zuvörderst also ist zu erinnern, daß hier vorausgesetzt wird, die Einteilung müsse mit dem Begriffe zusammenhängen oder vielmehr in ihm selbst liegen.",
+    "Der Begriff ist nicht unbestimmt, sondern bestimmt an ihm selbst; die Einteilung aber drückt entwickelt diese seine Bestimmtheit aus; sie ist das Urteil desselben, nicht ein Urteil über irgendeinen äußerlich genommenen Gegenstand, sondern das Urteilen, d. i. Bestimmen des Begriffs an ihm selbst.",
+    "Die Rechtwinkligkeit, Spitzwinkligkeit usf., wie die Gleichseitigkeit usf., nach welchen Bestimmungen die Dreiecke eingeteilt werden, liegt nicht in der Bestimmtheit des Dreiecks selbst, d.h. nicht in dem, was der Begriff des Dreiecks genannt zu werden pflegt, ebensowenig als in dem, was für den Begriff des Tieres überhaupt oder des Säugetiers, Vogels usw. [gilt,] die Bestimmungen liegen, nach welchen jenes in Säugetiere, Vögel usw. und diese Klassen in weitere Gattungen eingeteilt werden.",
+    "Solche Bestimmungen werden anderswoher, aus der empirischen Anschauung aufgenommen; sie treten zu jenem sogenannten Begriffe von außen hinzu.",
+    "In der philosophischen Behandlung des Einteilens muß der Begriff selbst sich als ihren Ursprung enthaltend zeigen."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "kxmq1hdmox",
+   "sents": [
+    "Der Begriff der Logik aber selbst ist in der Einleitung als das Resultat einer jenseits liegenden Wissenschaft, damit hier gleichfalls als eine Voraussetzung angegeben worden.",
+    "Die Logik bestimmte sich danach als die Wissenschaft des reinen Denkens, die zu ihrem Prinzip das reine Wissen habe, die nicht abstrakte, sondern dadurch konkrete lebendige Einheit, daß in ihr der Gegensatz des Bewußtseins von einem subjektiv für sich Seienden und einem zweiten solchen Seienden, einem Objektiven, als überwunden und das Sein als reiner Begriff an sich selbst und der reine Begriff als das wahrhafte Sein gewußt wird.",
+    "Dies sind sonach die beiden Momente, welche im Logischen enthalten sind.",
+    "Aber sie werden nun als untrennbar seiend gewußt, nicht wie im Bewußtsein jedes auch als für sich seiend; dadurch allein, daß sie zugleich als unterschiedene (jedoch nicht für sich seiende) gewußt werden, ist ihre Einheit nicht abstrakt, tot, unbewegend, sondern konkret."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "1cnsc2v2zk",
+   "sents": [
+    "Diese Einheit macht das logische Prinzip zugleich als Element aus, so daß die Entwicklung jenes Unterschiedes, der sogleich in ihm ist, nur innerhalb dieses Elementes vor sich geht.",
+    "Denn indem die Einteilung, wie gesagt worden, das Urteil des Begriffs, das Setzen der ihm schon immanenten Bestimmung und damit seines Unterschiedes ist, so darf dies Setzen nicht als ein Wiederauflösen jener konkreten Einheit in ihre Bestimmungen, wie sie als für sich seiend gelten sollen, gefaßt werden, was hier ein leeres Zurückgehen auf den vorigen Standpunkt, den Gegensatz des Bewußtseins, wäre; dieser ist vielmehr verschwunden; jene Einheit bleibt das Element, und aus ihr tritt jenes Unterscheiden der Einteilung und überhaupt der Entwicklung nicht mehr heraus.",
+    "Damit sind die früher (auf dem Wege zur Wahrheit) für sich seienden Bestimmungen, wie ein Subjektives und Objektives oder auch Denken und Sein oder Begriff und Realität, wie sie in irgendeiner Rücksicht bestimmt worden sein mögen, nun in ihrer Wahrheit, d. i. in ihrer Einheit, zu Formen herabgesetzt.",
+    "In ihrem Unterschiede bleiben sie daher selbst an sich der ganze Begriff, und dieser wird in der Einteilung nur unter seinen eigenen Bestimmungen gesetzt."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "y3568rbpsu",
+   "sents": [
+    "So ist es der ganze Begriff, der das eine Mal als seiender Begriff, das andere Mal als Begriff zu betrachten ist; dort ist er nur Begriff an sich, der Realität oder des Seins, hier ist er Begriff als solcher, für sich seiender Begriff (wie er es, um konkrete Formen zu nennen, im denkenden Menschen, aber auch schon) freilich nicht als bewußter, noch weniger als gewußter Begriff, im empfindenden Tier und in der organischen Individualität überhaupt ist; Begriff an sich ist er aber nur in der unorganischen Natur.",
+    "– Die Logik wäre hiernach zunächst in die Logik des Begriffs als Seins und des Begriffs als Begriffs oder – indem wir uns der sonst gewöhnlichen, obgleich der unbestimmtesten und darum der vieldeutigsten Ausdrücke bedienen – in die objektive und subjektive Logik einzuteilen."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "gr4lw65j6z",
+   "sents": [
+    "Nach dem zugrunde liegenden Elemente aber der Einheit des Begriffs in sich selbst und damit der Untrennbarkeit seiner Bestimmungen müssen diese ferner auch, insofern sie unterschieden, der Begriff in ihrem Unterschiede gesetzt wird, wenigstens in Beziehung aufeinander stehen.",
+    "Es ergibt sich daraus eine Sphäre der Vermittlung, der Begriff als System der Reflexionsbestimmungen, d. i. des zum Insichsein des Begriffs übergehenden Seins, der auf diese Weise noch nicht als solcher für sich gesetzt ist, sondern mit dem unmittelbaren Sein als einem ihm auch Äußeren zugleich behaftet ist.",
+    "Dies ist die Lehre von dem Wesen, die zwischen der Lehre vom Sein und der vom Begriff inmitten steht.",
+    "– Sie ist in der allgemeinen Einteilung dieses logischen Werks noch unter die objektive Logik gestellt worden, insofern, ob das Wesen zwar bereits das Innere, dem Begriffe der Charakter des Subjekts ausdrücklich vorzubehalten ist."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "1rexukw1ir",
+   "sents": [
+    "Kant5 hat in neueren Zeiten dem, was gewöhnlich Logik genannt worden, noch eine, nämlich eine transzendentale Logik gegenübergestellt.",
+    "Das, was hier objektive Logik genannt worden, würde zum Teil dem entsprechen, was bei ihm die transzendentale Logik ist.",
+    "Er unterscheidet sie von dem, was er allgemeine Logik nennt, so, daß sie α die Begriffe betrachte, die sich a priori auf Gegenstände beziehen, somit nicht von allem Inhalte der objektiven Erkenntnis abstrahiere, oder daß sie die Regeln des reinen Denkens eines Gegenstandes enthalte und β zugleich auf den Ursprung unserer Erkenntnis gehe, insofern sie nicht den Gegenständen zugeschrieben werden könne.",
+    "– Diese zweite Seite ist es, auf die das philosophische Interesse Kants ausschließend gerichtet ist.",
+    "Sein Hauptgedanke ist, die Kategorien dem Selbstbewußtsein, als dem subjektiven Ich, zu vindizieren.",
+    "Vermöge dieser Bestimmung bleibt die Ansicht innerhalb des Bewußtseins und seines Gegensatzes stehen und hat außer dem Empirischen des Gefühls und der Anschauung noch etwas, das nicht durch das denkende Selbstbewußtsein gesetzt und bestimmt ist, ein Ding-an-sich, ein dem Denken Fremdes und Äußerliches, übrigbleiben; obgleich leicht einzusehen ist, daß ein solches Abstraktum wie Ding-an-sich selbst nur ein Produkt des, und zwar nur abstrahierenden Denkens ist.",
+    "– Wenn andere Kantianer sich über das Bestimmen des Gegenstandes durch Ich so ausgedrückt haben, daß das Objektivieren des Ich als ein ursprüngliches und notwendiges Tun des Bewußtseins anzusehen sei, so daß in diesem ursprünglichen Tun noch nicht die Vorstellung des Ich selbst ist – als welche erst ein Bewußtsein jenes Bewußtseins oder selbst ein Objektivieren jenes Bewußtseins sei –, so ist dieses von dem Gegensatze des Bewußtseins befreite objektivierende Tun näher dasjenige, was für Denken als solches überhaupt genommen werden kann.6 Dieses Tun sollte aber nicht mehr Bewußtsein genannt werden; Bewußtsein schließt den Gegensatz des Ich und seines Gegenstandes in sich, der in jenem ursprünglichen Tun nicht vorhanden ist.",
+    "Die Benennung »Bewußtsein« wirft noch mehr den Schein von Subjektivität auf dasselbe als der Ausdruck Denken, der aber hier überhaupt im absoluten Sinne als unendliches, mit der Endlichkeit des Bewußtseins nicht behaftetes Denken, kurz Denken als solches zu nehmen ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/1.p0.json"
+}

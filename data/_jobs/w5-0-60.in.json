@@ -1,0 +1,66 @@
+{
+ "id": "w5-0-60",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Erster TeilDie objektive Logik",
+ "blocks": [
+  {
+   "bi": 60,
+   "k": "p",
+   "hash": "1qdb83z1t8",
+   "sents": [
+    "In Rücksicht auf die Bildung und das Verhältnis des Individuums zur Logik merke ich schließlich noch an, daß diese Wissenschaft wie die Grammatik in zwei verschiedenen Ansichten oder Werten erscheint.",
+    "Sie ist etwas anderes für den, der zu ihr und den Wissenschaften überhaupt erst hinzutritt, und etwas anderes für den, der von ihnen zu ihr zurückkommt.",
+    "Wer die Grammatik anfängt kennenzulernen, findet in ihren Formen und Gesetzen trockene Abstraktionen, zufällige Regeln, überhaupt eine isolierte Menge von Bestimmungen, die nur den Wert und die Bedeutung dessen zeigen, was in ihrem unmittelbaren Sinne liegt; das Erkennen erkennt in ihnen zunächst nichts als sie.",
+    "Wer dagegen einer Sprache mächtig ist und zugleich andere Sprachen in Vergleichung mit ihr kennt, dem erst kann sich der Geist und die Bildung eines Volks in der Grammatik seiner Sprache zu fühlen geben; dieselben Regeln und Formen haben nunmehr einen erfüllten, lebendigen Wert.",
+    "Er kann durch die Grammatik hindurch den Ausdruck des Geistes überhaupt, die Logik, erkennen.",
+    "So wer zur Wissenschaft hinzutritt, findet in der Logik zunächst ein isoliertes System von Abstraktionen, das, auf sich selbst beschränkt, nicht über die anderen Kenntnisse und Wissenschaften übergreift.",
+    "Vielmehr, gehalten gegen den Reichtum der Weltvorstellung, gegen den real erscheinenden Inhalt der anderen Wissenschaften und verglichen mit dem Versprechen der absoluten Wissenschaft, das Wesen dieses Reichtums, die innere Natur des Geistes und der Welt, die Wahrheit zu enthüllen, hat diese Wissenschaft in ihrer abstrakten Gestalt, in der farblosen, kalten Einfachheit ihrer reinen Bestimmungen vielmehr das Ansehen, alles eher zu leisten als dies Versprechen und gehaltlos jenem Reichtum gegenüberzustehen.",
+    "Die erste Bekanntschaft mit der Logik schränkt ihre Bedeutung auf sie selbst ein; ihr Inhalt gilt nur für eine isolierte Beschäftigung mit den Denkbestimmungen, neben der die anderen wissenschaftlichen Beschäftigungen ein eigener Stoff und Gehalt für sich sind, auf welche das Logische etwa einen formellen Einfluß hat, und zwar einen solchen, der sich mehr von selbst macht und für den die wissenschaftliche Gestalt und deren Studium allerdings auch zur Not entbehrt werden kann.",
+    "Die an deren Wissenschaften haben die regelrechte Methode, eine Folge von Definitionen, Axiomen, Theoremen und deren Beweisen usf. zu sein, im Ganzen abgeworfen; die sogenannte natürliche Logik macht sich für sich in ihnen geltend und hilft sich ohne besondere, auf das Denken selbst gerichtete Erkenntnis fort.",
+    "Vollends aber hält sich der Stoff und Inhalt dieser Wissenschaften für sich selbst vom Logischen völlig unabhängig und ist auch für Sinn, Gefühl, Vorstellung und praktisches Interesse jeder Art ansprechender."
+   ]
+  },
+  {
+   "bi": 61,
+   "k": "p",
+   "hash": "1t1fhh0zy7",
+   "sents": [
+    "So muß denn allerdings die Logik zuerst gelernt werden als etwas, das man wohl versteht und einsieht, aber woran Umfang, Tiefe und weitere Bedeutung anfangs vermißt wird.",
+    "Erst aus der tieferen Kenntnis der anderen Wissenschaften erhebt sich für den subjektiven Geist das Logische als ein nicht nur abstrakt Allgemeines, sondern als das den Reichtum des Besonderen in sich fassende Allgemeine; – wie derselbe Sittenspruch in dem Munde des Jünglings, der ihn ganz richtig versteht, nicht die Bedeutung und den Umfang besitzt, welchen er im Geiste eines lebenserfahrenen Mannes hat, dem sich damit die ganze Kraft des darin enthaltenen Gehaltes ausdrückt.",
+    "So erhält das Logische erst dadurch die Schätzung seines Werts, wenn es zum Resultate der Erfahrung der Wissenschaften geworden ist; es stellt sich daraus als die allgemeine Wahrheit, nicht als eine besondere Kenntnis neben anderem Stoffe und Realitäten, sondern als das Wesen alles dieses sonstigen Inhalts dem Geiste dar."
+   ]
+  },
+  {
+   "bi": 62,
+   "k": "p",
+   "hash": "16fbleo953",
+   "sents": [
+    "Ob nun das Logische zwar im Anfange des Studiums nicht in dieser bewußten Kraft für den Geist vorhanden ist, so empfängt er durch dasselbe darum nicht weniger die Kraft in sich, die ihn in alle Wahrheit leitet.",
+    "Das System der Logik ist das Reich der Schatten, die Welt der einfachen Wesenheiten, von aller sinnlichen Konkretion befreit.",
+    "Das Studium dieser Wissenschaft, der Aufenthalt und die Arbeit in diesem Schattenreich ist die absolute Bildung und Zucht des Bewußtseins.",
+    "Es treibt darin ein von sinnlichen Anschauungen und Zwecken, von Gefühlen, von der bloß gemeinten Vorstellungswelt fernes Geschäft.",
+    "Von seiner negativen Seite betrachtet, besteht dies Geschäft in dem Fernhalten der Zufälligkeit des räsonierenden Denkens und der Willkür, diese oder die entgegengesetzten Gründe sich einfallen und gelten zu lassen."
+   ]
+  },
+  {
+   "bi": 63,
+   "k": "p",
+   "hash": "34n9z81fjc",
+   "sents": [
+    "Vornehmlich aber gewinnt der Gedanke dadurch Selbständigkeit und Unabhängigkeit.",
+    "Er wird in dem Abstrakten und in dem Fortgehen durch Begriffe ohne sinnliche Substrate einheimisch, wird zur unbewußten Macht, die sonstige Mannigfaltigkeit der Kenntnisse und Wissenschaften in die vernünftige Form aufzunehmen, sie in ihrem Wesentlichen zu erfassen und festzuhalten, das Äußerliche abzustreifen und auf diese Weise aus ihnen das Logische auszuziehen – oder, was dasselbe ist, die vorher durch das Studium erworbene abstrakte Grundlage des Logischen mit dem Gehalte aller Wahrheit zu erfüllen und ihm den Wert eines Allgemeinen zu geben, das nicht mehr als ein Besonderes neben anderem Besonderen steht, sondern über alles dieses übergreift und dessen Wesen, das Absolut-Wahre ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p60.json"
+}

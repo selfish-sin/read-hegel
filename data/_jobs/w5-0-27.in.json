@@ -1,0 +1,117 @@
+{
+ "id": "w5-0-27",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Erster TeilDie objektive Logik",
+ "blocks": [
+  {
+   "bi": 27,
+   "k": "p",
+   "hash": "1np148lh28",
+   "sents": [
+    "Wenn die Logik als die Wissenschaft des Denkens im allgemeinen angenommen wird, so wird dabei verstanden, daß dies Denken die bloße Form einer Erkenntnis ausmache, daß die Logik von allem Inhalte abstrahiere und das sogenannte zweite Bestandstück, das zu einer Erkenntnis gehöre, die Materie, anderswoher gegeben werden müsse, daß somit die Logik, als von welcher diese Materie ganz und gar unabhängig sei, nur die formalen Bedingungen wahrhafter Erkenntnis angeben, nicht aber reale Wahrheit selbst enthalten, noch auch nur der Weg zu realer Wahrheit sein könne, weil gerade das Wesentliche der Wahrheit, der Inhalt, außer ihr liege."
+   ]
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "4hf35oi1pz",
+   "sents": [
+    "Fürs erste aber ist es schon ungeschickt zu sagen, daß die Logik von allem Inhalte abstrahiere, daß sie nur die Regeln des Denkens lehre, ohne auf das Gedachte sich einzulassen und auf dessen Beschaffenheit Rücksicht nehmen zu können.",
+    "Denn da das Denken und die Regeln des Denkens ihr Gegenstand sein sollen, so hat sie ja unmittelbar daran ihren eigentümlichen Inhalt; sie hat daran auch jenes zweite Bestandstück der Erkenntnis, eine Materie, um deren Beschaffenheit sie sich bekümmert."
+   ]
+  },
+  {
+   "bi": 29,
+   "k": "p",
+   "hash": "s419bnalg3",
+   "sents": [
+    "Allein zweitens sind überhaupt die Vorstellungen, auf denen der Begriff der Logik bisher beruhte, teils bereits untergegangen, teils ist es Zeit, daß sie vollends verschwinden, daß der Standpunkt dieser Wissenschaft höher gefaßt werde und daß sie eine völlig veränderte Gestalt gewinne."
+   ]
+  },
+  {
+   "bi": 30,
+   "k": "p",
+   "hash": "upa1vja4n4",
+   "sents": [
+    "Der bisherige Begriff der Logik beruht auf der im gewöhnlichen Bewußtsein ein für allemal vorausgesetzten Trennung des Inhalts der Erkenntnis und der Form derselben, oder der Wahrheit und der Gewißheit.",
+    "Es wird erstens vorausgesetzt, daß der Stoff des Erkennens als eine fertige Welt außerhalb des Denkens an und für sich vorhanden, daß das Denken für sich leer sei, als eine Form äußerlich zu jener Materie hinzutrete, sich damit erfülle, erst daran einen Inhalt gewinne und dadurch ein reales Erkennen werde."
+   ]
+  },
+  {
+   "bi": 31,
+   "k": "p",
+   "hash": "ir6luu6ha7",
+   "sents": [
+    "Alsdann stehen diese beiden Bestandteile (denn sie sollen das Verhältnis von Bestandteilen haben, und das Erkennen wird aus ihnen mechanischer- oder höchstens chemischerweise zusammengesetzt) in dieser Rangordnung gegeneinander, daß das Objekt ein für sich Vollendetes, Fertiges sei, das des Denkens zu seiner Wirklichkeit vollkommen entbehren könne, dahingegen das Denken etwas Mangelhaftes sei, das sich erst an einem Stoffe zu vervollständigen, und zwar als eine weiche unbestimmte Form sich seiner Materie angemessen zu machen habe.",
+    "Wahrheit ist die Übereinstimmung des Denkens mit dem Gegenstande, und es soll, um diese Übereinstimmung hervorzubringen – denn sie ist nicht an und für sich vorhanden –, das Denken nach dem Gegenstande sich fügen und bequemen."
+   ]
+  },
+  {
+   "bi": 32,
+   "k": "p",
+   "hash": "b800r0ndeb",
+   "sents": [
+    "Drittens, indem die Verschiedenheit der Materie und der Form, des Gegenstandes und des Denkens nicht in jener nebligen Unbestimmtheit gelassen, sondern bestimmter genommen wird, so ist jede eine von der anderen geschiedene Sphäre.",
+    "Das Denken kommt daher in seinem Empfangen und Formieren des Stoffs nicht über sich hinaus, sein Empfangen und sich nach ihm Bequemen bleibt eine Modifikation seiner selbst, es wird dadurch nicht zu seinem Anderen; und das selbstbewußte Bestimmen gehört ohnedies nur ihm an; es kommt also auch in seiner Beziehung auf den Gegenstand nicht aus sich heraus zu dem Gegenstande: dieser bleibt als ein Ding an sich schlechthin ein Jenseits des Denkens."
+   ]
+  },
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "1j4fevv120",
+   "sents": [
+    "Diese Ansichten über das Verhältnis des Subjekts und Objekts zueinander drücken die Bestimmungen aus, welche die Natur unseres gewöhnlichen, des erscheinenden Bewußtseins ausmachen; aber diese Vorurteile, in die Vernunft übertragen, als ob in ihr dasselbe Verhältnis stattfinde, als ob dieses Verhältnis an und für sich Wahrheit habe, so sind sie die Irrtümer, deren durch alle Teile des geistigen und natürlichen Universums durchgeführte Widerlegung die Philosophie ist oder die vielmehr, weil sie den Eingang in die Philosophie versperren, vor derselben abzulegen sind."
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "1iq1exi19b",
+   "sents": [
+    "Die ältere Metaphysik hatte in dieser Rücksicht einen höheren Begriff von dem Denken, als in der neueren Zeit gang und gäbe geworden ist.",
+    "Jene legte nämlich zugrunde, daß das, was durchs Denken von und an den Dingen erkannt werde, das allein an ihnen wahrhaft Wahre sei, somit nicht sie in ihrer Unmittelbarkeit, sondern sie erst in die Form des Denkens erhoben, als Gedachte.",
+    "Diese Metaphysik hielt somit dafür, daß das Denken und die Bestimmungen des Denkens nicht ein den Gegenständen Fremdes, sondern vielmehr deren Wesen sei oder daß die Dinge und das Denken derselben (wie auch unsere Sprache eine Verwandtschaft derselben ausdrückt) an und für sich übereinstimmen, daß das Denken in seinen immanenten Bestimmungen und die wahrhafte Natur der Dinge ein und derselbe Inhalt sei."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "7lwwsenp15",
+   "sents": [
+    "Aber der reflektierende Verstand bemächtigte sich der Philosophie.",
+    "Es ist genau zu wissen, was dieser Ausdruck sagen will, der sonst vielfach als Schlagwort gebraucht wird; es ist überhaupt darunter der abstrahierende und damit trennende Verstand zu verstehen, der in seinen Trennungen beharrt.",
+    "Gegen die Vernunft gekehrt, beträgt er sich als gemeiner Menschenverstand und macht seine Ansicht geltend, daß die Wahrheit auf sinnlicher Realität beruhe, daß die Gedanken nur Gedanken seien, in dem Sinne, daß erst die sinnliche Wahrnehmung ihnen Gehalt und Realität gebe, daß die Vernunft, insofern sie an und für sich bleibe, nur Hirngespinste erzeuge.",
+    "In diesem Verzichttun der Vernunft auf sich selbst geht der Begriff der Wahrheit verloren; sie ist darauf eingeschränkt, nur subjektive Wahrheit, nur die Erscheinung zu erkennen, nur etwas, dem die Natur der Sache selbst nicht entspreche; das Wissen ist zur Meinung zurückgefallen."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "2a0zf72ryc",
+   "sents": [
+    "Diese Wendung jedoch, welche das Erkennen nimmt und die als Verlust und Rückschritt erscheint, hat das liefere zum Grunde, worauf überhaupt die Erhebung der Vernunft in den höheren Geist der neueren Philosophie beruht.",
+    "Der Grund jener allgemein gewordenen Vorstellung ist nämlich in der Einsicht von dem notwendigen Widerstreite der Bestimmungen des Verstandes mit sich selbst zu suchen.",
+    "– Die schon namhaft gemachte Reflexion ist dies, über das konkrete Unmittelbare hinauszugehen und dasselbe zu bestimmen und zu trennen.",
+    "Aber sie muß ebensosehr über diese ihre trennenden Bestimmungen hinausgehen und sie zunächst beziehen.",
+    "Auf dem Standpunkte dieses Beziehens tritt der Widerstreit derselben hervor.",
+    "Dieses Beziehen der Reflexion gehört an sich der Vernunft an; die Erhebung über jene Bestimmungen, die zur Einsicht des Widerstreits derselben gelangt, ist der große negative Schritt zum wahrhaften Begriffe der Vernunft.",
+    "Aber die nicht durchgeführte Einsicht fällt in den Mißverstand, als ob die Vernunft es sei, welche in Widerspruch mit sich gerate; sie erkennt nicht, daß der Widerspruch eben das Erheben der Vernunft über die Beschränkungen des Verstandes und das Auflösen derselben ist.",
+    "Statt von hier aus den letzten Schritt in die Höhe zu tun, ist die Erkenntnis von dem Unbefriedigenden der Verstandesbestimmungen zu der sinnlichen Existenz zurückgeflohen, an derselben das Feste und Einige zu haben vermeinend.",
+    "Indem aber auf der ändern Seite diese Erkenntnis sich als die Erkenntnis nur von Erscheinendem weiß, wird das Unbefriedigende derselben eingestanden, aber zugleich vorausgesetzt, als ob zwar nicht die Dinge an sich, aber doch innerhalb der Sphäre der Erscheinung richtig erkannt würde, als ob dabei gleichsam nur die Art der Gegenstände verschieden wäre und die eine Art, nämlich die Dinge an sich, zwar nicht, aber doch die andere Art, nämlich die Erscheinungen, in die Erkenntnis fielen.",
+    "Wie wenn einem Manne richtige Einsicht beigemessen würde, mit dem Zusatz, daß er jedoch nichts Wahres, sondern nur Unwahres einzusehen fähig sei.",
+    "So ungereimt das letztere wäre, so ungereimt ist eine wahre Erkenntnis, die den Gegenstand nicht erkennte, wie er an sich ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p27.json"
+}

@@ -1,0 +1,87 @@
+{
+ "id": "w5-0-8",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Vorrede zur zweiten Ausgabe",
+ "blocks": [
+  {
+   "bi": 8,
+   "k": "p",
+   "hash": "1125wyl1rv",
+   "sents": [
+    "Was nun auch für die Sache und für die Form der Wissenschaft bereits in sonstiger Rücksicht geschehen sein mag, – die logische Wissenschaft, welche die eigentliche Metaphysik oder reine spekulative Philosophie ausmacht, hat sich bisher noch sehr vernachlässigt gesehen.",
+    "Was ich unter dieser Wissenschaft und ihrem Standpunkte näher verstehe, habe ich in der Einleitung vorläufig angegeben.",
+    "Die Notwendigkeit, mit dieser Wissenschaft wieder einmal von vorne anzufangen, die Natur des Gegenstandes selbst und der Mangel an Vorarbeiten, welche für die vorgenommene Umbildung hätten benutzt werden können, mögen bei billigen Beurteilern in Rücksicht kommen, wenn auch eine vieljährige Arbeit diesem Versuche nicht eine größere Vollkommenheit geben konnte.",
+    "– Der wesentliche Gesichtspunkt ist, daß es überhaupt um einen neuen Begriff wissenschaftlicher Behandlung zu tun ist.",
+    "Die Philosophie, indem sie Wissenschaft sein soll, kann, wie ich anderwärts erinnert habe1, hierzu ihre Methode nicht von einer untergeordneten Wissenschaft, wie die Mathematik ist, borgen, sowenig als es bei kategorischen Versicherungen innerer Anschauung bewenden lassen oder sich des Räsonnements aus Gründen der äußeren Reflexion bedienen.",
+    "Sondern es kann nur die Natur des Inhalts sein, welche sich im wissenschaftlichen Erkennen bewegt, indem zugleich diese eigene Reflexion des Inhalts es ist, welche seine Bestimmung selbst erst setzt und erzeugt."
+   ]
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "wthfhqqv5d",
+   "sents": [
+    "Der Verstand bestimmt und hält die Bestimmungen fest; die Vernunft ist negativ und dialektisch, weil sie die Bestimmungen des Verstands in nichts auflöst; sie ist positiv, weil sie das Allgemeine erzeugt und das Besondere darin begreift.",
+    "Wie der Verstand als etwas Getrenntes von der Vernunft überhaupt, so pflegt auch die dialektische Vernunft als etwas Getrenntes von der positiven Vernunft genommen zu werden.",
+    "Aber in ihrer Wahrheit ist die Vernunft Geist, der höher als beides, verständige Vernunft oder vernünftiger Verstand ist.",
+    "Er ist das Negative, dasjenige, welches die Qualität sowohl der dialektischen Vernunft als des Verstandes ausmacht; – er negiert das Einfache, so setzt er den bestimmten Unterschied des Verstandes; er löst ihn ebensosehr auf, so ist er dialektisch.",
+    "Er hält sich aber nicht im Nichts dieses Resultates, sondern ist darin ebenso positiv und hat so das erste Einfache damit hergestellt, aber als Allgemeines, das in sich konkret ist; unter dieses wird nicht ein gegebenes Besonderes subsumiert, sondern in jenem Bestimmen und in der Auflösung desselben hat sich das Besondere schon mit bestimmt.",
+    "Diese geistige Bewegung, die sich in ihrer Einfachheit ihre Bestimmtheit und in dieser ihre Gleichheit mit sich selbst gibt, die somit die immanente Entwicklung des Begriffes ist, ist die absolute Methode des Erkennens und zugleich die immanente Seele des Inhalts selbst.",
+    "– Auf diesem sich selbst konstruierenden Wege allein, behaupte ich, ist die Philosophie fähig, objektive, demonstrierte Wissenschaft zu sein.",
+    "– In dieser Weise habe ich das Bewußtsein in der Phänomenologie des Geistes darzustellen versucht.",
+    "Das Bewußtsein ist der Geist als konkretes, und zwar in der Äußerlichkeit befangenes Wissen; aber die Fortbewegung dieses Gegenstandes beruht allein, wie die Entwicklung alles natürlichen und geistigen Lebens, auf der Natur der reinen Wesenheiten, die den Inhalt der Logik ausmachen.",
+    "Das Bewußtsein, als der erscheinende Geist, welcher sich auf seinem Wege von seiner Unmittelbarkeit und äußerlichen Konkretion befreit, wird zum reinen Wissen, das sich jene reinen Wesenheiten selbst, wie sie an und für sich sind, zum Gegenstand gibt.",
+    "Sie sind die reinen Gedanken, der sein Wesen denkende Geist.",
+    "Ihre Selbstbewegung ist ihr geistiges Leben und ist das, wodurch sich die Wissenschaft konstituiert und dessen Darstellung sie ist."
+   ]
+  },
+  {
+   "bi": 10,
+   "k": "p",
+   "hash": "i2qs3m1dge",
+   "sents": [
+    "Es ist hiermit die Beziehung der Wissenschaft, die ich Phänomenologie des Geistes nenne, zur Logik angegeben.",
+    "– Was das äußerliche Verhältnis betrifft, so war dem ersten Teil des Systems der Wissenschaft2, der die Phänomenologie enthält, ein zweiter Teil zu folgen bestimmt, welcher die Logik und die beiden realen Wissenschaften der Philosophie, die Philosophie der Natur und die Philosophie des Geistes, enthalten sollte und das System der Wissenschaft beschlossen haben würde.",
+    "Aber die notwendige Ausdehnung, welche die Logik für sich erhalten mußte, hat mich veranlaßt, diese besonders ans Licht treten zu lassen; sie macht also in einem erweiterten Plane die erste Folge zur Phänomenologie des Geistes aus.",
+    "Späterhin werde ich die Bearbeitung der beiden genannten realen Wissenschaften der Philosophie folgen lassen.",
+    "– Dieser erste Band der Logik aber enthält als erstes Buch die Lehre vom Sein, das zweite Buch, die Lehre vom Wesen, als zweite Abteilung des ersten Bandes; der zweite Band aber wird die subjektive Logik oder die Lehre vom Begriff enthalten."
+   ]
+  },
+  {
+   "bi": 11,
+   "k": "p",
+   "hash": "l6mlo3y82n",
+   "sents": [
+    "Nürnberg, den 22. März 1812"
+   ]
+  },
+  {
+   "bi": 12,
+   "k": "h",
+   "hash": "lz598dfyxq",
+   "text": "Vorrede zur zweiten Ausgabe"
+  },
+  {
+   "bi": 13,
+   "k": "p",
+   "hash": "1vr99vqzde",
+   "sents": [
+    "An diese neue Bearbeitung der Wissenschaft der Logik, wovon hiermit der erste Band erscheint, bin ich wohl mit dem ganzen Bewußtsein sowohl der Schwierigkeit des Gegenstandes für sich und dann seiner Darstellung als der Unvollkommenheit, welche die Bearbeitung desselben in der ersten Ausgabe an sich trägt, gegangen; sosehr ich nach weiterer vieljähriger Beschäftigung mit dieser Wissenschaft bemüht gewesen, dieser Unvollkommenheit abzuhelfen, so fühle ich, noch Ursache genug zu haben, die Nachsicht des Lesers in Anspruch zu nehmen.",
+    "Ein Titel solchen Anspruchs aber zunächst darf wohl auf den Umstand gegründet werden, daß sich für den Inhalt vornehmlich nur äußerliches Material in der früheren Metaphysik und Logik vorgefunden hat.",
+    "So allgemein und häufig dieselben, die letztere noch bis auf unsere Zeiten fort, getrieben worden, sowenig hat solche Bearbeitung die spekulative Seite betroffen; vielmehr ist im Ganzen dasselbe Material wiederholt, abwechselnd bald bis zu trivialer Oberflächlichkeit verdünnt, bald der alte Ballast umfangreicher von neuem hervorgeholt und mitgeschleppt worden, so daß durch solche, häufig ganz nur mechanische Bemühungen dem philosophischen Gehalt kein Gewinn zuwachsen konnte.",
+    "Das Reich des Gedankens philosophisch, d. i. in seiner eigenen immanenten Tätigkeit oder, was dasselbe ist, in seiner notwendigen Entwicklung darzustellen, mußte deswegen ein neues Unternehmen sein und dabei von vorne angefangen werden; jenes erworbene Material, die bekannten Denkformen, aber ist als eine höchst wichtige Vorlage, ja eine notwendige Bedingung [und] dankbar anzuerkennende Voraussetzung anzusehen, wenn dieselbe auch nur hie und da einen dürren Faden oder die leblosen Knochen eines Skeletts, sogar in Unordnung untereinander geworfen, dargibt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p8.json"
+}

@@ -1,0 +1,95 @@
+{
+ "id": "w5-0-53",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Erster TeilDie objektive Logik",
+ "blocks": [
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "1wgbvs51x9",
+   "sents": [
+    "Wie würde ich meinen können, daß nicht die Methode, die ich in diesem Systeme der Logik befolge – oder vielmehr die dies System an ihm selbst befolgt –, noch vieler Vervollkommnung, vieler Durchbildung im einzelnen fähig sei; aber ich weiß zugleich, daß sie die einzige wahrhafte ist.",
+    "Dies erhellt für sich schon daraus, daß sie von ihrem Gegenstande und Inhalte nichts Unterschiedenes ist; – denn es ist der Inhalt in sich, die Dialektik, die er an ihm selbst hat, welche ihn fortbewegt.",
+    "Es ist klar, daß keine Darstellungen für wissenschaftlich gelten können, welche nicht den Gang dieser Methode gehen und ihrem einfachen Rhythmus gemäß sind, denn es ist der Gang der Sache selbst."
+   ]
+  },
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "wjvyhs1en1",
+   "sents": [
+    "In Gemäßheit dieser Methode erinnere ich, daß die Einteilungen und Überschriften der Bücher, Abschnitte und Kapitel, die in dem Werke angegeben sind, sowie etwa die damit verbundenen Erklärungen, zum Behuf einer vorläufigen Übersicht gemacht und daß sie eigentlich nur von historischem Werte sind.",
+    "Sie gehören nicht zum Inhalte und Körper der Wissen schaft, sondern sind Zusammenstellungen der äußeren Reflexion, welche das Ganze der Ausführung schon durchlaufen hat, daher die Folge seiner Momente vorausweiß und angibt, ehe sie noch durch die Sache selbst sich herbeiführen."
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "1v38pywobp",
+   "sents": [
+    "In den anderen Wissenschaften sind solche Vorausbestimmungen und Einteilungen gleichfalls für sich nichts anderes als solche äußere Angaben; aber auch innerhalb der Wissenschaft werden sie nicht über diesen Charakter erhoben.",
+    "Selbst in der Logik zum Beispiel heißt es etwa, »die Logik hat zwei Hauptstütze, die Elementarlehre und die Methodik«; alsdann unter der Elementarlehre findet sich ohne weiteres etwa die Überschrift: Gesetze des Denkens; alsdann erstes Kapitel: von den Begriffen; erster Abschnitt: von der Klarheit: der Begriffe usf.",
+    "– Diese ohne irgendeine Deduktion und Rechtfertigung gemachten Bestimmungen und Einteilungen machen das systematische Gerüst und den ganzen Zusammenhang solcher Wissenschaften aus.",
+    "Eine solche Logik sieht es für ihren Beruf an, davon zu sprechen, daß die Begriffe und Wahrheiten aus Prinzipien müssen abgeleitet sein; aber bei dem, was sie Methode nennt, wird auch nicht von weitem an ein Ableiten gedacht.",
+    "Die Ordnung besteht etwa in der Zusammenstellung von Gleichartigem, in der Vorausschickung des Einfacheren vor dem Zusammengesetzten und anderen äußerlichen Rücksichten.",
+    "Aber in Rücksicht eines inneren, notwendigen Zusammenhangs bleibt es bei dem Register der Abteilungsbestimmungen, und der Obergang macht sich nur damit, daß es jetzt heißt: Zweites Kapitel, – oder: wir kommen nunmehr zu den Urteilen, u. dgl."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "16xbkcjbou",
+   "sents": [
+    "Auch die Überschriften und Einteilungen, die in diesem Systeme vorkommen, sollen für sich keine andere Bedeutung haben als die einer Inhaltsanzeige.",
+    "Außerdem aber muß die Notwendigkeit des Zusammenhangs und die immanente Entstehung der Unterschiede sich in der Abhandlung der Sache selbst vorfinden, denn sie fällt in die eigene Fortbestimmung des Begriffes."
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "13zmn30nyc",
+   "sents": [
+    "Das, wodurch sich der Begriff selbst weiterleitet, ist das vorhin angegebene Negative, das er in sich selbst hat; dies macht das wahrhaft Dialektische aus.",
+    "Die Dialektik, die als ein abgesonderter Teil der Logik betrachtet und in Ansehung ihres Zwecks und Standpunkts, man kann sagen, gänzlich verkannt worden, erhält dadurch eine ganz andere Stellung.",
+    "– Auch die Platonische Dialektik hat selbst im Parmenides, und anderswo ohnehin noch direkter, teils nur die Absicht, beschränkte Behauptungen durch sich selbst aufzulösen und zu widerlegen, teils aber überhaupt das Nichts zum Resultate.",
+    "Gewöhnlich sieht man die Dialektik für ein äußerliches und negatives Tun an, das nicht der Sache selbst angehöre, in bloßer Eitelkeit als einer subjektiven Sucht, sich das Feste und Wahre in Schwanken zu setzen und aufzulösen, seinen Grund habe oder wenigstens zu nichts führe als zur Eitelkeit des dialektisch behandelten Gegenstandes."
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "atlg9uhumj",
+   "sents": [
+    "Kant hat die Dialektik höher gestellt – und diese Seite gehört unter die größten seiner Verdienste –, indem er ihr den Schein von Willkür nahm, den sie nach der gewöhnlichen Vorstellung hat, und sie als ein notwendiges Tun der Vernunft darstellte.",
+    "Indem sie nur für die Kunst, Blendwerke vorzumachen und Illusionen hervorzubringen, galt, wurde schlechthin vorausgesetzt, daß sie ein falsches Spiel spiele und ihre ganze Kraft allein darauf beruhe, daß sie den Betrug verstecke; daß ihre Resultate nur erschlichen und ein subjektiver Schein seien.",
+    "Kants dialektische Darstellungen in den Antinomien der reinen Vernunft verdienen zwar, wenn sie näher betrachtet werden, wie dies im Verfolge dieses Werkes weitläufiger geschehen wird, freilich kein großes Lob; aber die allgemeine Idee, die er zugrunde gelegt und geltend gemacht hat, ist die Objektivität des Scheins und Notwendigkeit des Widerspruchs, der zur Natur der Denkbestimmungen gehört: zunächst zwar in der Art, insofern diese Bestimmungen von der Vernunft auf die Dinge an sich angewendet werden; aber eben, was sie in der Vernunft und in Rücksicht auf das sind, was an sich ist, ist ihre Natur.",
+    "Es ist dies Resultat, in seiner positiven Seite aufgefaßt, nichts anderes als die innere Negativität derselben, als ihre sich selbst bewegende Seele, das Prinzip aller natürlichen und geistigen Lebendigkeit überhaupt.",
+    "Aber sowie nur bei der abstrakt-negativen Seite des Dialektischen stehengeblieben wird, so ist das Resultat nur das Bekannte, daß die Vernunft unfähig sei, das Unendliche zu erkennen; – ein sonderbares Resultat, indem das Unendliche das Vernünftige ist, zu sagen, die Vernunft sei nicht fähig, das Vernünftige zu erkennen."
+   ]
+  },
+  {
+   "bi": 59,
+   "k": "p",
+   "hash": "1allmg21gw",
+   "sents": [
+    "In diesem Dialektischen, wie es hier genommen wird, und damit in dem Fassen des Entgegengesetzten in seiner Einheit oder des Positiven im Negativen besteht das Spekulative.",
+    "Es ist die wichtigste, aber für die noch ungeübte, unfreie Denkkraft schwerste Seite.",
+    "Ist solche noch darin begriffen, sich vom sinnlich-konkreten Vorstellen und vom Räsonieren loszureißen, so hat sie sich zuerst im abstrakten Denken zu üben, Begriffe in ihrer Bestimmtheit festzuhalten und aus ihnen erkennen zu lernen.",
+    "Eine Darstellung der Logik zu diesem Behuf hätte sich in ihrer Methode an das obenbesagte Einteilen und in Ansehung des näheren Inhalts an die Bestimmungen, die sich für die einzelnen Begriffe ergeben, zu halten, ohne sich auf das Dialektische einzulassen.",
+    "Sie würde der äußeren Gestalt nach dem gewöhnlichen Vortrag dieser Wissenschaft ähnlich werden, sich übrigens dem Inhalte nach auch davon unterscheiden und immer noch dazu dienen, das abstrakte, obzwar nicht das spekulative Denken zu üben, welchen Zweck die durch psychologische und anthropologische Zutaten populär gewordene Logik nicht einmal erfüllen kann.",
+    "Sie würde dem Geiste das Bild eines methodisch geordneten Ganzen geben, obgleich die Seele des Gebäudes, die Methode, die im Dialektischen lebt, nicht selbst darin erschiene."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p53.json"
+}

@@ -1,0 +1,83 @@
+{
+ "id": "w5-0-42",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Erster TeilDie objektive Logik",
+ "blocks": [
+  {
+   "bi": 42,
+   "k": "p",
+   "hash": "yzbiba1xv4",
+   "sents": [
+    "In der Phänomenologie des Geistes habe ich das Bewußtsein in seiner Fortbewegung von dem ersten unmittelbaren Gegensatz seiner und des Gegenstandes bis zum absoluten Wissen dargestellt.",
+    "Dieser Weg geht durch alle Formen des Verhältnisses des Bewußtseins zum Objekte durch und hat den Begriff der Wissenschaft zu seinem Resultate.",
+    "Dieser Begriff bedarf also (abgesehen davon, daß er innerhalb der Logik selbst hervorgeht) hier keiner Rechtfertigung, weil er sie daselbst erhalten hat; und er ist keiner anderen Rechtfertigung fähig als nur dieser Hervorbringung desselben durch das Bewußtsein, dem sich seine eigenen Gestalten alle in denselben als in die Wahrheit auflösen.",
+    "– Eine räsonierende Begründung oder Erläuterung des Begriffs der Wissenschaft kann zum höchsten dies leisten, daß er vor die Vorstellung gebracht und eine historische Kenntnis davon bewirkt werde; aber eine Definition der Wissenschaft oder näher der Logik hat ihren Beweis allein in jener Notwendigkeit ihres Hervorgangs.",
+    "Eine Definition, mit der irgendeine Wissenschaft den absoluten Anfang macht, kann nichts anderes enthalten als den bestimmten, regelrechten Ausdruck von demjenigen, was man sich zugegebener- und bekanntermaßen unter dem Gegenstande und Zweck der Wissenschaft vorstellt.",
+    "Daß man sich gerade dies darunter vorstelle, ist eine historische Versicherung, in Ansehung derer man sich allein auf dieses und jenes Anerkannte berufen oder eigentlich nur bittweise beibringen kann, daß man dies und jenes als anerkannt gelten lassen möge.",
+    "Es hört gar nicht auf, daß der eine daher, der andere dorther einen Fall und Instanz beibringt, nach der auch noch etwas mehr und anderes bei diesem und jenem Ausdrucke zu verstehen, in dessen Definition also noch eine nähere oder allgemeinere Bestimmung aufzunehmen und danach auch die Wissenschaft einzurichten sei.",
+    "– Es kommt dabei ferner auf Räsonnement an, was alles und bis zu welcher Grenze und Umfang es hereingezogen oder ausgeschlossen werden müsse; dem Räsonnement selbst aber steht das mannigfaltigste und verschiedenartigste Dafürhalten offen, worüber am Ende allein die Willkür eine feste Bestimmung abschließen kann.",
+    "Bei diesem Verfahren, die Wissenschaft mit ihrer Definition anzufangen, wird von dem Bedürfnis nicht die Rede, daß die Notwendigkeit ihres Gegenstandes und damit ihrer selbst aufgezeigt würde."
+   ]
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "5zjzd2wl09",
+   "sents": [
+    "Der Begriff der reinen Wissenschaft und seine Deduktion wird in gegenwärtiger Abhandlung also insofern vorausgesetzt, als die Phänomenologie des Geistes nichts anderes als die Deduktion desselben ist.",
+    "Das absolute Wissen ist die Wahrheit aller Weisen des Bewußtseins, weil, wie jener Gang desselben es hervorbrachte, nur in dem absoluten Wissen die Trennung des Gegenstandes von der Gewißheit seiner selbst vollkommen sich aufgelöst hat und die Wahrheit dieser Gewißheit sowie diese Gewißheit der Wahrheit gleich geworden ist."
+   ]
+  },
+  {
+   "bi": 44,
+   "k": "p",
+   "hash": "1bwwvdk1t5",
+   "sents": [
+    "Die reine Wissenschaft setzt somit die Befreiung von dem Gegensatze des Bewußtseins voraus.",
+    "Sie enthält den Gedanken, insofern er ebensosehr die Sache an sich selbst ist, oder die Sache an sich selbst, insofern sie ebensosehr der reine Gedanke ist.",
+    "Als Wissenschaft ist die Wahrheit das reine sich entwickelnde Selbstbewußtsein und hat die Gestalt des Selbsts, daß das an und für sich Seiende gewußter Begriff, der Begriff als solcher aber das an und für sich Seiende ist.",
+    "Dieses objektive Denken ist denn der Inhalt der reinen Wissenschaft.",
+    "Sie ist daher so wenig formell, sie entbehrt so wenig der Materie zu einer wirklichen und wahren Erkenntnis, daß ihr Inhalt vielmehr allein das absolute Wahre oder, wenn man sich noch des Worts Materie bedienen wollte, die wahrhafte Materie ist – eine Materie aber, der die Form nicht ein Äußerliches ist, da diese Materie vielmehr der reine Gedanke, somit die absolute Form selbst ist.",
+    "Die Logik ist sonach als das System der reinen Vernunft, als das Reich des reinen Gedankens zu fassen.",
+    "Dieses Reich ist die Wahrheit, wie sie ohne Hülle an und für sich selbst ist.",
+    "Man kann sich deswegen ausdrücken, daß dieser Inhalt die Darstellung Gottes ist, wie er in seinem ewigen Wesen vor der Erschaffung der Natur und eines endlichen Geistes ist."
+   ]
+  },
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "1dllgrn15p",
+   "sents": [
+    "Anaxagoras wird als derjenige gepriesen, der zuerst den Gedanken ausgesprochen habe, daß der Nus, der Gedanke, das Prinzip der Welt, daß das Wesen der Welt als der Gedanke zu bestimmen ist.",
+    "Er hat damit den Grund zu einer Intellektualansicht des Universums gelegt, deren reine Gestalt die Logik sein muß.",
+    "Es ist in ihr nicht um ein Denken über etwas, das für sich außer dem Denken zugrunde läge, zu tun, um Formen, welche bloße Merkmale der Wahrheit abgeben sollten; sondern die notwendigen Formen und eigenen Bestimmungen des Denkens sind der Inhalt und die höchste Wahrheit selbst."
+   ]
+  },
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "1sq3lw286j",
+   "sents": [
+    "Um dies in die Vorstellung wenigstens aufzunehmen, ist die Meinung auf die Seite zu legen, als ob die Wahrheit etwas Handgreifliches sein müsse.",
+    "Solche Handgreiflichkeit wird zum Beispiel selbst noch in die Platonischen Ideen, die in dem Denken Gottes sind, hineingetragen, als ob sie gleichsam existierende Dinge, aber in einer anderen Welt oder Region seien, außerhalb welcher die Welt der Wirklichkeit sich befinde und eine von jenen Ideen verschiedene, erst durch diese Verschiedenheit reale Substantialität habe.",
+    "Die Platonische Idee ist nichts anderes als das Allgemeine oder bestimmter der Begriff des Gegenstandes; nur in seinem Begriffe hat etwas Wirklichkeit; insofern es von seinem Begriffe verschieden ist, hört es auf, wirklich zu sein, und ist ein Nichtiges; die Seite der Handgreiflichkeit und des sinnlichen Außersichseins gehört dieser nichtigen Seite an.",
+    "– Von der ändern Seite aber kann man sich auf die eigenen Vorstellungen der gewöhnlichen Logik berufen; es wird nämlich angenommen, daß z.B. Definitionen nicht Bestimmungen enthalten, die nur ins erkennende Subjekt fallen, sondern die Bestimmungen des Gegenstandes, welche seine wesentlichste eigenste Natur ausmachen.",
+    "Oder wenn von gegebenen Bestimmungen auf andere geschlossen wird, wird angenommen, daß das Erschlossene nicht ein dem Gegenstande Äußerliches und Fremdes sei, sondern daß es ihm vielmehr selbst zukomme, daß diesem Denken das Sein entspreche.",
+    "– Es liegt überhaupt bei dem Gebrauche der Formen des Begriffs, Urteils, Schlusses, Definition, Division usf. zugrunde, daß sie nicht bloß Formen des selbstbewußten Denkens sind, sondern auch des gegenständlichen Verstandes.",
+    "– Denken ist ein Ausdruck, der die in ihm enthaltene Bestimmung vorzugsweise dem Bewußtsein beilegt.",
+    "Aber insofern gesagt wird, daß Verstand, daß Vernunft in der gegenständlichen Welt ist, daß der Geist und die Natur allgemeine Gesetze habe, nach welchen ihr Leben und ihre Veränderungen sich machen, so wird zugegeben, daß die Denkbestimmungen ebensosehr objektiven Wert und Existenz haben."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p42.json"
+}

@@ -1,0 +1,66 @@
+{
+ "id": "w5-0-17",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Erster TeilDie objektive Logik",
+ "blocks": [
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "uk9lzr1reo",
+   "sents": [
+    "Doch dies mag für den Gesichtspunkt genügen, aus welchem das Verhältnis verschwindet, nach welchem die Denkbestimmungen nur als zum Gebrauch und als Mittel genommen werden; wichtiger ist das weiter damit Zusammenhängende, nach welchem sie als äußere Formen gefaßt zu werden pflegen.",
+    "– Die uns alle Vorstellungen, Zwecke, Interessen und Handlungen durchwirkende Tätigkeit des Denkens ist, wie gesagt, bewußtlos geschäftig (die natürliche Logik); was unser Bewußtsein vor sich hat, ist der Inhalt, die Gegenstände der Vorstellungen, das, womit das Interesse erfüllt ist; die Denkbestimmungen gelten nach diesem Verhältnis als Formen, die nur an dem Gehalt, nicht der Gehalt selbst seien.",
+    "Wenn es aber an dem ist, was vorhin angegeben worden und was sonst im allgemeinen zugestanden wird, daß die Natur, das eigentümliche Wesen, das wahrhaft Bleibende und Substantielle bei der Mannigfaltigkeit und Zufälligkeit des Erscheinens und der vorübergehenden Äußerung der Begriff der Sache, das in ihr selbst Allgemeine ist, wie jedes menschliche Individuum, [ob]zwar ein unendlich eigentümliches, das Prius aller seiner Eigentümlichkeit darin, Mensch zu sein, in sich hat, wie jedes einzelne Tier das Prius, Tier zu sein, so wäre nicht zu sagen, was, wenn diese Grundlage aus dem mit noch so vielfachen sonstigen Prädikaten Ausgerüsteten weggenommen würde, ob sie gleich wie die anderen ein Prädikat genannt werden kann, – was so ein Individuum noch sein sollte.",
+    "Die unerläßliche Grundlage, der Begriff, das Allgemeine, das der Gedanke, insofern man nur von der Vorstellung bei dem Worte »Gedanke« abstrahieren kann, selbst ist, kann nicht nur als eine gleichgültige Form, die an einem Inhalte sei, angesehen werden.",
+    "Aber diese Gedanken aller natürlichen und geistigen Dinge, selbst der substantielle Inhalt, sind noch ein solcher, der vielfache Bestimmtheiten enthält und noch den Unterschied einer Seele und eines Leibes, des Begriffs und einer relativen Realität an ihm hat; die tiefere Grundlage ist die Seele für sich, der reine Begriff, der das Innerste der Gegenstände, ihr einfacher Lebenspuls, wie selbst des subjektiven Denkens derselben ist.",
+    "Diese logische Natur, die den Geist beseelt, in ihm treibt und wirkt, zum Bewußtsein zu bringen, dies ist die Aufgabe.",
+    "Das instinktartige Tun unterscheidet sich von dem intelligenten und freien Tun dadurch überhaupt, daß dieses mit Bewußtsein geschieht; indem der Inhalt des Treibenden heraus aus der unmittelbaren Einheit mit dem Subjekte zur Gegenständlichkeit vor dieses gebracht ist, beginnt die Freiheit des Geistes, der in dem instinktweisen Wirken des Denkens, befangen in den Banden seiner Kategorien, in einen unendlich mannigfachen Stoff zersplittert ist.",
+    "In diesem Netze schürzen sich hin und wieder festere Knoten, welche die Anhalts- und Richtungspunkte seines Lebens und Bewußtseins sind, sie verdanken ihre Festigkeit und Macht eben dem, daß sie, vor das Bewußtsein gebracht, an und für sich seiende Begriffe seiner Wesenheit sind.",
+    "Der wichtigste Punkt für die Natur des Geistes ist das Verhältnis nicht nur dessen, was er an sich ist, zu dem, was er wirklich ist, sondern dessen, als was er sich weiß, dieses Sichwissen ist darum, weil er wesentlich Bewußtsein [ist].",
+    "Grundbestimmung seiner Wirklichkeit.",
+    "Diese Kategorien, die nur instinktmäßig als Triebe wirksam sind und zunächst vereinzelt, damit veränderlich und sich verwirrend in das Bewußtsein des Geistes gebracht [sind] und ihm so eine vereinzelte und unsichere Wirklichkeit gewähren, zu reinigen und ihn damit in ihnen zur Freiheit und Wahrheit zu erheben, dies ist also das höhere logische Geschäft."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "6fpr3n119r",
+   "sents": [
+    "Was wir als Anfang der Wissenschaft, dessen hoher Wert für sich und zugleich als Bedingung der wahrhaften Erkenntnis vorhin anerkannt worden ist, angaben, die Begriffe und die Momente des Begriffs überhaupt, die Denkbestimmungen zunächst als Formen, die von dem Stoffe verschieden und nur an ihm seien, zu behandeln, dies gibt sich sogleich an sich selbst als ein zur Wahrheit, die als Gegenstand und Zweck der Logik angegeben wird, unangemessenes Verhalten kund.",
+    "Denn so als bloße Formen, als verschieden von dem Inhalte, werden sie in einer Bestimmung stehend angenommen, die sie zu endlichen stempelt und die Wahrheit, die in sich unendlich ist, zu fassen unfähig macht.",
+    "Mag das Wahre sonst, in welcher Rücksicht es sei, wieder mit Beschränkung und Endlichkeit vergesellschaftet sein, – dies ist die Seite seiner Negation, seiner Unwahrheit und Unwirklichkeit, eben seines Endes, nicht der Affirmation, welche es als Wahres ist.",
+    "Gegen die Kahlheit der bloß formellen Kategorien hat der Instinkt der gesunden Vernunft sich endlich so erstarkt gefühlt, daß er ihre Kenntnis mit Verachtung dem Gebiete einer Schullogik und Schulmetaphysik überläßt, zugleich mit der Mißachtung des Wertes, den schon das Bewußtsein dieser Fäden für sich hat, und mit der Bewußtlosigkeit, in dem instinktartigen Tun natürlicher Logik, noch mehr in dem reflektierten Verwerfen der Kenntnis und Erkenntnis der Denkbestimmungen selbst, im Dienste des ungereinigten und damit unfreien Denkens gefangen zu sein.",
+    "Die einfädle Grundbestimmung oder gemeinschaftliche Formbestimmung der Sammlung solcher Formen ist die Identität, die als Gesetz, als A = A, als Satz des Widerspruchs in der Logik dieser Sammlung behauptet wird.",
+    "Die gesunde Vernunft hat ihre Ehrerbietung vor der Schule, die im Besitze solcher Gesetze der Wahrheit [ist] und in der sie noch immer so fortgeführt werden, so sehr verloren, daß sie dieselbe darob verlacht und einen Menschen, der nach solchen Gesetzen wahrhaft zu sprechen weiß: »die Pflanze ist eine – Pflanze«, »die Wissenschaft ist – die Wissenschaft« und so fort ins Unendliche, für unerträglich hält.",
+    "Über die Formeln auch, welche die Regeln des Schließens [angeben], das in der Tat ein Hauptgebrauch des Verstandes ist, hat sich – so ungerecht es ist zu verkennen, daß sie ihr Feld in der Erkenntnis haben, worin sie gelten müssen, und zugleich, daß sie wesentliches Material für das Denken der Vernunft sind – das ebenso gerechte Bewußtsein festgesetzt, daß sie gleichgültige Mittel wenigstens ebensosehr des Irrtums und der Sophisterei sind und, wie man auch sonst die Wahrheit bestimmen mag, für die höhere, z.B. die religiöse Wahrheit unbrauchbar sind, – daß sie überhaupt nur eine Richtigkeit der Erkenntnisse, nicht die Wahrheit betreffen."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "1cwyear10l",
+   "sents": [
+    "Die Unvollständigkeit dieser Weise, das Denken zu betrachten, welche die Wahrheit auf der Seite läßt, ist allein dadurch zu ergänzen, daß nicht bloß das, was zur äußeren Form gerechnet zu werden pflegt, sondern der Inhalt mit in die denkende Betrachtung gezogen wird.",
+    "Es zeigt sich von selbst bald, daß, was in der nächsten gewöhnlichsten Reflexion als Inhalt von der Form geschieden wird, in der Tat nicht formlos, nicht bestimmungslos in sich sein soll – so wäre er nur das Leere, etwa die Abstraktion des Dings-an-sich –, daß er vielmehr Form in ihm selbst, ja durch sie allein Beseelung und Gehalt hat und daß sie selbst es ist, die nur in den Schein eines Inhalts sowie damit auch in den Schein eines an diesem Scheine Äußerlichen umschlägt.",
+    "Mit dieser Einführung des Inhalts in die logische Betrachtung sind es nicht die Dinge, sondern die Sache, der Begriff der Dinge, welcher Gegenstand wird.",
+    "Hierbei kann man aber auch daran erinnert werden, daß es eine Menge Begriffe, eine Menge Sachen gibt.",
+    "Wodurch aber diese Menge beschränkt wird, ist teils vorhin gesagt worden, daß der Begriff als Gedanke überhaupt, als Allgemeines, die unermeßliche Abbreviatur gegen die Einzelheit der Dinge, wie sie [in] ihre[r] Menge dem unbestimmten Anschauen und Vorstellen vorschweben, ist; teils aber ist ein Begriff sogleich erstens der Begriff an ihm selbst, und dieser ist nur einer und ist die substantielle Grundlage; fürs andere aber ist er wohl ein bestimmter Begriff, welche Bestimmtheit an ihm das ist, was als Inhalt erscheint; die Bestimmtheit des Begriffs aber ist eine Formbestimmung dieser substantiellen Einheit, ein Moment der Form als Totalität, des Begriffes selbst, der die Grundlage der bestimmten Begriffe ist.",
+    "Dieser wird nicht sinnlich angeschaut oder vorgestellt; er ist nur Gegenstand, Produkt und Inhalt des Denkens und die an und für sich seiende Sache, der Logos, die Vernunft dessen, was ist, die Wahrheit dessen, was den Namen der Dinge führt; am wenigsten ist es der Logos, was außerhalb der logischen Wissenschaft gelassen werden soll.",
+    "Es muß darum nicht ein Belieben sein, ihn in die Wissenschaft hereinzuziehen oder ihn draußen zu lassen.",
+    "Wenn die Denkbestimmungen, welche nur äußerliche Formen sind, wahrhaft an ihnen selbst betrachtet werden, kann nur ihre Endlichkeit und die Unwahrheit ihres Für-sich-sein-Sollens und, als ihre Wahrheit, der Begriff hervorgehen.",
+    "Daher wird die logische Wissenschaft, indem sie die Denkbestimmungen, die überhaupt unseren Geist instinktartig und bewußtlos durchziehen und, selbst indem sie in die Sprache hereintreten, ungegenständlich, unbeachtet bleiben, abhandelt, auch die Rekonstruktion derjenigen sein, welche durch die Reflexion herausgehoben und von ihr als subjektive, an dem Stoff und Gehalt äußere Formen fixiert sind."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p17.json"
+}

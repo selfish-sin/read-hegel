@@ -1,0 +1,66 @@
+{
+ "id": "w5-0-14",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Erster TeilDie objektive Logik",
+ "blocks": [
+  {
+   "bi": 14,
+   "k": "p",
+   "hash": "1gnxktayg5",
+   "sents": [
+    "Die Denkformen sind zunächst in der Sprache des Menschen herausgesetzt und niedergelegt; es kann in unseren Tagen nicht oft genug daran erinnert werden, daß das, wodurch sich der Mensch vom Tiere unterscheidet, das Denken ist.",
+    "In alles, was ihm zu einem Innerlichen, zur Vorstellung überhaupt wird, was er zu dem Seinigen macht, hat sich die Sprache eingedrängt, und was er zur Sprache macht und in ihr äußert, enthält eingehüllter, vermischter oder herausgearbeitet eine Kategorie; so sehr natürlich ist ihm das Logische, oder vielmehr: dasselbige ist seine eigentümliche Natur selbst.",
+    "Stellt man aber die Natur überhaupt, als das Physikalische, dem Geistigen gegenüber, so müßte man sagen, daß das Logische vielmehr das Übernatürliche ist, welches sich in alles Naturver halten des Menschen, in sein Empfinden, Anschauen, Begehren, Bedürfnis, Trieb eindrängt und es dadurch überhaupt zu einem Menschlichen, wenn auch nur formell, zu Vorstellungen und Zwecken macht.",
+    "Es ist der Vorteil einer Sprache, wenn sie einen Reichtum an logischen Ausdrücken, nämlich eigentümlichen und abgesonderten, für die Denkbestimmungen selbst besitzt; von den Präpositionen, Artikeln gehören schon viele solchen Verhältnissen an, die auf dem Denken beruhen; die chinesische Sprache soll es in ihrer Ausbildung gar nicht oder nur dürftig bis dahin gebracht haben; aber diese Partikeln treten ganz dienend, nur etwas weniges abgelöster als die Augmente, Flexionszeichen u. dgl. auf.",
+    "Viel wichtiger ist es, daß in einer Sprache die Denkbestimmungen zu Substantiven und Verben herausgestellt und so zur gegenständlichen Form gestempelt sind; die deutsche Sprache hat darin viele Vorzüge vor den anderen modernen Sprachen; sogar sind manche ihrer Wörter von der weiteren Eigenheit, verschiedene Bedeutungen nicht nur, sondern entgegengesetzte zu haben, so daß darin selbst ein spekulativer Geist der Sprache nicht zu verkennen ist; es kann dem Denken eine Freude gewähren, auf solche Wörter zu stoßen und die Vereinigung Entgegengesetzter, welches Resultat der Spekulation für den Verstand aber widersinnig ist, auf naive Weise schon lexikalisch als ein Wort von den entgegengesetzten Bedeutungen vorzufinden.",
+    "Die Philosophie bedarf daher überhaupt keiner besonderen Terminologie; es sind wohl aus fremden Sprachen einige Wörter aufzunehmen, welche jedoch durch den Gebrauch bereits das Bürgerrecht in ihr erhalten haben, – ein affektierter Purismus würde da, wo es am entschiedensten auf die Sache ankommt, am wenigsten am Platze sein.",
+    "– Das Fortschreiten der Bildung überhaupt und insbesondere der Wissenschaften, selbst der empirischen und sinnlichen, indem sie im allgemeinen sich in den gewöhnlichsten Kategorien (z.B. eines Ganzen und der Teile, eines Dinges und seiner Eigenschaften und dergleichen) bewegen, fördert nach und nach auch höhere Denkverhältnisse zutage oder hebt sie wenigstens zu größerer Allgemeinheit und damit zu näherer Aufmerksamkeit hervor.",
+    "Wenn z.B. in der Physik die Denkbestimmung der Kraft vorherrschend geworden ist, so spielt in neuerer Zeit die Kategorie der Polarität, die übrigens zu sehr à tort et à travers in alles, selbst in das Licht eingedrängt wird, die bedeutendste Rolle, – die Bestimmung von einem Unterschiede, in welchem die Unterschiedenen untrennbar verbunden sind; daß auf solche Weise von der Form der Abstraktion, der Identität, durch welche eine Bestimmtheit z.B. als Kraft eine Selbständigkeit erhält, fortgegangen [wird] und die Form des Bestimmens, des Unterschiedes, welcher zugleich als ein Untrennbares in der Identität bleibt, herausgehoben und eine geläufige Vorstellung geworden [ist], ist von unendlicher Wichtigkeit.",
+    "Die Naturbetrachtung bringt durch die Realität, in welcher ihre Gegenstände sich festhalten, dieses Zwingende mit sich, die Kategorien, die in ihr nicht länger ignoriert werden können, wenn auch mit der größten Inkonsequenz gegen andere, die auch geltend gelassen werden, zu fixieren und es nicht zu gestatten, daß, wie im Geistigen leichter geschieht, zu Abstraktionen von dem Gegensatze und zu Allgemeinheiten übergegangen wird."
+   ]
+  },
+  {
+   "bi": 15,
+   "k": "p",
+   "hash": "1r61zxmppk",
+   "sents": [
+    "Aber indem so die logischen Gegenstände wie deren Ausdrücke etwa in der Bildung Allbekanntes sind, so ist, wie ich anderwärts gesagt, was bekannt ist, darum nicht erkannt; und es kann selbst die Ungeduld erregen, sich noch mit Bekanntem beschäftigen zu sollen, – und was ist bekannter als eben die Denkbestimmungen, von denen wir allenthalben Gebrauch machen, die uns in jedem Satze, den wir sprechen, zum Munde herausgehen.",
+    "Über den Gang des Erkennens von diesem Bekannten aus, über das Verhältnis des wissenschaftlichen Denkens zu diesem natürlichen Denken die allgemeinen Momente anzugeben, soll dieses Vorwort bestimmt sein; so viel, zusammengenommen mit dem, was die frühere Einleitung enthält, wird hinreichend sein, um eine allgemeine Vorstellung, wie man eine solche von einer Wissenschaft zum voraus, vor derselben, welche die Sache selbst ist, zu erhalten fordert, von dem Sinne des logischen Erkennens zu geben."
+   ]
+  },
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "77al7z1m02",
+   "sents": [
+    "Zunächst ist es als ein unendlicher Fortschritt anzusehen, daß die Formen des Denkens von dem Stoffe, in welchen sie im selbstbewußten Anschauen, Vorstellen wie in unserem Begehren und Wollen oder vielmehr auch in dem vorstellenden Begehren und Wollen (und es ist kein menschliches Begehren oder Wollen ohne Vorstellen) versenkt sind, befreit, diese Allgemeinheiten für sich herausgehoben und, wie Platon, dann aber Aristoteles vornehmlich getan, zum Gegenstande der Betrachtung für sich gemacht worden [sind]; dies gibt den Anfang des Erkennens derselben. »Erst nachdem beinahe alles Notwendige« sagt Aristoteles, »und was zur Bequemlichkeit und zum Verkehr des Lebens gehört, vorhanden war, hat man angefangen, sich um philosophische Erkenntnis zu bemühen.« »In Ägypten«, hatte er vorher bemerkt, »sind die mathematischen Wissenschaften früh ausgebildet worden, weil daselbst der Priesterstand früh in die Lage versetzt worden, Muße zu haben.",
+    "« – In der Tat setzt das Bedürfnis, sich mit den reinen Gedanken zu beschäftigen, einen weiten Gang voraus, den der Menschengeist durchgemacht haben muß; es ist, kann man sagen, das Bedürfnis des schon befriedigten Bedürfnisses der Notwendigkeit, der Bedürfnislosigkeit, zu dem er gekommen sein muß, der Abstraktion von dem Stoffe des Anschauens, Einbildens usf., der konkreten Interessen des Begehrens, der Triebe, des Willens, in welchem Stoffe die Denkbestimmungen eingehüllt stecken.",
+    "In den stillen Räumen des zu sich selbst gekommenen und nur in sich seienden Denkens schweigen die Interessen, welche das Leben der Völker und der Individuen bewegen. »Nach so vielen Seiten«, sagt Aristoteles in demselben Zusammenhange, »ist die Natur des Menschen abhängig; aber diese Wissenschaft, die nicht zu einem Gebrauche gesucht wird, ist allein die an und für sich freie, und sie scheint darum nicht ein menschlicher Besitz zu sein.«- Die Philosophie überhaupt hat es noch mit konkreten Gegenständen, Gott, Natur, Geist, in ihren Gedanken zu tun, aber die Logik beschäftigt sich ganz nur mit diesen für sich in ihrer vollständigen Abstraktion.",
+    "Diese Logik pflegt darum dem Studium der Jugend zunächst anheimzufallen, als welche noch nicht in die Interessen des konkreten Lebens eingetreten ist, in der Muße in Rücksicht derselben lebt und nur erst für ihren subjektiven Zweck mit der Erwerbung der Mittel und der Möglichkeit, in den Objekten jener Interessen tätig zu werden, sich – und mit diesen selbst noch theoretisch – zu beschäftigen hat.",
+    "Unter diese Mittel wird im Widerspiele von der angeführten Vorstellung des Aristoteles die logische Wissenschaft gerechnet; die Bemühung mit derselben ist eine vorläufige Arbeit, ihr Ort die Schule, auf welche erst der Ernst des Lebens und die Tätigkeit für die wahrhaften Zwecke folgen soll.",
+    "Im Leben geht es zum Gebrauch der Kategorien; sie werden von der Ehre, für sich betrachtet zu werden, dazu herabgesetzt, in dem geistigen Betrieb lebendigen Inhalts in dem Erschaffen und Auswechseln der darauf bezüglichen Vorstellungen zu dienen – teils als Abbreviaturen durch ihre Allgemeinheit; denn welche unendliche Menge von Einzelheiten des äußerlichen Daseins und der Tätigkeit faßt die Vorstellung: Schlacht, Krieg, Volk oder Meer, Tier usf. in sich zusammen; wie ist in der Vorstellung: Gott oder Liebe usf. in die Einfachheit solchen Vorstellens eine unendliche Menge von Vorstellungen, Tätigkeit, Zuständen usf. epitomiert!, – teils zur näheren Bestimmung und Findung der gegenständlichen Verhältnisse, wobei aber Gehalt und Zweck, die Richtigkeit und Wahrheit des sich einmischenden Denkens ganz von dem Vorhandenen selbst abhängig gemacht ist und den Denkbestimmungen für sich keine inhaltbestimmende Wirksamkeit zugeschrieben wird.",
+    "Solcher Gebrauch der Kategorien, der vorhin die natürliche Logik genannt worden ist, ist bewußtlos; und wenn ihnen in wissenschaftlicher Reflexion das Verhältnis, als Mittel zu dienen, im Geiste angewiesen wird, so wird das Denken überhaupt zu etwas den anderen geistigen Bestimmungen Untergeordnetem gemacht.",
+    "Von unseren Empfindungen, Trieben, Interessen sagen wir nicht wohl, daß sie uns dienen, sondern sie gelten als selbständige Kräfte und Mächte, so daß wir dies selbst sind, so zu empfinden, dies zu begehren und zu wollen, in dies unser Interesse zu legen.",
+    "Aber wieder kann es vielmehr unser Bewußtsein werden, daß wir im Dienste unserer Gefühle, Triebe, Leidenschaften, Interessen, ohnehin von Gewohnheiten stehen, als daß wir sie im Besitz haben, noch weniger, daß sie bei unserer innigen Einheit mit ihnen uns als Mittel dienen.",
+    "Dergleichen Bestimmungen des Gemüts und Geistes zeigen sich uns bald als besondere im Gegensatze gegen die Allgemeinheit, als die wir uns bewußt werden, in der wir unsere Freiheit haben, und [wir] halten dafür, in diesen Besonderheiten vielmehr befangen zu sein, von ihnen beherrscht zu werden.",
+    "Sonach können wir dann viel weniger dafür halten, daß die Denkformen, die sich durch alle unsere Vorstellungen – diese seien bloß theoretisch oder enthalten einen Stoff, der der Empfindung, dem Triebe, dem Willen angehört – hindurchziehen, uns dienen, daß wir sie und sie nicht vielmehr uns im Besitz haben; was ist uns übrig gegen sie, wie sollen wir, ich mich als das Allgemeinere über sie hinausstellen, sie, die selbst das Allgemeine als solches sind?",
+    "Wenn wir uns in eine Empfindung, Zweck, Interesse legen und uns darin beschränkt, unfrei fühlen, so ist der Ort, in den wir [uns] daraus heraus- und in die Freiheit zurückzuziehen vermögen, dieser Ort der Gewißheit seiner selbst, der reinen Abstraktion, des Denkens.",
+    "Oder ebenso, wenn wir von den Dingen sprechen wollen, so nennen wir die Natur oder das Wesen derselben ihren Begriff, und dieser ist nur für das Denken; von den Begriffen der Dinge aber werden wir noch viel weniger sagen, daß wir sie beherrschen oder daß die Denkbestimmungen, von denen sie der Komplex sind, uns dienen; im Gegenteil muß sich unser Denken nach ihnen beschränken, und unsere Willkür oder Freiheit soll sie nicht nach sich zurichten wollen.",
+    "Insofern also das subjektive Denken unser eigenstes, innerlichstes Tun ist und der objektive Begriff der Dinge die Sache selbst ausmacht, so können wir aus jenem Tun nicht heraus sein, nicht über demselben stehen, und ebensowenig können wir über die Natur der Dinge hinaus.",
+    "Von der letzteren Bestimmung jedoch können wir absehen; sie fällt mit der ersteren insofern zusammen, da sie eine Beziehung unserer Gedanken auf die Sache, aber nur etwas Leeres ergäbe, weil die Sache damit als Regel für unsere Begriffe aufgestellt werden würde, aber eben die Sache für uns nichts anderes als unsere Begriffe von ihr sein kann.",
+    "Wenn die kritische Philosophie das Verhältnis dieser drei terminorum so versteht, daß wir die Gedanken zwischen uns und die Sachen als Mitte stellen in dem Sinne, daß diese Mitte uns von den Sachen vielmehr abschließt, statt uns mit denselben zusammenzuschließen, so ist dieser Ansicht die einfache Bemerkung entgegenzusetzen, daß eben diese Sachen, die jenseits unserer und jenseits der sich auf sie beziehenden Gedanken auf dem anderen Extreme stehen sollen, selbst Gedankendinge und, als ganz unbestimmte, nur ein Gedankending, – das sogenannte Ding-an-sich der leeren Abstraktion selbst sind."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p14.json"
+}

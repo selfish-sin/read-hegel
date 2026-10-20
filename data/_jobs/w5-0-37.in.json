@@ -1,0 +1,78 @@
+{
+ "id": "w5-0-37",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Erster TeilDie objektive Logik",
+ "blocks": [
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "17oqumu1xa",
+   "sents": [
+    "Die Kritik der Formen des Verstandes hat das angeführte Resultat gehabt, daß diese Formen keine Anwendung auf die Dinge an sich haben.",
+    "– Dies kann keinen anderen Sinn haben, als daß diese Formen an ihnen selbst etwas Unwahres sind.",
+    "Allein indem sie für die sujektive Vernunft und für die Erfahrung als geltend gelassen werden, so hat die Kritik keine Änderung an ihnen selbst bewirkt, sondern läßt sie für das Subjekt in derselben Gestalt, wie sie sonst für das Objekt galten.",
+    "Wenn sie aber ungenügend für das Ding an sich sind, so müßte der Verstand, dem sie angehören sollen, noch weniger dieselben sich gefallen lassen und damit vorlieb nehmen wollen.",
+    "Wenn sie nicht Bestimmungen des Dinges an sich sein können, so können sie noch weniger Bestimmungen des Verstandes sein, dem wenigstens die Würde eines Dings an sich zugestanden werden sollte.",
+    "Die Bestimmungen des Endlichen und Unendlichen sind in demselben Widerstreit, es sei, daß sie auf Zeit und Raum, auf die Welt angewendet werden oder daß sie Bestimmungen innerhalb des Geistes seien, – so gut als schwarz und weiß ein Grau geben, ob sie an einer Wand oder aber noch auf der Palette miteinander vereinigt werden.",
+    "Wenn unsere Weltvorstellung sich auflöst, indem die Bestimmungen des Unendlichen und Endlichen auf sie übertragen werden, so ist noch mehr der Geist selbst, welcher sie beide in sich enthält, ein in sich selbst Widersprechendes, ein sich Auflösendes.",
+    "– Es ist nicht die Beschaffenheit des Stoffes oder Gegenstandes, worauf sie angewendet würden oder in dem sie sich befänden, was einen Unterschied ausmachen kann; denn der Gegenstand hat nur durch und nach jenen Bestimmungen den Widerspruch an ihm."
+   ]
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "4hqosl1pwb",
+   "sents": [
+    "Jene Kritik hat also die Formen des objektiven Denkens nur vom Ding entfernt, aber sie im Subjekt gelassen, wie sie sie vorgefunden.",
+    "Sie hat dabei nämlich diese Formen nicht an und für sich selbst, nach ihrem eigentümlichen Inhalt betrachtet, sondern sie lemmatisch aus der subjektiven Logik geradezu aufgenommen; so daß [nicht] von einer Ableitung ihrer an ihnen selbst oder auch einer Ableitung derselben als subjektiv-logischer Formen, noch weniger aber von der dialektischen Betrachtung derselben die Rede war."
+   ]
+  },
+  {
+   "bi": 39,
+   "k": "p",
+   "hash": "1ypgivuw6d",
+   "sents": [
+    "Der konsequenter durchgeführte transzendentale Idealismus hat die Nichtigkeit des von der kritischen Philosophie noch übriggelassenen Gespensts des Dings-an-sich, dieses abstrakten, von allem Inhalt abgeschiedenen Schattens erkannt und den Zweck gehabt, ihn vollends zu zerstören.",
+    "Auch machte diese Philosophie den Anfang, die Vernunft aus sich selbst ihre Bestimmungen darstellen zu lassen.",
+    "Aber die subjektive Haltung dieses Versuchs ließ ihn nicht zur Vollendung kommen.",
+    "Fernerhin ist diese Haltung und mit ihr auch jener Anfang und die Ausbildung der reinen Wissenschaft aufgegeben worden."
+   ]
+  },
+  {
+   "bi": 40,
+   "k": "p",
+   "hash": "77nspy1m7e",
+   "sents": [
+    "Ganz ohne Rücksicht auf metaphysische Bedeutung aber wird dasjenige betrachtet, was gemeinhin unter Logik verstanden wird.",
+    "Diese Wissenschaft, in dem Zustande, worin sie sich noch befindet, hat freilich keinen Inhalt der Art, wie er als Realität und als eine wahrhafte Sache in dem gewöhnlichen Bewußtsein gilt.",
+    "Aber sie ist nicht aus diesem Grunde eine formelle, inhaltsvoller Wahrheit entbehrende Wissenschaft.",
+    "In jenem Stoffe, der in ihr vermißt [wird], welchem Mangel das Unbefriedigende derselben zugeschrieben zu werden pflegt, ist ohnehin das Gebiet der Wahrheit nicht zu suchen.",
+    "Sondern das Gehaltlose der logischen Formen liegt vielmehr allein in der Art, sie zu betrachten und zu behandeln.",
+    "Indem sie als feste Bestimmungen auseinanderfallen und nicht in organischer Einheit zusammengehalten werden, sind sie tote Formen und haben den Geist in ihnen nicht wohnen, der ihre lebendige konkrete Einheit ist.",
+    "Damit aber entbehren sie des gediegenen Inhalts, – einer Materie, welche Gehalt an sich selbst wäre.",
+    "Der Inhalt, der an den logischen Formen vermißt wird, ist nichts anderes als eine feste Grundlage und Konkretion dieser abstrakten Bestimmungen; und ein solches substantielles Wesen pflegt für sie außen gesucht zu werden.",
+    "Aber die logische Vernunft selbst ist das Substantielle oder Reelle, das alle abstrakten Bestimmungen in sich zusammenhält und ihre gediegene, absolut-konkrete Einheit ist.",
+    "Nach dem also, was eine Materie genannt zu werden pflegt, brauchte nicht weit gesucht zu werden; es ist nicht Schuld des Gegenstandes der Logik, wenn sie gehaltlos sein soll, sondern allein der Art, wie derselbe gefaßt wird."
+   ]
+  },
+  {
+   "bi": 41,
+   "k": "p",
+   "hash": "gyel2m1sax",
+   "sents": [
+    "Diese Reflexion führt näher auf die Angabe des Standpunkts, nach welchem die Logik zu betrachten ist, inwiefern er sich von der bisherigen Behandlungsweise dieser Wissenschaft unterscheidet und der allein wahrhafte Standpunkt ist, auf den sie in Zukunft für immer zu stellen ist."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p37.json"
+}

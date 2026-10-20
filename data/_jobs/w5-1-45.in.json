@@ -1,0 +1,127 @@
+{
+ "id": "w5-1-45",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 1,
+ "chunkTitle": "Allgemeine Einteilung der Logik",
+ "heading": "Allgemeine Einteilung des Seins",
+ "blocks": [
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "1a6qp5e16h",
+   "sents": [
+    "Es ist hierbei noch die wesentliche Bemerkung zu machen, daß, wenn an sich wohl Ich als das reine Wissen oder als intellektuelle Anschauung bestimmt und als Anfang behauptet werden könnte, es in der Wissenschaft nicht um das zu tun ist, was an sich oder innerlich vorhanden sei, sondern um das Dasein des Innerlichen im Denken und um die Bestimmtheit, die ein solches in diesem Dasein hat.",
+    "Was aber von der intellektuellen Anschauung oder – wenn ihr Gegenstand das Ewige, das Göttliche, das Absolute genannt wird – was vom Ewigen oder Absoluten im Anfange der Wissenschaft da ist, dies kann nichts anderes sein als erste, unmittelbare, einfache Bestimmung.",
+    "Welcher reichere Name ihm gegeben werde, als das bloße Sein ausdrückt, so kann nur in Betracht kommen, wie solches Absolute in das denkende Wissen und in das Aussprechen dieses Wissens eintritt.",
+    "Die intellektuelle Anschauung ist wohl die gewaltsame Zurückweisung des Vermittelns und der beweisenden, äußerlichen Reflexion.",
+    "Was sie aber mehr ausspricht als einfache Unmittelbarkeit, ist ein Konkretes, ein in sich verschiedene Bestimmungen Enthaltendes.",
+    "Das Aussprechen und die Darstellung eines solchen jedoch ist, wie schon bemerkt, eine vermittelnde Bewegung, die von einer der Bestimmungen anfängt und zu der anderen fortgeht, wenn diese auch zur ersten zurückgeht; – es ist eine Bewegung, die zugleich nicht willkürlich oder assertorisch sein darf.",
+    "Von was daher in solcher Darstellung angefangen wird, ist nicht das Konkrete selbst, sondern nur das einfache Unmittelbare, von dem die Bewegung ausgeht.",
+    "Außerdem fehlt, wenn ein Konkretes zum Anfange gemacht wird, der Beweis, dessen die Verbindung der im Konkreten enthaltenen Bestimmungen bedarf."
+   ]
+  },
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "l78ozieijc",
+   "sents": [
+    "Wenn also im Ausdrucke des Absoluten oder Ewigen oder Gottes (und das unbestrittenste Recht hätte Gott, daß mit ihm der Anfang gemacht werde), wenn in deren Anschauung oder Gedanken mehr liegt als im reinen Sein, so soll das, was darin hegt, ins Wissen als denkendes, nicht vorstellendes, erst hervortreten; das, was darin liegt, sei so reich, als es wolle, so ist die Bestimmung, die ins Wissen zuerst hervortritt, ein Einfaches, denn nur im Einfachen ist nicht mehr als der reine Anfang; nur das Unmittelbare ist einfach, denn nur im Unmittelbaren ist noch nicht ein Fortgegangensein von einem zu einem anderen.",
+    "Was somit über das Sein ausgesprochen oder enthalten sein soll in den reicheren Formen des Vorstellens von Absolutem oder Gott, dies ist im Anfange nur leeres Wort und nur Sein; dies Einfädle, das sonst keine weitere Bedeutung hat, dies Leere ist also schlechthin der Anfang der Philosophie."
+   ]
+  },
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "lhrerr480x",
+   "sents": [
+    "Diese Einsicht ist selbst so einfach, daß dieser Anfang als solcher keiner Vorbereitung noch weiteren Einleitung bedarf; und diese Vorläufigkeit von Räsonnement über ihn konnte nicht die Absicht haben, ihn herbeizuführen, als vielmehr alle Vorläufigkeit zu entfernen."
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "h",
+   "hash": "jskaze14qf",
+   "text": "Allgemeine Einteilung des Seins"
+  },
+  {
+   "bi": 49,
+   "k": "p",
+   "hash": "jo68bi11lt",
+   "sents": [
+    "Das Sein ist zuerst gegen Anderes überhaupt bestimmt; Zweitens ist es sich innerhalb seiner selbst bestimmend; Drittens, indem diese Vorläufigkeit des Einteilens weggeworfen ist, ist es die abstrakte Unbestimmtheit und Unmittelbarkeit, in der es der Anfang sein muß."
+   ]
+  },
+  {
+   "bi": 50,
+   "k": "p",
+   "hash": "qkjjtuvne9",
+   "sents": [
+    "Nach der ersten Bestimmung teilt das Sein sich gegen das Wesen ab, indem es weiterhin in seiner Entwicklung seine Totalität nur als eine Sphäre des Begriffs erweist und ihr als Moment eine andere Sphäre gegenüberstellt."
+   ]
+  },
+  {
+   "bi": 51,
+   "k": "p",
+   "hash": "vv2nvi1wn7",
+   "sents": [
+    "Nach der zweiten ist es die Sphäre, innerhalb welcher die Bestimmungen und die ganze Bewegung seiner Reflexion fällt.",
+    "Das Sein wird sich darin in den drei Bestimmungen setzen:"
+   ]
+  },
+  {
+   "bi": 52,
+   "k": "p",
+   "hash": "17fw9en1uw",
+   "sents": [
+    "I. als Bestimmtheit als solche; Qualität;"
+   ]
+  },
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "10401mw1cy",
+   "sents": [
+    "II. als aufgehobene Bestimmtheit; Größe, Quantität;"
+   ]
+  },
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "1k11m989tb",
+   "sents": [
+    "III. als qualitativ bestimmte Quantität; Maß."
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "n5by5c16pd",
+   "sents": [
+    "Diese Einteilung ist hier, wie in der Einleitung von diesen Einteilungen überhaupt erinnert worden, eine vorläufige Anführung; ihre Bestimmungen haben erst aus der Bewegung des Seins selbst zu entstehen, sich dadurch zu definieren und zu rechtfertigen.",
+    "Ober die Abweichung dieser Einteilung von der gewöhnlichen Aufführung der Kategorien, nämlich als Quantität, Qualität, Relation und Modalität, was übrigens bei Kant nur die Titel für seine Kategorien sein sollen, in der Tat aber selbst – nur allgemeinere – Kategorien sind, ist hier nichts zu erinnern, da die ganze Ausführung das überhaupt von der gewöhnlichen Ordnung und Bedeutung der Kategorien Abweichende zeigen wird."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "k9t7qbubwg",
+   "sents": [
+    "Nur dies kann etwa bemerkt werden, daß sonst die Bestimmung der Quantität vor der Qualität aufgeführt wird, und dies – wie das meiste – ohne weiteren Grund.",
+    "Es ist bereits gezeigt worden, daß der Anfang sich mit dem Sein als solchem macht, daher mit dem qualitativen Sein.",
+    "Aus der Vergleichung der Qualität mit der Quantität erhellt leicht, daß jene die der Natur nach erste ist.",
+    "Denn die Quantität ist die schon negativ gewordene Qualität; die Größe ist die Bestimmtheit, die nicht mehr mit dem Sein eins, sondern schon von ihm unterschieden, die aufgehobene, gleichgültig gewordene Qualität ist.",
+    "Sie schließt die Veränderlichkeit des Seins ein, ohne daß die Sache selbst, das Sein, dessen Bestimmung sie ist, durch sie verändert werde; dahingegen die qualitative Bestimmtheit mit ihrem Sein eins ist, nicht darüber hinausgeht noch innerhalb desselben steht, sondern dessen unmittelbare Beschränktheit ist.",
+    "Die Qualität ist daher, als die unmittelbare Bestimmtheit, die erste und mit ihr der Anfang zu machen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/1.p45.json"
+}

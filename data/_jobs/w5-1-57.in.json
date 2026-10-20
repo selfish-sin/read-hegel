@@ -1,0 +1,35 @@
+{
+ "id": "w5-1-57",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 1,
+ "chunkTitle": "Allgemeine Einteilung der Logik",
+ "heading": "Allgemeine Einteilung der Logik",
+ "blocks": [
+  {
+   "bi": 57,
+   "k": "p",
+   "hash": "141gly823e",
+   "sents": [
+    "Das Maß ist eine Relation, aber nicht die Relation überhaupt, sondern bestimmt der Qualität und Quantität zueinander; die Kategorien, die Kant unter der Relation befaßt, werden ganz anderwärts ihre Stelle nehmen.",
+    "Das Maß kann auch für eine Modalität, wenn man will, angesehen werden; aber indem bei Kant diese nicht mehr eine Bestimmung des Inhalts ausmachen, sondern nur die Beziehung desselben auf das Denken, auf das Subjektive, angehen soll, so ist dies eine ganz heterogene, hierher nicht gehörige Beziehung."
+   ]
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "1pdjbgkdrw",
+   "sents": [
+    "Die dritte Bestimmung des Seins fällt innerhalb des Abschnittes der Qualität, indem es sich als abstrakte Unmittelbarkeit zu einer einzelnen Bestimmtheit gegen seine anderen innerhalb seiner Sphäre herabsetzt."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/1.p57.json"
+}

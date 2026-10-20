@@ -1,0 +1,93 @@
+{
+ "id": "w5-0-20",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Einleitung",
+ "blocks": [
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "g5u4ef94sy",
+   "sents": [
+    "Die Darstellung keines Gegenstandes wäre an und für sich fähig, so streng ganz immanent plastisch zu sein als die der Entwicklung des Denkens in seiner Notwendigkeit; keiner führte so sehr diese Forderung mit sich; seine Wissenschaft müßte darin auch die Mathematik übertreffen, denn kein Gegenstand hat in ihm selbst diese Freiheit und Unabhängigkeit.",
+    "Solcher Vortrag erforderte, wie dies in seiner Art in dem Gange der mathematischen Konsequenz, vorhanden ist, daß bei keiner Stufe der Entwicklung eine Denkbestimmung und Reflexion vorkäme, die nicht in dieser Stufe unmittelbar hervorgeht und aus den vorhergehenden in sie herübergekommen ist.",
+    "Allein auf solche abstrakte Vollkommenheit der Darstellung muß freilich im allgemeinen Verzicht getan werden; schon indem die Wissenschaft mit dem rein Einfachen, hiermit dem Allgemeinsten und Leersten anfangen muß, ließe der Vortrag nur eben diese selbst ganz einfachen Ausdrücke des Einfachen ohne allen weiteren Zusatz irgendeines Wortes zu; – was der Sache nach stattfinden dürfte, wären negierende Reflexionen, die das abzuhalten und zu entfernen sich bemühten, was sonst die Vorstellung oder ein ungeregeltes Denken einmischen könnte.",
+    "Solche Einfälle in den einfachen immanenten Gang der Entwicklung sind jedoch für sich zu fällig, und die Bemühung, sie abzuwehren, wird somit selbst mit dieser Zufälligkeit behaftet; ohnehin ist es vergeblich, allen solchen Einfällen, eben weil sie außer der Sache liegen, begegnen zu wollen, und wenigstens wäre Unvollständigkeit das, was hierbei für die systematische Befriedigung verlangt würde.",
+    "Aber die eigentümliche Unruhe und Zerstreuung unseres modernen Bewußtseins läßt es nicht anders zu, als gleichfalls mehr oder weniger auf naheliegende Reflexionen und Einfälle Rücksicht zu nehmen.",
+    "Ein plastischer Vortrag erfordert dann auch einen plastischen Sinn des Aufnehmens und Verstehens; aber solche plastische Jünglinge und Männer, so ruhig mit der Selbstverleugnung eigener Reflexionen und Einfälle, womit das Selbstdenken sich zu erweisen ungeduldig ist, nur der Sache folgende Zuhörer, wie sie Platon dichtet, würden in einem modernen Dialoge nicht aufgestellt werden können; noch weniger dürfte auf solche Leser gezählt werden.",
+    "Im Gegenteil haben sich mir zu häufig und zu heftig solche Gegner gezeigt, welche nicht die einfache Reflexion machen mochten, daß ihre Einfälle und Einwürfe Kategorien enthalten, welche Voraussetzungen sind und selbst erst der Kritik bedürfen, ehe sie gebraucht werden.",
+    "Die Bewußtlosigkeit hierüber geht unglaublich weit; sie macht das Grundmißverständnis, das üble, d.h. ungebildete Benehmen, bei einer Kategorie, die betrachtet wird, etwas Anderes zu denken und nicht diese Kategorie selbst.",
+    "Diese Bewußtlosigkeit ist um so weniger zu rechtfertigen, als solches Anderes andere Denkbestimmungen und Begriffe sind, in einem Systeme der Logik aber eben diese anderen Kategorien gleichfalls ihre Stelle müssen gefunden haben und daselbst für sich der Betrachtung werden unterworfen sein.",
+    "Am auffallendsten ist dies in der überwiegenden Menge von Einwürfen und Angriffen auf die ersten Begriffe oder Sätze der Logik, das Sein und Nichts und das Werden, als welches, selbst eine einfache Bestimmung, wohl unbestritten – die einfachste Analyse zeigt dies – jene beiden Bestimmungen als Momente enthält.",
+    "Die Gründlichkeit scheint zu erfordern, den Anfang als den Grund, worauf alles gebaut sei, allem voraus zu untersuchen, ja nicht weiterzugehen, als bis er sich fest erwiesen hat, im Gegenteil vielmehr, wenn dies nicht der Fall ist, alles noch Folgende zu verwerfen.",
+    "Diese Gründlichkeit hat zugleich den Vorteil, die größte Erleichterung für das Denkgeschäft zu gewähren; sie hat die ganze Entwicklung in diesen Keim eingeschlossen vor sich und hält sich für mit allem fertig, wenn sie mit diesem fertig ist, der das Leichteste zum Abtun ist, denn er ist das Einfachste, das Einfädle selbst; es ist die geringe Arbeit, die erforderlich ist, wodurch sich diese so selbstzufriedene Gründlichkeit wesentlich empfiehlt.",
+    "Diese Beschränkung auf das Einfache läßt der Willkür des Denkens, das für sich nicht einfach bleiben will, sondern seine Reflexionen darüber anbringt, freien Spielraum.",
+    "Mit dem guten Rechte, sich zuerst nur mit dem Prinzip zu beschäftigen und damit sich auf das Weitere nicht einzulassen, tut diese Gründlichkeit in ihrem Geschäfte selbst das Gegenteil hiervon, vielmehr das Weitere, d. i. andere Kategorien, als nur das Prinzip ist, andere Voraussetzungen und Vorurteile herbeizubringen.",
+    "Solche Voraussetzungen, daß die Unendlichkeit verschieden von der Endlichkeit, der Inhalt etwas anderes als die Form, das Innere ein anderes als das Äußere, die Vermittlung ebenso nicht die Unmittelbarkeit sei, als ob einer dergleichen nicht wüßte, werden zugleich belehrungsweise vorgebracht und nicht sowohl bewiesen als erzählt und versichert.",
+    "In solchem Belehren als Benehmen liegt – man kann es nicht anders nennen – eine Albernheit; der Sache nach aber teils das Unberechtigte, dergleichen nur vorauszusetzen und geradezu anzunehmen, teils aber noch mehr die Unwissenheit, daß es das Bedürfnis und Geschäft des logischen Denkens ist, eben dies zu untersuchen, ob denn so ein Endliches ohne Unendlichkeit etwas Wahres ist, ebenso [ob] solche abstrakte Unendlichkeit, ferner ein formloser Inhalt und eine inhaltslose Form, so ein Inneres für sich, das keine Äußerung hat, eine Äußerlichkeit ohne Innerlichkeit usf. etwas Wahres, ebenso etwas Wirkliches ist.",
+    "– Aber diese Bildung und Zucht des Denkens, durch welche ein plastisches Verhalten desselben bewirkt und die Ungeduld der einfallenden Reflexion überwunden würde, wird allein durch das Weitergehen, das Studium und die Produktion der ganzen Entwicklung verschafft."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "1hyvu47173",
+   "sents": [
+    "Bei der Erwähnung Platonischer Darstellung kann, wer ein selbständiges Gebäude philosophischer Wissenschaft in modernen Zeiten neu aufzuführen arbeitet, an die Erzählung erinnert werden, daß Platon seine Bücher über den Staat siebenmal umgearbeitet habe.",
+    "Die Erinnerung hieran, eine Vergleichung, insofern sie eine solche in sich zu schließen schiene, dürfte nur um so mehr bis zu dem Wunsche treiben, daß für ein Werk, das, als der modernen Welt angehörig, ein tieferes Prinzip, einen schwereren Gegenstand und ein Material von reicherem Umfang zur Verarbeitung vor sich hat, die freie Muße, es siebenundsiebzigmal durchzuarbeiten, gewährt gewesen wäre.",
+    "So aber mußte der Verfasser, indem er es im Angesicht der Größe der Aufgabe betrachtet, sich mit dem begnügen, was es hat werden mögen, unter den Umständen einer äußerlichen Notwendigkeit, der unabwendbaren Zerstreuung durch die Größe und Vielseitigkeit der Zeitinteressen, sogar unter dem Zweifel, ob der laute Lärm des Tages und die betäubende Geschwätzigkeit der Einbildung, die auf denselben sich zu beschränken eitel ist, noch Raum für die Teilnahme an der leidenschaftslosen Stille der nur denkenden Erkenntnis offen lasse."
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "qpk74q96df",
+   "sents": [
+    "Berlin, den 7. November 1831"
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "h",
+   "hash": "1kyiwez1p4",
+   "text": "Einleitung"
+  },
+  {
+   "bi": 24,
+   "k": "h",
+   "hash": "1da2o2k19l",
+   "text": "Allgemeiner Begriff der Logik"
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "durqeyjmxv",
+   "sents": [
+    "Es fühlt sich bei keiner Wissenschaft stärker das Bedürfnis, ohne vorangehende Reflexionen von der Sache selbst anzufangen, als bei der logischen Wissenschaft.",
+    "In jeder anderen ist der Gegenstand, den sie behandelt, und die wissenschaftliche Methode voneinander unterschieden; so wie auch der Inhalt nicht einen absoluten Anfang macht, sondern von anderen Begriffen abhängt und um sich herum mit anderem Stoffe zusammenhängt.",
+    "Diesen Wissenschaften wird es daher zugegeben, von ihrem Boden und dessen Zusammenhang sowie von der Methode nur lemmatischer Weise zu sprechen, die als bekannt und angenommen vorausgesetzten Formen von Definitionen und dergleichen ohne weiteres anzuwenden und sich der gewöhnlichen Art des Räsonnements zur Festsetzung ihrer allgemeinen Begriffe und Grundbestimmungen zu bedienen."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "f67sah1m53",
+   "sents": [
+    "Die Logik dagegen kann keine dieser Formen der Reflexion oder Regeln und Gesetze des Denkens voraussetzen, denn sie machen einen Teil ihres Inhalts selbst aus und haben erst innerhalb ihrer begründet zu werden.",
+    "Nicht nur aber die Angabe der wissenschaft lichen Methode, sondern auch der Begriff selbst der Wissenschaft überhaupt gehört zu ihrem Inhalte, und zwar macht er ihr letztes Resultat aus; was sie ist, kann sie daher nicht voraussagen, sondern ihre ganze Abhandlung bringt dies Wissen von ihr selbst erst als ihr Letztes und als ihre Vollendung hervor.",
+    "Gleichfalls ihr Gegenstand, das Denken oder bestimmter das begreifende Denken, wird wesentlich innerhalb ihrer abgehandelt; der Begriff desselben erzeugt sich in ihrem Verlaufe und kann somit nicht vorausgeschickt werden.",
+    "Was daher in dieser Einleitung vorausgeschickt wird, hat nicht den Zweck, den Begriff der Logik etwa zu begründen oder den Inhalt und die Methode derselben zum voraus wissenschaftlich zu rechtfertigen, sondern durch einige Erläuterungen und Reflexionen in räsonierendem und historischem Sinne den Gesichtspunkt, aus welchem diese Wissenschaft zu betrachten ist, der Vorstellung näherzubringen."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p20.json"
+}

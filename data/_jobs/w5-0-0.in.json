@@ -1,0 +1,97 @@
+{
+ "id": "w5-0-0",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 0,
+ "chunkTitle": "Erster Teil Die objektive Logik",
+ "heading": "Erster TeilDie objektive Logik",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "dz3uvb1ia2",
+   "text": "Erster TeilDie objektive Logik"
+  },
+  {
+   "bi": 1,
+   "k": "h",
+   "hash": "1nbnufs1tr",
+   "text": "Vorrede zur ersten Ausgabe"
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "244v4c1f8v",
+   "sents": [
+    "Die völlige Umänderung, welche die philosophische Denkweise seit etwa fünfundzwanzig Jahren unter uns erlitten, der höhere Standpunkt, den das Selbstbewußtsein des Geistes in dieser Zeitperiode über sich erreicht hat, hat bisher noch wenig Einfluß auf die Gestalt der Logik gehabt."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "p",
+   "hash": "1n83hr71ry",
+   "sents": [
+    "Dasjenige, was vor diesem Zeitraum Metaphysik hieß, ist sozusagen mit Stumpf und Stiel ausgerottet worden und aus der Reihe der Wissenschaften verschwunden.",
+    "Wo lassen oder wo dürfen sich Laute der vormaligen Ontologie, der rationellen Psychologie, der Kosmologie oder selbst gar der vormaligen natürlichen Theologie noch vernehmen lassen?",
+    "Untersuchungen, zum Beispiel über Immaterialität der Seele, über die medianischen und die Endursachen, wo sollten sie noch ein Interesse finden?",
+    "Auch die sonstigen Beweise vom Dasein Gottes werden nur historisch oder zum Behufe der Erbauung und Gemütserhebung angeführt.",
+    "Es ist dies ein Faktum, daß das Interesse teils am Inhalte, teils an der Form der vormaligen Metaphysik, teils an beiden zugleich verloren ist.",
+    "So merkwürdig es ist, wenn einem Volke z.B. die Wissenschaft seines Staatsrechts, wenn ihm seine Gesinnungen, seine sittlichen Gewohnheiten und Tugenden unbrauchbar geworden sind, so merkwürdig ist es wenigstens, wenn ein Volk seine Metaphysik verliert, wenn der mit seinem reinen Wesen sich beschäftigende Geist kein wirkliches Dasein mehr in demselben hat."
+   ]
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "peb0qkr3z8",
+   "sents": [
+    "Die exoterische Lehre der Kantischen Philosophie – daß der Verstand die Erfahrung nicht überfliegen dürfe, sonst werde das Erkenntnisvermögen theoretische Vernunft, welche für sich nichts als Hirngespinste gebäre – hat es von der wissenschaftlichen Seite gerechtfertigt, dem spekulativen Denken zu entsagen.",
+    "Dieser populären Lehre kam das Geschrei der modernen Pädagogik, die Not der Zeiten, die den Blick auf das unmittelbare Bedürfnis richtet, entgegen, daß, wie für die Erkenntnis die Erfahrung das Erste, so für die Geschicklichkeit im öffentlichen und Privatleben theoretische Einsicht sogar schädlich und Übung und praktische Bildung überhaupt das Wesentliche, allein Förderliche sei.",
+    "– Indem so die Wissenschaft und der gemeine Menschenverstand sich in die Hände arbeiteten, den Untergang der Metaphysik zu bewirken, so schien das sonderbare Schauspiel herbeigeführt zu werden, ein gebildetes Volk ohne Metaphysik zu sehen, – wie einen sonst mannigfaltig ausgeschmückten Tempel ohne Allerheiligstes.",
+    "– Die Theologie, welche in früheren Zeiten die Bewahrerin der spekulativen Mysterien und der obzwar abhängigen Metaphysik war, hatte diese Wissenschaft gegen Gefühle, gegen das Praktisch-Populäre und gelehrte Historische aufgegeben.",
+    "Welcher Veränderung entsprechend ist, daß anderwärts jene Einsamen, die von ihrem Volke aufgeopfert und aus der Welt ausgeschieden wurden, zu dem Zwecke, daß die Kontemplation des Ewigen und ein ihr allein dienendes Leben vorhanden sei – nicht um eines Nutzens, sondern um des Segens willen –, verschwanden; ein Verschwinden, das in einem anderen Zusammenhange dem Wesen nach als dieselbe Erscheinung wie das vorhin erwähnte betrachtet werden kann.",
+    "– So daß, nach Vertreibung dieser Finsternisse, der farblosen Beschäftigung des in sich gekehrten Geistes mit sich selbst, das Dasein in die heitere Welt der Blumen verwandelt zu sein schien, unter denen es bekanntlich keine schwarze gibt."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "1nskwxguni",
+   "sents": [
+    "Ganz so schlimm als der Metaphysik ist es der Logik nicht ergangen.",
+    "Daß man durch sie denken lerne, was sonst für ihren Nutzen und damit für den Zweck derselben galt – gleichsam als ob man durch das Studium der Anatomie und Physiologie erst verdauen und sich bewegen lernen sollte –, dies Vorurteil hat sich längst verloren, und der Geist des Praktischen dachte ihr wohl kein besseres Schicksal zu als ihrer Schwester.",
+    "Dessenungeachtet, wahrscheinlich um einigen formellen Nutzens willen, wurde ihr noch ein Rang unter den Wissenschaften gelassen, ja sie wurde selbst als Gegenstand des öffentlichen Unterrichts beibehalten.",
+    "Dies bessere Los betrifft jedoch nur das äußere Schicksal; denn ihre Gestalt und Inhalt ist derselbe geblieben, als er sich durch eine lange Tradition fortgeerbt, jedoch in dieser Überlieferung immer mehr verdünnt und abgemagert hatte; der neue Geist, welcher der Wissenschaft nicht weniger als der Wirklichkeit aufgegangen ist, hat sich in ihr noch nicht verspüren lassen.",
+    "Es ist aber ein für allemal vergebens, wenn die substantielle Form des Geistes sich umgestaltet hat, die Formen früherer Bildung erhalten zu wollen; sie sind welke Blätter, welche von den neuen Knospen, die an Ihren Wurzeln schon erzeugt sind, abgestoßen werden."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "1gje6g91dj",
+   "sents": [
+    "Mit dem Ignorieren der allgemeinen Veränderung fängt es nachgerade an, auch im Wissenschaftlichen auszugehen.",
+    "Unbemerkterweise sind selbst den Gegnern die anderen Vorstellungen geläufig und eigen geworden, und wenn sie gegen deren Quelle und Prinzipien fortdauernd spröde tun und sich widersprechend dagegen benehmen, so haben sie dafür die Konsequenzen sich gefallen lassen und des Einflusses derselben sich nicht zu erwehren vermocht; zu ihrem immer unbedeutender werdenden negativen Verhalten wissen sie sich auf keine andere Weise eine positive Wichtigkeit und einen Inhalt zu geben, als daß sie in den neuen Vorstellungsweisen mitsprechen."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "1ia0kdksnq",
+   "sents": [
+    "Von der ändern Seite scheint die Zeit der Gärung, mit der eine neue Schöpfung beginnt, vorbei zu sein.",
+    "In ihrer ersten Erscheinung pflegt eine solche sich mit fanatischer Feindseligkeit gegen die ausgebreitete Systematisierung des früheren Prinzips zu verhalten, teils auch furchtsam zu sein, sich in der Ausdehnung des Besonderen zu verlieren, teils aber die Arbeit, die zur wissenschaftlichen Ausbildung erfordert wird, zu scheuen und im Bedürfnisse einer solchen zuerst zu einem leeren Formalismus zu greifen.",
+    "Die Anforderung der Verarbeitung und Ausbildung des Stoffes wird nun um so dringender.",
+    "Es ist eine Periode in der Bildung einer Zeit, wie in der Bildung des Individuums, wo es vornehmlich um Erwerbung und Behauptung des Prinzips in seiner unentwickelten Intensität zu tun ist.",
+    "Aber die höhere Forderung geht darauf, daß es zur Wissenschaft werde."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/0.p0.json"
+}

@@ -1,0 +1,96 @@
+{
+ "id": "w5-1-33",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 1,
+ "chunkTitle": "Allgemeine Einteilung der Logik",
+ "heading": "Allgemeine Einteilung der Logik",
+ "blocks": [
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "kl8g1kkxbw",
+   "sents": [
+    "Daß der Anfang Anfang der Philosophie ist, daraus kann eigentlich auch keine nähere Bestimmung oder ein positiver Inhalt für denselben genommen werden.",
+    "Denn die Philosophie ist hier im Anfange, wo die Sache selbst noch nicht vorhanden ist, ein leeres Wort oder irgendeine angenommene ungerechtfertigte Vorstellung.",
+    "Das reine Wissen gibt nur diese negative Bestimmung, daß er der abstrakte Anfang sein soll.",
+    "Insofern das reine Sein als Inhalt des reinen Wissens genommen wird, so hat dieses von seinem Inhalte zurückzutreten, ihn für sich selbst gewähren zu lassen und nicht weiter zu bestimmen.",
+    "– Oder indem das reine Sein als die Einheit zu betrachten ist, in die das Wissen auf seiner höchsten Spitze der Einigung mit dem Objekte zusammengefallen, so ist das Wissen in diese Einheit verschwunden und hat keinen Unterschied von ihr und somit keine Bestimmung für sie übriggelassen.",
+    "– Auch sonst ist nicht etwas oder irgendein Inhalt vorhanden, der gebraucht werden könnte, um damit den bestimmteren Anfang zu machen."
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "p",
+   "hash": "1pyqxy8p5h",
+   "sents": [
+    "Aber auch die bisher als Anfang angenommene Bestimmung des Seins könnte weggelassen werden, so daß nur gefordert würde, daß ein reiner Anfang gemacht werde.",
+    "Dann ist nichts vorhanden als der Anfang selbst, und es wäre zu sehen, was er ist.",
+    "– Diese Stellung könnte zugleich als ein Vorschlag zur Güte an diejenigen gemacht werden, welche teils damit, daß mit dem Sein angefangen werde, aus welchen Reflexionen es sei, sich nicht beruhigen und noch weniger mit dem Erfolge, den das Sein hat, in das Nichts überzugehen, teils [es] überhaupt nicht anders wissen, als daß in einer Wissenschaft mit der Voraussetzung einer Vorstellung angefangen werde – einer Vorstellung, welche hierauf analysiert werde, so daß nun das Ergebnis solcher Analyse den ersten bestimmten Begriff in der Wissenschaft abgebe.",
+    "Indem wir auch dies Verfahren beobachteten, so hätten wir keinen besonderen Gegenstand, weil der Anfang, als des Denkens, ganz abstrakt, ganz allgemein, ganz Form ohne allen Inhalt sein soll; wir hätten somit gar nichts als die Vorstellung von einem bloßen Anfang als solchem.",
+    "Es ist also nur zu sehen, was wir in dieser Vorstellung haben."
+   ]
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "2gvhc61xe0",
+   "sents": [
+    "Es ist noch Nichts, und es soll Etwas werden.",
+    "Der Anfang ist nicht das reine Nichts, sondern ein Nichts, von dem Etwas ausgehen soll; das Sein ist also auch schon im Anfang enthalten.",
+    "Der Anfang enthält also beides, Sein und Nichts; ist die Einheit von Sein und Nichts, – oder ist Nichtsein, das zugleich Sein, und Sein, das zugleich Nichtsein ist."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "1uosf8wtcl",
+   "sents": [
+    "Ferner: Sein und Nichts sind im Anfang als unterschieden vorhanden; denn er weist auf etwas anderes hin; – er ist ein Nichtsein, das auf das Sein als auf ein Anderes bezogen ist; das Anfangende ist noch nicht; es geht erst dem Sein zu.",
+    "Der Anfang enthält also das Sein als ein solches, das sich von dem Nichtsein entfernt oder es aufhebt, als ein ihm Entgegengesetztes."
+   ]
+  },
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "1qxayp5vyi",
+   "sents": [
+    "Ferner aber ist das, was anfängt, schon; ebensosehr aber ist es auch noch nicht.",
+    "Die Entgegengesetzten, Sein und Nichtsein, sind also in ihm in unmittelbarer Vereinigung; oder er ist ihre ununterschiedene Einheit."
+   ]
+  },
+  {
+   "bi": 38,
+   "k": "p",
+   "hash": "85l02188qh",
+   "sents": [
+    "Die Analyse des Anfangs gäbe somit den Begriff der Einheit des Seins und des Nichtseins – oder, in reflektierterer Form, der Einheit des Unterschieden- und des Nichtunterschiedenseins – oder der Identität der Identität und Nichtidentität.",
+    "Dieser Begriff könnte als die erste, reinste, d. i. abstrakteste Definition des Absoluten angesehen werden, – wie er dies in der Tat sein würde, wenn es überhaupt um die Form von Definitionen und um den Namen des Absoluten zu tun wäre.",
+    "In diesem Sinne würden, wie jener abstrakte Begriff die erste, so alle weiteren Bestimmungen und Entwicklungen nur bestimmtere und reichere Definitionen dieses Absoluten sein.",
+    "Aber die, welche mit dem Sein als Anfang darum nicht zufrieden sind, weil es in Nichts übergeht und daraus die Einheit des Seins und Nichts entsteht, mögen zusehen, ob sie mit diesem Anfange, der mit der Vorstellung des Anfangs anfängt, und mit deren Analyse, die wohl richtig sein wird, aber gleichfalls auf die Einheit des Seins und Nichts führt, zufriedener sein mögen als damit, daß das Sein zum Anfange gemacht wird."
+   ]
+  },
+  {
+   "bi": 39,
+   "k": "p",
+   "hash": "64s3vh104w",
+   "sents": [
+    "Es ist aber noch eine weitere Betrachtung über dieses Verfahren zu machen.",
+    "Jene Analyse setzt die Vorstellung des Anfangs als bekannt voraus; es ist so nach dem Beispiele anderer Wissenschaften verfahren worden.",
+    "Diese setzen ihren Gegenstand voraus und nehmen bittweise an, daß jedermann dieselbe Vorstellung von ihm habe und darin ungefähr dieselben Bestimmungen finden möge, die sie durch Analyse, Vergleichung und sonstiges Räsonnement von ihm da- und dorther beibringen und angeben.",
+    "Das aber, was den absoluten Anfang macht, muß gleichfalls ein sonst Bekanntes sein; wenn es nun ein Konkretes, somit in sich mannigfaltig Bestimmtes ist, so ist diese Beziehung, die es in sich ist, als etwas Bekanntes vorausgesetzt; sie ist damit als etwas Unmittelbares angegeben, was sie aber nicht ist; denn sie ist nur Beziehung als von Unterschiedenen, enthält somit die Vermittlung in sich.",
+    "Ferner tritt am Konkreten die Zufälligkeit und Willkür der Analyse und des verschiedenen Bestimmens ein.",
+    "Welche Bestimmungen herausgebracht werden, hängt von dem ab, was jeder in seiner unmittelbaren zufälligen Vorstellung vorfindet.",
+    "Die in einem Konkreten, einer synthetischen Einheit enthaltene Beziehung ist eine notwendige nur, insofern sie nicht vorgefunden, sondern durch die eigene Bewegung der Momente, in diese Einheit zurückzugehen, hervorgebracht ist, – eine Bewegung, die das Gegenteil des analytischen Verfahrens ist, eines der Sache selbst äußerlichen, in das Subjekt fallenden Tuns."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/1.p33.json"
+}

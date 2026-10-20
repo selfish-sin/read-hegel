@@ -1,0 +1,810 @@
+{
+ "volume": {
+  "id": "w5",
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "styleGuide": [
+  "权威顺序（不可颠倒）：① 用户的词族／术语政策最高，任何其他依据都不得用来推翻它；② 本卷术语包在政策框架内细化，与政策冲突时以政策为准；③ 共享词表；④ 通行译名、学术惯例、其他中译本与读者评论——仅供参考，只能用来改进，绝不能作为改动政策译名的理由。特别提醒：通行译名（如“唯心主义”“理念”）与政策冲突时，一律以政策为准。",
+  "词根一致：同一德文词根的不同形式必须共用一个中文词根——Idee/ideell/Idealität/Idealismus/das Ideelle 一律用“观念”（观念、观念的、观念性、观念论、观念物），严禁“唯心主义”、严禁“理念”；Realität/real/Realismus/das Reelle 一律用“实在”（实在性、实在的、实在论、实在物）；Begriff/begreifen 用“概念”（概念、以概念把握）；Vorstellung 一律“表象”，不得占用“观念”；Geist/geistig 用“精神”；Wissen 用“知识”（词根“知”）；Wahrheit/wahr 用“真理／真的”（词根“真”）；Wirklichkeit/wirklich 用“现实性／现实的”（词根“现实”）。书名与学派名同样服从（《先验观念论体系》）。",
+  "本卷＝《大逻辑》（Wissenschaft der Logik）。全书体系术语一词一译：Sein 存在／Nichts 无／Werden 生成；Wesen 本质／Begriff 概念／Urteil 判断／Schluß 推论／Aufhebung 扬弃／Moment 环节／Vermittlung 中介／Unmittelbarkeit 直接性；Allgemeinheit 普遍性／Besonderheit 特殊性／Einzelnes 个别；Notwendigkeit 必然性／Zufall 偶然／Zweck 目的／Ursache 原因／Wirkung 效果；Reflexion 反思／Bestimmung 规定／Bestimmtheit 规定性／Substanz 实体；Identität 同一性／Verschiedenheit 相异／Unterschied 差别（严格分工，不得互换）；Totalität 总体性／Allheit 全体性／Ganzes 整体／Schranke 界限／Einheit 统一（勿用“统一体”）；Subjekt 主体／Objekt 客体／Subjektivität 主观性。",
+  "★跨卷说明：Identität 本卷作“同一性”（与 w2、w3 已入库译法及共享词表一致）；w4 卷内曾按 wave38 裁定作“同一”，那是 w4 本卷包的分义，不适用于本卷；本卷一律“同一性”，非同一性＝ Nichtidentität“不可同一”。",
+  "本卷体裁（文体）：① 序言（Vorrede zur ersten/zweiten Ausgabe）文体是论辩性的长句，破折号插入语多，主谓宾常有省略或倒装；译成中文时保持长句，不拆成一串短句，但可用中文破折号承载原文的插入结构。② 正文章节（Sein／Wesen／Begriff 三部）高度体系化，术语密集，一词一译；正文中的“Anmerkung”＝注（编号注，如“Anmerkung 1”“Anmerkung 4”），不译内容只译标题？——译者注：编者注块（k=fn）不译，正文中的“Anmerkung”标题照译为“注”。③ “Erster Teil／Erster Abschnitt／Erster Band／Erstes Kapitel”等分级词一律用“第一部分／第一节／第一卷／第一章”，与 § 编号并存。④ § 编号（§ 1、§ 12）原样保留，中文侧不译“§”本身。",
+  "正文中常见的分义登记（不入条目表，避免一致性提醒噪音；定译以本条为准）：das Leben 在本卷序言与讲稿中多作日常义「生活」（如 das Leben der Völker und der Individuen＝各民族与各个人的生活），仅第二部分第三章标题与体系语境作「生命」；Ursache 作「原因」，但固定短语「Ursache genug」＝「有充分理由」；das Allgemeine / die Allgemeinheiten（形容词名词化）作「普遍者／普遍物」，Allgemeinheit（名词）作「普遍性」；die Momente 在序言中作「环节」（die allgemeinen Momente＝一般环节），勿作「时刻」；das Positive＝肯定、das Negative＝否定、das Negative als das Bestimmte＝否定者即规定者；Notwendiges＝必然者、Zufälliges＝偶然者；die Notwendigkeit＝必然性、die Zufälligkeit＝偶然性；das Sein＝存在、das Nichts＝无、das Werden＝生成；die Idee＝观念、das Begriff＝概念（冠词变格不改变词根）；der Begriff als Sein＝作为存在的概念；das unmittelbare Wissen＝直接知识；die Anschauung＝直观、die Vorstellung＝表象、das Denken＝思维、die Denkform＝思维形式、die Denkbestimmung＝思维规定、die Denkverhältnisse＝思维关系；die Kategorie＝范畴；der Inhalt＝内容、die Form＝形式、die Gestalt＝形态、die Bestimmung＝规定、das Gesetz＝规律、die Regel＝规则；die Methode＝方法、das System＝系统、die Wissenschaft＝科学、das Ganze＝整体、das Teil＝部分；die Kraft＝力、die Polarität＝极性、die Notwendigkeit＝必然性；das Subjekt＝主体、das Objekt＝客体；die Freiheit＝自由、der Wille＝意志、die Willkür＝任性；das Gefühl＝感受、der Trieb＝冲动；die Anschauung＝直观（w4 已用“直观”）；das Denken＝思维（w3/w4 已用“思维”）。",
+  "★门务记录（w5 首波）：① doNotTranslate 中的“1.”“2.”“3.”“A.”“B.”“C.”按字符命中，故凡源句中出现这些字面者，英中两侧均须含该字面；德式日期日号末位为 1/2/3 时保留点号（EN「22. March」／中「3 月 22. 日」）。②“z. B.”命中“B.”，按门规则以“z. A.”～“z. C.”例程豁免。③希腊／拉丁引文不译不动、括注中文（如 § 1 的“τὸ ὄν”）。④编者方括号〔〕在原文中为编者插入：实词编者补入英中两侧都保留（中文侧译出内容并用半角方括号），纯语法插入（冠词、连词、动词变位）两侧都弃。⑤“-man”“man”不定代词译“人们”，不译“我们”。"
+ ],
+ "entries": [
+  {
+   "source": "Idee",
+   "en": "idea",
+   "zh": "观念",
+   "type": "term",
+   "note": "政策：词族 Idee 的词根是“观念”，严禁“理念”"
+  },
+  {
+   "source": "ideell",
+   "en": "ideal (of ideality)",
+   "zh": "观念的",
+   "type": "term",
+   "note": "与 reell（实在的）对举；严禁“理想的”"
+  },
+  {
+   "source": "das Ideelle",
+   "en": "the ideal element",
+   "zh": "观念物",
+   "type": "term",
+   "note": "与 das Reelle（实在物）对举"
+  },
+  {
+   "source": "Idealität",
+   "en": "ideality",
+   "zh": "观念性",
+   "type": "term",
+   "note": "与 Realität（实在性）对举"
+  },
+  {
+   "source": "idealisieren",
+   "en": "to idealize",
+   "zh": "观念化",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "Idealismus",
+   "en": "idealism",
+   "zh": "观念论",
+   "type": "term",
+   "note": "政策：严禁“唯心主义”；书名同此"
+  },
+  {
+   "source": "idealistisch",
+   "en": "idealistic",
+   "zh": "观念论的",
+   "type": "term",
+   "note": "政策：严禁“唯心的”"
+  },
+  {
+   "source": "Idealrealismus",
+   "en": "ideal realism",
+   "zh": "观念实在论",
+   "type": "term",
+   "note": "词族 Idee（词根：观念）"
+  },
+  {
+   "source": "Realität",
+   "en": "reality",
+   "zh": "实在性",
+   "type": "term",
+   "note": "与 Wirklichkeit（现实性）严格分开"
+  },
+  {
+   "source": "real",
+   "en": "real (of the real)",
+   "zh": "实在的",
+   "type": "term",
+   "note": "体系义回词根“实在”；日常义可作“真实的”"
+  },
+  {
+   "source": "das Reelle",
+   "en": "the real element",
+   "zh": "实在物",
+   "type": "term",
+   "note": "与 das Ideelle（观念物）对举"
+  },
+  {
+   "source": "Realismus",
+   "en": "realism",
+   "zh": "实在论",
+   "type": "term",
+   "note": "词族 Realität（词根：实在）"
+  },
+  {
+   "source": "Begriff",
+   "en": "concept",
+   "zh": "概念",
+   "type": "term",
+   "note": "词族 Begriff（词根：概念）"
+  },
+  {
+   "source": "begreifen",
+   "en": "to comprehend",
+   "zh": "以概念把握",
+   "type": "term",
+   "note": "与 Anschauung（直观）、Vorstellung（表象）区分"
+  },
+  {
+   "source": "begrifflich",
+   "en": "conceptual",
+   "zh": "概念性的",
+   "type": "term",
+   "note": "词族 Begriff（词根：概念）"
+  },
+  {
+   "source": "begrifflos",
+   "en": "conceptless",
+   "zh": "无概念的",
+   "type": "term",
+   "note": "词族 Begriff（词根：概念）"
+  },
+  {
+   "source": "Vorstellung",
+   "en": "representation",
+   "zh": "表象",
+   "type": "term",
+   "note": "词族 Vorstellung（词根：表象），严禁占用“观念”"
+  },
+  {
+   "source": "vorgestellt",
+   "en": "represented",
+   "zh": "被表象的",
+   "type": "term",
+   "note": "词族 Vorstellung（词根：表象）"
+  },
+  {
+   "source": "Geist",
+   "en": "spirit",
+   "zh": "精神",
+   "type": "term",
+   "note": "词族 Geist（词根：精神）；禁“心灵／灵魂”"
+  },
+  {
+   "source": "geistig",
+   "en": "spiritual",
+   "zh": "精神的",
+   "type": "term",
+   "note": "词族 Geist（词根：精神）"
+  },
+  {
+   "source": "geistlos",
+   "en": "spiritless",
+   "zh": "无精神的",
+   "type": "term",
+   "note": "词族 Geist（词根：精神）"
+  },
+  {
+   "source": "Wissen",
+   "en": "knowledge",
+   "zh": "知识",
+   "type": "term",
+   "note": "词族 Wissen（词根：知）；与 Erkenntnis（认识）分工"
+  },
+  {
+   "source": "absolutes Wissen",
+   "en": "absolute knowledge",
+   "zh": "绝对知识",
+   "type": "term",
+   "note": "词族 Wissen（词根：知）"
+  },
+  {
+   "source": "Wahrheit",
+   "en": "truth",
+   "zh": "真理",
+   "type": "term",
+   "note": "词族 Wahrheit（词根：真）"
+  },
+  {
+   "source": "wahr",
+   "en": "true",
+   "zh": "真的",
+   "type": "term",
+   "note": "词族 Wahrheit（词根：真）"
+  },
+  {
+   "source": "wahrhaft",
+   "en": "genuine",
+   "zh": "真正的",
+   "type": "term",
+   "note": "词族 Wahrheit（词根：真）"
+  },
+  {
+   "source": "Wirklichkeit",
+   "en": "reality (actuality)",
+   "zh": "现实性",
+   "type": "term",
+   "note": "词族 Wirklichkeit（词根：现实）；与 Realität 严格分开"
+  },
+  {
+   "source": "wirklich",
+   "en": "actual",
+   "zh": "现实的",
+   "type": "term",
+   "note": "词族 Wirklichkeit（词根：现实）；不含“实在”词根"
+  },
+  {
+   "source": "Sein",
+   "en": "being",
+   "zh": "存在",
+   "type": "term",
+   "note": "存在—无—生成三一体；与 Nichts、Werden 分工"
+  },
+  {
+   "source": "Nichts",
+   "en": "nothing",
+   "zh": "无",
+   "type": "term",
+   "note": "与 Sein（存在）严格分开"
+  },
+  {
+   "source": "Werden",
+   "en": "becoming",
+   "zh": "生成",
+   "type": "term",
+   "note": "与 Sein（存在）、Nichts（无）严格分开"
+  },
+  {
+   "source": "Wesen",
+   "en": "essence",
+   "zh": "本质",
+   "type": "term",
+   "note": "与 Existenz（定在）分工"
+  },
+  {
+   "source": "Urteil",
+   "en": "judgement",
+   "zh": "判断",
+   "type": "term",
+   "note": "与 Schluß（推论）分工"
+  },
+  {
+   "source": "Schluß",
+   "en": "syllogism",
+   "zh": "推论",
+   "type": "term",
+   "note": "与 Urteil（判断）分工"
+  },
+  {
+   "source": "Aufhebung",
+   "en": "sublation",
+   "zh": "扬弃",
+   "type": "term",
+   "note": "全卷统一，不拆作“取消＋保存”"
+  },
+  {
+   "source": "Moment",
+   "en": "moment",
+   "zh": "环节",
+   "type": "term",
+   "note": "指整体的环节／要素，不是“时刻”"
+  },
+  {
+   "source": "Vermittlung",
+   "en": "mediation",
+   "zh": "中介",
+   "type": "term",
+   "note": "与 Unmittelbarkeit（直接性）对举"
+  },
+  {
+   "source": "Unmittelbarkeit",
+   "en": "immediacy",
+   "zh": "直接性",
+   "type": "term",
+   "note": "与 Vermittlung（中介）对举"
+  },
+  {
+   "source": "Allgemeinheit",
+   "en": "universality",
+   "zh": "普遍性",
+   "type": "term",
+   "note": "与 Besonderheit（特殊性）、Einzelnes（个别）三分"
+  },
+  {
+   "source": "Besonderheit",
+   "en": "particularity",
+   "zh": "特殊性",
+   "type": "term",
+   "note": "与 Allgemeinheit（普遍性）、Einzelnes（个别）三分"
+  },
+  {
+   "source": "Einzelnes",
+   "en": "the individual",
+   "zh": "个别",
+   "type": "term",
+   "note": "与 Allgemeinheit、Besonderheit 三分"
+  },
+  {
+   "source": "Notwendigkeit",
+   "en": "necessity",
+   "zh": "必然性",
+   "type": "term",
+   "note": "与 Zufall（偶然）对举"
+  },
+  {
+   "source": "Zufall",
+   "en": "contingency",
+   "zh": "偶然",
+   "type": "term",
+   "note": "名词化；与 Notwendigkeit 对举"
+  },
+  {
+   "source": "Zweck",
+   "en": "purpose",
+   "zh": "目的",
+   "type": "term",
+   "note": "与 Ursache（原因）、Wirkung（效果）三分"
+  },
+  {
+   "source": "Wirkung",
+   "en": "effect",
+   "zh": "效果",
+   "type": "term",
+   "note": "与 Zweck（目的）、Ursache（原因）三分"
+  },
+  {
+   "source": "Reflexion",
+   "en": "reflection",
+   "zh": "反思",
+   "type": "term",
+   "note": "指分离、固定化的反思活动"
+  },
+  {
+   "source": "Bestimmung",
+   "en": "determination",
+   "zh": "规定",
+   "type": "term",
+   "note": "与 Bestimmtheit（规定性）分工"
+  },
+  {
+   "source": "Bestimmtheit",
+   "en": "determinateness",
+   "zh": "规定性",
+   "type": "term",
+   "note": "与 Bestimmung（规定）分工"
+  },
+  {
+   "source": "Substanz",
+   "en": "substance",
+   "zh": "实体",
+   "type": "term",
+   "note": "“实体即主体”（Substanz als Subjekt）"
+  },
+  {
+   "source": "Identität",
+   "en": "identity",
+   "zh": "同一性",
+   "type": "term",
+   "note": "与 Verschiedenheit（相异）、Unterschied（差别）三分；不作“身份”"
+  },
+  {
+   "source": "Verschiedenheit",
+   "en": "diversity",
+   "zh": "相异",
+   "type": "term",
+   "note": "与 Unterschied（差别）严格分工"
+  },
+  {
+   "source": "Unterschied",
+   "en": "difference",
+   "zh": "差别",
+   "type": "term",
+   "note": "与 Verschiedenheit（相异）严格分工"
+  },
+  {
+   "source": "Totalität",
+   "en": "totality",
+   "zh": "总体性",
+   "type": "term",
+   "note": "与 Allheit（全体性）、das Ganze（整体）三分"
+  },
+  {
+   "source": "Allheit",
+   "en": "allness",
+   "zh": "全体性",
+   "type": "term",
+   "note": "与 Totalität（总体性）严格分开"
+  },
+  {
+   "source": "Ganzes",
+   "en": "the whole",
+   "zh": "整体",
+   "type": "term",
+   "note": "“整体”留给 das Ganze"
+  },
+  {
+   "source": "Schranke",
+   "en": "limit",
+   "zh": "界限",
+   "type": "term",
+   "note": "复数 Schranken 作单数义“界限”"
+  },
+  {
+   "source": "Einheit",
+   "en": "unity",
+   "zh": "统一",
+   "type": "term",
+   "note": "勿用“统一体”"
+  },
+  {
+   "source": "Kategorie",
+   "en": "category",
+   "zh": "范畴",
+   "type": "term",
+   "note": "康德义与亚里士多德义同译"
+  },
+  {
+   "source": "Form",
+   "en": "form",
+   "zh": "形式",
+   "type": "term",
+   "note": "与 Inhalt（内容）、Gestalt（形态）三分"
+  },
+  {
+   "source": "Inhalt",
+   "en": "content",
+   "zh": "内容",
+   "type": "term",
+   "note": "与 Form（形式）分工"
+  },
+  {
+   "source": "Gestalt",
+   "en": "shape",
+   "zh": "形态",
+   "type": "term",
+   "note": "与 Form（形式）分工"
+  },
+  {
+   "source": "Anschauung",
+   "en": "intuition",
+   "zh": "直观",
+   "type": "term",
+   "note": "与 Vorstellung（表象）、Denken（思维）三分"
+  },
+  {
+   "source": "Denken",
+   "en": "thinking",
+   "zh": "思维",
+   "type": "term",
+   "note": "与 Vorstellen（表象）、Anschauen（直观）三分"
+  },
+  {
+   "source": "Denkform",
+   "en": "form of thought",
+   "zh": "思维形式",
+   "type": "term",
+   "note": "与 Denkbestimmung（思维规定）分工"
+  },
+  {
+   "source": "Denkbestimmung",
+   "en": "determination of thought",
+   "zh": "思维规定",
+   "type": "term",
+   "note": "与 Denkform（思维形式）分工"
+  },
+  {
+   "source": "Erkenntnis",
+   "en": "cognition",
+   "zh": "认识",
+   "type": "term",
+   "note": "与 Wissen（知识）分工"
+  },
+  {
+   "source": "Erschließen",
+   "en": "to infer",
+   "zh": "推演",
+   "type": "term",
+   "note": "与 Schluß（推论）分工"
+  },
+  {
+   "source": "Definition",
+   "en": "definition",
+   "zh": "定义",
+   "type": "term",
+   "note": "表述属与特殊规定性"
+  },
+  {
+   "source": "Einteilung",
+   "en": "division",
+   "zh": "划分",
+   "type": "term",
+   "note": "表述特殊性，须出自共同的划分根据"
+  },
+  {
+   "source": "Beweis",
+   "en": "proof",
+   "zh": "证明",
+   "type": "term",
+   "note": "不作“论证”"
+  },
+  {
+   "source": "Methode",
+   "en": "method",
+   "zh": "方法",
+   "type": "term",
+   "note": "与 System（系统）分工"
+  },
+  {
+   "source": "System",
+   "en": "system",
+   "zh": "体系",
+   "type": "term",
+   "note": "共享词表定译；与 Methode（方法）分工"
+  },
+  {
+   "source": "Wissenschaft",
+   "en": "science",
+   "zh": "科学",
+   "type": "term",
+   "note": "与 Kunst（艺术）分工"
+  },
+  {
+   "source": "Logik",
+   "en": "logic",
+   "zh": "逻辑学",
+   "type": "term",
+   "note": "标题作“逻辑学”"
+  },
+  {
+   "source": "Metaphysik",
+   "en": "metaphysics",
+   "zh": "形而上学",
+   "type": "term",
+   "note": "w4/12 已定译，全书一致"
+  },
+  {
+   "source": "Ontologie",
+   "en": "ontology",
+   "zh": "本体论",
+   "type": "term",
+   "note": "w4/12 已定译"
+  },
+  {
+   "source": "Kosmologie",
+   "en": "cosmology",
+   "zh": "宇宙论",
+   "type": "term",
+   "note": "w4/12 已定译"
+  },
+  {
+   "source": "Theologie",
+   "en": "theology",
+   "zh": "神学",
+   "type": "term",
+   "note": "与 philosophische Theologie（哲学神学）同译"
+  },
+  {
+   "source": "Subjekt",
+   "en": "subject",
+   "zh": "主体",
+   "type": "term",
+   "note": "与 Subjektivität（主观性）严格分开"
+  },
+  {
+   "source": "Objekt",
+   "en": "object",
+   "zh": "客体",
+   "type": "term",
+   "note": "与 Subjekt（主体）严格分开"
+  },
+  {
+   "source": "Subjektivität",
+   "en": "subjectivity",
+   "zh": "主观性",
+   "type": "term",
+   "note": "与 Subjekt（主体）严格分开"
+  },
+  {
+   "source": "Freiheit",
+   "en": "freedom",
+   "zh": "自由",
+   "type": "term",
+   "note": "与 Notwendigkeit（必然性）对举"
+  },
+  {
+   "source": "Tätigkeit",
+   "en": "activity",
+   "zh": "活动",
+   "type": "term",
+   "note": "与 Tun（作为）分工"
+  },
+  {
+   "source": "Polarität",
+   "en": "polarity",
+   "zh": "极性",
+   "type": "term",
+   "note": "本卷第一部分 A 节“质的极性”"
+  }
+ ],
+ "forbidden": [
+  {
+   "source": "Idee",
+   "forbidden": "理念",
+   "prefer": "观念",
+   "why": "政策：词族一致的词根是“观念”，严禁“理念”（含书名与学派名）"
+  },
+  {
+   "source": "Idealismus",
+   "forbidden": "唯心主义",
+   "prefer": "观念论",
+   "why": "政策：严禁“唯心主义”"
+  },
+  {
+   "source": "idealistisch",
+   "forbidden": "唯心的",
+   "prefer": "观念论的",
+   "why": "政策：严禁“唯心的”"
+  },
+  {
+   "source": "Idealität",
+   "forbidden": "理想性",
+   "prefer": "观念性",
+   "why": "“理想”留给 Ideal；词族词根为“观念”"
+  },
+  {
+   "source": "Ideal",
+   "forbidden": "观念",
+   "prefer": "理想",
+   "why": "日常／美学义作“理想”；体系义才回 Idee 族"
+  },
+  {
+   "source": "ideell",
+   "forbidden": "理想的",
+   "prefer": "观念的",
+   "why": "与 Ideal（理想）分开；ideell 是观念性的"
+  },
+  {
+   "source": "Ideenlehre",
+   "forbidden": "理念论",
+   "prefer": "观念论",
+   "why": "本卷 Ideenlehre 是黑格尔自己的观念学说"
+  },
+  {
+   "source": "Realität",
+   "forbidden": "现实性",
+   "prefer": "实在性",
+   "why": "与 Wirklichkeit（现实性）严格分开"
+  },
+  {
+   "source": "real",
+   "forbidden": "现实的",
+   "prefer": "实在的",
+   "why": "体系义回词根“实在”；与 wirklich（现实的）严格分开"
+  },
+  {
+   "source": "Begriff",
+   "forbidden": "观念",
+   "prefer": "概念",
+   "why": "“观念”留给 Idee 族；Begriff 一律“概念”"
+  },
+  {
+   "source": "Vorstellung",
+   "forbidden": "概念",
+   "prefer": "表象",
+   "why": "“概念”留给 Begriff；Vorstellung 一律“表象”"
+  },
+  {
+   "source": "Vorstellung",
+   "forbidden": "观念",
+   "prefer": "表象",
+   "why": "“观念”留给 Idee 族"
+  },
+  {
+   "source": "Geist",
+   "forbidden": "心灵",
+   "prefer": "精神",
+   "why": "词族 Geist 的词根是“精神”，严禁“心灵”"
+  },
+  {
+   "source": "Geist",
+   "forbidden": "灵魂",
+   "prefer": "精神",
+   "why": "词族 Geist 的词根是“精神”，严禁“灵魂”"
+  },
+  {
+   "source": "Dasein",
+   "forbidden": "存在",
+   "prefer": "定在",
+   "why": "体系义一律“定在”；神学日常义（Dasein Gottes＝上帝的存在）须同时含“存在”"
+  },
+  {
+   "source": "Existenz",
+   "forbidden": "存在",
+   "prefer": "定在",
+   "why": "与 Dasein（定在）分工：Existenz 作“定在”"
+  },
+  {
+   "source": "Verstand",
+   "forbidden": "理性",
+   "prefer": "知性",
+   "why": "与 Vernunft（理性）严格分工"
+  },
+  {
+   "source": "Vernunft",
+   "forbidden": "知性",
+   "prefer": "理性",
+   "why": "与 Verstand（知性）严格分工"
+  },
+  {
+   "source": "Sittlichkeit",
+   "forbidden": "道德",
+   "prefer": "伦理",
+   "why": "与 Moralität（道德）严格分工"
+  },
+  {
+   "source": "Moralität",
+   "forbidden": "伦理",
+   "prefer": "道德",
+   "why": "与 Sittlichkeit（伦理）严格分工"
+  },
+  {
+   "source": "Moment",
+   "forbidden": "时刻",
+   "prefer": "环节",
+   "why": "Moment 指整体的环节／要素，不是“时刻”"
+  },
+  {
+   "source": "Schein",
+   "forbidden": "现象",
+   "prefer": "假象",
+   "why": "与 Erscheinung（现象）严格分工"
+  },
+  {
+   "source": "Erscheinung",
+   "forbidden": "假象",
+   "prefer": "现象",
+   "why": "与 Schein（假象）严格分工"
+  },
+  {
+   "source": "Unterschied",
+   "forbidden": "相异",
+   "prefer": "差别",
+   "why": "与 Verschiedenheit（相异）严格分工"
+  },
+  {
+   "source": "Verschiedenheit",
+   "forbidden": "差别",
+   "prefer": "相异",
+   "why": "与 Unterschied（差别）严格分工"
+  },
+  {
+   "source": "Totalität",
+   "forbidden": "全体",
+   "prefer": "总体性",
+   "why": "“全体”留给 Allheit（全体性）"
+  },
+  {
+   "source": "Allheit",
+   "forbidden": "总体性",
+   "prefer": "全体性",
+   "why": "与 Totalität（总体性）严格分工"
+  },
+  {
+   "source": "Einheit",
+   "forbidden": "统一体",
+   "prefer": "统一",
+   "why": "本卷统一作“统一”，不用“统一体”"
+  },
+  {
+   "source": "Tätigkeit",
+   "forbidden": "行动",
+   "prefer": "活动",
+   "why": "本卷统一作“活动”"
+  }
+ ],
+ "doNotTranslate": [
+  "§",
+  "A = A",
+  "Ich = Ich",
+  "E - B - A",
+  "E - A - B",
+  "α)",
+  "β)",
+  "γ)",
+  "a)",
+  "b)",
+  "c)",
+  "1.",
+  "2.",
+  "3.",
+  "A.",
+  "B.",
+  "C.",
+  "z. B.",
+  "vgl.",
+  "ebd.",
+  "a priori",
+  "a posteriori",
+  "S.",
+  "Bd.",
+  "Hrsg.",
+  "hg. von"
+ ]
+}
