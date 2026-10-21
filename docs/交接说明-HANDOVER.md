@@ -96,6 +96,32 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 ```
 
 
+### ★ 第 52 波已收官：w5/2「Erster Abschnitt Bestimmtheit (Qualität)」（第一节·规定性（质））整节 **100%** —— 第 5 卷第 3 节收官
+
+**w5/2 已整节译完：9 单元 / 52 块 / 246 句**（该节 chunk 共 53 块＝42 正文段 + 1 个 `ns=0` 空段落 + 9 标题 + 1 个 fn 编者块按契约不译；246 句全部译出）。全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
+
+| 批次 | 单元 | 块 | 句 | 内容 |
+|---|---|---|---|---|
+| b1 | w5-2-0 / w5-2-16 / w5-2-20 / w5-2-23 / w5-2-29 | 33 | 129 | 存在与无的同一性；命题与概念的展开；雅各布对康德自我意识之 a priori 综合的批评；从存在到无的过渡 |
+| b2 | w5-2-33 / w5-2-38 / w5-2-42 / w5-2-48 | 19 | 117 | 巴门尼德与斯宾诺莎的断点；柏拉图《巴门尼德篇》的辩证法；无的规定性（黑暗与寒冷＝光与温暖的缺席） |
+
+**w5/2 整节收官。** 覆盖率 19.33% → **19.59%**（17,802 → 18,048 / 92,117 句；段落 5,474 → 5,517 / 17,948 = 30.74%）。第 5 卷 491 → **737 句（8.3%）**，**分节进度 3/38**。
+
+- **★ 逐句回源（批 2 全 117 句逐句读）修 20 处**：术语漂移 12 处（`Etwas` 作「有者」6 处→「某物」；`Vereinigung`／`Einigung` 作「合一」2 处→「统一」；`Tautologie` 作「重言式」1 处→「同义反复」；`Gedankending` 作「思维物」1 处→「思想物」；`Nichts` 自由改写 2 处→「无」；`Einheit` 作「合为一体」1 处→「相统一」）；**引号跨段失衡 3 处**（bi38[2]–bi38[7]、bi41[2]–bi41[3] 两处雅各布长引，改为「首段开、末段闭」）；措辞 5 处（bi38[16]「思惟掉」→「在思惟中消除」、bi51[1]「他们」→「它们」、bi41[0]「被规定的东西」→「被规定者」、bi36[0] 去「现在」、bi26[0]「直接联系」→「直接联结」）。
+- **★ 一处「体例误判」已自查回滚（教训）**：中途曾按「中文「」≡德文 `»…«`」把 17 处标斜体强调的中文引号全部删掉；逐节重验后**已入库的 w5/0、w5/1 共 500 句里有 43 处正是用「」标德文斜体强调**（w5/0 18/23、w5/1 25/27），故全部回滚。**根因：`bi` 是「节内块号」，跨节混用同一张 DE/ZH 对照表会撞键**——第 56/59/60 号探针因此误判了体例基线。**判据：任何用字／体例自检都必须按「逐节配对」做**（`w5-<chunk>-<unit>.in.json` ↔ `web/data/trans/w5/<chunk>.json`）。
+- **★ 术语层（context-w5）**：entries 88 → **97**（+9）、styleGuide 12 → **15**（+3）。新增／改判 9 条：`Etwas`→某物、`Vereinigung`→统一、`Einigung`→统一、`Verbindung`→联结、`Kopula`→系词、`Ungetrenntheit`→不可分离性、`Untrennbarkeit`→不可分性、`Affirmatives`→肯定者、`Veränderliches`→可变的。
+  - ★ **`Vereinigung`／`Einigung` 在本卷作「统一」**（共享词表主条作「结合」／「合一」）：依据是 **w5/0 bi14[4]、w5/1 bi33[4]、w5/1 bi37[1] 的已入库先例均作「统一」**（如 w5/0「die Vereinigung Entgegengesetzter」已作「对立者的统一」），且 w5/2 三处与 `Einheit`（统一）同指同一概念；已在 context-w5 登记理由（卷级包优先级高于共享词表）。
+  - ★ **`Untrenn-` 族与 `ungetrennt-` 族严格分开**：`Untrennbares`（不可分者，w5/0）＋`Untrennbarkeit`（不可分性，w5/1 bi6[0] 已入库先例）对 `ungetrennt`（不可分离的，共享词表）＋`Ungetrenntheit`（不可分离性）——本波原把两者译反，已改正 3 处。
+- **★ 机器门新增 ENTRIES_EXEMPT 分义豁免 1 条**（`Objekt` 名词「客体」与 `das Objektive`「客观者」分开），配 2 例自检 → **23 例全 PASS**；两批机器门均 **0 critical / 0 major / 0 minor**（9 单元 / 52 块 / 246 句 / termChecks 484 / dntChecks 9）。
+- **分义与误报（不改译文，已逐条登记进 context-w5 的 styleGuide）**：qa 对 w5 报 **15 条（major 6 / minor 9）＝存量 8 条 ＋ 本波 7 条，0 条真缺陷**。本波 7 条全为误报：`wirklich` 词族（分义：真正／实际上，w5/2#17）、`Sein` 作物主代词（#17）、`Nichts` 被 `Nichtsein` 前缀命中（#20、#47）、`Dasein` 神学日常义「上帝的存在」（#21、#46）、`Objekt` 被 `das Objektive` 词干命中（#50）。
+- **验收全绿**：trans-index **ALIGNMENT OK**；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 仍 20 处存量 misnested（w2/w3/w5，与本波无关）；**w5/2 浏览器实测（端口 8860）pairs=53、mismatch=0、zhSent=246=enSent=246、jsErr=0，状态栏「本节 43/43 段已译 · 246/246 句」**（`missing=2 / emptyZh=1 / emptyEn=1` 全部来自源文 `ns=0` 的空段落 bi5，按合同如实留空，与 w4/12、w4/14 同一渲染行为）；固定 8 页回归 **8/8**。
+- **可复现性**：2 个构建脚本（`_build_w52a.mjs` / `_build_w52b.mjs`）重建 9 个 part 文件 → `merge-trans.mjs`（52 块）→ `trans-index.mjs` ALIGNMENT OK；重建产物与入库 `web/data/trans/w5/2.json` 同源。
+- **共享词表**：**+29 条**（`data/_jobs/w5-2-b1.glossar.csv` 12 条 ＋ `w5-2-b2.glossar.csv` 17 条），另 `Kopula` 由 `unsicher` 升为 `ok`（「连系词」→「系词」：w1–w4 已入库 9 处 ＋ w5/2 1 处均作「系词」，0 miss）。**未入表的**：`Verbindung`（w1–w4 共 165 处用字不统一）、`Kälte`／`Abwesenheit`／`Taler`（各在 w1–w4 有 miss）——按 wave46 纪律，全库用字不一致的词只记 context-w5 分义、不入共享词表。
+- **远端**：本波推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
+- **下一批**：**w5/3**（切片 `node scripts/make-jobs.mjs --vol w5 --size 25 --limit 12 --prefix wave53`）。
+- **★ 待裁决（沿用上波清单，未擅自改动已入库的 w1–w4）**：① `Wissenschaft`→「学问」w1–w4 约 34 句；② `Vorstellung`→「看法」w4 2 句；③ 共享词表主条与本卷用法的五处分叉；④ w5/0 形容词 `verschieden` 3 句作「不同于／不同」与 2 句作「相异」混用（w5/1 已统一为「相异的」，w5/0 是否回拉待定）；⑤ **本波新增：w1–w4 的 `Etwas` 共 35 处，24 处作「某物」、11 处另译——抽查多为日常义复合词（`Etwas Göttliches`＝某种神圣的东西、`Etwas anderes`＝另一回事），不属逻辑学「某物」义，是否有逻辑义漏用待人工确认**。
+
+
 ### ★ 第 51 波续：w5/1「Allgemeine Einteilung der Logik」（逻辑学的一般划分）整节 **100%** —— 第 5 卷第 2 节收官
 
 **w5/1 已整节译完：8 单元 / 59 块 / 192 句**（该节 chunk 共 60 块＝55 正文 + 4 标题 + 1 个 fn 按契约不译；192 句全部译出）。全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：

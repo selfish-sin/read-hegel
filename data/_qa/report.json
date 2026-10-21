@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-21T06:25:06.314Z",
- "blocks": 123,
- "sentences": 491,
+ "generated": "2026-10-21T10:39:34.083Z",
+ "blocks": 175,
+ "sentences": 737,
  "issues": [
   {
    "sev": "major",
@@ -42,11 +42,46 @@
    "sev": "minor",
    "where": "w5/1#57",
    "msg": "sentence 1: \"Subjekt\" is not rendered as “主体”"
+  },
+  {
+   "sev": "major",
+   "where": "w5/2#17",
+   "msg": "sentence 1: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/2#17",
+   "msg": "sentence 4: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/2#20",
+   "msg": "sentence 0: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "major",
+   "where": "w5/2#21",
+   "msg": "sentence 0: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "major",
+   "where": "w5/2#46",
+   "msg": "sentence 4: \"Dasein\" rendered with forbidden “存在” (expected “定在”)"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/2#47",
+   "msg": "sentence 5: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/2#50",
+   "msg": "sentence 1: \"Objekt\" is not rendered as “客体”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 3,
-  "minor": 5
+  "major": 6,
+  "minor": 9
  }
 }

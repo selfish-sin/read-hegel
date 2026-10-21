@@ -1,0 +1,85 @@
+{
+ "id": "w5-2-23",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 2,
+ "chunkTitle": "Erster Abschnitt Bestimmtheit (Qualität)",
+ "heading": "Anmerkung 2",
+ "blocks": [
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "1x60vyad4d",
+   "sents": [
+    "Wie Kant sich ausdrückt, so kommt ›durch die Existenz etwas in den Kontext der gesamten Erfahrung‹, ›wir bekommen dadurch einen Gegenstand der Wahrnehmung mehr, aber unser Begriff von dem Gegenstände wird dadurch nicht vermehrt‹.",
+    "– Dies heißt, wie aus dem Erläuterten hervorgeht, so viel: durch die Existenz, wesentlich darum, weil Etwas bestimmte Existenz ist, ist es in dem Zusammenhang mit Anderem und unter anderem auch mit einem Wahrnehmenden.",
+    "– Der Begriff der hundert Taler, sagt Kant, werde nicht durch das Wahrnehmen vermehrt.",
+    "Der Begriff heißt hier die vorhin bemerkten isoliert vorgestellten hundert Taler.",
+    "In dieser isolierten Weise sind sie zwar ein empirischer Inhalt, aber abgeschnitten, ohne Zusammenhang und Bestimmtheit gegen Anderes, die Form der Identität mit sich benimmt ihnen die Beziehung auf Anderes und macht sie gleichgültig, ob sie wahrgenommen seien oder nicht.",
+    "Aber dieser sogenannte Begriff der hundert Taler ist ein falscher Begriff; die Form der einfachen Beziehung auf sich gehört solchem begrenzten, endlichen Inhalt nicht selbst; es ist eine ihm vom subjektiven Verstande angetane und geliehene Form; hundert Taler sind nicht ein sich auf sich Beziehendes, sondern ein Veränderliches und Vergängliches."
+   ]
+  },
+  {
+   "bi": 24,
+   "k": "p",
+   "hash": "70pj271koc",
+   "sents": [
+    "Das Denken oder Vorstellen, dem nur ein bestimmtes Sein, das Dasein, vorschwebt, ist zu dem erwähnten Anfange der Wissenschaft zurückzuweisen, welchen Parmenides gemacht hat, der sein Vorstellen und damit auch das Vorstellen der Folgezeit zu dem reinen Gedanken, dem Sein als solchem, geläutert und erhoben und damit das Element der Wissenschaft erschaffen hat.",
+    "– Was das Erste in der Wissenschaft ist, hat sich müssen geschichtlich als das Erste zeigen.",
+    "Und das eleatische Eine oder Sein haben wir für das Erste des Wissens vom Gedanken anzusehen; das Wasser und dergleichen materielle Prinzipien sollen wohl das Allgemeine sein, aber sind als Materien nicht reine Gedanken; die Zahlen sind weder der erste einfache noch der bei sich bleibende, sondern der sich selbst ganz äußerliche Gedanke."
+   ]
+  },
+  {
+   "bi": 25,
+   "k": "p",
+   "hash": "1uiuy8y1yh",
+   "sents": [
+    "Die Zurückweisung vom besonderen endlichen Sein zum Sein als solchem in seiner ganz abstrakten Allgemeinheit ist wie als die allererste theoretische, so auch sogar praktische Forderung anzusehen.",
+    "Wenn nämlich ein Aufhebens von den hundert Talern gemacht wird, daß es in meinem Vermögenszustand einen Unterschied mache, ob ich sie habe oder nicht, noch mehr, ob Ich sei oder nicht, ob Anderes sei oder nicht, so kann – ohne zu erwähnen, daß es Vermögenszustände geben wird, für die solcher Besitz von hundert Talern gleichgültig sein wird – daran erinnert werden, daß der Mensch sich zu dieser abstrakten Allgemeinheit in seiner Gesinnung erheben soll, in welcher es ihm in der Tat gleichgültig sei, ob die hundert Taler, sie mögen ein quantitatives Verhältnis zu seinem Vermögenszustand haben, welches sie wollen, seien oder ob sie nicht seien, ebensosehr als es ihm gleichgültig sei, ob er sei oder nicht, d. i, im endlichen Leben sei oder nicht (denn ein Zustand, bestimmtes Sein ist gemeint) usf.",
+    "– selbst si fractus illabatur orbis, impavidum ferient ruinae, hat ein Römer gesagt, und der Christ soll sich noch mehr in dieser Gleichgültigkeit befinden."
+   ]
+  },
+  {
+   "bi": 26,
+   "k": "p",
+   "hash": "98uwc71t46",
+   "sents": [
+    "Es ist noch die unmittelbare Verbindung anzumerken, in welcher die Erhebung über die hundert Taler und die endlichen Dinge überhaupt mit dem ontologischen Beweise und der angeführten Kantischen Kritik desselben steht.",
+    "Diese Kritik hat sich durch ihr populäres Beispiel allgemein plausibel gemacht; wer weiß nicht, daß hundert wirkliche Taler verschieden sind von hundert bloß möglichen Talern? daß sie einen Unterschied in meinem Vermögenszustand ausmachen?",
+    "Weil sich so an den hundert Talern diese Verschiedenheit hervortut, so ist der Begriff, d.h. die Inhaltsbestimmtheit als leere Möglichkeit, und das Sein verschieden voneinander; also ist auch Gottes Begriff von seinem Sein verschieden, und sowenig ich aus der Möglichkeit der hundert Taler ihre Wirklichkeit herausbringen kann, ebensowenig kann ich aus dem Begriffe Gottes seine Existenz »herausklauben«; aus diesem Herausklauben aber der Existenz Gottes aus seinem Begriffe soll der ontologische Beweis bestehen.",
+    "Wenn es nun allerdings seine Richtigkeit hat, daß [der] Begriff vom Sein verschieden ist, so ist noch mehr Gott verschieden von den hundert Talern und den anderen endlichen Dingen.",
+    "Es ist die Definition der endlichen Dinge, daß in ihnen Begriff und Sein verschieden, Begriff und Realität, Seele und Leib trennbar, sie damit vergänglich und sterblich sind; die abstrakte Definition Gottes ist dagegen eben dies, daß sein Begriff und sein Sein ungetrennt und untrennbar sind.",
+    "Die wahrhafte Kritik der Kategorien und der Vernunft ist gerade diese, das Erkennen über diesen Unterschied zu verständigen und dasselbe abzuhalten, die Bestimmungen und Verhältnisse des Endlichen auf Gott anzuwenden."
+   ]
+  },
+  {
+   "bi": 27,
+   "k": "h",
+   "hash": "gx8ry311w9",
+   "text": "Anmerkung 2"
+  },
+  {
+   "bi": 28,
+   "k": "p",
+   "hash": "s8voon8ta9",
+   "sents": [
+    "Es ist weiter ein anderer Grund anzuführen, welcher zu dem Widerwillen gegen den Satz über Sein und Nichts behilflich ist; dieser Grund ist, daß der Ausdruck, des Resultats, das sich aus der Betrachtung des Seins und des Nichts ergibt, durch den Satz »Sein und Nichts ist eins und dasselbe« unvollkommen ist.",
+    "Der Akzent wird vorzugsweise auf das Eins-und-dasselbe-sein gelegt, wie im Urteile überhaupt, als in welchem das Prädikat erst es aussagt, was das Subjekt ist.",
+    "Der Sinn scheint daher zu sein, daß der Unterschied geleugnet werde, der doch zugleich im Satze unmittelbar vorkommt; denn er spricht die beiden Bestimmungen, Sein und Nichts, aus und enthält sie als unterschiedene.",
+    "– Es kann zugleich nicht gemeint sein, daß von ihnen abstrahiert und nur die Einheit festgehalten werden soll.",
+    "Dieser Sinn gäbe sich selbst für einseitig, da das, wovon abstrahiert werden soll, gleichwohl im Satze vorhanden ist und genannt wird.",
+    "– Insofern nun der Satz »Sein und Nichts ist dasselbe« die Identität dieser Bestimmungen ausspricht, aber in der Tat ebenso sie beide als unterschieden enthält, widerspricht er sich in sich selbst und löst sich auf.",
+    "Halten wir dies näher fest, so ist also hier ein Satz gesetzt, der, näher betrachtet, die Bewegung hat, durch sich selbst zu verschwinden.",
+    "Damit aber geschieht an ihm selbst das, was seinen eigentlichen Inhalt ausmachen soll, nämlich das Werden."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/2.p23.json"
+}

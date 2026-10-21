@@ -1,0 +1,64 @@
+{
+ "id": "w5-2-20",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 2,
+ "chunkTitle": "Erster Abschnitt Bestimmtheit (Qualität)",
+ "heading": "Erster AbschnittBestimmtheit (Qualität)",
+ "blocks": [
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "ibhjylsj3x",
+   "sents": [
+    "Sein und Nichtsein ist dasselbe; also ist es dasselbe, ob ich bin oder nicht bin, ob dieses Haus ist oder nicht ist, ob diese hundert Taler in meinem Vermögenszustand sind oder nicht.",
+    "– Dieser Schluß oder Anwendung jenes Satzes verändert dessen Sinn vollkommen.",
+    "Der Satz enthält die reinen Abstraktionen des Seins und Nichts; die Anwendung aber macht ein bestimmtes Sein und bestimmtes Nichts daraus.",
+    "Allein vom bestimmten Sein ist, wie gesagt, hier nicht die Rede.",
+    "Ein bestimmtes, ein endliches Sein ist ein solches, das sich auf anderes bezieht; es ist ein Inhalt, der im Verhältnisse der Notwendigkeit mit anderem Inhalte, mit der ganzen Welt steht.",
+    "In Rücksicht des wechselbestimmenden Zusammenhangs des Ganzen konnte die Metaphysik die – im Grunde tautologische – Behauptung machen, daß, wenn ein Stäubchen zerstört würde, das ganze Universum zusammenstürzte.",
+    "In den Instanzen, die gegen den in Rede stehenden Satz gemacht werden, erscheint etwas als nicht gleichgültig, ob es sei oder nicht sei, nicht um des Seins oder Nichtseins willen, sondern seines Inhalts willen, der es mit anderem zusammenhängt.",
+    "Wenn ein bestimmter Inhalt, irgendein bestimmtes Dasein vorausgesetzt wird, so ist dies Dasein, weil es bestimmtes ist, in mannigfaltiger Beziehung auf anderen Inhalt; es ist für dasselbe nicht gleichgültig, ob ein gewisser anderer Inhalt, mit dem es in Beziehung steht, ist oder nicht ist; denn nur durch solche Beziehung ist es wesentlich das, was es ist.",
+    "Dasselbe ist der Fall in dem Vorstellen (indem wir das Nichtsein in dem bestimmteren Sinne des Vorstellens gegen die Wirklichkeit nehmen), in dessen Zusammenhange das Sein oder die Abwesenheit eines Inhalts, der als bestimmt mit anderem in Beziehung vorgestellt wird, nicht gleichgültig ist."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "1lnpi0ejof",
+   "sents": [
+    "Diese Betrachtung enthält dasselbe, was ein Hauptmoment in der Kantischen Kritik des ontologischen Beweises vom Dasein Gottes ausmacht, auf welche jedoch hier nur in betreff des in ihr vorkommenden Unterschieds von Sein und Nichts überhaupt und von bestimmtem Sein oder Nichtsein Rücksicht genommen wird.",
+    "– Bekanntlich wurde in jenem sogenannten Beweise der Begriff eines Wesens vorausgesetzt, dem alle Realitäten zukommen, somit auch die Existenz, die gleichfalls als eine der Realitäten angenommen wurde.",
+    "Die Kantische Kritik hielt sich vornehmlich daran, daß die Existenz oder das Sein (was hier für gleichbedeutend gilt) keine Eigenschaft oder kein reales Prädikat sei, d.h. nicht ein Begriff von etwas, was zu dem Begriffe eines Dinges hinzukommen könne.7 – Kant will damit sagen, daß Sein keine Inhaltsbestimmung sei.",
+    "Also enthalte, fährt er fort, das Mögliche nicht mehr als das Wirkliche; hundert wirkliche Taler enthalten nicht das mindeste mehr als hundert mögliche; – nämlich jene haben keine andere Inhaltsbestimmung als diese.",
+    "Für diesen als isoliert betrachteten Inhalt ist es in der Tat gleichgültig, zu sein oder nicht zu sein; es liegt in ihm kein Unterschied des Seins oder Nichtseins, dieser Unterschied berührt ihn überhaupt gar nicht; die hundert Taler werden nicht weniger, wenn sie nicht sind, und nicht mehr, wenn sie sind.",
+    "Ein Unterschied muß erst anderswoher kommen.",
+    "– »Aber«, erinnert Kant, »in meinem Vermögenszustande ist mehr bei hundert wirklichen Talern als bei dem bloßen Begriff derselben (d. i. ihrer Möglichkeit).",
+    "Denn der Gegenstand ist bei der Wirklichkeit nicht bloß in meinem Begriff analytisch enthalten, sondern kommt zu meinem Begriffe (der eine Bestimmung meines Zustandes ist) synthetisch hinzu, ohne daß durch dieses Sein außer meinem Begriffe diese gedachten hundert Taler selbst im mindesten vermehrt werden.«"
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "1ju2otuqz0",
+   "sents": [
+    "Es werden hier zweierlei Zustände, um bei den Kantischen Ausdrücken, die nicht ohne verworrene Schwerfälligkeit sind, zu bleiben, vorausgesetzt: der eine, welchen Kant den Begriff nennt, darunter die Vorstellung zu verstehen ist, und ein anderer, der Vermögenszustand.",
+    "Für den einen wie für den anderen, das Vermögen wie das Vorstellen, sind hundert Taler eine Inhaltsbestimmung, oder sie kommen zu einem solchen, wie Kant sich ausdrückt, synthetisch hinzu; ich als Besitzer von hundert Talern oder als Nichtbesitzer derselben, oder auch ich als mir hundert Taler vorstellend oder sie nicht vorstellend, ist allerdings ein verschiedener Inhalt.",
+    "Allgemeiner gefaßt: Die Abstraktionen von Sein und Nichts hören beide auf, Abstraktionen zu sein, indem sie einen bestimmten Inhalt erhalten; Sein ist dann Realität, das bestimmte Sein von 100 Talern, das Nichts Negation, das bestimmte Nichtsein von denselben.",
+    "Diese Inhaltsbestimmung selbst, die hundert Taler, auch abstrakt für sich gefaßt, ist in dem einen unverändert dasselbe, was in dem anderen.",
+    "Indem aber ferner das Sein als Vermögenszustand genommen wird, treten die hundert Taler in Beziehung zu einem Zustand, und für diesen ist solche Bestimmtheit, die sie sind, nicht gleichgültig; ihr Sein oder Nichtsein ist nur Veränderung; sie sind in die Sphäre des Daseins versetzt.",
+    "Wenn daher gegen die Einheit des Seins und Nichts urgiert wird, es sei doch nicht gleichgültig, ob dies und jenes (die 100 Taler) sei oder nicht sei, so ist es eine Täuschung, daß wir den Unterschied bloß aufs Sein und Nichtsein hinausschieben, ob ich die hundert Taler habe oder nicht habe, – eine Täuschung, die, wie gezeigt, auf der einseitigen Abstraktion beruht, welche das bestimmte Dasein, das in solchen Beispielen vor handen ist, wegläßt und bloß das Sein und Nichtsein festhält, wie sie umgekehrt das abstrakte Sein und Nichts, das aufgefaßt werden soll, in ein bestimmtes Sein und Nichts, in ein Dasein, verwandelt.",
+    "Erst das Dasein enthält den realen Unterschied von Sein und Nichts, nämlich ein Etwas und ein Anderes.",
+    "– Dieser reale Unterschied schwebt der Vorstellung vor, statt des abstrakten Seins und reinen Nichts und ihrem nur gemeinten Unterschiede."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/2.p20.json"
+}

@@ -1147,7 +1147,7 @@ Behaupten und Versichern,asserting and assuring,主张和保证,ok,卷内先例�
 Nichtidentität,non-identity,非同一性,ok,与 Identität（同一性）对举
 Dieselbigkeit,sameness,同一,ok,与 Identität（同一性）分开处理；die Dieselbigkeit des göttlichen Wesens und der Natur＝神性本质与自然的同一
 Sichselbstgleichheit,self-sameness,自身等同,ok,卷内先例（14.p53「自我等同的形式」）
-Kopula,copula,连系词,unsicher,卷内无先例；备选「系词」
+Kopula,copula,系词,ok,w1–w4 已入库 9 处与 w5/2 1 处均作「系词」（0 miss）；原主条「连系词」(unsicher) 据此升级
 gleichgültiges Sein,indifferent being,无差别的存在,unsicher,5.json 先例 gleichgültig→无差别的；14.p15 同卷 gleichgültiger Boden→漠不关心的；本处取「无差别」
 unbegreiflich,incomprehensible,不可以概念把握的,unsicher,按卷内 begreifen→以概念把握 的同源原则译；备选「不可理解的」
 Einfädle,simple element,单纯的东西,unsicher,原文讹误：应为 Einfache（gh 原始语料系统性 OCR 讹误；HE03-048／HE05 同讹；本单元下句正作 das selbstlose Einfache）；按 Einfache 译（参 14.p20「那单纯的东西」）
@@ -2956,3 +2956,32 @@ Willkür,arbitrariness,任性,ok,w5/0：意志的任性义（w3 已入库先例�
 Stoff,material,材料,ok,w4/10 与 w5/0 已入库先例；与 Materie＝物质严格分开；与共享词表「Stoff＝质料」「外在的材料」并存
 Ausdruck,expression,表达,ok,w5/0：bi60[4]「der Ausdruck des Geistes」；与共享词表「Ausdruck＝说法」并存，本卷作「表达」
 Anstoß,obstacle,阻碍,ok,w5/0：bi47[0]「ein unendlicher Anstoß」阻碍义；与共享词表「Anstoß＝推动力」并存
+Vermögenszustand,state of capacity,财产状态,ok,w5/2 康德语境：占有状态；与 Zustand（状态）分工
+Inhaltsbestimmung,determination of content,内容规定,ok,w5/2 康德语境；与 Bestimmung（规定）分工
+Nichtbesitzer,non-possessor,非占有者,ok,w5/2 康德语境；与 Besitzer（占有者）成对
+Ungetrenntheit,inseparability,不可分离性,ok,w5/2；与 ungetrennt（不可分离的）同根；与 Untrennbarkeit（不可分性）严格分开
+Untrennbarkeit,inseparability,不可分性,ok,w5/2；与 Untrennbares（不可分者）同根；w5/1 bi6[0] 已入库先例
+Eleaten,the Eleatics,爱利亚学派,ok,w5/2；与 Parmenides（巴门尼德）并列
+Identitätssystem,system of identity,同一性体系,ok,w5/2；与 Identität（同一性）同族
+Ungültigkeiten,invalidities,无效物,ok,w5/2「科学上的无效物」
+Veränderliches,the changeable,可变的,ok,w5/2；与 Veränderlichkeit（可变易性）分义对举
+Unverträglicher,the incompatible,互不相容者,ok,w5/2 二律背反语境
+Bestimmungslosigkeit,determinationlessness,无规定,ok,w5/2；与 bestimmungslos（无规定的）同根
+Affirmatives,the affirmative,肯定者,ok,w5/2；das Affirmative（关系／方面的肯定面）另作「肯定方面」（w5/2 bi30[7]）
+das Können,the can,能,ok,w5/2 反讽义：被动的「能」；与 das Vermögen（能力）分义
+Mitlauter,consonant,辅音,ok,w5/2 雅各布语音比喻；与 Vokal（母音）成对
+Vokal,vowel,母音,ok,w5/2 同上
+Selbstlaut,self-sound,自身之音,ok,w5/2 同上
+Auswege,subterfuges,托辞,ok,w5/2；与 Absprünge（遁路）分工
+Absprünge,quasi-moves,遁路,ok,w5/2；与 Auswege（托辞）分工
+Einwürfe,objections,异议,ok,w5/2；与 Widerlegungen（反驳）分工
+Gedankenbildung,formation of thought,思维活动,ok,w5/2；与 Denken（思维）分工
+Einerleiheit,oneness,一的同一,ok,w5/2 雅各布造词；与 Selbigkeit（自身同一）并列
+Selbigkeit,selbigkeit,自身同一,ok,w5/2 雅各布造词；与 Einerleiheit（一的同一）并列
+Oszillation,oscillation,振荡,ok,w5/2
+Modis,modes,样式,ok,w5/2 斯宾诺莎语境；与 Attribute（属性）分工
+Prozedur,procedure,程序,ok,w5/2
+Verstandesabstraktion,abstraction of the understanding,知性抽象,ok,w5/2；与 Verstandeskategorien（知性范畴）分工
+Verstandeskategorien,categories of the understanding,知性范畴,ok,w5/2
+Finsternis,darkness,黑暗,ok,w5/2；w1–w4 已入库 18 处均作「黑暗」（0 miss）；与 Licht（光）成对
+Räumlichkeit,spatiality,空间性,ok,w5/2；与 Zeitlichkeit（时间性）成对

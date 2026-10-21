@@ -1,0 +1,83 @@
+{
+ "id": "w5-2-33",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 2,
+ "chunkTitle": "Erster Abschnitt Bestimmtheit (Qualität)",
+ "heading": "Anmerkung 3",
+ "blocks": [
+  {
+   "bi": 33,
+   "k": "p",
+   "hash": "hvytqyh8wy",
+   "sents": [
+    "Die Aufforderung, den Unterschied von Sein und Nichts anzugeben, schließt auch die in sich, zu sagen, was denn Sein und was Nichts ist.",
+    "Die sich dagegen sträuben, das eine wie das andere nur als ein Übergehen ineinander zu erkennen, und vom Sein und vom Nichts dies oder das behaupten, mögen angeben, von was sie sprechen, d. i. eine Definition vom Sein und Nichts aufstellen und aufzeigen, daß sie richtig ist.",
+    "Ohne dieser ersten Forderung der alten Wissenschaft genügt zu haben, deren logische Regeln sie sonst gelten lassen und anwenden, sind alle jene Behauptungen über das Sein und Nichts nur Versicherungen, wissenschaftliche Ungültigkeiten.",
+    "Wenn man sonst gesagt hat, die Existenz, insofern man diese zunächst für gleichbedeutend mit Sein hält, sei die Ergänzung zur Möglichkeit, so ist damit eine andere Bestimmung, die Möglichkeit, vorausgesetzt, das Sein nicht in seiner Unmittelbarkeit, sogar als nicht selbständig, als bedingt ausgesprochen.",
+    "Für das Sein, welches vermittelt ist, werden wir den Ausdruck Existenz aufbehalten.",
+    "Aber man stellt sich wohl das Sein vor – etwa unter dem Bilde des reinen Lichts, als die Klarheit ungetrübten Sehens, das Nichts aber als die reine Nacht – und knüpft ihren Unterschied an diese wohlbekannte sinnliche Verschiedenheit.",
+    "In der Tat aber, wenn man auch dies Sehen sich genauer vorstellt, so kann man leicht gewahr werden, daß man in der absoluten Klarheit soviel und sowenig sieht als in der absoluten Finsternis, daß das eine Sehen so gut als das andere, reines Sehen, Sehen von Nichts ist.",
+    "Reines Licht und reine Finsternis sind zwei Leeren, welche dasselbe sind.",
+    "Erst in dem bestimmten Lichte – und das Licht wird durch die Finsternis bestimmt –, also im getrübten Lichte, ebenso erst in der bestimmten Finsternis – und die Finsternis wird durch das Licht bestimmt –, in der erhellten Finsternis kann etwas unterschieden werden, weil erst das getrübte Licht und die erhellte Finsternis den Unterschied an ihnen selbst haben und damit bestimmtes Sein, Dasein sind."
+   ]
+  },
+  {
+   "bi": 34,
+   "k": "h",
+   "hash": "gn969440ux",
+   "text": "Anmerkung 3"
+  },
+  {
+   "bi": 35,
+   "k": "p",
+   "hash": "hr6k519bdl",
+   "sents": [
+    "Die Einheit, deren Momente, Sein und Nichts, als untrennbare sind, ist von ihnen selbst zugleich verschieden, so ein Drittes gegen sie, welches in seiner eigentümlichsten Form das Werden ist.",
+    "Übergehen ist dasselbe als Werden, nur daß in jenem die beiden, von deren einem zum anderen übergegangen wird, mehr als außereinander ruhend und das Übergehen als zwischen ihnen geschehend vorgestellt wird.",
+    "Wo und wie nun vom Sein oder Nichts die Rede wird, muß dieses Dritte vorhanden sein; denn jene bestehen nicht für sich, sondern sind nur im Werden, in diesem Dritten.",
+    "Aber dieses Dritte hat vielfache empirische Gestalten, welche von der Abstraktion beiseite gestellt oder vernachlässigt werden, um jene ihre Produkte, das Sein und das Nichts, jedes für sich festzuhalten und sie gegen das Übergehen geschützt zu zeigen.",
+    "Gegen solches einfache Verhalten der Abstraktion ist ebenso einfach nur an die empirische Existenz zu erinnern, in der jene Abstraktion selbst nur Etwas ist, ein Dasein hat.",
+    "Oder es sind sonst Reflexionsformen, durch welche die Trennung der Untrennbaren fixiert werden soll.",
+    "An solcher Bestimmung ist an und für sich das Gegenteil ihrer selbst vorhanden, und ohne auf die Natur der Sache zurückzugehen und an diese zu appellieren, ist jene Reflexionsbestimmung an ihr selbst dadurch zu konfundieren, daß sie genommen wird, wie sie sich gibt, und ihr Anderes an ihr selbst aufgezeigt wird.",
+    "Es würde eine vergebliche Mühe sein, alle Wendungen und Einfälle der Reflexion und ihres Räsonnements gleichsam einfangen zu wollen, um ihr die Auswege und Absprünge, womit sie sich ihren Widerspruch gegen sich selbst verdeckt, zu benehmen und unmöglich zu machen.",
+    "Darum enthalte ich mich auch, gegen vielfache sich so nennende Einwürfe und Widerlegungen, welche dagegen, daß weder Sein noch Nichts etwas Wahrhaftes, sondern nur das Werden ihre Wahrheit ist, aufgebracht worden sind, Rücksicht zu nehmen; die Gedankenbildung, die dazu gehört, die Nichtigkeit jener Widerlegungen einzusehen oder vielmehr solche Einfälle sich selbst zu vertreiben, wird nur durch die kritische Erkenntnis der Verstandesformen bewirkt; aber die, welche am ergiebigsten an dergleichen Einwürfen sind, fallen sogleich über die ersten Sätze mit ihren Reflexionen her, ohne durch das weitere Studium der Logik sich zum Bewußtsein über die Natur dieser kruden Reflexionen zu verhelfen oder verholfen zu haben."
+   ]
+  },
+  {
+   "bi": 36,
+   "k": "p",
+   "hash": "1268er1odu",
+   "sents": [
+    "Es sollen einige der Erscheinungen betrachtet werden, die sich daran ergeben, wenn das Sein und das Nichts voneinander isoliert und eins außer dem Bereiche des anderen gesetzt wird, so daß hiermit das Übergehen negiert ist."
+   ]
+  },
+  {
+   "bi": 37,
+   "k": "p",
+   "hash": "1hnemj2d33",
+   "sents": [
+    "Parmenides hielt das Sein fest und war am konsequentesten, indem er zugleich vom Nichts sagte, daß es gar nicht ist, nur das Sein ist.",
+    "Das Sein so ganz für sich ist das Unbestimmte, hat also keine Beziehung auf Anderes; es scheint daher, daß von diesem Anfang aus nicht weiter fortgegangen werden könne, nämlich aus ihm selbst, und ein Fortgang nur dadurch geschehen könne, daß von Außen etwas Fremdes daran geknüpft würde.",
+    "Der Fortgang, daß das Sein dasselbe ist als das Nichts, erscheint somit als ein zweiter, absoluter Anfang, – ein Übergehen, das für sich ist und äußerlich zu dem Sein hinzutrete.",
+    "Sein wäre überhaupt nicht der absolute Anfang, wenn es eine Bestimmtheit hätte; alsdann hinge es von einem Anderen ab und wäre nicht unmittelbar, nicht der Anfang.",
+    "Ist es aber unbestimmt und damit wahrer Anfang, so hat es auch nichts, wodurch es sich zu einem Anderen überleitet, es ist zugleich das Ende.",
+    "Es kann ebensowenig etwas aus demselben hervorbrechen, als etwas in dasselbe einbrechen kann; bei Parmenides wie bei Spinoza soll von dem Sein oder der absoluten Substanz nicht fortgegangen werden zu dem Negativen, Endlichen.",
+    "Wird nun dennoch fortgegangen, was, wie bemerkt, von dem beziehungs-, hiermit fortgangslosen Sein aus nur auf äußerliche Weise geschehen kann, so ist dieser Fortgang ein zweiter, neuer Anfang.",
+    "So ist Fichtes absolutester, unbedingter Grundsatz: A = A Setzen; der zweite ist Entgegensetzen; dieser soll zum Teil bedingt, zum Teil unbedingt (somit der Widerspruch in sich) sein.",
+    "Es ist dies ein Fortgehen der äußeren Reflexion, welches ebensowohl das, womit es als einem Absoluten anfängt, wieder verneint – das Entgegensetzen ist die Negation der ersten Identität –, als es sein zweites Unbedingtes sogleich ausdrücklich zugleich zu einem Bedingten macht.",
+    "Wenn aber überhaupt eine Berechtigung wäre fortzugehen, d. i. den ersten Anfang aufzuheben, so müßte es in diesem Ersten selbst liegen, daß ein Anderes sich darauf beziehen könnte; es müßte also ein Bestimmtes sein.",
+    "Allein für ein solches gibt sich das Sein oder auch die absolute Substanz nicht aus; im Gegenteil.",
+    "Es ist das Unmittelbare, das noch schlechthin Unbestimmte."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/2.p33.json"
+}

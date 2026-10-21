@@ -833,3 +833,20 @@
 - **远端**：推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍为 f8cd477。
 - **进度**：19.12% → **19.33%**（17,610 → 17,802 / 92,117 句；段落 5,419 → 5,474 / 17,948 = 30.50%）；第 5 卷 299 → **491 句（5.5%）**，**分节进度 2/38（w5/0、w5/1 完成）**。**下一批**：w5/2（切片 make-jobs.mjs --vol w5 --size 25 --limit 12 --prefix wave52）；w5 共 38 分片 / 8,925 句，本波收掉 2/38，仍需数十轮。
 - **★ 待裁决（未擅自改动已入库的 w1–w4）**：① Wissenschaft→「学问」w1–w4 约 34 句；② Vorstellung→「看法」w4 2 句；③ 共享词表主条与本卷用法的五处分叉；④ w5/0 形容词 verschieden 有 3 句作「不同于／不同」与 2 句作「相异」混用，w5/1 已统一为「相异的」，w5/0 是否回拉待定。
+
+### 第 52 波（w5/2「Erster Abschnitt Bestimmtheit (Qualität)」（第一节·规定性（质））整节收官，2026-10-21）
+
+- **内容**：w5/2《大逻辑》第一部分第一节「规定性（质）」——存在与无的同一性（含巴门尼德与斯宾诺莎的断点）、命题与概念的展开、雅各布对康德自我意识之 a priori 综合的批评与柏拉图《巴门尼德篇》的辩证法、无的规定性（黑暗与寒冷＝光与温暖的缺席）。
+- **批次**：b1 单元 w5-2-0 / w5-2-16 / w5-2-20 / w5-2-23 / w5-2-29 = 33 块 / 129 句；b2 单元 w5-2-33 / w5-2-38 / w5-2-42 / w5-2-48 = 19 块 / 117 句。**合计 9 单元 / 52 块 / 246 句**（该节 chunk 共 53 块：42 正文段 + 1 个 `ns=0` 空段落 + 9 标题 + 1 个 fn 按契约不译）。全部主代理翻译，不派子代理（BYOK 月度配额 2026-10-23 23:59 才重置）。
+- **切片**：`make-jobs.mjs --vol w5 --size 25 --limit 1 --prefix wave52` → units=9 sentences=246（w5/2 全节 9 单元，本波一次吃完整片）。
+- **★ 逐句回源修 20 处（批 2 全 117 句逐句读）**：术语漂移 12 处（`Etwas`「有者」→「某物」6；`Vereinigung`／`Einigung`「合一」→「统一」2；`Tautologie`「重言式」→「同义反复」1；`Gedankending`「思维物」→「思想物」1；`Nichts` 自由改写→「无」 2；`Einheit`「合为一体」→「相统一」1）；引号跨段失衡 3 处（bi38[2]–bi38[7]、bi41[2]–bi41[3] 两处雅各布长引，改「首段开、末段闭」，与已入库 bi21[6]–bi21[7] 同型）；措辞 5 处（bi38[16]、bi51[1]、bi41[0]、bi36[0]、bi26[0]）。
+- **★ 体例误判自查回滚（工具教训）**：中途曾按「中文「」≡德文 `»…«`」删掉 17 处标斜体强调的中文引号；逐节重验发现**已入库 w5/0、w5/1 共 500 句里 43 处正是用「」标斜体强调**，遂全部回滚。**根因：`bi` 是节内块号，跨节混用同一张 DE/ZH 对照表会撞键**（探针 56/59/60 因此误判基线）。**判据：用字／体例自检一律按「逐节配对」做。**
+- **★ 术语层（context-w5）**：entries 88 → **97**（+9）、styleGuide 12 → **15**（+3）。新增／改判：`Etwas`→某物、`Vereinigung`→统一、`Einigung`→统一、`Verbindung`→联结、`Kopula`→系词、`Ungetrenntheit`→不可分离性、`Untrennbarkeit`→不可分性、`Affirmatives`→肯定者、`Veränderliches`→可变的。**`Vereinigung`／`Einigung` 本卷作「统一」**（共享词表主条作「结合」／「合一」）：w5/0 bi14[4]、w5/1 bi33[4]、w5/1 bi37[1] 已入库先例均作「统一」，且 w5/2 三处与 `Einheit` 同指；**`Untrenn-` 族（不可分者／不可分性）与 `ungetrennt-` 族（不可分离的／不可分离性）严格分开**，本波原译反已改 3 处。
+- **共享词表**：**+29 条**（`w5-2-b1.glossar.csv` 12 ＋ `w5-2-b2.glossar.csv` 17），另 `Kopula` 由 `unsicher` 升 `ok`（「系词」，w1–w4 9 处 ＋ w5/2 1 处 0 miss）。**未入表**：`Verbindung`（w1–w4 165 处用字不统一）、`Kälte`／`Abwesenheit`／`Taler`（各有 miss）——wave46 纪律：全库用字不一致者只记分义。
+- **机器门**：新增 ENTRIES_EXEMPT 分义豁免 1 条（`Objekt` 名词「客体」vs `das Objektive`「客观者」），配 2 例自检 → **23 例全 PASS**；两批均 **0 critical / 0 major / 0 minor**（52 块 / 246 句 / termChecks 484）。
+- **分义与误报**：qa 对 w5 报 **15 条（major 6 / minor 9）＝存量 8 ＋ 本波 7，0 条真缺陷**（`wirklich` 分义 1、`Sein` 物主代词 1、`Nichts` 被 `Nichtsein` 命中 2、`Dasein` 神学日常义 2、`Objekt` 被 `das Objektive` 词干命中 1）。**待办延续**：qa-trans 仍无机器门那套分义豁免，每轮会重复报警，建议列独立工作项。
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 20 处存量 misnested（w2/w3/w5，与本波无关）；**w5/2 浏览器实测（8860）pairs=53、mismatch=0、zhSent=246=enSent=246、jsErr=0，状态栏「本节 43/43 段已译 · 246/246 句」**（missing/empty 各 1–2 处来自源文 `ns=0` 空段落 bi5，如实留空）；固定 8 页回归 **8/8**。
+- **可复现性**：2 个构建脚本（`_build_w52a.mjs` / `_build_w52b.mjs`）重建 9 个 part 文件 → `merge-trans.mjs`（52 块）→ `trans-index.mjs` ALIGNMENT OK，与入库 `web/data/trans/w5/2.json` 同源。
+- **远端**：推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍为 f8cd477。
+- **进度**：19.33% → **19.59%**（17,802 → 18,048 / 92,117 句；段落 5,474 → 5,517 / 17,948 = 30.74%）；第 5 卷 491 → **737 句（8.3%）**，**分节进度 3/38**。**下一批**：w5/3（切片 make-jobs.mjs --vol w5 --size 25 --limit 12 --prefix wave53）；w5 共 38 分片 / 8,925 句，仍需数十轮。
+- **★ 待裁决（未擅自改动已入库的 w1–w4）**：① Wissenschaft→「学问」w1–w4 约 34 句；② Vorstellung→「看法」w4 2 句；③ 共享词表主条与本卷用法的五处分叉；④ w5/0 形容词 verschieden 3 句「不同于／不同」与 2 句「相异」混用；⑤ **本波新增：w1–w4 的 Etwas 共 35 处，24 处作「某物」、11 处另译（抽查多为日常义复合词，是否有逻辑义漏用待人工确认）**。

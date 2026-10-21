@@ -1,0 +1,71 @@
+{
+ "id": "w5-2-16",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 2,
+ "chunkTitle": "Erster Abschnitt Bestimmtheit (Qualität)",
+ "heading": "Erster AbschnittBestimmtheit (Qualität)",
+ "blocks": [
+  {
+   "bi": 16,
+   "k": "p",
+   "hash": "vvoi6joojf",
+   "sents": [
+    "Den einfachen Gedanken des reinen Seins haben die Eleaten zuerst, vorzüglich Parmenides als das Absolute und als einzige Wahrheit, und, in den übergebliebenen Fragmenten von ihm, mit der reinen Begeisterung des Denkens, das zum ersten Male sich in seiner absoluten Abstraktion erfaßt, ausgesprochen: nur das Sein ist, und das Nichts ist gar nicht.",
+    "– In orientalischen Systemen, wesentlich im Buddhismus, ist bekanntlich das Nichts, das Leere, das absolute Prinzip.",
+    "– Der tiefsinnige Heraklit hob gegen jene einfache und einseitige Abstraktion den höheren totalen Begriff des Werdens hervor und sagte: das Sein ist sowenig als das Nichts, oder auch: Alles fließt, das heißt: Alles ist Werden.",
+    "– Die populären, besonders orientalischen Sprüche, daß alles, was ist, den Keim seines Vergehens in seiner Geburt selbst habe, der Tod umgekehrt der Eingang in neues Leben sei, drüben im Grunde dieselbe Einigung des Seins und Nichts aus.",
+    "Aber diese Ausdrücke haben ein Substrat, an dem der Übergang geschieht; Sein und Nichts werden in der Zeit auseinandergehalten, als in ihr abwechselnd vorgestellt, nicht aber in ihrer Abstraktion gedacht, und daher auch nicht so, daß sie an und für sich dasselbe sind."
+   ]
+  },
+  {
+   "bi": 17,
+   "k": "p",
+   "hash": "1comdwc1r8",
+   "sents": [
+    "»Ex nihilo nihil fit« ist einer der Sätze, denen in der Metaphysik große Bedeutung zugeschrieben wurde.",
+    "Es ist darin entweder nur die gehaltlose Tautologie zu sehen: Nichts ist Nichts; oder wenn das Werden wirkliche Bedeutung darin haben sollte, so ist vielmehr, indem nur Nichts aus Nichts wird, in der Tat kein Werden darin vorhanden, denn Nichts bleibt darin Nichts.",
+    "Das Werden enthält, daß Nichts nicht Nichts bleibe, sondern in sein Anderes, in das Sein übergehe.",
+    "– Wenn die spätere, vornehmlich christliche Metaphysik den Satz, aus Nichts werde Nichts, verwarf, so behauptete sie einen Übergang von Nichts in Sein; so synthetisch oder bloß vorstellend sie auch diesen Satz nahm, so ist doch auch in der unvollkommensten Vereinigung ein Punkt enthalten, worin Sein und Nichts zusammentreffen und ihre Unterschiedenheit verschwindet.",
+    "– Seine eigentliche Wichtigkeit hat der Satz »Aus Nichts wird Nichts, Nichts ist eben Nichts« durch seinen Gegensatz gegen das Werden überhaupt und damit auch gegen die Erschaffung der Welt aus Nichts.",
+    "Diejenigen, welche den Satz »Nichts ist eben Nichts«, sogar sich dafür ereifernd, behaupten, sind bewußtlos darüber, daß sie damit dem abstrakten Pantheismus der Eleaten, der Sache nach auch dem spinozistischen, beipflichten.",
+    "Die philosophische Ansicht, welcher »Sein ist nur Sein, Nichts ist nur Nichts« als Prinzip gilt, verdient den Namen Identitätssystem; diese abstrakte Identität ist das Wesen des Pantheismus."
+   ]
+  },
+  {
+   "bi": 18,
+   "k": "p",
+   "hash": "d7rty81w1o",
+   "sents": [
+    "Wenn das Resultat, daß Sein und Nichts dasselbe ist, für sich auffällt oder paradox scheint, so ist hierauf nicht weiter zu achten; es wäre sich vielmehr über jene Verwunderung zu verwundern, die sich so neu in der Philosophie zeigt und vergißt, daß in dieser Wissenschaft ganz andere Bestimmungen vorkommen als im gewöhnlichen Bewußtsein und im sogenannten gemeinen Menschenverstande, der nicht gerade der gesunde, sondern auch der zu Abstraktionen und zu dem Glauben oder vielmehr Aberglauben an Abstraktionen heraufgebildete Verstand ist.",
+    "Es wäre nicht schwer, diese Einheit von Sein und Nichts in jedem Beispiele, in jedem Wirklichen oder Gedanken aufzuzeigen.",
+    "Es muß dasselbe, was oben von der Unmittelbarkeit und Vermittlung (welche letztere eine Beziehung aufeinander, damit Negation enthält), vom Sein und Nichts gesagt werden, daß es nirgend im Himmel und auf Erden etwas gebe, was nicht beides.",
+    "Sein und Nichts, in sich enthielte.",
+    "Freilich, da hierbei von einem irgend Etwas und Wirklichem die Rede wird, so sind darin jene Bestimmungen nicht mehr in der vollkommenen Unwahrheit, in der sie als Sein und Nichts sind, vorhanden, sondern in einer weiteren Bestimmung, und werden z.B. als Positives und Negatives aufgefaßt, jenes das gesetzte, reflektierte Sein, dieses das gesetzte, reflektierte Nichts; aber Positives und Negatives enthalten jenes das Sein, dieses das Nichts als ihre abstrakte Grundlage.",
+    "– So in Gott selbst enthält die Qualität, Tätigkeit, Schöpfung, Macht usf. wesentlich die Bestimmung des Negativen, – sie sind ein Hervorbringen eines Anderen.",
+    "Aber eine empirische Erläuterung von jener Behauptung durch Beispiele wäre hier ganz und gar überflüssig.",
+    "Da nunmehr diese Einheit von Sein und Nichts als erste Wahrheit ein für allemal zugrunde liegt und das Element von allem Folgenden ausmacht, so sind außer dem Werden selbst alle ferneren logischen Bestimmungen: Dasein, Qualität, überhaupt alle Begriffe der Philosophie, Beispiele dieser Einheit.",
+    "– Aber der sich so nennende gemeine oder gesunde Menschenverstand mag auf den Versuch hingewiesen werden, insofern er die Ungetrenntheit des Seins und Nichts verwirft, sich ein Beispiel ausfindig zu machen, worin eins vom anderen (Etwas von Grenze, Schranke, oder das Unendliche, Gott, wie soeben erwähnt, von Tätigkeit) getrennt zu finden sei.",
+    "Nur die leeren Gedankendinge, Sein und Nichts selbst sind diese Getrennten, und sie sind es, die der Wahrheit, der Ungetrenntheit beider, die allenthalben vor uns ist, von jenem Verstande vorgezogen werden."
+   ]
+  },
+  {
+   "bi": 19,
+   "k": "p",
+   "hash": "ar7bj012s3",
+   "sents": [
+    "Man kann nicht die Absicht haben wollen, den Verwirrungen, in welche sich das gewöhnliche Bewußtsein bei einem solchen logischen Satze versetzt, nach allen Seiten hin begegnen zu wollen, denn sie sind unerschöpflich.",
+    "Es können nur einige erwähnt werden.",
+    "Ein Grund solcher Verwirrungen ist unter anderen, daß das Bewußtsein zu solchem abstrakten logischen Satze Vorstellungen von einem konkreten Etwas mitbringt und vergißt, daß von einem solchen nicht die Rede ist, sondern nur von den reinen Abstraktionen des Seins und Nichts, und daß diese allein festzuhalten sind."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/2.p16.json"
+}
