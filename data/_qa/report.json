@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-20T15:12:40.918Z",
- "blocks": 64,
- "sentences": 299,
+ "generated": "2026-10-21T06:25:06.314Z",
+ "blocks": 123,
+ "sentences": 491,
  "issues": [
   {
    "sev": "major",
@@ -22,11 +22,31 @@
    "sev": "minor",
    "where": "w5/0#54",
    "msg": "sentence 1: \"Wissen\" is not rendered as “知识”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/1#7",
+   "msg": "sentence 4: \"Sein\" is not rendered as “存在”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/1#10",
+   "msg": "sentence 1: \"Subjekt\" is not rendered as “主体”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/1#36",
+   "msg": "sentence 1: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/1#57",
+   "msg": "sentence 1: \"Subjekt\" is not rendered as “主体”"
   }
  ],
  "bySev": {
   "critical": 0,
   "major": 3,
-  "minor": 1
+  "minor": 5
  }
 }

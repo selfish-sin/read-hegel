@@ -818,3 +818,18 @@
 - **远端**：推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍为 `f8cd477`。
 - **进度**：18.79% → **19.12%**（17,610 / 92,117 句；段落 5,419 / 17,948 = 30.19%）；第 5 卷 0 → **299 句（3.4%）**，**分节进度 1/38（w5/0 完成）**。**下一批**：w5/1（8 单元 / 192 句，任务文件 `data/_jobs/w5-1-*.in.json` 已切好）。
 - **★ 跨卷待裁决（本波查出，未擅自改动已入库的 w1–w4）**：① `Wissenschaft`→「学问」在 w1–w4 有 34 句无「科学」、7 句兼有，抽样至少 3 句是 1:1 对应（w1/0 b9、w1/6 b1、w1/11 b37），其余多为 `Gelehrsamkeit/gelehrt` 的正当译法；是否全库拉平需逐句甄别约 34 句。② `Vorstellung`→「看法」在 w4 有 2 句（w4/11 b37、w4/15 b21），而共享词表明定「表象」、w4 包未登记该分义。③ 共享词表主条与本卷用法的五处分叉（`Sinn`/`Willkür`/`Stoff`/`Ausdruck`/`Anstoß`）已以同源并存条目＋本卷 styleGuide 分义登记解决，跨卷拉平待裁决。详见交接说明的「跨卷待裁决清单」。
+### 第 51 波（续）— w5/1「Allgemeine Einteilung der Logik」整节收官 — 8 单元 / 59 块 / 192 句，**w5/1 整节 100%**
+
+- **内容**：w5/1《大逻辑》第一部分「客观逻辑」的导论续篇——逻辑学的一般划分（概念的演绎、划分的性质、康德哲学的先验转向、「我」作为纯粹知识）、开端的奠基（绝对真理必是结果、往前行进即回到根据）、以及存在的第一层规定（智性直观、存在的一般划分、质—量—度三联、康德范畴的非常规排列）。
+- **批次**：b5 单元 w5-1-0 / w5-1-8 / w5-1-20 = 26 块 / 84 句；b6 单元 w5-1-26 / w5-1-33 / w5-1-40 = 19 块 / 79 句；b7 单元 w5-1-45 / w5-1-57 = 14 块 / 29 句。**合计 8 单元 / 59 块 / 192 句**（w5/1 全节 chunk 60 块＝55 正文 + 4 标题 + 1 fn 按契约不译；192 句全部译出，**w5/1 整节 100%**）。全部主代理翻译，不派子代理（BYOK 月度配额 2026-10-23 23:59 才重置）。
+- **★ 「质—量—度」三联译法定案**：w4《尼伦堡文集》的《哲学百科全书》（w4/5）是同一材料的早期稿且已入库——「Die Größe oder Quantität」作「量，或量」、「Die Größe ist entweder kontinuierlich oder diskret」作「量要么是连续的，要么是离散的」、「Das Maß ist ein spezifisches Quantum」作「度是一个特定的量数」。据此定案 **Qualität＝质、Quantität＝量、Größe＝量、Quantum＝量数、Maß＝度、Relation＝关系、Modalität＝模态**；Maß 在 w1/w3 伦理法律语境作「尺度」、Größe 在物理量语境作「大小」属分义。Qualität／Quantität／Modalität／Relation 已入 context-w5 的 entries（全库用字对扫 0 miss），Größe／Maß 只进 styleGuide 分义（避免给已入库章节制造 minor 噪音）。
+- **★ 机器门新增 ENTRIES_EXEMPT 分义豁免 4 条**（Sein 作物主代词「他的」／Subjektiv 族不按 Subjekt 判／unterscheiden 派生形不按 Unterschied 判／Nichtsein 非存在不按 Nichts 判），每条配自检用例，**17 例全 PASS**；任何门判据改动都必须配自检。
+- **★ 逐句回源实修**：批 5 修 11 处（**bi7[6] 整段漏译**——机器门 0 FAIL 也照样漏，门只保证「没写错字」、不保证「没写漏」）、批 6 修 4 处（**bi28[3] 漏译「mit Freiheit」**）、批 7 修 0 处（29 句回源全过）。
+- **★ QA 抓出并已修 1 条真缺陷（批 6 遗留）**：bi44[3]「Die wirkliche Entwicklung der Wissenschaft」原译「科学的实际发展」→ 改「**科学的现实发展**」（w5/1 bi8[2] 已作「哲学的现实推进」；全库 wirklich→「现实」515 句压倒多数、「实际」仅 12 句）。**教训：每批合并后必须跑 qa-trans**——批 6 漏跑，批 7 才暴露；修法为「重跑构建脚本 → merge-trans」（merge 按块键增量合并，不影响其他块）。
+- **分义与误报**：qa 对 w5 报 **8 条，全为误报，0 条真缺陷**——Dasein 神学日常义「上帝的存在」、bi35[0] 短句 zh/de 比 0.20、bi44[6]「ohne Hülle」译「脱去外壳」、源文把「Wissenschaft」误断为「Wissen schaft」、「Sein Hauptgedanke」作物主代词「他的主要想法」、「das Subjektive」主观族 2 处、「Nichtsein」被「Nichts」前缀命中。已逐条登记进 context-w5 的 styleGuide。**待办**：qa-trans 尚无机器门那套分义豁免，需改共享脚本、影响 12 卷，建议列独立工作项。
+- **★ 源文讹字**：w5/1 bi55[1] 作「Ober die Abweichung…」（应为 Über）。按「不增补原文没有的内容」的契约，译文按义译出，源文未动，登记待勘。
+- **验收全绿**：trans-index ALIGNMENT OK；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 20 处存量 misnested（w2/w3/w5，与新译无关）；**w5/1 浏览器实测（8860）pairs=60 = expected 60、missing=0、mismatch=0、emptyZh=0、emptyEn=0、jsErr=0**（整节译完，渲染零缺口）；回归 w5/0（65/65）、w4/15（81/81）、w3/0（74/74）、w1/0（70/70）全 OK；固定 8 页回归 **8/8**。
+- **可复现性**：3 个构建脚本（_build_w51e.mjs / _build_w51f.mjs / _build_w51g.mjs）重建 8 个 part 文件 → merge-trans.mjs → trans-index.mjs ALIGNMENT OK，与入库 web/data/trans/w5/1.json 同源。
+- **远端**：推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍为 f8cd477。
+- **进度**：19.12% → **19.33%**（17,610 → 17,802 / 92,117 句；段落 5,419 → 5,474 / 17,948 = 30.50%）；第 5 卷 299 → **491 句（5.5%）**，**分节进度 2/38（w5/0、w5/1 完成）**。**下一批**：w5/2（切片 make-jobs.mjs --vol w5 --size 25 --limit 12 --prefix wave52）；w5 共 38 分片 / 8,925 句，本波收掉 2/38，仍需数十轮。
+- **★ 待裁决（未擅自改动已入库的 w1–w4）**：① Wissenschaft→「学问」w1–w4 约 34 句；② Vorstellung→「看法」w4 2 句；③ 共享词表主条与本卷用法的五处分叉；④ w5/0 形容词 verschieden 有 3 句作「不同于／不同」与 2 句作「相异」混用，w5/1 已统一为「相异的」，w5/0 是否回拉待定。

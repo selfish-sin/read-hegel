@@ -96,6 +96,31 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 ```
 
 
+### ★ 第 51 波续：w5/1「Allgemeine Einteilung der Logik」（逻辑学的一般划分）整节 **100%** —— 第 5 卷第 2 节收官
+
+**w5/1 已整节译完：8 单元 / 59 块 / 192 句**（该节 chunk 共 60 块＝55 正文 + 4 标题 + 1 个 fn 按契约不译；192 句全部译出）。全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
+
+| 批次 | 单元 | 块 | 句 | 内容 |
+|---|---|---|---|---|
+| b5 | w5-1-0 / w5-1-8 / w5-1-20 | 26 | 84 | 逻辑学的一般划分（概念的演绎·划分的性质·康德哲学的先验转向·「我」作为纯粹知识） |
+| b6 | w5-1-26 / w5-1-33 / w5-1-40 | 19 | 79 | 开端的奠基（绝对真理必是结果·往前行进即回到根据·逻辑推进的基本要求） |
+| b7 | w5-1-45 / w5-1-57 | 14 | 29 | 智性直观与开端（存在的一般划分·质—量—度三联·康德范畴的非常规排列） |
+
+**w5/1 整节收官。** 覆盖率 19.12% → **19.33%**（17,610 → 17,802 / 92,117 句；段落 5,419 → 5,474 / 17,948 = 30.50%）。第 5 卷 299 → **491 句（5.5%）**，**分节进度 2/38（w5/0、w5/1 均已完成）**。
+
+- **★ 「质—量—度」三联的译法定案（本波最有价值的术语发现）**：w4《尼伦堡文集》里的《哲学百科全书》（w4/5）就是同一材料的早期稿，且已入库——**「Die Größe oder Quantität」作「量，或量」**、「Die Größe ist entweder kontinuierlich oder diskret」作「量要么是连续的，要么是离散的」、「Das Maß ist ein spezifisches Quantum」作「度是一个特定的量数」。据此定案：**Qualität＝质、Quantität＝量、Größe＝量、Quantum＝量数、Maß＝度、Relation＝关系、Modalität＝模态**（Maß 在 w1/w3 的伦理、法律语境作「尺度」、Größe 在物理量语境作「大小」，均属分义）。前四个词写进 context-w5 的 **entries**（已做全库用字对扫、0 miss）；**Größe 与 Maß 只进 styleGuide 分义、不入条目表**，以免给已入库章节制造 minor 噪音。
+- **★ 机器门新增 ENTRIES_EXEMPT 分义豁免（4 条，各配自检用例）**：Sein 作物主代词「他的」、Subjektiv 族（主观者／主观的）不按 Subjekt 判、unterscheiden 派生形（Unterscheiden／Unterscheidung）不按 Unterschied 判、Nichtsein（非存在）不按 Nichts 判。**任何门判据改动都必须配自检用例**，现 17 例全 PASS。
+- **★ 逐句回源（机器门抓不到的那一半）**：批 5 修 11 处，其中 **bi7[6] 是整段漏译**（「Dieses Tun sollte aber nicht mehr Bewußtsein genannt werden…」后半段整段丢失，机器门 0 FAIL 也照样漏——门只保证「没写错字」、不保证「没写漏」）；批 6 修 4 处，其中 **bi28[3] 漏译「mit Freiheit」**；批 7 修 0 处（29 句回源全过）。
+- **★ QA 抓出 1 条真缺陷并已修（批 6 的遗留）**：**bi44[3]「Die wirkliche Entwicklung der Wissenschaft」原译「科学的实际发展」→ 改「科学的现实发展」**。依据：w5/1 bi8[2]「der wirkliche Fortschritt」已作「哲学的现实推进」，且全库 wirklich→「现实」515 句占压倒多数（「实际」仅 12 句）。**教训：每批合并后必须跑 qa-trans**——批 6 当时漏跑，批 7 跑时才暴露；修法走「重跑构建脚本 → merge-trans」（merge 按块键增量合并，不影响其他块）。
+- **分义与误报（不改译文，已逐条登记进 context-w5 的 styleGuide）**：qa 对 w5 报 **8 条，全为误报**——`Dasein` 神学日常义「上帝的存在」（w5/0#3）、bi35[0] 短句 zh/de 比 0.20（w5/0#35）、bi44[6]「ohne Hülle」译「脱去外壳」而无显式否定（w5/0#44）、源文把「Wissenschaft」误断为「Wissen schaft」（w5/0#54）、**「Sein Hauptgedanke」作物主代词「他的主要想法」（w5/1#7）**、**「das Subjektive」主观族 2 处（w5/1#10、w5/1#57）**、**「Nichtsein」被「Nichts」前缀命中（w5/1#36）**。**0 条真缺陷**。
+  ★ **待办（不影响本波交付）**：`qa-trans.mjs` 尚无机器门那套 ENTRIES_EXEMPT 分义豁免，故上述分义每轮都会重复报警；给它补齐需改共享脚本、影响 12 个卷，本波未动，建议列为独立工作项。
+- **★ 源文讹字（登记待勘，未改源文）**：w5/1 bi55[1] 源文作「**Ober** die Abweichung…」，据上下文应为「Über」（同段其余各处均作 Über）。按「不增补原文没有的内容」的契约，译文按义译出「关于这一划分与范畴通常排列方式之间的偏离」，**源文未动**。
+- **验收全绿**：trans-index **ALIGNMENT OK**；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 仍 20 处存量 misnested（w2/w3/w5，与新译无关）；**w5/1 浏览器实测（端口 8860）pairs=60 = expected 60、missing=0、mismatch=0、emptyZh=0、emptyEn=0、jsErr=0**（整节译完，渲染零缺口）；回归页 w5/0（65/65）、w4/15（81/81）、w3/0（74/74）、w1/0（70/70）全 OK；固定 8 页回归 **8/8**。
+- **可复现性**：3 个构建脚本（`_build_w51e.mjs` / `_build_w51f.mjs` / `_build_w51g.mjs`）重建 8 个 part 文件 → `merge-trans.mjs` → `trans-index.mjs` ALIGNMENT OK；重建产物与入库 `web/data/trans/w5/1.json` 同源。
+- **远端**：本波推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
+- **下一批**：**w5/2**（切片 `node scripts/make-jobs.mjs --vol w5 --size 25 --limit 12 --prefix wave52`）。w5 共 38 分片 / 8,925 句，本波收掉 2/38（491 句）；按当前节奏（每轮约 190 句）仍需数十轮；w5 是本项目最长的卷。
+- **★ 待裁决（沿用上波清单，未擅自改动已入库的 w1–w4）**：① `Wissenschaft`→「学问」w1–w4 约 34 句；② `Vorstellung`→「看法」w4 2 句；③ 共享词表主条与本卷用法的五处分叉；④ **w5/0 形容词 `verschieden` 有 3 句作「不同于／不同」与 2 句作「相异」混用**，w5/1 已统一为「相异的」，w5/0 是否回拉待定。
+
 ### ★ 第 51 波已完成：w5/0「Erster Teil. Die objektive Logik」（《大逻辑》第一部分·客观逻辑）序言与导言 整节 **100%** —— **第 5 卷开卷并收官首节**
 
 **第 51 波（2026-10-21）译完 w5/0 全节 11 单元 / 64 块 / 299 句**（w5/0 全节 65 块 / 299 句，本波覆盖 **100%**；其中 1 个 fn 块 bi64 按契约不译、5 个标题块照译），全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：

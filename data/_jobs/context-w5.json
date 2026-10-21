@@ -11,10 +11,12 @@
   "★跨卷说明：Identität 本卷作“同一性”（与 w2、w3 已入库译法及共享词表一致）；w4 卷内曾按 wave38 裁定作“同一”，那是 w4 本卷包的分义，不适用于本卷；本卷一律“同一性”，非同一性＝ Nichtidentität“不可同一”。",
   "本卷体裁（文体）：① 序言（Vorrede zur ersten/zweiten Ausgabe）文体是论辩性的长句，破折号插入语多，主谓宾常有省略或倒装；译成中文时保持长句，不拆成一串短句，但可用中文破折号承载原文的插入结构。② 正文章节（Sein／Wesen／Begriff 三部）高度体系化，术语密集，一词一译；正文中的“Anmerkung”＝注（编号注，如“Anmerkung 1”“Anmerkung 4”），不译内容只译标题？——译者注：编者注块（k=fn）不译，正文中的“Anmerkung”标题照译为“注”。③ “Erster Teil／Erster Abschnitt／Erster Band／Erstes Kapitel”等分级词一律用“第一部分／第一节／第一卷／第一章”，与 § 编号并存。④ § 编号（§ 1、§ 12）原样保留，中文侧不译“§”本身。",
   "正文中常见的分义登记（不入条目表，避免一致性提醒噪音；定译以本条为准）：das Leben 在本卷序言与讲稿中多作日常义「生活」（如 das Leben der Völker und der Individuen＝各民族与各个人的生活），仅第二部分第三章标题与体系语境作「生命」；Ursache 作「原因」，但固定短语「Ursache genug」＝「有充分理由」；das Allgemeine / die Allgemeinheiten（形容词名词化）作「普遍者／普遍物」，Allgemeinheit（名词）作「普遍性」；die Momente 在序言中作「环节」（die allgemeinen Momente＝一般环节），勿作「时刻」；Form ＝形式、Formel ＝公式，二者严格分开（QA 的词条正则 Form[a-z]{0,3} 会把 Formeln 一并命中，故 Form 不入条目表）；das Positive＝肯定、das Negative＝否定、das Negative als das Bestimmte＝否定者即规定者；Notwendiges＝必然者、Zufälliges＝偶然者；die Notwendigkeit＝必然性、die Zufälligkeit＝偶然性；das Sein＝存在、das Nichts＝无、das Werden＝生成；die Idee＝观念、das Begriff＝概念（冠词变格不改变词根）；der Begriff als Sein＝作为存在的概念；das unmittelbare Wissen＝直接知识；die Anschauung＝直观、die Vorstellung＝表象、das Denken＝思维、die Denkform＝思维形式、die Denkbestimmung＝思维规定、die Denkverhältnisse＝思维关系；die Kategorie＝范畴；der Inhalt＝内容、die Form＝形式、die Gestalt＝形态、die Bestimmung＝规定、das Gesetz＝规律、die Regel＝规则；die Methode＝方法、das System＝体系、die Wissenschaft＝科学、das Ganze＝整体、das Teil＝部分；die Kraft＝力、die Polarität＝极性、die Notwendigkeit＝必然性；das Subjekt＝主体、das Objekt＝客体；die Freiheit＝自由、der Wille＝意志、die Willkür＝任性；das Gefühl＝感受、der Trieb＝冲动；die Anschauung＝直观（w4 已用“直观”）；das Denken＝思维（w3/w4 已用“思维”）。",
-  "★wave51 第 4 批新增分义登记（定译以本条为准）：Sinn 作心理官能义（与 Gefühl 感受、Anschauung 直观并列，如「Sinn, Gefühl, Vorstellung」）作「感觉」；作「意味」义时另作「意味」（共享词表主条）。die Willkür 本卷作「任性」（意志的任性，与 w3 已入库先例一致；共享词表主条作「任意」）。Stoff 一律「材料」（w4/10–w5/0 已入库先例；与 Materie＝物质严格分开，Materialität 若出现另作「质料」）。Anstoß 在「ein unendlicher Anstoß」（阻碍义）作「阻碍」；作「推动力」义时另作「推动力」（共享词表主条为「力的条件只是外在的推动力」）。das Unmittelbare 作「直接物」；Unmittelbarkeit 一律「直接性」。Lebendigkeit 作「生机」（共享词表；避开「生命」词根）。Selbständigkeit 作「独立自主」（共享词表）。Zucht 作「训育」。Wolff＝沃尔夫（Christian Wolff）；Sittenspruch＝道德格言。",
+  "★wave51 第 4 批新增分义登记（定译以本条为准）：Sinn 作心理官能义（与 Gefühl 感受、Anschauung 直观并列，如「Sinn, Gefühl, Vorstellung」）作「感觉」；作「意味」义时另作「意味」（共享词表主条）。die Willkür 本卷作「任性」（意志的任性，与 w3 已入库先例一致；共享词表主条作「任意」）。Stoff 一律「材料」（w4/10–w5/0 已入库先例；与 Materie＝物质严格分开，Materialität 若出现另作「质料」）。Anstoß 在「ein unendlicher Anstoß」（阻碍义）作「阻碍」；作「推动力」义时另作「推动力」（共享词表主条为「力的条件只是外在的推动力」）。das Unmittelbare 作「直接者」；Unmittelbarkeit 一律「直接性」。Lebendigkeit 作「生机」（共享词表；避开「生命」词根）。Selbständigkeit 作「独立自主」（共享词表）。Zucht 作「训育」。Wolff＝沃尔夫（Christian Wolff）；Sittenspruch＝道德格言。",
   "★wave51 门务记录（w5/0 全节收官，批 1–4 累计 11 单元 / 64 块 / 299 句）：① 机器门判据升级——forbidden 由「中文含宜译词即跳过」改为按德文出现次数比对（堵住同句内第二次误译的盲区），并补上 entries 一词一译检查（此前只有 qa-trans 有、机器门没有）；判据改动另以 8 例自检脚本回归，确保既抓得住又不误报。② 首轮门查出的真缺陷已修：Realität 误作「现实性」2 处（bi35[2] 同句两处、bi40[1]）、Objekt 误作「对象」3 处（bi31[0]、bi37[2]、bi42[1]；共享词表 Objekt＝客体 与 Gegenstand＝对象 严格分开）、Vorstellung 误作「看法」2 处（bi36[1]、bi58[0]）、real 词族误作「现实的」2 处（bi30[1]、bi46[1]）、Wesen 误作「本性」1 处（bi44[7]）、Denkbestimmung 误作「思维的规定」2 处（bi46[7]、bi47[1]）、Zweck 误作「有意」1 处（bi39[0]）、Inhalt 误作「充实」1 处（bi40[6]）、Verschiedenheit 误作「不同」1 处（bi46[1]）、Unterschied 误作「差异」1 处（bi48[2]）、Methode 误作「办法」1 处（bi52[3]）、Realitäten 误作「现实」1 处（bi61[2]）、「她」用于抽象概念 1 处（bi40[3]）、简繁误写「規定」1 处（bi60[2]）。③ 逐句回源另查出并修：漏译 1 处（bi60[6]「die Wahrheit zu enthüllen」漏「真理」）、wahrhaft 误作「真实认识」1 处（bi27[0]）、Wissenschaft 在同句内两译 2 处（bi13 s0、bi25 s0 的「学问」改「科学」）。④ qa-trans 对本节报 4 条，全为分义误报／源文错拼：Dasein 神学日常义「上帝的存在」（共享词表有「上帝存在的证明」条目）、bi35[0] 短句 zh/de 比 0.20、bi44[6]「ohne Hülle」译「脱去外壳」而无显式否定、bi54[1] 源文把「Wissenschaft」误断为「Wissen schaft」致 entries 规则误报。⑤ context-w5 的 Existenz 禁译规则原方向反置（禁「存在」宜「定在」），已按共享词表与 BUILTIN_FORBIDDEN 改为禁「定在」宜「存在」（已入库 w1–w4 实测 105 句中 104 句作「存在」、0 句作「实存」）；Materie 补入条目与禁译（禁「质料」宜「物质」，w4 已入库先例）。⑥ Dasein／Existenz 只进 forbidden 不进 entries，以免神学日常义触发一致性提醒噪音。",
   "★wave51 补充裁定：① Dasein＝定在（体系义一律）、Existenz＝存在，二者严格分工；Dasein 的神学日常义（Dasein Gottes＝上帝的存在）作“存在”，属分义（与 w4/12、w4/13 已入库先例一致），不作“定在”。二者只进 forbidden（强判定），不入 entries，以免神学日常义触发一致性提醒噪音。② Materie 一律“物质”，严禁“质料”（政策 + w4 已入库先例）；“质料”留给 Materialität；Stoff（认识的材料）作“材料”，与 Materie 严格分开。③ Wissenschaft 一律“科学”，不作“学术”；“学问”只留给 Gelehrsamkeit／gelehrt 等另词（如“有学问的历史”），不得用来译 Wissenschaft。System 一律“体系”（共享词表定译）。",
-  "★门务记录（w5 首波）：① doNotTranslate 中的“1.”“2.”“3.”“A.”“B.”“C.”按字符命中，故凡源句中出现这些字面者，英中两侧均须含该字面；德式日期日号末位为 1/2/3 时保留点号（EN「22. March」／中「3 月 22. 日」）。②“z. B.”命中“B.”，按门规则以“z. A.”～“z. C.”例程豁免。③希腊／拉丁引文不译不动、括注中文（如 § 1 的“τὸ ὄν”）。④编者方括号〔〕在原文中为编者插入：实词编者补入英中两侧都保留（中文侧译出内容并用半角方括号），纯语法插入（冠词、连词、动词变位）两侧都弃。⑤“-man”“man”不定代词译“人们”，不译“我们”。"
+  "★门务记录（w5 首波）：① doNotTranslate 中的“1.”“2.”“3.”“A.”“B.”“C.”按字符命中，故凡源句中出现这些字面者，英中两侧均须含该字面；德式日期日号末位为 1/2/3 时保留点号（EN「22. March」／中「3 月 22. 日」）。②“z. B.”命中“B.”，按门规则以“z. A.”～“z. C.”例程豁免。③希腊／拉丁引文不译不动、括注中文（如 § 1 的“τὸ ὄν”）。④编者方括号〔〕在原文中为编者插入：实词编者补入英中两侧都保留（中文侧译出内容并用半角方括号），纯语法插入（冠词、连词、动词变位）两侧都弃。⑤“-man”“man”不定代词译“人们”，不译“我们”。",
+  "★wave51 第 5–7 批分义登记（定译以本条为准）：①「质—量—度」三联（w5/1 导论 §102–104 一段）——Qualität＝质、Quantität＝量、Größe＝量、Quantum＝量数、Maß＝度、Relation＝关系、Modalität＝模态；依据为 w4/5《哲学百科全书》同源材料已入库先例（「Die Größe oder Quantität」＝「量，或量」；「Die Größe ist entweder kontinuierlich oder diskret」＝「量要么是连续的，要么是离散的」；「Das Maß ist ein spezifisches Quantum」＝「度是一个特定的量数」）。分义：Maß 在 w1/w3 的伦理、法律语境作「尺度」，Größe 在物理量语境作「大小」，均非本卷体系义。② Sphäre 本卷体系义作「领域」（w5/0 b32 s0、w5/1 b6 s1 已入库先例）；「die Sphäre der Erscheinung」作「范围」（w5/0 b36 s8 已入库先例），属分义，故 Sphäre 只进分义登记、不入条目表。③ das Absolute 作「绝对者」（全库 177 句中 170 句作「绝对者」）、das Ewige 作「永恒者」、das Göttliche 在「永恒者、神圣者、绝对者」三联中作「神圣者」；die Göttlichkeit 作「神性」（w1/10 已入库先例）。④ das Subjektive 作「主观者」（与 Subjekt＝主体 严格分开；w4/0 已入库先例）。⑤ gleichgültig 体系义作「无关紧要」（w4/5 已入库先例），日常义作「无所谓」（w1 已入库先例）。⑥ Beschränktheit 作「受限性」（Beschränkt 族：有限者／受限者／受限制的东西）。⑦ Unbestimmtheit 作「不确定性」（与本卷 unbestimmt＝不确定 一致）；Vorläufigkeit 作「暂时性」、vorläufig 作「暂先的」、eine vorläufige Anführung 作「暂先的列举」。⑧ das Einfache 作「单纯者」、einfach 作「单纯的」；das Negative 作「否定者」、negativ 作「否定性的」。",
+  "★wave51 第 5–7 批门务记录（w5/1 全节收官，累计 8 单元 / 59 块 / 192 句）：① 批 5（w5-1-0/8/20，26 块/84 句）机器门 0 critical / 0 major / 0 minor；逐句回源修 11 处——bi7[6] 为整段漏译（「Dieses Tun sollte aber nicht mehr Bewußtsein genannt werden…」后半段整段丢失，机器门不报）、bi18[1]/bi18[2] 因「Substanz, Monade usf.」错位导致的漏译，另有 Unterschied 误作「区别」、Logik 误作「逻辑」、wirklich 误作「真正」、EN 缺 DNT 字面量「3.」等。② 批 6（w5-1-26/33/40，19 块/79 句）机器门 0/0/0（124 次 termChecks）；回源修 4 处——bi28[3] 漏译「mit Freiheit」、bi44[0]/bi44[3] Objekt 误作「对象」、bi44[3] in Wahrheit 误作「真正」。③ 批 7（w5-1-45/57，14 块/29 句）机器门 0/0/0（57 次 termChecks）；逐句回源 29 句全过，无漏译、无术语漂移。④ 机器门新增 ENTRIES_EXEMPT 分义豁免 4 条（Sein 作物主代词「他的」／Subjektiv 族不按 Subjekt 判／unterscheiden 派生形不按 Unterschied 判／Nichtsein 非存在不按 Nichts 判），每条均配 _gate_selftest.mjs 用例（17 例全 PASS）；任何门判据改动都必须配自检用例。⑤ 编者方括号惯例：纯语法插入（[uns]、[ist] 等）两侧都弃，实词插入两侧都保留（中文侧译出内容并用半角方括号）。⑥ DNT 字面量两侧原样保留（批 5 命中「a priori」「3.」「§」）。⑦ 机器门只保证「没写错字」，不保证「没漏译」：须逐句回源 + 分句数/长度比双查，漏译才抓得出来。"
  ],
  "entries": [
   {
@@ -604,6 +606,34 @@
    "zh": "极性",
    "type": "term",
    "note": "本卷第一部分 A 节“质的极性”"
+  },
+  {
+   "source": "Qualität",
+   "en": "quality",
+   "zh": "质",
+   "type": "term",
+   "note": "本卷体系义一律「质」（w5/0 b9 s3 已入库先例；全库 43 句 0 miss）"
+  },
+  {
+   "source": "Quantität",
+   "en": "quantity",
+   "zh": "量",
+   "type": "term",
+   "note": "本卷体系义一律「量」（w5/0 b52 s6 已入库先例；全库 24 句 0 miss）"
+  },
+  {
+   "source": "Modalität",
+   "en": "modality",
+   "zh": "模态",
+   "type": "term",
+   "note": "康德范畴名目义；全库 5 句 0 miss"
+  },
+  {
+   "source": "Relation",
+   "en": "relation",
+   "zh": "关系",
+   "type": "term",
+   "note": "本卷体系义作「关系」（康德关系范畴义）；勿与 Verhältnis 混译"
   }
  ],
  "forbidden": [
