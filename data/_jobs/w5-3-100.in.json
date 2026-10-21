@@ -1,0 +1,41 @@
+{
+ "id": "w5-3-100",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 3,
+ "chunkTitle": "Anmerkung 4",
+ "heading": "Anmerkung 4",
+ "blocks": [
+  {
+   "bi": 100,
+   "k": "p",
+   "hash": "1ipuemuemu",
+   "sents": [
+    "Die andere Bestimmung ist die Unruhe des Etwas in seiner Grenze, in der es immanent ist, der Widersprach zu sein, der es über sich selbst hinausschickt.",
+    "So ist der Punkt diese Dialektik seiner selbst, zur Linie zu werden, die Linie die Dialektik, zur Fläche, die Fläche die, zum totalen Räume zu werden.",
+    "Von Linie, Fläche und ganzem Raum wird eine zweite Definition so gegeben, daß durch die Bewegung des Punktes die Linie, durch die Bewegung der Linie die Fläche entsteht usf.",
+    "Diese Bewegung des Punktes, der Linie usf. wird aber als etwas Zufälliges oder nur so Vorgestelltes angesehen.",
+    "Dies ist jedoch eigentlich darin zurückgenommen, daß die Bestimmungen, aus denen Linie usf. entstehen sollen, ihre Elemente und Prinzipien seien, und diese sind nichts anderes als zugleich ihre Grenzen; das Entstehen wird so nicht für zufällig oder nur so vorgestellt betrachtet.",
+    "Daß Punkt, Linie, Fläche, für sich, sich widersprechend, Anfänge sind, welche selbst sich von sich abstoßen, und der Punkt somit aus sich durch seinen Begriff in die Linie übergeht, sich an sich bewegt und sie entstehen macht usf., – liegt in dem Begriffe der dem Etwas immanenten Grenze.",
+    "Die Anwendung jedoch selbst gehört in die Betrachtung des Raums; um sie hier anzudeuten, so ist der Punkt die ganz abstrakte Grenze, aber in einem Dasein, dieses ist noch ganz unbestimmt genommen, es ist der sogenannte absolute, d.h. abstrakte Raum, das schlechthin kontinuierliche Außereinandersein.",
+    "Damit, daß die Grenze nicht abstrakte Negation, sondern in diesem Dasein, daß sie räumliche Bestimmtheit ist, ist der Punkt räumlich, der Widerspruch der abstrakten Negation und der Kontinuität und damit das Übergehen und Übergegangensein in Linie usf., wie es denn keinen Punkt gibt, wie auch nicht eine Linie und Fläche."
+   ]
+  },
+  {
+   "bi": 101,
+   "k": "p",
+   "hash": "16mm4ikyln",
+   "sents": [
+    "Etwas mit seiner immanenten Grenze gesetzt als der Widerspruch seiner selbst, durch den es über sich hinausgewiesen und getrieben wird, ist das Endliche."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/3.p100.json"
+}

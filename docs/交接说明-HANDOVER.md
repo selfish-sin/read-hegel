@@ -96,6 +96,55 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 ```
 
 
+### ★ 第 53 波已收官：w5/3「C. Werden 收尾 ＋ 第二章〈Das Dasein〉开篇」整块 **100%** —— 第 5 卷第 4 节
+
+**w5/3 已整块译完：12 单元 / 102 块 / 313 句**（该节 chunk 共 102 块＝89 正文段 + 13 标题，无 fn；313 句全部译出）。全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
+
+| 批次 | 单元 | 块 | 句 | 内容 |
+|---|---|---|---|---|
+| b1 | w5-3-0 / w5-3-9 / w5-3-20 / w5-3-34 | 43 | 113 | 「C. Werden」收尾（b. Momente des Werdens 存在的环节、c. Aufheben des Werdens 扬弃成为、注解）＋ 第二章开篇（A. Dasein als solches 定在本身 / a. Dasein überhaupt / b. Qualität 质 及其注解） |
+| b2 | w5-3-43 / w5-3-53 / w5-3-59 / w5-3-70 | 35 | 109 | b. Qualität 注解续 ＋ c. Etwas 某物（对「实在」概念与上帝概念的批评）＋ B. Die Endlichkeit 有限性 ＋ a. Etwas und ein Anderes 某物与他物 |
+| b3 | w5-3-78 / w5-3-86 / w5-3-93 / w5-3-100 | 24 | 91 | b. Bestimmung, Beschaffenheit und Grenze 规定·性质·界限（自在之物、有限者的界限，线／面／点） |
+
+**w5/3 整块收官。** 覆盖率 19.59% → **19.93%**（18,048 → 18,361 / 92,117 句；段落 5,517 → 5,606 / 17,948 = 31.23%；标题 533 / 2,847）。第 5 卷 737 → **1,050 句（11.8%）**，**分节进度 4/38**。
+
+> **★ 本节的真实边界（别被标题骗了）**：w5/3 的 chunk 标题是源文分块的副产物「Anmerkung 4」（分块器取最近的前置标题），**不是节名**。实际内容＝前 21 块（bi0–20，64 句）是第一章「C. Werden」的收尾，后 81 块（bi21–101，249 句）才是**第二章「Das Dasein」（定在）**的开篇，一直走到 B.b「Bestimmung, Beschaffenheit und Grenze」为止；第二章在 w5/4 继续。**判据：分节名要看块内的 `k="h"` 标题，不要信 `chunk.t`。**
+
+- **★ 逐句回源（机器门与 QA 都报 0 的那一半）：验收后补做全库「Negation der Negation」／「否定者」用字对扫，又抓出并修掉 5 处真缺陷**——机器门 0 critical/0 major、QA 的 19 条全是误报，这 5 处两个门都报不出来：
+  - **bi92[5]**「das Insichsein des Etwas als Negation der Negation」原作「作为否定的否定**者**的某物」→「作为否定之否定的某物」（「否定者」＝被否定者／否定之人，与「否定之否定」根本不是一回事；同章 bi54[6]／bi54[9]／bi55[0]／bi56[0]／bi61[2] 五处先例均作「否定之否定」，全库先例 w2/11#3、w4/5#155 亦同）。
+  - **bi92[6]**「als Negation der Negation」→「作为否定之否定」（与 bi56[0] 同构）。
+  - **bi95[2]**「die Negation der Negation」→「否定之否定」（与 bi54[9] 德文完全相同）。
+  - **bi45[0]**「ein Inbegriff aller Negationen」原作「一切否定者的总汇」→「一切否定的总汇」（Negationen 是名词，与同句「alles Bestimmte」→「一切被规定者」不同构）。
+  - **bi48[0]**「die auf die Negation reflektierende Realität」原作「反思着否定者的实在性」→「反思着否定的实在性」（同句前半 Negation 已译「否定」）。
+  → 改动精确落在 **bi45 / bi48 / bi92 / bi95 四个块**；重跑全链后机器门与 QA 读数**完全不变**（说明修的是真问题、且没碰出新问题）。
+  **教训：「Negation der Negation」这类固定术语必须全库对扫**——机器门查「禁用词有没有出现」、QA 查「某个德文词对应的中文有没有出现」，两者都只查「在不在」，不查「该在的有没有被写歪」；多一个「者」照样放行。
+- **★ 术语层（context-w5）**：entries 97 → **132**（**+35 条纯新增，0 删除、0 改判**）、styleGuide 15 → **22**（+7）。新增 35 条包括：`Ansichsein`→自在存在、`Sein-für-Anderes`→为他存在、`Anundfürsichsein`→自在自为、`Anderssein`→他在、`Unterschiedenheit`→差别、`Nichtsein`→非存在、`Nichtseiende`→非存在者、`Affirmation`→肯定、`Inbegriff`→总汇、`Vollkommenheit`→完善、`Das Bestimmte`→被规定者、`Eigenschaft`→属性、`Attribut`→属性、`Beschaffenheit`→性质、`Grenze`→界限、`Negation`→否定、`Widerspruch`→矛盾、`Linie`→线、`Fläche`→面、`Sinnlichkeit`→感性、`Vernunft`→理性、`Fülle`→充盈、`Unruhe`→不安、`Verhältnis`→关系、`Eins`→一、`Aufheben`→扬弃、`Zufälliges`→偶然者、`Insichsein`→自身内存在、`Macht`→力量、`Substantialität`→实体性、`Realitäten`→实在性、`Entstehen`→产生、`Vergehen`→消逝 等。
+  - ★ **`Insichsein`＝自身内存在，与 `Ansichsein`＝自在存在严格分开**（共享词表 row1133 政策，w5/1 存量先例 bi6[1]）：本波把 8 处误作「自在存在」的回改为「自身内存在」，EN 层仍作 being-in-itself（与 w5/1 一致）。
+  - ★ **`Eigenschaft`＝属性、`Attribut`＝属性、`Beschaffenheit`＝性质** 三词撞名的分义（本轮定案，见待裁决 ①）。
+  - ★ **`Unterschiedenheit`＝差别**（与 `Unterschied` 同值、与 `Verschiedenheit` 相异分工），本波据此把 5 处「差异性」回改为「差别」。
+- **★ 机器门判据修正 1 处**：doNotTranslate 的**标签型字面量**（a) b) c) α) β) γ)）改用**词边界**判据（`dntHit()`）——否则会命中词内字串（实测 w5-3-93 bi97[1]「innerhalb)」里的「b)」被误判为缺枚举标签，报成 critical）。按纪律配 3 例自检 → **31 例全 PASS**（原 28 例 + 3 例）。
+- **★ QA 读数（基线是实测的，不是估的）**：全库 **2,532 → 2,551**（critical 0 / major 233→234 / minor 2,299→2,317）。**逐卷：w1 +0、w2 +0、w3 +0、w4 +0**，净增的 19 条全部来自 w5/3 本节——**本波改 context-w5（97→132 条）＋共享词表（+13 行）对存量章节零净影响**（w5 用自己的 context 包、其余卷用共享词表，两套规则互不串扰；这也是「先量基线再报数」的必要）。
+  w5/3 分节 19 条（1 major + 18 minor）**逐条回源，0 真缺陷，全为分义误报**：`Nichts` 被 `Nichtsein`／`Nichtdasein` 前缀命中 **14 条**、`Dasein` 神学日常义（#43[0]「上帝存在的本体论证明」）1 条、`Allgemeinheit` 分义（#54[2]「普遍者」）1 条、`Moment` 机械力矩（#19[8]「杠杆的机械力矩」）1 条、`Wissenschaft` 书名《哲学百科全书》（#19[8]）1 条、`Sein` 物主代词（#32[3]「它的中介」）1 条。
+  **待办延续**：`qa-trans.mjs` 至今没有机器门那套 ENTRIES_EXEMPT 分义豁免，故上述分义每轮都会重复报警；给它补齐需改共享脚本、影响 12 个卷，本波未动，建议列独立工作项。
+- **验收全绿**：trans-index **ALIGNMENT OK**；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 仍 20 处存量 misnested（w2/w3/w5，与本波无关；w5/3 b18 是源文底本自身的标签不配对）；**w5/3 浏览器实测（端口 8860）pairs=102、pairHead=13、pairFull=0、zhSent=313=enSent=313、mismatch=0、JS errors=0，状态栏「本节 89/89 段已译 · 313/313 句 · 全书已译 5,606 段 / 18,361 句」**（emptyZh/emptyEn 各 1，来自源文 `ns=0` 空段落，按合同如实留空）；固定 8 页回归 **8/8**。
+- **可复现性**：3 个构建脚本（`_build_w53a.mjs` / `_build_w53b.mjs` / `_build_w53c.mjs`）重建 12 个 part 文件 → `merge-trans.mjs`（102 块，0 hash 重打）→ `trans-index.mjs` ALIGNMENT OK；**重建产物与入库 `web/data/trans/w5/3.json` 逐块逐字一致**（same=102 / diff=0 / missing=0）。
+- **共享词表**：**净增 13 行**（`w5-3-b1` 11 条 + `b2` 10 条 + `b3` 20 条共 41 条候选，去重后实际新增 13 条：`Nichtseiende`、`Affirmation`、`Temperieren`、`Bestimmungslose`、`Das Bestimmte`、`Andere`、`Realitäten`、`Enzyklopädie der philosophischen Wissenschaften`、`Negation`、`Linie`、`Fläche`、`Fülle`、`Unruhe`）。
+- **远端**：本波推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
+- **下一批**：**w5/4**（`c. Die Endlichkeit`，约 10 单元）——切片 `node scripts/make-jobs.mjs --vol w5 --size 25 --limit 12 --prefix wave54`。**★ 波次号说明**：仓库编号是 52 → 53 连续（wave52 文档写「下一批 prefix wave53」，`jobs-wave53.json` 即本波），故下一波是 **wave54**；压缩摘要里写的 wave55 与仓库自身记录矛盾，按仓库记录取 wave54。
+- **★ 待裁决（未擅自改动已入库的 w1–w4 与 w5/0–w5/2）**：
+  ① **`Eigenschaft`／`Attribut`／`Beschaffenheit` 三词撞名**：本轮定为 属性／属性／性质（依据：共享词表主条 ok + 全库 110 句「属性」对 7 句「性质」+ w5/0 bi14[6] 先例；w4 先例与 w5 存量 3 处一致作「性质」）。**建议维持本轮定案，并请共享词表补记 `Beschaffenheit` 的「性质」变体**。
+  ② **★ 本波新增（实测有据）**：`das Negative`／`das Positive`／`Negation` 的「否定者／肯定者」vs「否定／肯定」分义未定——context-w5 条目与共享词表都写「das Negative＝否定、Negation＝否定」，但 w5 卷实际用字是 **否定 135 : 否定者 14**（w5/3 4 处否定者、2 处肯定者），w3／w4 也有大量「否定者」。**建议按「形容词名词化 → 者、抽象名词 → 否定」立规**（与全库多数先例相容），再统一回改 w5/0、w5/2、w3、w4 的存量异例——**本波只修了同句自相矛盾的两处，未动跨卷存量**。
+  ③ **★ 本波新增**：`Negation der Negation` 的中文定译——同章 5 处 + 全库先例（w2/11#3、w4/5#155）作「否定之否定」，本波已把 w5/3 的 3 处异例统一；**bi54[0]「die erste Negation der Negation」的字面歧义仍未定**（本波按「第一个否定的否定」译出，德文本身可解作「第一个否定」或「否定之否定」）。
+  ④ `das Andere` 在 w5/0–2 的「他者／他物／它者／别的东西」四种用字是否统一回改「他者」。
+  ⑤ w5/2 bi17[3]（已统一为「差别」）与 bi21[2]（已统一为「属性」）两处存量是否确认。
+  ⑥ w4「完满」与 w5「完善」跨卷不一致是否统一。
+  ⑦ 共享词表 `Beschaffenheit` 主条「属性」(ok) vs w4/w5「性质」的修正建议（与 ① 同源，建议合并处理）。
+  ⑧ `Gleichheit mit sich selbst` 共享专条「与自身的同一」vs w3/w4「等同」的口径。
+  ⑨ 12 个不入表词的存量异例（Mitte／Punkt／Raum／Anfang／Element／Körper／Natur／Sollen／Erfüllung／Erscheinung／Gegenstand／Selbständigkeit）是否统一。
+  ⑩ `qa-trans` 的 `Nichts` 规则是否加 `Nichtsein` 豁免（可消全库 22 条误报、基线下移 22；属共享脚本改动，影响 12 个卷，**本波未动**）。
+  ⑪ 共享词表 `Natur`（本性/自然）、`Element`（要素/元素）、`Zufälliges`（偶然的东西/偶然者）三处主条与卷内用字的对齐。
+  ⑫ （沿用上波）`Wissenschaft`→「学问」w1–w4 约 34 句；`Vorstellung`→「看法」w4 2 句；w5/0 形容词 `verschieden` 3 句「不同于／不同」与 2 句「相异」混用。
+
 ### ★ 第 52 波已收官：w5/2「Erster Abschnitt Bestimmtheit (Qualität)」（第一节·规定性（质））整节 **100%** —— 第 5 卷第 3 节收官
 
 **w5/2 已整节译完：9 单元 / 52 块 / 246 句**（该节 chunk 共 53 块＝42 正文段 + 1 个 `ns=0` 空段落 + 9 标题 + 1 个 fn 编者块按契约不译；246 句全部译出）。全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：

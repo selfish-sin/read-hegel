@@ -1,0 +1,85 @@
+{
+ "id": "w5-3-53",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 3,
+ "chunkTitle": "Anmerkung 4",
+ "heading": "B. Die Endlichkeit",
+ "blocks": [
+  {
+   "bi": 53,
+   "k": "p",
+   "hash": "kdbeh41qj6",
+   "sents": [
+    "Dieses Aufheben der Unterscheidung ist mehr als ein bloßes Zurücknehmen und äußeres Wiederweglassen derselben oder als ein einfaches Zurückkehren zum einfachen Anfange, dem Dasein als solchem.",
+    "Der Unterschied kann nicht weggelassen werden; denn er ist.",
+    "Das Faktische, was also vorhanden ist, ist das Dasein überhaupt, Unterschied an ihm und das Aufheben dieses Unterschiedes; das Dasein nicht als unterschiedlos, wie anfangs, sondern als wieder sich selbst gleich, durch Aufheben des Unterschieds, die Einfachheit des Daseins vermittelt durch dieses Aufheben.",
+    "Dies Aufgehobensein des Unterschieds ist die eigene Bestimmtheit des Daseins; so ist es Insichsein, das Dasein ist Daseiendes, Etwas."
+   ]
+  },
+  {
+   "bi": 54,
+   "k": "p",
+   "hash": "1bgdxo51wf",
+   "sents": [
+    "Das Etwas ist die erste Negation der Negation, als einfache seiende Beziehung auf sich.",
+    "Dasein, Leben, Denken usf. bestimmt sich wesentlich zum Daseienden, Lebendigen, Denkenden (Ich) usf.",
+    "Diese Bestimmung ist von der höchsten Wichtigkeit, um nicht bei dem Dasein, Leben, Denken usf., auch nicht bei der Gottheit (statt Gottes) als Allgemeinheiten stehenzubleiben.",
+    "Etwas gilt der Vorstellung mit Recht als ein Reelles.",
+    "Jedoch ist Etwas noch eine sehr oberflächliche Bestimmung; wie Realität und Negation, das Dasein und dessen Bestimmtheit zwar nicht mehr die leeren – Sein und Nichts –, aber ganz abstrakte Bestimmungen sind.",
+    "Deswegen sind sie auch die geläufigsten Ausdrücke, und die philosophisch nicht gebildete Reflexion gebraucht sie am meisten, gießt ihre Unterscheidungen darein und meint daran etwas recht gut und fest Bestimmtes zu haben.",
+    "– Das Negative des Negativen ist als Etwas nur der Anfang des Subjekts, – das Insichsein nur erst ganz unbestimmt.",
+    "Es bestimmt sich fernerhin zunächst als Fürsichseiendes und so fort, bis es erst im Begriff die konkrete Intensität des Subjekts erhält.",
+    "Allen diesen Bestimmungen liegt die negative Einheit mit sich zugrunde.",
+    "Aber dabei ist die Negation als erste, als Negation überhaupt wohl zu unterscheiden von der zweiten, der Negation der Negation, welche die konkrete, absolute Negativität, wie jene erste dagegen nur die abstrakte Negativität ist."
+   ]
+  },
+  {
+   "bi": 55,
+   "k": "p",
+   "hash": "1kb7azh1l9",
+   "sents": [
+    "Etwas ist seiend als die Negation der Negation; denn diese ist das Wiederherstellen der einfachen Beziehung auf sich; – aber ebenso ist damit Etwas die Vermittlung seiner mit sich selbst.",
+    "Schon in dem Einfachen des Etwas, dann noch bestimmter im Fürsichsein, Subjekt usf. ist die Vermittlung seiner mit sich selbst vorhanden, bereits auch im Werden nur die ganz abstrakte Vermittlung; die Vermittlung mit sich ist im Etwas gesetzt, insofern es als einfaches Identisches bestimmt ist.",
+    "– Auf das Vorhandensein der Vermittlung überhaupt kann gegen das Prinzip der behaupteten bloßen Unmittelbarkeit des Wissens, von welcher die Vermittlung ausgeschlossen sein solle, aufmerksam gemacht werden; aber es bedarf weiterhin nicht, besonders auf das Moment der Vermittlung aufmerksam zu machen; denn es befindet sich überall und allenthalben, in jedem Begriffe."
+   ]
+  },
+  {
+   "bi": 56,
+   "k": "p",
+   "hash": "12u4cluri2",
+   "sents": [
+    "Diese Vermittlung mit sich, die Etwas an sich ist, hat, nur als Negation der Negation genommen, keine konkreten Bestimmungen zu ihren Seiten; so fällt sie in die einfache Einheit zusammen, welche Sein ist.",
+    "Etwas ist und ist denn auch Daseiendes; es ist an sich ferner auch Werden, das aber nicht mehr nur Sein und Nichts zu seinen Momenten hat.",
+    "Das eine derselben, das Sein, ist nun Dasein und weiter Daseiendes.",
+    "Das zweite ist ebenso ein Daseiendes, aber als Negatives des Etwas bestimmt, – ein Anderes.",
+    "Das Etwas als Werden ist ein Übergehen, dessen Momente selbst Etwas sind und das darum Veränderung ist; – ein bereits konkret gewordenes Werden.",
+    "– Das Etwas aber verändert sich zunächst nur in seinem Begriffe; es ist noch nicht so als vermittelnd und vermittelt gesetzt; zunächst nur als sich in seiner Beziehung auf sich einfach erhaltend, und das Negative seiner als ein ebenso Qualitatives, nur ein Anderes überhaupt."
+   ]
+  },
+  {
+   "bi": 57,
+   "k": "h",
+   "hash": "1vnrr6z1aw",
+   "text": "B. Die Endlichkeit"
+  },
+  {
+   "bi": 58,
+   "k": "p",
+   "hash": "1dcxtek1tu",
+   "sents": [
+    "a) Etwas und Anderes; sie sind zunächst gleichgültig gegeneinander; ein Anderes ist auch ein unmittelbar Daseiendes, ein Etwas; die Negation fällt so außer beiden.",
+    "Etwas ist an sich gegen sein Sein-für-Anderes.",
+    "Aber die Bestimmtheit gehört auch seinem Ansich an und ist"
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/3.p53.json"
+}

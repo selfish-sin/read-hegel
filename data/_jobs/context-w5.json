@@ -19,7 +19,14 @@
   "★wave51 第 5–7 批门务记录（w5/1 全节收官，累计 8 单元 / 59 块 / 192 句）：① 批 5（w5-1-0/8/20，26 块/84 句）机器门 0 critical / 0 major / 0 minor；逐句回源修 11 处——bi7[6] 为整段漏译（「Dieses Tun sollte aber nicht mehr Bewußtsein genannt werden…」后半段整段丢失，机器门不报）、bi18[1]/bi18[2] 因「Substanz, Monade usf.」错位导致的漏译，另有 Unterschied 误作「区别」、Logik 误作「逻辑」、wirklich 误作「真正」、EN 缺 DNT 字面量「3.」等。② 批 6（w5-1-26/33/40，19 块/79 句）机器门 0/0/0（124 次 termChecks）；回源修 4 处——bi28[3] 漏译「mit Freiheit」、bi44[0]/bi44[3] Objekt 误作「对象」、bi44[3] in Wahrheit 误作「真正」。③ 批 7（w5-1-45/57，14 块/29 句）机器门 0/0/0（57 次 termChecks）；逐句回源 29 句全过，无漏译、无术语漂移。④ 机器门新增 ENTRIES_EXEMPT 分义豁免 4 条（Sein 作物主代词「他的」／Subjektiv 族不按 Subjekt 判／unterscheiden 派生形不按 Unterschied 判／Nichtsein 非存在不按 Nichts 判），每条均配 _gate_selftest.mjs 用例（17 例全 PASS）；任何门判据改动都必须配自检用例。⑤ 编者方括号惯例：纯语法插入（[uns]、[ist] 等）两侧都弃，实词插入两侧都保留（中文侧译出内容并用半角方括号）。⑥ DNT 字面量两侧原样保留（批 5 命中「a priori」「3.」「§」）。⑦ 机器门只保证「没写错字」，不保证「没漏译」：须逐句回源 + 分句数/长度比双查，漏译才抓得出来。",
   "★wave52 分义与裁定（w5/2「Erster Abschnitt Bestimmtheit (Qualität)」整节收官，9 单元 / 52 块 / 246 句）：① Etwas 一律「某物」（共享词表主条：大写 Etwas＝逻辑学的「某物」，不作「事物」；w5/1 bi35[0]、bi35[1] 已入库先例亦作「某物」；与 Seiendes＝存在者严格分开）。② Vereinigung 与 Einigung 本卷一律「统一」：w5/0 bi14[4]、w5/1 bi33[4]、w5/1 bi37[1] 已入库先例均作「统一」，w5/2 三处与 Einheit（统一）同指同一概念；共享词表主条作「结合」系 w3/w4 分域用法，其 ★ 例外亦取「统一」，故本卷取「统一」并登记理由。③ Verbindung 本卷作「联结」（w5/1 bi45[7] 已入库先例；与 Verknüpfung 同族）。④ Kopula 本卷取「系词」（共享词表主条作「连系词」(unsicher)，并把「系词」列为备选）。⑤ das Objektive（形容词名词化）一律「客观者」，与 Objekt＝「客体」严格分开。",
   "★wave52 门务记录（w5/2 整节收官，累计 9 单元 / 52 块 / 246 句）：① 批 1（w5-2-0/16/20/23/29，33 块 / 129 句）与批 2（w5-2-33/38/42/48，19 块 / 117 句）机器门均 0 critical / 0 major / 0 minor。② 逐句回源（批 2 全 117 句逐句读；批 1 全量机检＋回源）另查出并修：术语漂移 12 处（Etwas 作「有者」6 处改「某物」；Vereinigung／Einigung 作「合一」2 处改「统一」；Tautologie 作「重言式」1 处改「同义反复」；Gedankending 作「思维物」1 处改「思想物」；Nichts 自由改写 2 处改「无」；Einheit 作「合为一体」1 处改「相统一」）；引号跨段失衡 3 处（bi38[2]–bi38[7]、bi41[2]–bi41[3] 两处雅各布长引，改为「首段开、末段闭」，与 w5/2 bi21[6]–bi21[7] 已入库先例同型）；措辞 3 处（bi38[16]「思惟掉」→「在思惟中消除」、bi51[1]「他们」→「它们」、bi41[0]「被规定的东西」→「被规定者」）；另修 bi36[0] 去「现在」、bi26[0]「直接联系」→「直接联结」。③ 机器门新增 ENTRIES_EXEMPT 分义豁免 1 条（Objekt 名词「客体」与 das Objektive「客观者」分开），配 2 例自检（23 例全 PASS）。④ 本波确立的体例（与 w5/0–w5/1 已入库一致）：中文「」既对应德文 »…«，也用于标德文斜体强调（w5/0–w5/1 已入库 500 句中 43 处如此）；跨段引文一律首段开、末段闭，句内不另加引号。⑤ 术语用字自检须按「逐节配对」做（bi 是节内块号，跨节会撞键——本波曾因此误判体例基线，已改正）。",
-  "★wave52 补充分义（w5/2 词根对分工）：① Untrenn- 族（Untrennbares 不可分者／Untrennbarkeit 不可分性）与 ungetrennt- 族（ungetrennt 不可分离的／Ungetrenntheit 不可分离性）严格分开：共享词表两条 + w5/0 Untrennbares 与 w5/1 bi6[0] Untrennbarkeit 的已入库先例均支持此分工，w5/2 原把两者译反，已改正 3 处（bi18[8]、bi18[9]、bi30[7]）。② das Affirmative（关系/方面的肯定面）作「肯定方面」（bi30[7]），ein Affirmatives（肯定者）作「肯定者」（bi46[1]、bi50[8]、bi50[9]）——两者中文同根「肯定」，德文形态不同故分义登记。③ Veränderliches（可变的，bi23[5]）与 Veränderlichkeit（可变易性，w5/1 bi56[4] 已入库先例）分义对举。"
+  "★wave52 补充分义（w5/2 词根对分工）：① Untrenn- 族（Untrennbares 不可分者／Untrennbarkeit 不可分性）与 ungetrennt- 族（ungetrennt 不可分离的／Ungetrenntheit 不可分离性）严格分开：共享词表两条 + w5/0 Untrennbares 与 w5/1 bi6[0] Untrennbarkeit 的已入库先例均支持此分工，w5/2 原把两者译反，已改正 3 处（bi18[8]、bi18[9]、bi30[7]）。② das Affirmative（关系/方面的肯定面）作「肯定方面」（bi30[7]），ein Affirmatives（肯定者）作「肯定者」（bi46[1]、bi50[8]、bi50[9]）——两者中文同根「肯定」，德文形态不同故分义登记。③ Veränderliches（可变的，bi23[5]）与 Veränderlichkeit（可变易性，w5/1 bi56[4] 已入库先例）分义对举。",
+  "★wave53 分义裁定（w5/3「Das Dasein」章，8 单元 / 78 块 / 222 句；★已按全库用字对扫收敛，见下条收敛记录）：① Anderes 本卷一律「他者」（w5/0–w5/2 已入库 30 处「他者」；覆盖共享词表主条「他物」并登记理由），Anderssein 则作「他在」（共享词表定译 + w3/w4 先例），二者严格分开。② Ansichsein＝自在存在、Sein-für-Anderes＝为他存在、Anundfürsichsein＝自在自为，与 w5 已入库的「自为存在」（13 处）成对。③ Unterschiedenheit＝差别（与 Verschiedenheit 相异严格分工）。④ Entstehen＝产生、Vergehen＝消逝（与 Werden＝生成严格分开）。⑤ Nichtsein＝非存在、Nichtseiende＝非存在者（与 Nichts＝无分开）。⑥ Realitäten（复数）＝实在性，与 das Reelle 实在物、das Reale 实在者分开。⑦ Inbegriff＝总汇（共享词表主条作「总合」unsicher，备选「集合／总汇」，本卷取「总汇」）。⑧ 属性三词：Attribut＝属性、Eigenschaft＝属性、Beschaffenheit＝性质——★三词撞名待用户裁决。⑨ Grenze 与 Schranke 并列时作「界限、限度」（w4/5 bi120 同型先例），单独出现的 Schranke 一律「界限」。⑩ aufhebt 的日常义（废除、取消）作「取消」，技术义（Aufhebung）一律「扬弃」。⑪ Dasein 的神学日常义（Dasein Gottes）作「上帝存在的证明」（共享词表定译），机器门豁免串须容许「的」缺省（wave51 门的豁免串写作「上帝的存在」，本波已修正为正则）。⑫ Maß 在伦理语境（规定目的与尺度）作「尺度」，本卷体系义「度」留给质—量—度。",
+  "★wave53 门务记录（w5/3，批 1：w5-3-0/9/20/34，43 块 / 113 句；批 2：w5-3-43/53/59/70，35 块 / 109 句）：① 机器门 0 critical / 0 major / 1 minor（termChecks 457 / dntChecks 14）。② 逐句回源（222 句逐句读 DE/EN/ZH 三列）另修：vorgestellt 漏「表象」词根 3 处（bi8[3]、bi42[5]、bi49[2]，均改「被表象」）；Realitäten 误作「实在物」3 处（bi43[1]、bi43[2]、bi47[1]，改「实在性」）；Anderes 误作「他人」2 处（bi24[0]、bi34[4]，改「他者」）；「aus Anderem」误作「它者」1 处（bi50[0]，改「他者」）；措辞 1 处（bi13[4]「没有着落」→「无所依凭」）。③ 机器门新增 ENTRIES_EXEMPT 分义豁免 2 条：Moment（杠杆语境「mechanische Momente」＝力矩，非「环节」，bi19[8]）、Wissenschaft（书名《哲学百科全书》＝Enzyklopädie der philosophischen Wissenschaften，非「科学」，bi19[8]）；并修正 Dasein 的 EXEMPT 豁免串为 /上帝的?存在/。④ 自检脚本补 5 例（2 条豁免各 1 报 1 不报），**28 例全 PASS**。⑤ 机器门只保证「没写错字」：本波 222 句仍逐句回源（并导出 DE/EN/ZH 三列 + zh/de、en/de 长度比），漏译才抓得出来。",
+  "★wave53 分义与误报登记（qa-trans 对 w5/3 报 11 条＝1 major + 10 minor，0 条真缺陷）：① major：bi43[0]「Dasein 渲染为存在」——神学日常义（Dasein Gottes＝上帝存在的证明），分义误报（qa-trans 无 Dasein 豁免机制）；② minor：Moment／Wissenschaft（bi19[8] 杠杆力矩、百科全书书名）2 条；Sein 作物主代词「Seine Vermittlung」（bi32[3]）1 条；Nichts 被 Nichtsein 前缀命中（bi33[1]、bi33[2]、bi70[1]、bi73[2]、bi73[3]、bi74[1]）6 条；Allgemeinheit 词干命中复数 Allgemeinheiten（bi54[2]，本卷分义作「普遍者」）1 条。③ 机器门的 forbidden 计数式判据（德文 nSrc 次 vs 中文宜译词 nGood 次）比 qa-trans 的「含禁词且不含宜译词」更严，能抓住同句第二次误译；但两者对神学日常义与派生形都无豁免，故误报登记在此。",
+  "★wave53 术语层收敛（对首轮 22 条新条目做全库用字对扫后定案：删 3 条 / 改 4 条 / 增 2 条，首轮 37 条新 minor 归零）：① 删 Ansich（自在）——机器门与 qa-trans 均按「词干＋0–3 小写」匹配，会把 Ansicht／Ansichten（观点／看法）一并命中，w5/0、w5/1 共 4 处误报；本卷由 Ansichsein→自在存在 条目兜底，das Ansich 的「自在」在正文中直译。② 删 Andere（他者）——Sein-für-Anderes（为他存在）复合词内含「Anderes」，w5/3 有 10 处假阳性；w5/0–w5/2 存量另有 10 处「他物／它者／别的东西」四分用字（待用户裁决），该词只作说明不入表。③ 删 Gleichheit（等同）——w5/0 bi9[5]「同自身的同一」、w5/2 bi10[0]「与自身的简单相等」两处存量异例，共享词表自身另有专条「Gleichheit mit sich selbst→与自身的同一」，口径未平；该词只作说明不入表。④ Anderssein＝他在（共享词表 row729 ok「全卷统一『他在』」、全库 107 句在用、w3/w4 一致、w4 包明列「他者性」为禁译），覆盖共享词表另一主条「他者性」并登记理由；本波 5 句 8 处「他者性」已回改为「他在」（bi68[2]、bi69[1]、bi69[2]、bi73[2]、bi74[0]）。⑤ Unterschiedenheit＝差别（共享词表 ok；w5/2 bi17[3] 存量已是「差别」），与 Unterschied（差别）同值、与 Verschiedenheit（相异）严格分工；本波 3 处「差异性」已回改（bi9[0]、bi13[2]、bi20[1]）。⑥ Vollkommenheit＝完善（w5 存量与共享词表 row357 一致），本波 bi43[1]「完满性」→「完善性」；w4 的「完满」列入跨卷待裁决，不擅改已入库卷。⑦ 属性三词：Eigenschaft＝属性（共享词表主条 ok，全库 110 句对 7 句；本波统一 w5/2 bi21[2]「性质」→「属性」，标准中文作「存在不是一种属性」）、Attribut＝属性（w5 存量 2 处已一致）、Beschaffenheit＝性质（w4 先例 + w5 存量 3 处；本波 bi59[0] 及 w5/3 后半 12 处统一「性质」）——与共享词表「属性」(ok) 的差异列入跨卷待裁决；★Attribut 与 Eigenschaft 同值的三词撞名待用户裁决。⑧ Sein-für-Anderes＝为他存在（共享词表 row1258 ok），本波 bi76[1]、bi76[2] 的「他者存在」已回改；w4 包作「为他存在的存在」，差异待裁决。",
+  "★wave53 第 3 批分义与门务（w5/3 后半：w5-3-78/86/93/100，24 块 / 91 句；至此 w5/3 全章收官 102 块 / 313 句）：① Insichsein 按共享词表政策作「自身内存在」，与 Ansichsein「自在存在」严格分开（本波把 w5/3 的 8 处 Insichsein 由「自在存在」回改为「自身内存在」：bi53[3]、bi54[6]、bi61[2]、bi90[1]、bi92[0]、bi92[5]、bi92[6]、bi95[2]；w5/1 存量 bi6[1] 即作「自身内存在」）。② Zufälliges 按本卷 styleGuide 作「偶然者」（bi87[1]、bi100[3]），覆盖共享词表备选「偶然的东西」(variante)。③ Beschaffenheit＝性质（新增条目；w4 先例 + w5 存量 3 处一致），与 Attribut／Eigenschaft 同作「属性」的三词撞名待用户裁决。④ Beschaffenheit 的 EN 层取 constitution（区别于 Eigenschaft 的 property），bi59[0] 的 EN 同步改为 \"passes just as much into constitution\"，全章 EN 层一致。⑤ 机器门 dnt 判据修正：标签型字面量（a) b) c) α) β) γ)）须在词首出现，否则会命中词内字串（w5-3-93 bi97[1] 的 \"innerhalb)\" 被误判为缺 \"b)\"）；自检补 3 例，31 例全 PASS。⑥ 逐句回源（91 句 DE/EN/ZH 三列并排读）修正 8 处：bi100[1] 中文里混入英文 becoming（真缺陷）、bi100[5] 次序「点、面、线」倒置应为「点、线、面」（真缺陷）、bi79[0]「以为他存在」与「为他存在」粘连（真缺陷）、bi78[6]、bi79[1]、bi92[1]、bi100[0] 措辞。",
+  "★wave53 不入条目表的词与理由（wave46 纪律：只有全库 0 miss 且本卷已入库处全部命中的词才可入 entries）：Mitte（中项）——词干与 Mittel（手段）相撞，w5/0 存量 6 处误报；Punkt（点）——w5/3 bi61[2]「zu dem Punkte des Insichseins」为转折点义，非几何「点」；Raum（空间）——w5/0 bi21[2]「Raum」作「余地」；Anfang（开端）——w5 存量 8 处用「开创／开始」；Element（元素）——共享词表主条作「要素」(ok)，w5 存量 2 处未命中；Körper（物体）——w5/0 bi54[1]「Inhalt und Körper der Wissenschaft」作「躯体」；Natur（自然）——共享词表本身分义（本性／自然），w5 存量 26 处未命中；Sollen（应然）、Erfüllung（实现）、Erscheinung（现象）、Gegenstand（对象）、Selbständigkeit（独立自主）——各有 1–2 处存量异例；以上各词只作说明，不入 entries。",
+  "★wave53 第 3 批 qa-trans 误报登记（w5/3 共 19 条＝1 major + 18 minor，0 条真缺陷）：① major：bi43[0]「Dasein 渲染为存在」——神学日常义（Dasein Gottes＝上帝存在的证明），分义误报；② minor：Nichts 规则被 Nichtsein 家族命中 14 条（bi33[1]、bi33[2]、bi70[1]、bi73[2]、bi73[3]、bi74[1]、bi92[5]、bi93[0]、bi94[0]、bi94[1]、bi95[0]、bi96[0]、bi97[3]、bi99[4]）——机器门已配 ENTRIES_EXEMPT 豁免，qa-trans 无此豁免机制；Moment／Wissenschaft（bi19[8] 杠杆力矩、百科全书书名）2 条；Sein 作物主代词（bi32[3]）1 条；Allgemeinheit 词干命中复数 Allgemeinheiten（bi54[2]，本卷分义作「普遍者」）1 条。③ qa-trans 的 Nichts 规则对 Nichtsein 家族的全库误报共 22 条（w4 5 条 + w5 17 条），建议照抄机器门 ENTRIES_EXEMPT 给 qa-trans 加豁免（属共享脚本改动，会使全库基线下移 22，列入待用户裁决）。"
  ],
  "entries": [
   {
@@ -700,6 +707,251 @@
    "zh": "可变的",
    "type": "term",
    "note": "w5/2 bi23[5]；与 Veränderlichkeit（本卷 w5/1 bi56[4] 先例：可变易性）分义对举"
+  },
+  {
+   "source": "Ansichsein",
+   "en": "being-in-itself",
+   "zh": "自在存在",
+   "type": "term",
+   "note": "共享词表定译；与 Fürsichsein（自为存在，w5 已入库 13 处）成对；w5/3 首见"
+  },
+  {
+   "source": "Sein-für-Anderes",
+   "en": "being-for-other",
+   "zh": "为他存在",
+   "type": "term",
+   "note": "共享词表定译「为他存在」(row1258，ok)；与自在存在、自为存在并列；w4 包作「为他存在的存在」，差异列入跨卷待裁决"
+  },
+  {
+   "source": "Anundfürsichsein",
+   "en": "being-in-and-for-self",
+   "zh": "自在自为",
+   "type": "term",
+   "note": "w3 已入库先例（自在自为存在）；w5/3 首见"
+  },
+  {
+   "source": "Macht",
+   "en": "power",
+   "zh": "力量",
+   "type": "term",
+   "note": "共享词表「Macht / Mächte」＝力量（ok），本卷取「力量」（w5/0–w5/2 已入库 8 处「力量」、0 处「威力」）；与 Kraft（力）分开"
+  },
+  {
+   "source": "Unterschiedenheit",
+   "en": "inequality",
+   "zh": "差别",
+   "type": "term",
+   "note": "共享词表定译「差别」(ok)；w5/2 bi17[3] 存量已是「差别」；与 Unterschied（差别）同值、与 Verschiedenheit（相异）严格分工（w5/3 bi9[0]、bi13[2]、bi20[1]、bi99[3]）"
+  },
+  {
+   "source": "Entstehen",
+   "en": "coming-to-be",
+   "zh": "产生",
+   "type": "term",
+   "note": "共享词表定译；刻意避开「生成」（Werden＝生成）；与 Vergehen（消逝）对举"
+  },
+  {
+   "source": "Vergehen",
+   "en": "perishing",
+   "zh": "消逝",
+   "type": "term",
+   "note": "共享词表备选（消亡／过去）本卷取「消逝」；与 Entstehen（产生）对举"
+  },
+  {
+   "source": "Nichtsein",
+   "en": "non-being",
+   "zh": "非存在",
+   "type": "term",
+   "note": "w2/0 已入库先例（存在与非存在）；与 Nichts（无）严格分开（机器门已配 Nichtsein 豁免）"
+  },
+  {
+   "source": "Nichtseiende",
+   "en": "the non-existent",
+   "zh": "非存在者",
+   "type": "term",
+   "note": "与 Nichtsein（非存在）同根分义"
+  },
+  {
+   "source": "Affirmation",
+   "en": "affirmation",
+   "zh": "肯定",
+   "type": "term",
+   "note": "das Affirmative（肯定方面）／Affirmatives（肯定者）的名词化本字"
+  },
+  {
+   "source": "Inbegriff",
+   "en": "aggregate",
+   "zh": "总汇",
+   "type": "term",
+   "note": "共享词表主条作「总合」(unsicher)，备选「集合／总汇」；本卷取「总汇」并登记理由"
+  },
+  {
+   "source": "Vollkommenheit",
+   "en": "perfection",
+   "zh": "完善",
+   "type": "term",
+   "note": "共享词表定译「完善」(row357)；w5 存量 w5/0 bi8[2]「完善的」、bi20[2]「完善性」已一致，本波 bi43[1] 由「完满性」回改为「完善性」；w4 的「完满」列入跨卷待裁决，不擅改已入库卷"
+  },
+  {
+   "source": "Temperieren",
+   "en": "to temper",
+   "zh": "调和",
+   "type": "term",
+   "note": "莱布尼茨式中介表述中的「调和」（w5/3 bi44[3]–bi44[5]）"
+  },
+  {
+   "source": "Bestimmungslose",
+   "en": "the indeterminate",
+   "zh": "无规定",
+   "type": "term",
+   "note": "与 Bestimmungslosigkeit（无规定，w5/2）同根"
+  },
+  {
+   "source": "Das Bestimmte",
+   "en": "the determinate",
+   "zh": "被规定者",
+   "type": "term",
+   "note": "w5/1–w5/2 已入库先例（被规定者）"
+  },
+  {
+   "source": "Anderssein",
+   "en": "otherness",
+   "zh": "他在",
+   "type": "term",
+   "note": "共享词表定译（row729，ok，注「全卷统一『他在』」）；全库 107 句在用（w2 5／w3 78／w4 23），w3/w4 一致，w4 包明列「他者性」为禁译；覆盖共享词表另一条主条「他者性」并登记理由；与 Andere（他者）严格分开——本波 5 句 8 处「他者性」已回改为「他在」"
+  },
+  {
+   "source": "Substantialität",
+   "en": "substantiality",
+   "zh": "实体性",
+   "type": "term",
+   "note": "与 Substanz（实体）同族；个体「实体性」"
+  },
+  {
+   "source": "Realitäten",
+   "en": "realities",
+   "zh": "实在性",
+   "type": "term",
+   "note": "Realität 的复数；与 das Reelle（实在物）、das Reale（实在者）分开"
+  },
+  {
+   "source": "Eigenschaft",
+   "en": "property",
+   "zh": "属性",
+   "type": "term",
+   "note": "共享词表主条「属性」(ok)，全库 110 句「属性」对 7 句「性质」；本波统一 w5/2 bi21[2]「性质」→「属性」（标准中文作「存在不是一种属性」）；与 Attribut（属性）同值、与 Beschaffenheit（本卷「性质」）严格分开"
+  },
+  {
+   "source": "Attribut",
+   "en": "attribute",
+   "zh": "属性",
+   "type": "term",
+   "note": "共享词表定译「属性」(row1471，ok)；全库 20 句统一「属性」；w5 存量 2 处已一致；与 Eigenschaft（本卷同为「属性」，共享词表亦同作「属性」）同值，与 Beschaffenheit（本卷「性质」）分开"
+  },
+  {
+   "source": "Beschaffenheit",
+   "en": "constitution",
+   "zh": "性质",
+   "type": "term",
+   "note": "本卷取「性质」：w4 包先例 + w5 存量 3 处（w5/0 bi28[0]、bi28[1]、bi37[7]）一致；共享词表主条作「属性」(row1687，ok)，差异列入跨卷待裁决；与 Attribut（属性）、Eigenschaft（属性）分开"
+  },
+  {
+   "source": "Grenze",
+   "en": "limit",
+   "zh": "界限",
+   "type": "term",
+   "note": "共享词表定译「界限」(ok)；与 Schranke（界限）同值，本卷两者均作「界限」；本卷 32 处全部命中"
+  },
+  {
+   "source": "Negation",
+   "en": "negation",
+   "zh": "否定",
+   "type": "term",
+   "note": "本卷 das Negative＝否定、Negation＝否定（styleGuide 已登记）；本卷 55 处全部命中"
+  },
+  {
+   "source": "Widerspruch",
+   "en": "contradiction",
+   "zh": "矛盾",
+   "type": "term",
+   "note": "共享词表定译「矛盾」(ok)；与 Gegensatz（对立）分开；本卷 12 处全部命中"
+  },
+  {
+   "source": "Linie",
+   "en": "line",
+   "zh": "线",
+   "type": "term",
+   "note": "几何三联 点—线—面 之「线」；本卷 12 处全部命中"
+  },
+  {
+   "source": "Fläche",
+   "en": "surface",
+   "zh": "面",
+   "type": "term",
+   "note": "几何三联 点—线—面 之「面」；与 Gestalt（形态）分开；本卷 7 处全部命中"
+  },
+  {
+   "source": "Sinnlichkeit",
+   "en": "sensuousness",
+   "zh": "感性",
+   "type": "term",
+   "note": "共享词表定译「感性」(ok)；与 Sinn（感觉）分开"
+  },
+  {
+   "source": "Vernunft",
+   "en": "reason",
+   "zh": "理性",
+   "type": "term",
+   "note": "共享词表定译「理性」(ok)；与 Verstand（知性）严格分工（forbidden 亦同）"
+  },
+  {
+   "source": "Fülle",
+   "en": "fullness",
+   "zh": "充盈",
+   "type": "term",
+   "note": "本卷首见（w5/3 bi84[2]「seine Fülle」）；与 Fülle der Fülle 分义待后续"
+  },
+  {
+   "source": "Unruhe",
+   "en": "unrest",
+   "zh": "不安",
+   "type": "term",
+   "note": "w5/3 沿用前批译法（w5/3 bi13[4]「haltungslose Unruhe」＝无所依凭的不安）；本卷 5 处全部命中"
+  },
+  {
+   "source": "Verhältnis",
+   "en": "relation",
+   "zh": "关系",
+   "type": "term",
+   "note": "本卷一律「关系」；共享词表主条作「比例（关系）」(ok)，本卷取其一义并登记理由；与 Relation（关系）同值"
+  },
+  {
+   "source": "Eins",
+   "en": "one",
+   "zh": "一",
+   "type": "term",
+   "note": "共享词表定译「一」(ok)，保留引号「一」；本卷 2 处全部命中"
+  },
+  {
+   "source": "Aufheben",
+   "en": "sublation",
+   "zh": "扬弃",
+   "type": "term",
+   "note": "与 Aufhebung（扬弃）同值：名词化的动词形式「das Aufheben」亦作「扬弃」；本卷 13 处全部命中"
+  },
+  {
+   "source": "Zufälliges",
+   "en": "the contingent",
+   "zh": "偶然者",
+   "type": "term",
+   "note": "本卷 styleGuide 已定「Zufälliges＝偶然者」（名词化的 Zufällige）；覆盖共享词表备选「偶然的东西」(variante) 并登记理由；与 Zufälligkeit（偶然性）区分"
+  },
+  {
+   "source": "Insichsein",
+   "en": "being-in-self",
+   "zh": "自身内存在",
+   "type": "term",
+   "note": "共享词表定译「自身内存在」(ok，政策：与 Ansichsein 严格分开)；w5/1 存量 bi6[1] 已如此；本波把 w5/3 的 8 处 Insichsein 由「自在存在」回改为「自身内存在」"
   }
  ],
  "forbidden": [
