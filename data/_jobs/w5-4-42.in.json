@@ -1,0 +1,94 @@
+{
+ "id": "w5-4-42",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 4,
+ "chunkTitle": "c. Die Endlichkeit",
+ "heading": "c. Die Endlichkeit",
+ "blocks": [
+  {
+   "bi": 42,
+   "k": "p",
+   "hash": "1fmnffyuub",
+   "sents": [
+    "Dieser Widerspruch ist sogleich darin vorhanden, daß dem Unendlichen das Endliche als Dasein gegenüberbleibt; es sind damit zwei Bestimmtheiten; es gibt zwei Welten, eine unendliche und eine endliche, und in ihrer Beziehung ist das Unendliche nur Grenze des Endlichen und ist damit nur ein bestimmtes, selbst endliches Unendliches."
+   ]
+  },
+  {
+   "bi": 43,
+   "k": "p",
+   "hash": "16hikk71f4",
+   "sents": [
+    "Dieser Widerspruch entwickelt seinen Inhalt zu ausdrücklicheren Formen.",
+    "– Das Endliche ist das reale Dasein, welches so verbleibt, auch indem zu seinem Nichtsein, dem Unendlichen, übergegangen wird; – dieses hat, wie gezeigt, nur die erste, unmittelbare Negation zu seiner Bestimmtheit gegen das Endliche, so wie dieses gegen jene Negation als Negiertes nur die Bedeutung eines Anderen hat und daher noch Etwas ist.",
+    "Wenn somit der sich aus dieser endlichen Welt erhebende Verstand zu seinem Höchsten, dem Unendlichen, aufsteigt, so bleibt ihm diese endliche Welt als ein Diesseits stehen, so daß das Unendliche nur über dem Endlichen gesetzt, von diesem abgesondert und eben damit das Endliche von dem Unendlichen abgesondert wird, – beide an einen verschiedenen Platz gestellt: das Endliche als das hiesige Dasein, das Unendliche aber, zwar das Ansich des Endlichen, doch als ein Jenseits in die trübe, unerreichbare Ferne, außerhalb welcher jenes sich befinde und dableibe."
+   ]
+  },
+  {
+   "bi": 44,
+   "k": "p",
+   "hash": "n7dicq1dil",
+   "sents": [
+    "So abgesondert sind sie ebenso wesentlich eben durch gegen das Andere, und zwar so, daß jedes derselben sie nicht bloß gegen das Andere an ihm hat, sondern die Negation ist ihr Ansichsein, jedes hat die Grenze so an ihm selbst für sich, in seiner Absonderung von dem Anderen.",
+    "Die Grenze ist aber als die erste Negation, so sind beide begrenzte, endliche an sich selbst.",
+    "Jedoch ist jedes auch als sich auf sich affirmativ beziehend die Negation seiner Grenze; so stößt es sie als sein Nichtsein unmittelbar von sich ab, und qualitativ davon getrennt setzt es sie als ein anderes Sein außer ihm, das Endliche sein Nichtsein als dies Unendliche, dieses ebenso das Endliche.",
+    "Daß von dem Endlichen zum Unendlichen notwendig, d.h. durch die Bestimmung des Endlichen übergegangen und es als zum Ansichsein erhoben werde, wird leicht zugegeben, indem das Endliche zwar als bestehendes Dasein, aber zugleich auch als das an sich nichtige, also sich nach seiner Bestimmung auflösende bestimmt ist, das Unendliche aber zwar als mit Negation und Grenze behaftet bestimmt ist, aber zugleich auch als das Ansichseiende, so daß diese Abstraktion der sich auf sich beziehenden Affirmation seine Bestimmung ausmache, nach dieser hiermit das endliche Dasein nicht in ihr liege.",
+    "Aber es ist gezeigt worden, daß das Unendliche selbst nur vermittels der Negation, als Negation der Negation, zum affirmativen Sein resultiert und daß diese seine Affirmation, als nur einfaches, qualitatives Sein genommen, die in ihm enthaltene Negation zur einfachen unmittelbaren Negation und damit zur Bestimmtheit und Grenze herabsetzt, welches dann ebenso als widersprechend seinem Ansichsein, aus ihm ausgeschlossen, als nicht das Seinige, vielmehr seinem Ansichsein Entgegengesetzte, das Endliche, gesetzt wird.",
+    "Indem so jedes an ihm selbst und aus seiner Bestimmung das Setzen seines Anderen ist, sind sie untrennbar.",
+    "Aber diese ihre Einheit ist in dem qualitativen Anderssein derselben verborgen, sie ist die innerliche, die nur zugrunde liegt."
+   ]
+  },
+  {
+   "bi": 45,
+   "k": "p",
+   "hash": "1aqw1y61fp",
+   "sents": [
+    "Dadurch ist die Weise der Erscheinung dieser Einheit bestimmt; im Dasein gesetzt ist sie als ein Umschlagen oder Übergehen des Endlichen zum Unendlichen und umgekehrt; so daß das Unendliche an dem Endlichen und das Endliche an dem Unendlichen, das Andere an dem Anderen, nur hervortrete, d.h. jedes ein eigenes unmittelbares Entstehen an dem Anderen und ihre Beziehung nur eine äußerliche sei."
+   ]
+  },
+  {
+   "bi": 46,
+   "k": "p",
+   "hash": "1tuftvtk0l",
+   "sents": [
+    "Der Prozeß ihres Übergehens hat folgende ausführliche Gestalt.",
+    "Es wird über das Endliche hinausgegangen in das Unendliche.",
+    "Dies Hinausgehen erscheint als ein äußerliches Tun.",
+    "In diesem dem Endlichen jenseitigen Leeren, was entsteht?",
+    "Was ist das Positive darin?",
+    "Um der Untrennbarkeit des Unendlichen und Endlichen willen (oder weil dies auf seiner Seite stehende Unendliche selbst beschränkt ist) entsteht die Grenze; das Unendliche ist verschwunden, sein Anderes, das Endliche, ist eingetreten.",
+    "Aber dies Eintreten des Endlichen erscheint als ein dem Unendlichen äußerliches Geschehen und die neue Grenze als ein solches, das nicht aus dem Unendlichen selbst entstehe, sondern ebenso vorgefunden werde.",
+    "Es ist damit der Rückfall in die vorherige, vergebens aufgehobene Bestimmung vorhanden.",
+    "Diese neue Grenze aber ist selbst nur ein solches, das aufzuheben oder über das hinauszugehen ist.",
+    "Somit ist wieder das Leere, das Nichts entstanden, in welchem ebenso jene Bestimmtheit, eine neue Grenze, angetroffen wird – und so fort ins Unendliche."
+   ]
+  },
+  {
+   "bi": 47,
+   "k": "p",
+   "hash": "9hmnh6hgba",
+   "sents": [
+    "Es ist die Wechselbestimmung des Endlichen und Unendlichen vorhanden; das Endliche ist endlich nur in der Beziehung auf das Sollen oder auf das Unendliche, und das Unendliche ist nur unendlich in Beziehung auf das Endliche.",
+    "Sie sind untrennbar und zugleich schlechthin Andere gegeneinander; jedes hat das Andere seiner an ihm selbst; so ist jedes die Einheit seiner und seines Anderen und ist in seiner Bestimmtheit Dasein, das nicht zu sein, was es selbst und was sein Anderes ist."
+   ]
+  },
+  {
+   "bi": 48,
+   "k": "p",
+   "hash": "hozp8h5flo",
+   "sents": [
+    "Diese sich selbst und seine Negation negierende Wechselbestimmung ist es, welche als der Progreß ins Unendliche auftritt, der in so vielen Gestalten und Anwendungen als ein Letztes gilt, über das nicht mehr hinausgegangen wird, sondern angekommen bei jenem »und so fort ins Unendliche« pflegt der Gedanke sein Ende erreicht zu haben.",
+    "– Dieser Progreß tritt allenthalben ein, wo relative Bestimmungen bis zu ihrer Entgegensetzung getrieben sind, so daß sie in untrennbarer Einheit sind und doch jeder gegen die andere ein selbständiges Dasein zugeschrieben wird.",
+    "Dieser Progreß ist daher der Widerspruch, der nicht aufgelöst ist, sondern immer nur als vorhanden ausgesprochen wird."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/4.p42.json"
+}

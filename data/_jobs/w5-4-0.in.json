@@ -1,0 +1,110 @@
+{
+ "id": "w5-4-0",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 4,
+ "chunkTitle": "c. Die Endlichkeit",
+ "heading": "c. Die Endlichkeit",
+ "blocks": [
+  {
+   "bi": 0,
+   "k": "h",
+   "hash": "1s55jaeh13",
+   "text": "c. Die Endlichkeit"
+  },
+  {
+   "bi": 1,
+   "k": "p",
+   "hash": "1n1mnzpguo",
+   "sents": [
+    "Das Dasein ist bestimmt; Etwas hat eine Qualität und ist in ihr nicht nur bestimmt, sondern begrenzt; seine Qualität ist seine Grenze, mit welcher behaftet es zunächst affirmatives, ruhiges Dasein bleibt.",
+    "Aber diese Negation entwickelt, so daß der Gegensatz seines Daseins und der Negation als ihm immanenter Grenze selbst das Insichsein des Etwas und dieses somit nur Werden an ihm selbst sei, macht seine Endlichkeit aus."
+   ]
+  },
+  {
+   "bi": 2,
+   "k": "p",
+   "hash": "1jj2w0w1np",
+   "sents": [
+    "Wenn wir von den Dingen sagen, sie sind endlich, so wird darunter verstanden, daß sie nicht nur eine Bestimmtheit haben, die Qualität nicht nur als Realität und ansichseiende Bestimmung, daß sie nicht bloß begrenzt sind –, sie haben so noch Dasein außer ihrer Grenze –, sondern daß vielmehr das Nichtsein ihre Natur, ihr Sein ausmacht.",
+    "Die endlichen Dinge sind, aber ihre Beziehung auf sich selbst ist, daß sie als negativ sich auf sich selbst beziehen, eben in dieser Beziehung auf sich selbst sich über sich, über ihr Sein, hinauszuschicken.",
+    "Sie sind, aber die Wahrheit dieses Seins ist ihr Ende.",
+    "Das Endliche verändert sich nicht nur, wie Etwas überhaupt, sondern es vergeht, und es ist nicht bloß möglich, daß es vergeht, so daß es sein könnte, ohne zu vergehen.",
+    "Sondern das Sein der endlichen Dinge als solches ist, den Keim des Vergehens als ihr Insichsein zu haben; die Stunde ihrer Geburt ist die Stunde ihres Todes."
+   ]
+  },
+  {
+   "bi": 3,
+   "k": "h",
+   "hash": "1598erb1dj",
+   "text": "α. Die Unmittelbarkeit der Endlichkeit"
+  },
+  {
+   "bi": 4,
+   "k": "p",
+   "hash": "1wabz9sw2c",
+   "sents": [
+    "Der Gedanke an die Endlichkeit der Dinge führt diese Trauer mit sich, weil sie die auf die Spitze getriebene qualitative Negation ist, in der Einfachheit solcher Bestimmung ihnen nicht mehr ein affirmatives Sein unterschieden von ihrer Bestimmung zum Untergange gelassen ist.",
+    "Die Endlichkeit ist um dieser qualitativen Einfachheit der Negation, die zum abstrakten Gegensatze des Nichts und Vergehens gegen das Sein zurückgegangen ist, die hartnäckigste Kategorie des Verstandes; die Negation überhaupt, Beschaffenheit, Grenze vertragen sich mit ihrem Anderen, dem Dasein; auch das abstrakte Nichts wird für sich als Abstraktion aufgegeben; aber Endlichkeit ist die als an sich fixierte Negation und steht daher seinem Affirmativen schroff gegenüber.",
+    "Das Endliche läßt sich so in Fluß wohl bringen, es ist selbst dies, zu seinem Ende bestimmt zu sein, aber nur zu seinem Ende; – es ist vielmehr das Verweigern, sich zu seinem Affirmativen, dem Unendlichen hin affirmativ bringen, mit ihm sich verbinden zu lassen; es ist also untrennbar von seinem Nichts gesetzt und alle Versöhnung mit seinem Anderen, dem Affirmativen, dadurch abgeschnitten.",
+    "Die Bestimmung der endlichen Dinge ist nicht eine weitere als ihr Ende.",
+    "Der Verstand verharrt in dieser Trauer der Endlichkeit, indem er das Nichtsein zur Bestimmung der Dinge, es zugleich unvergänglich und absolut macht.",
+    "Ihre Vergänglichkeit könnte nur in ihrem Anderen, dem Affirmativen, vergehen; so trennte sich ihre Endlichkeit von ihnen ab; aber sie ist ihre unveränderliche, d. i. nicht in ihr Anderes, d. i. nicht in ihr Affirmatives übergehende Qualität; so ist sie ewig."
+   ]
+  },
+  {
+   "bi": 5,
+   "k": "p",
+   "hash": "12uhj0c1jp",
+   "sents": [
+    "Dies ist eine sehr wichtige Betrachtung; daß aber das Endliche absolut sei, solchen Standpunkt wird sich freilich irgendeine Philosophie oder Ansicht oder der Verstand nicht aufbürden lassen wollen; vielmehr ist das Gegenteil ausdrücklich in der Behauptung des Endlichen vorhanden; das Endliche ist das Beschränkte, Vergängliche; das Endliche ist nur das Endliche, nicht das Unvergängliche; dies liegt unmittelbar in seiner Bestimmung und Ausdruck.",
+    "Aber es kommt darauf an, ob in der Ansicht beim Sein der Endlichkeit beharrt wird, die Vergänglichkeit bestehen bleibt, oder ob die Vergänglichkeit und das Vergehen vergeht.",
+    "Daß dies aber nicht geschieht, ist das Faktum eben in derjenigen Ansicht des Endlichen, welche das Vergehen zum Letzten des Endlichen macht.",
+    "Es ist die ausdrückliche Behauptung, daß das Endliche mit dem Unendlichen unverträglich und unvereinbar sei, das Endliche dem Unendlichen schlechthin entgegengesetzt sei.",
+    "Dem Unendlichen ist Sein, absolutes Sein zugeschrieben; ihm gegenüber bleibt so das Endliche festgehalten als das Negative desselben; unvereinbar mit dem Unendlichen bleibt es absolut auf seiner eigenen Seite; Affirmation erhielte es vom Affirmativen, dem Unendlichen, und verginge so; aber eine Vereinigung mit demselben ist das, was für das Unmögliche erklärt wird.",
+    "Soll es nicht beharrendem Unendlichen gegenüber, sondern vergehen, so ist, wie vorhin gesagt, eben sein Vergehen das Letzte, nicht das Affirmative, welches nur das Vergehen des Vergehens sein würde.",
+    "Sollte aber das Endliche nicht im Affirmativen vergehen, sondern sein Ende als das Nichts gefaßt werden, so wären wir wieder bei jenem ersten, abstrakten Nichts, das selbst längst vergangen ist."
+   ]
+  },
+  {
+   "bi": 6,
+   "k": "p",
+   "hash": "1w5pyrg1kd",
+   "sents": [
+    "Bei diesem Nichts jedoch, welches nur Nichts sein soll und dem zugleich eine Existenz im Denken, Vorstellen oder Sprechen zugegeben wird, kommt derselbe Widerspruch vor, als soeben bei dem Endlichen angegeben worden, nur daß er dort nur vorkommt, aber in der Endlichkeit ausdrücklich ist.",
+    "Dort erscheint er als subjektiv, hier wird behauptet, das Endliche stehe perennierend dem Unendlichen entgegen, das an sich Nichtige sei, und es sei als an sich Nichtiges.",
+    "Dies ist zum Bewußtsein zu bringen; und die Entwicklung des Endlichen zeigt, daß es an ihm als dieser Widerspruch in sich zusammenfällt, aber ihn dahin wirklich auflöst, nicht daß es nur vergänglich ist und vergeht, sondern daß das Vergehen, das Nichts, nicht das Letzte ist, sondern vergeht."
+   ]
+  },
+  {
+   "bi": 7,
+   "k": "p",
+   "hash": "ztntfp9zlo",
+   "sents": []
+  },
+  {
+   "bi": 8,
+   "k": "h",
+   "hash": "1tgkki8np9",
+   "text": "β. Die Schranke und das Sollen"
+  },
+  {
+   "bi": 9,
+   "k": "p",
+   "hash": "reavfplsjg",
+   "sents": [
+    "Dieser Widerspruch ist zwar abstrakt sogleich darin vorhanden, daß das Etwas endlich ist oder daß das Endliche ist.",
+    "Aber Etwas oder das Sein ist nicht mehr abstrakt gesetzt, sondern in sich reflektiert und entwickelt als Insichsein, das eine Bestimmung und Beschaffenheit an ihm hat, und noch bestimmter, daß es eine Grenze an ihm hat, welche, als das dem Etwas Immanente und die Qualität seines Insichseins ausmachend, die Endlichkeit ist.",
+    "In diesem Begriffe des endlichen Etwas ist zu sehen, was für Momente enthalten sind."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/4.p0.json"
+}

@@ -1,0 +1,71 @@
+{
+ "id": "w5-4-20",
+ "volume": {
+  "id": "w5",
+  "bands": [
+   5,
+   6
+  ],
+  "de": "Wissenschaft der Logik",
+  "zh": "逻辑学（大逻辑）"
+ },
+ "chunk": 4,
+ "chunkTitle": "c. Die Endlichkeit",
+ "heading": "c. Die Endlichkeit",
+ "blocks": [
+  {
+   "bi": 20,
+   "k": "p",
+   "hash": "1dhoh3bcez",
+   "sents": [
+    "Du kannst, weil du sollst – dieser Ausdruck, der viel sagen sollte, liegt im Begriffe des Sollens.",
+    "Denn das Sollen ist das Hinaussein über die Schranke; die Grenze ist in demselben aufgehoben, das Ansichsein des Sollens ist so identische Beziehung auf sich, somit die Abstraktion des Könnens.",
+    "– Aber umgekehrt ist es ebenso richtig: Du kannst nicht, eben weil du sollst.",
+    "Denn im Sollen liegt ebensosehr die Schranke als Schranke; jener Formalismus der Möglichkeit hat an ihr eine Realität, ein qualitatives Anderssein sich gegenüber, und die Beziehung beider aufeinander ist der Widerspruch, somit das Nicht-Können oder vielmehr die Unmöglichkeit."
+   ]
+  },
+  {
+   "bi": 21,
+   "k": "p",
+   "hash": "14oagsf1sg",
+   "sents": [
+    "Im Sollen beginnt das Hinausgehen über die Endlichkeit, die Unendlichkeit.",
+    "Das Sollen ist dasjenige, was sich in weiterer Entwicklung nach jener Unmöglichkeit als der Progreß ins Unendliche darstellt."
+   ]
+  },
+  {
+   "bi": 22,
+   "k": "p",
+   "hash": "gg33151109",
+   "sents": [
+    "In Ansehung der Form der Schranke und des Sollens können zwei Vorurteile näher gerügt werden.",
+    "Es pflegt zuerst viel auf die Schranken des Denkens, der Vernunft usf. gehalten zu werden, und es wird behauptet, es könne über die Schranke nicht hinausgegangen werden.",
+    "In dieser Behauptung liegt die Bewußtlosigkeit, daß darin selbst, daß etwas als Schranke bestimmt ist, darüber bereits hinausgegangen ist.",
+    "Denn eine Bestimmtheit, Grenze ist als Schranke nur bestimmt im Gegensatz gegen sein Anderes überhaupt als gegen sein Unbeschränktes, das Andere einer Schranke ist eben das Hinaus über dieselbe.",
+    "Der Stein, das Metall ist nicht über seine Schranke hinaus, darum weil sie für ihn nicht Schranke ist.",
+    "Wenn jedoch bei solchen allgemeinen Sätzen des verständigen Denkens, daß über die Schranke nicht hinausgegangen werden könne, das Denken sich nicht anwenden will, um zu sehen, was im Begriffe liegt, so kann an die Wirklichkeit verwiesen werden, wo denn solche Sätze sich als das Unwirklichste zeigen.",
+    "Dadurch eben, daß das Denken etwas Höheres als die Wirklichkeit sein, von ihr sich entfernt in höheren Regionen halten soll, dasselbe also selbst als ein Sollen bestimmt ist, geht es einerseits nicht zum Begriffe fort und geschieht ihm andererseits, daß es sich ebenso unwahr gegen die Wirklichkeit als gegen den Begriff verhält.",
+    "– Weil der Stein nicht denkt, nicht einmal empfindet, ist seine Beschränktheit für ihn keine Schranke, d.h. in ihm nicht eine Negation für die Empfindung, Vorstellung, Denken usf., die er nicht hat.",
+    "Aber auch selbst der Stein ist als Etwas in seine Bestimmung oder sein Ansichsein und sein Dasein unterschieden, und insofern geht auch er über seine Schranke hinaus; der Begriff, der er an sich ist, enthält die Identität mit seinem Anderen.",
+    "Ist er eine säurungsfähige Basis, so ist er oxydierbar, neutralisierbar usf.",
+    "In der Oxydation, Neutralisation usf. hebt sich seine Schranke, nur als Basis da zu sein, auf; er geht darüber hinaus, so wie die Säure ihre Schranke, als Säure zu sein, aufhebt, und es ist in ihr wie in der kaustischen Basis so sehr das Sollen, über ihre Schranke hinauszugehen, vorhanden, daß sie nur mit Gewalt als – wasserlose, d. i. rein nicht neutrale – Säure und kaustische Basis festgehalten werden können."
+   ]
+  },
+  {
+   "bi": 23,
+   "k": "p",
+   "hash": "qby37g14zy",
+   "sents": [
+    "Enthält aber eine Existenz den Begriff nicht bloß als abstraktes Ansichsein, sondern als für sich seiende Totalität, als Trieb, als Leben, Empfindung, Vorstellen usf., so vollbringt sie selbst aus ihr dies, über die Schranke hinaus zu sein und hinauszugehen.",
+    "Die Pflanze geht über die Schranke, als Keim zu sein, ebenso über die, als Blüte, als Frucht, als Blatt zu sein, hinaus; der Keim wird entfaltete Pflanze, die Blüte verblüht usf.",
+    "Das Empfindende in der Schranke des Hungers, Durstes usf. ist der Trieb, über diese Schranke hinauszugehen, und vollführt dies Hinausgehen.",
+    "Es empfindet Schmerz, und das Vorrecht empfindender Natur ist, Schmerz zu empfinden; es ist eine Negation in seinem Selbst, und sie ist als eine Schranke in seinem Gefühle bestimmt, eben weil das Empfindende das Gefühl seiner Selbst hat, welches die Totalität ist, die über jene Bestimmtheit hinaus ist.",
+    "Wäre es nicht darüber hinaus, so empfände es dieselbe nicht als seine Negation und hätte keinen Schmerz.",
+    "– Die Vernunft aber, das Denken, sollte nicht über die Schranke hinausgehen können, – sie, die das Allgemeine [ist], das für sich über die, d. i. über alle Besonderheit hinaus ist, nur das Hinausgehen über die Schranke ist.",
+    "– Freilich ist nicht jedes Hinausgehen und Hinaussein über die Schranke eine wahrhafte Befreiung von derselben, wahrhafte Affirmation; schon das Sollen selbst ist ein solches unvollkommenes Hinausgehen und die Abstraktion überhaupt.",
+    "Aber das Hinweisen auf das ganz abstrakte Allgemeine reicht aus gegen die ebenso abstrakte Versicherung, es könne nicht über die Schranke hinausgegangen werden, oder schon das Hinweisen auf das Unendliche überhaupt gegen die Versicherung, daß nicht über das Endliche hinausgegangen werden könne."
+   ]
+  }
+ ],
+ "outFile": "web/data/trans/w5/4.p20.json"
+}

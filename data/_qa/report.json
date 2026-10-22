@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-21T15:28:38.650Z",
- "blocks": 6139,
- "sentences": 18361,
+ "generated": "2026-10-22T04:45:06.770Z",
+ "blocks": 6181,
+ "sentences": 18487,
  "issues": [
   {
    "sev": "minor",
@@ -12757,11 +12757,46 @@
    "sev": "minor",
    "where": "w5/3#99",
    "msg": "sentence 4: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/4#2",
+   "msg": "sentence 0: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/4#4",
+   "msg": "sentence 4: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "major",
+   "where": "w5/4#6",
+   "msg": "sentence 2: “wirklich” (family Wirklichkeit) does not keep the family root “现实”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/4#10",
+   "msg": "sentence 2: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/4#12",
+   "msg": "sentence 0: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/4#15",
+   "msg": "sentence 0: \"Nichts\" is not rendered as “无”"
+  },
+  {
+   "sev": "minor",
+   "where": "w5/4#39",
+   "msg": "sentence 1: \"Nichts\" is not rendered as “无”"
   }
  ],
  "bySev": {
   "critical": 0,
-  "major": 234,
-  "minor": 2317
+  "major": 235,
+  "minor": 2323
  }
 }

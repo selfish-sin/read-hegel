@@ -96,6 +96,54 @@ node scripts/show-review-diff.mjs --vol w3 --chunk 7  # 逐条回查德文后再
 ```
 
 
+### ★ 第 54 波已收官：w5/4「c. Die Endlichkeit ＋ C. Die Unendlichkeit」批 1 —— 第 5 卷第 5 节（进行中）
+
+**w5/4 批 1 已译完：5 单元 / 42 块 / 126 句**（该节 chunk 共 71 块＝61 正文段 + 9 标题 + 1 个 fn 编者块按契约不译；243 句中已译 126 句，已译块为 bi0–bi41）。全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
+
+| 批次 | 单元 | 块 | 句 | 内容 |
+|---|---|---|---|---|
+| b1 | w5-4-0 / w5-4-10 | 20 | 51 | bi0「c. Die Endlichkeit」有限性＋引言（bi1–2：事物的有限、有限性带来的哀痛与它的自嘲）；bi3「α. Die Unmittelbarkeit der Endlichkeit」有限性的直接性（bi4–7，含 `ns=0` 空段 bi7）；bi8「β. Die Schranke und das Sollen」界限与应然（bi9–17）；bi18「Anmerkung」注解（bi19：应然在哲学里的新角色与道德） |
+| b2 | w5-4-20 / w5-4-24 | 13 | 50 | bi20–bi25 注解续（「你能够，因为你应当」、围绕界限与应然的两种偏见、莱布尼茨的单子与「纸片」式设定、应然自身仍属有限）；bi26「γ. Übergang des Endlichen in das Unendliche」有限者向无限者的过渡（bi27）；bi28「C. Die Unendlichkeit」无限性（bi29–33：无限者作为绝对者的新定义，及 a) 肯定者作为有限者的否定／b) 与有限者的相互规定／c) 二者的自我扬弃作为一个过程） |
+| b3 | w5-4-33 | 9 | 25 | bi34「a. Das Unendliche überhaupt」无限者一般（bi35–37：无限者是否定之否定、有限者在无限者中消失）；bi38「b. Wechselbestimmung des Endlichen und Unendlichen」有限者与无限者的相互规定（bi39–41，至「无限者与有限者在质的规定上互为它者」） |
+
+**w5/4 批 1 收官（整节尚未译完）。** 覆盖率 19.93% → **20.07%**（18,361 → 18,487 / 92,117 句；段落 5,606 → 5,640 / 17,948 = 31.42%；标题 533 → 541 / 2,847）。第 5 卷 1,050 → **1,176 句（13.2%）**，**分节进度 5/38**（w5/0–w5/3 整节 100%）。
+
+> **★ 本节剩余边界**：bi42–bi69（28 块 / 117 句）尚未译——bi42–bi50 是「b. Wechselbestimmung」后半（有限者与无限者的相互规定如何展开为一个过程），bi51 是标题「c. Die affirmative Unendlichkeit」肯定的无穷性，bi52–bi69 是该节正文；bi70 是 fn 编者块，按契约不译。**判据：分节名要看块内的 `k="h"` 标题，不要信 `chunk.t`。**
+
+- **★ 本波最关键裁定：`Schranke` 与 `Grenze` 的中文分工**（沿用 wave53 裁定 ⑨）：
+  - `Grenze` 一律作「**界限**」；`Schranke` 默认也作「**界限**」——依据：context-w5 条目已写「本卷两者均作界限」＋共享词表同值＋**w5/1、w5/2 已入库 5 处先例均作「界限」**。
+  - **仅 4 句**（bi10[2]、bi10[3]、bi10[4]、bi11[0]——德文把二者显式对举或等同处）作「**界限、限度**」；先例＝w4/5 bi120「一个界限或者说一个限度」。
+  - **理由**：若全篇作「界限」，这 4 句会变成「这个界限既是界限」的同义反复，中文读不出对举。w5/1–w5/3 已入库的 5 处「界限」**未改动**。
+- **★ 术语层（context-w5）**：entries 132 → **133**（+1：`Moralität`→**道德**，全库 193 句 0 miss）、styleGuide 22 → **24**（+2：wave54 分义裁定 + 门务记录）。
+  - `Endlichkeit`→有限性、`Unendlichkeit`→无限性、das Endliche→有限者、das Unendliche→无限者、`Sollen`→应然——全库均有存量异例（12 / 18 / 2 / 31 句等），按 wave46 纪律**只作分义登记、不入 entries**（入表会给已入库章节制造 minor 噪音）。
+  - `das Affirmative` 在本节与 `das Negative`（否定者）对举处作「**肯定者**」；w5/2 bi30[7] 的「肯定方面」属关系／方面义，是分义，不入 entries。
+- **★ 机器门**（复用 `data/_jobs/_gate_w53.mjs`）：5 单元 / 42 块 / 126 句 → **0 critical / 0 major / 0 minor**（dntChecks 5 / termChecks 301）。**门禁查出的 9 处真缺陷已全部修掉**：
+  - `Vereinigung`「结合」→「**统一**」（卷级裁定，与 w5/0–w5/3 一致）；
+  - `Anderssein`「他者」→「**他在**」（bi10[1]、bi20[3]，wave53 已定「他在」）；
+  - `Identität`「同一」→「**同一性**」（bi27[9]，与同节其余处统一）；
+  - `Etwas`「有限者」→「**某物**」（bi11[3]，`Etwas` 恒作「某物」，不作「有限者」）；
+  - `das Affirmative`「肯定方面」→「**肯定者**」（bi4[1]、bi4[2]、bi4[5]、bi5[4]、bi5[5]、bi5[6]）；
+  - doNotTranslate「1.」「2.」漏字面 → bi27[4] / bi27[6] 照录编号；
+  - `Ansichsein` 误作「自身内存在」→ bi40[6] 改「**自在存在**」（与 `Insichsein`＝自身内存在严格分开）。
+- **★ 逐句回源（126 句全读，导出 DE/EN/ZH 三列 + zh/de 长度比扫描）**：只有 1 条低比句 bi22[1]，人工确认无漏译；另修 4 处：bi35[2]（`er` 指无限者、`Gemüt`→「内心」）、bi5[1]（「das Sein der Endlichkeit」→「**有限性的存在**」）、bi25[3]（`Befriedigung`→「满足自己」）、bi22[9]（英文收紧，en/de 词数比 1.64 → 1.36）。
+  **沿用第 53 波教训**：门只保证「没写错字」，不保证「没写漏」和「与前文同词同译」——本波 13 处缺陷里机器门抓到 9 处、逐句回源再抓 4 处。
+- **★ QA 读数（基线实测，不是估的）**：全库 **2,551 → 2,558**（critical 0 / major 234→235 / minor 2,317→2,323）。**逐卷：w1 +0、w2 +0、w3 +0、w4 +0**，净增的 7 条全部来自 w5/4 本节——**本波改 context-w5（132→133 条）＋共享词表（+6 行）对存量章节零净影响**。
+  w5/4 分节 7 条**逐条回源，0 真缺陷**：`Nichts` 规则被 `Nichtsein` 前缀命中 **6 条**（分义误报，命中处德文是 `das Nichtsein`／`ein Nichtsein`，中文作「非存在」）、`wirklich` 加强义 **1 条**（w5/4#6[2]「真正地解决」，体系义仍作「现实」——列入待裁决 ③）。
+  **待办延续**：`qa-trans.mjs` 至今没有机器门那套 ENTRIES_EXEMPT 分义豁免，`Nichts`／`Nichtsein` 全库 22+ 条误报每轮重复报警；给它补齐要改共享脚本、影响 12 个卷，本波未动，建议列独立工作项。
+- **验收全绿**：trans-index **ALIGNMENT OK**；check-policy / validate / integrity / verify-coverage / audit-sentences 全 exit 0；validate 仍 20 处存量 misnested（w2/w3/w5，与本波无关）；**浏览器实测（端口 8860）w5/4 pairs=71/71、missing=56/56、mismatch=0、emptyZh/emptyEn=29/29、jsErr=0 → OK**（已译 42 块 / 未译 28 块 / ns=0 1 块）；回归 w5/3、w4/15、w3/0、w1/0 全 OK（**failures=0**）；固定 8 页回归 **8/8**。
+  - ★ **验收脚本首跑 FAIL 是脚本自己的期望公式不对，不是译文坏**：`web/assets/reader.js` 的渲染规则有三种情形（未译正文块＝2 格 is-missing+空；**未译标题块＝空但不带 is-missing**；**已译 `ns=0` 块＝2 格 is-missing+空**），旧公式没建模后两种。改脚本后通过，**译文一字未改**。
+- **可复现性**：3 个构建脚本（`_build_w54a.mjs` / `_build_w54b.mjs` / `_build_w54c.mjs`）重建 5 个 part 文件 → `merge-trans.mjs`（42 块，0 hash 重打）→ `trans-index.mjs` ALIGNMENT OK；**重建产物与入库 `web/data/trans/w5/4.json` 逐块逐字一致**（same=42 / diff=0 / missing=0）。
+- **共享词表**：**净增 6 行**（`data/_jobs/w5-4-b1.glossar.csv`）：`Räsoneurs`→理性主义者、`Nicht-Endliche`→非有限者、`verendlicht`→有限化、`Nichtselendes`→非自身者、`Schlecht-Unendliche`→坏的无限者、`Wechselbestimmung`→相互规定。
+- **远端**：本波推到 fork（selfish-sin/read-hegel）main；origin（ismism-learner）main 仍固定在 `f8cd477`，未动。
+- **下一批**：**w5/4 批 2 = w5-4-42 / w5-4-49 / w5-4-54 / w5-4-62 / w5-4-68**（5 单元 / 28 块 / 117 句，bi42–bi69），吃完后 **w5/4 整节 100%**（只剩 bi70 的 fn 按契约不译）。**切片已入库**：`data/_jobs/jobs-wave54.json`（18 单元＝w5/4 的 10 单元 + w5/5 的 8 单元）＋ **w5/4 的 10 个 `w5-4-*.in.json` 全部入库**（含本波已译的 5 个与下一批的 5 个）。
+  **★ 跨节溢出的 `w5-5-*.in.json`（8 个）本波不入库**（照第 48 波处置：只做目标节）——下一批直接用已入库的 w5-4-42/49/54/62/68 即可，**不要重跑 `make-jobs` 重切 w5/4**（会把 bi0–bi41 再切一遍、白做一遍）。
+- **★ 待裁决（未擅自改动已入库的 w1–w4 与 w5/0–w5/3）**：
+  ① **★ 本波新增**：`Schranke` 是否全卷统一——「全卷＝限度」需回改 w5/1、w5/2 的 5 处；「全卷＝界限」需回改本节 4 处。本轮采用「默认界限 + 4 句『界限、限度』」的双轨。
+  ② **★ 本波新增**：`Wechselbestimmung` 在 w2/1 的存量「交互规定」是否改为「相互规定」（1 句）。
+  ③ **★ 本波新增**：`wirklich` 的加强义「真正」（bi6[2]「真正地解决」）是否改「现实」（全库 wirklich 家族 576 句中 466 句作「现实」）。
+  ④ **待办延续**：`qa-trans` 是否补机器门那套 ENTRIES_EXEMPT 分义豁免（可消全库 22+ 条 `Nichts`／`Nichtsein` 误报；属共享脚本改动，影响 12 个卷，**本波未动**）。
+  ⑤ （沿用第 53 波 ①–⑫，未决）`Eigenschaft`／`Attribut`／`Beschaffenheit` 三词撞名；`das Negative`／`das Positive` 的「否定者／肯定者」分义；`Negation der Negation` bi54[0] 的字面歧义；`das Andere` 四种用字；w4「完满」vs w5「完善」；`Gleichheit mit sich selbst`「与自身的同一」vs「等同」；12 个不入表词的存量异例；共享词表 `Natur`／`Element`／`Zufälliges` 主条对齐；`Wissenschaft`→「学问」w1–w4 约 34 句；`Vorstellung`→「看法」w4 2 句；w5/0 `verschieden` 混用。
+
 ### ★ 第 53 波已收官：w5/3「C. Werden 收尾 ＋ 第二章〈Das Dasein〉开篇」整块 **100%** —— 第 5 卷第 4 节
 
 **w5/3 已整块译完：12 单元 / 102 块 / 313 句**（该节 chunk 共 102 块＝89 正文段 + 13 标题，无 fn；313 句全部译出）。全部由主代理翻译（BYOK 子代理月度配额 2026-10-23 23:59 才重置，全程不派子代理）：
@@ -648,11 +696,12 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 |---|---|
 | Bd. 1 早期著作 | ✅ 22/22 节 · 3,740 句 |
 | Bd. 2 耶拿著作 | ✅ 15/15 节 · 3,270 句 |
-| Bd. 3 精神现象学 | ✅ **正文 100%**（序言→绝对知识，w3/0–15 正文 15/15 分节 · 4,800 句） |
-| Bd. 4 纽伦堡与海德堡时期著作 | **14/16 分节 100%** · 累计 4,733 句（w4/0–13 全 100%；w4/13 海德堡时期著作评述 7 单元 / 28 块 / 203 句**整节译完**） |
-| 合计 | **16,543 / 92,117 句 = 17.96%** |
+| Bd. 3 精神现象学 | ✅ **正文 100%**（序言→绝对知识，w3/0–15 正文 15/15 分节 · 4,800 句；全块 4,800/4,959 句 = 96.8%，未译部分为编者附庸） |
+| Bd. 4 纽伦堡与海德堡时期著作 | ✅ **16/16 分节 100%** · 5,501 句（w4/0–15 全 100%，第 4 卷整卷收官于第 50 波） |
+| Bd. 5 《大逻辑》 | **5/38 分节** · 1,176 句（13.2%）：w5/0–w5/3 整节 100%；w5/4「c. Die Endlichkeit ＋ C. Die Unendlichkeit」批 1 已译 42/71 块（126/243 句） |
+| 合计 | **18,487 / 92,117 句 = 20.07%**（第 54 波收官时） |
 
-覆盖率另有按段落的数字：5,178 / 17,948 = 28.85%。
+覆盖率另有按段落的数字：5,640 / 17,948 = 31.42%（标题 541 / 2,847）。
 
 **第 38 波刚完成**（2026-10-17）：w4/5 **15 单元 / 258 块 / 388 句全分节 100%**，覆盖率 14.75% → **15.17%**。
 本节内容跨两段：前 4 单元收尾 1809/10 逻辑学（关系推论 → 概念的实现 → 观念论开篇），
@@ -813,25 +862,17 @@ node scripts/audit-sentences.mjs          # 并句检查（真实并句应为 0�
 
 ### 下一步（按优先级）
 
-1. **继续第 4 卷**：`make-jobs --vol w4` 会自动接着 w4/14 往后（上下文包 `data/_jobs/context-w4.json` 468 条已在手，可直接开译）。
-   **w4/13 已完成**；下一节 **w4/14「Heidelberger Schriften」续（约 15 单元 / 402 句）**，切片用
-   `node scripts/make-jobs.mjs --vol w4 --size 25 --limit 9 --prefix wave49`。
+1. **继续第 5 卷**：w5/4 批 2 ＝ 单元 **w5-4-42 / w5-4-49 / w5-4-54 / w5-4-62 / w5-4-68**
+   （5 单元 / 28 块 / 117 句，覆盖 bi42–bi69），吃完后 **w5/4 整节 100%**（只剩 bi70 的 fn 编者块，按契约不译）。
+   切片已入库：`data/_jobs/jobs-wave54.json`（18 单元＝w5/4 的 10 单元 + w5/5 的 8 单元）＋ **w5/4 的 10 个 `w5-4-*.in.json` 全部入库**（含下一批的 5 个）；**`w5-5-*.in.json` 属跨节溢出，本波不入库**（照第 48 波处置：只做目标节）；
+   **第 54 波只做了前 5 个单元**（w5-4-0 / 10 / 20 / 24 / 33）。**★ 下一批直接用已入库的 w5-4-42/49/54/62/68 即可，别重跑 `make-jobs` 重切 w5/4**（会把 bi0–bi41 再切一遍、白做一遍）。
    **`--limit` 只在分节边界检查、节内 flush 不看它**（实测：切 w4/9 传 `--limit 10` 得到 11 单元，正是整节切完才停）。
-   **★ 跨节溢出的实测（第 48 波）**：切 w4/13 传 `--limit 9` 实际得到 **units=22 sentences=605**——w4/13 只有 7 单元（203 句），
-   多出的 15 个单元（402 句）是 w4/14 的。**处置**：只做 w4/13，把 `jobs-wave48.json` 裁成 7 个 w4/13 单元 id，
-   并把多生成的 `w4-14-*.in.json` 删掉（可恢复删除）再提交，别让下一节的切片混进本波。
+   **★ 跨节溢出的实测（第 48 波）**：切 w4/13 传 `--limit 9` 实际得到 units=22 sentences=605——w4/13 只有 7 单元（203 句），
+   多出的 15 个单元（402 句）是下一节的。**处置**：只做目标节，把 `jobs-<prefix>.json` 裁到目标节的单元 id，
+   并把多生成的下一节 `.in.json` 删掉（可恢复删除）再提交。
    **真正的坑（第 43 波）**：目标节已 100% 时别再跑 `make-jobs`——它会滚到下一节、覆盖 `jobs-<prefix>.json` 并多生成一批 `.in.json`；
-   跑之前先确认 w4/14 是"第一个未译节"。
-   学年结束演辞术语（w4/9 已立：`Programm` 学年报告、`Rede` 演辞、`Oberklasse/Mittelklasse/Unterklasse` 高/中/低年级、
-   `Generalkommissariat` 皇家总务署、`allerhöchst` 至高、`gnädigst` 恩霈）w4/10 已沿用并扩充（`Lokation` 名次评定、`Promotion` 升班、
-   `Rektorat` 校务委员会、`Katechisation` 教理问答、`Nachtsingkollekte` 夜间唱诗募捐等），w4/11 再扩充（`Realschule` 实科中学、`Lyzeum` 高级中学、
-   `Kameralwissenschaft` 官房学、`Humaniora` 人文诸科、`Gutachten` 鉴定书、`Medizinalkomitee` 医学委员会、`Absolutorium` 结业证书），
-   w4/12 再扩充（`Normativ` 规章、`Metaphysik` 形而上学、`Kosmologie` 宇宙论、`Ontologie` 本体论、
-   `Unterprimärschule` 下级初级学校、`Oberprimärschule` 上级初级学校、`Kollegium` 讲课、`Metrik` 韵律学、
-   `Wortweisheit` 咬文嚼字、`Erbauung` 感化、`Übersicht` 概览、`Regierungsrat` 政府参议、`Konversatorium` 讨论课），
-   w4/13 再扩充（`Substanz` 实体、`Negation` 否定、`Vermittlung` 中介、`Ding an sich` 自在之物、`Apperzeption` 统觉、
-   `causa sui` 自因、`Hamann` 哈曼、`Moralprinzip` 道德原则、`das Positive` 实证、`Jacobi` 雅可比），供 w4/14 直接沿用。
-   另注意：**BYOK 子代理月度配额 2026-10-23 23:59 才重置**——在此之前不要派子代理，直接主译；
+   跑之前先确认目标节是"第一个未译节"。
+   **★ BYOK 子代理月度配额 2026-10-23 23:59 才重置**——在此之前不要派子代理，直接主译；
    若报 `monthly usage quota` 不重派；若报 `Token Plan 用量上限 (2067)` 属账号级可稍后重派一次。
 2. **未审校章节**：w1（22 节）、w2（15 节）整卷尚未逐章审校——它们译于词族政策之前，
    可用 `make-review-jobs` 分批补审；也可用 `apply-families.mjs` 先做一次词族归一。

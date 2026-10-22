@@ -26,7 +26,9 @@
   "★wave53 术语层收敛（对首轮 22 条新条目做全库用字对扫后定案：删 3 条 / 改 4 条 / 增 2 条，首轮 37 条新 minor 归零）：① 删 Ansich（自在）——机器门与 qa-trans 均按「词干＋0–3 小写」匹配，会把 Ansicht／Ansichten（观点／看法）一并命中，w5/0、w5/1 共 4 处误报；本卷由 Ansichsein→自在存在 条目兜底，das Ansich 的「自在」在正文中直译。② 删 Andere（他者）——Sein-für-Anderes（为他存在）复合词内含「Anderes」，w5/3 有 10 处假阳性；w5/0–w5/2 存量另有 10 处「他物／它者／别的东西」四分用字（待用户裁决），该词只作说明不入表。③ 删 Gleichheit（等同）——w5/0 bi9[5]「同自身的同一」、w5/2 bi10[0]「与自身的简单相等」两处存量异例，共享词表自身另有专条「Gleichheit mit sich selbst→与自身的同一」，口径未平；该词只作说明不入表。④ Anderssein＝他在（共享词表 row729 ok「全卷统一『他在』」、全库 107 句在用、w3/w4 一致、w4 包明列「他者性」为禁译），覆盖共享词表另一主条「他者性」并登记理由；本波 5 句 8 处「他者性」已回改为「他在」（bi68[2]、bi69[1]、bi69[2]、bi73[2]、bi74[0]）。⑤ Unterschiedenheit＝差别（共享词表 ok；w5/2 bi17[3] 存量已是「差别」），与 Unterschied（差别）同值、与 Verschiedenheit（相异）严格分工；本波 3 处「差异性」已回改（bi9[0]、bi13[2]、bi20[1]）。⑥ Vollkommenheit＝完善（w5 存量与共享词表 row357 一致），本波 bi43[1]「完满性」→「完善性」；w4 的「完满」列入跨卷待裁决，不擅改已入库卷。⑦ 属性三词：Eigenschaft＝属性（共享词表主条 ok，全库 110 句对 7 句；本波统一 w5/2 bi21[2]「性质」→「属性」，标准中文作「存在不是一种属性」）、Attribut＝属性（w5 存量 2 处已一致）、Beschaffenheit＝性质（w4 先例 + w5 存量 3 处；本波 bi59[0] 及 w5/3 后半 12 处统一「性质」）——与共享词表「属性」(ok) 的差异列入跨卷待裁决；★Attribut 与 Eigenschaft 同值的三词撞名待用户裁决。⑧ Sein-für-Anderes＝为他存在（共享词表 row1258 ok），本波 bi76[1]、bi76[2] 的「他者存在」已回改；w4 包作「为他存在的存在」，差异待裁决。",
   "★wave53 第 3 批分义与门务（w5/3 后半：w5-3-78/86/93/100，24 块 / 91 句；至此 w5/3 全章收官 102 块 / 313 句）：① Insichsein 按共享词表政策作「自身内存在」，与 Ansichsein「自在存在」严格分开（本波把 w5/3 的 8 处 Insichsein 由「自在存在」回改为「自身内存在」：bi53[3]、bi54[6]、bi61[2]、bi90[1]、bi92[0]、bi92[5]、bi92[6]、bi95[2]；w5/1 存量 bi6[1] 即作「自身内存在」）。② Zufälliges 按本卷 styleGuide 作「偶然者」（bi87[1]、bi100[3]），覆盖共享词表备选「偶然的东西」(variante)。③ Beschaffenheit＝性质（新增条目；w4 先例 + w5 存量 3 处一致），与 Attribut／Eigenschaft 同作「属性」的三词撞名待用户裁决。④ Beschaffenheit 的 EN 层取 constitution（区别于 Eigenschaft 的 property），bi59[0] 的 EN 同步改为 \"passes just as much into constitution\"，全章 EN 层一致。⑤ 机器门 dnt 判据修正：标签型字面量（a) b) c) α) β) γ)）须在词首出现，否则会命中词内字串（w5-3-93 bi97[1] 的 \"innerhalb)\" 被误判为缺 \"b)\"）；自检补 3 例，31 例全 PASS。⑥ 逐句回源（91 句 DE/EN/ZH 三列并排读）修正 8 处：bi100[1] 中文里混入英文 becoming（真缺陷）、bi100[5] 次序「点、面、线」倒置应为「点、线、面」（真缺陷）、bi79[0]「以为他存在」与「为他存在」粘连（真缺陷）、bi78[6]、bi79[1]、bi92[1]、bi100[0] 措辞。",
   "★wave53 不入条目表的词与理由（wave46 纪律：只有全库 0 miss 且本卷已入库处全部命中的词才可入 entries）：Mitte（中项）——词干与 Mittel（手段）相撞，w5/0 存量 6 处误报；Punkt（点）——w5/3 bi61[2]「zu dem Punkte des Insichseins」为转折点义，非几何「点」；Raum（空间）——w5/0 bi21[2]「Raum」作「余地」；Anfang（开端）——w5 存量 8 处用「开创／开始」；Element（元素）——共享词表主条作「要素」(ok)，w5 存量 2 处未命中；Körper（物体）——w5/0 bi54[1]「Inhalt und Körper der Wissenschaft」作「躯体」；Natur（自然）——共享词表本身分义（本性／自然），w5 存量 26 处未命中；Sollen（应然）、Erfüllung（实现）、Erscheinung（现象）、Gegenstand（对象）、Selbständigkeit（独立自主）——各有 1–2 处存量异例；以上各词只作说明，不入 entries。",
-  "★wave53 第 3 批 qa-trans 误报登记（w5/3 共 19 条＝1 major + 18 minor，0 条真缺陷）：① major：bi43[0]「Dasein 渲染为存在」——神学日常义（Dasein Gottes＝上帝存在的证明），分义误报；② minor：Nichts 规则被 Nichtsein 家族命中 14 条（bi33[1]、bi33[2]、bi70[1]、bi73[2]、bi73[3]、bi74[1]、bi92[5]、bi93[0]、bi94[0]、bi94[1]、bi95[0]、bi96[0]、bi97[3]、bi99[4]）——机器门已配 ENTRIES_EXEMPT 豁免，qa-trans 无此豁免机制；Moment／Wissenschaft（bi19[8] 杠杆力矩、百科全书书名）2 条；Sein 作物主代词（bi32[3]）1 条；Allgemeinheit 词干命中复数 Allgemeinheiten（bi54[2]，本卷分义作「普遍者」）1 条。③ qa-trans 的 Nichts 规则对 Nichtsein 家族的全库误报共 22 条（w4 5 条 + w5 17 条），建议照抄机器门 ENTRIES_EXEMPT 给 qa-trans 加豁免（属共享脚本改动，会使全库基线下移 22，列入待用户裁决）。"
+  "★wave53 第 3 批 qa-trans 误报登记（w5/3 共 19 条＝1 major + 18 minor，0 条真缺陷）：① major：bi43[0]「Dasein 渲染为存在」——神学日常义（Dasein Gottes＝上帝存在的证明），分义误报；② minor：Nichts 规则被 Nichtsein 家族命中 14 条（bi33[1]、bi33[2]、bi70[1]、bi73[2]、bi73[3]、bi74[1]、bi92[5]、bi93[0]、bi94[0]、bi94[1]、bi95[0]、bi96[0]、bi97[3]、bi99[4]）——机器门已配 ENTRIES_EXEMPT 豁免，qa-trans 无此豁免机制；Moment／Wissenschaft（bi19[8] 杠杆力矩、百科全书书名）2 条；Sein 作物主代词（bi32[3]）1 条；Allgemeinheit 词干命中复数 Allgemeinheiten（bi54[2]，本卷分义作「普遍者」）1 条。③ qa-trans 的 Nichts 规则对 Nichtsein 家族的全库误报共 22 条（w4 5 条 + w5 17 条），建议照抄机器门 ENTRIES_EXEMPT 给 qa-trans 加豁免（属共享脚本改动，会使全库基线下移 22，列入待用户裁决）。",
+  "★wave54 分义与裁定（w5/4「c. Die Endlichkeit」§144–153 开篇，批 1：w5-4-0/10/20/24/33＝5 单元 / 42 块 / 126 句）：① Grenze 一律「界限」；Schranke 默认「界限」（本卷 entries 层「两者均作界限」＋共享词表同值＋w5/1、w5/2 已入库 5 处先例），仅在同句内 Grenze 与 Schranke 互为规定、否则中文将成为同义反复的 4 句作「界限、限度」（w5/4 bi10[2]「nicht nur Grenze als solche, sondern Schranke」、bi10[3]、bi10[4]、bi11[0]「die Grenze … ist Schranke」）——同 w4/5 bi120「一个界限或者说一个限度」与 wave53 裁定 ⑨；其余 20 余处 Schranke 一律「界限」。② Endlichkeit＝有限性、Unendlichkeit＝无限性、das Endliche＝有限者、das Unendliche＝无限者、Sollen＝应然：全库用字对扫均有存量异例（Endlichkeit 12 句、Unendlichkeit 18 句、Unendliche 2 句、Sollen 31 句、Endliche 的形容词形式 79 句），按 wave46 纪律只作分义登记、不入 entries；Endlichkeit 的本卷 16 句已全部作「有限性」。③ das Affirmative 在本节与 das Negative（否定者）对举处作「肯定者」（w5/4 bi4[1]、bi4[2]、bi4[5]、bi5[4]、bi5[5]、bi5[6]、bi31[0]、bi35[0]）；w5/2 bi30[7] 的「肯定方面」是关系/方面义（「整体关系的肯定面」），属分义；Affirmation 一律「肯定」。④ Andersein 一律「他在」、Anderes 一律「他者」（w5/3 13 处先例）；das Ansich 作「自在」、Ansichsein 作「自在存在」、Insichsein 作「自身内存在」。⑤ really 族的加强义（w5/4 bi6[2]「wirklich auflöst」→「真正地解决」）作「真正」，体系义仍作「现实」（全库 wirklich 家族 576 句中 466 句作「现实」）。⑥ Gesetz 道德语境作「法则」、Moralität 一律「道德」（全库 193 句 0 miss，本波入 entries）、Moral 作「道德学说」（共享词表主条）、Pflicht 作「义务」。⑦ Besserwissen 作「更高明的见识」、Räsoneurs 作「理性主义者」（均入共享词表）。⑧ Wechselbestimmung 作「相互规定」（w5/4 bi32[1]、标题 bi38）；w2/1 存量作「交互规定」，差异列入待裁决。",
+  "★wave54 门务记录（w5/4 批 1）：机器门 0 critical / 0 major / 0 minor（dntChecks 5 / termChecks 299）。① 机器门据 entries 一词一译与 forbidden 计数式判据查出并已修 5 类 12 处：Vereinigung「结合」→「统一」（本卷一律「统一」）、Anderssein「他者」→「他在」、Identität「同一」→「同一性」、Etwas「有限者」→「某物」、das Affirmative「肯定方面」→「肯定者」。② doNotTranslate 的「1.」「2.」按字面保留（w5/4 bi27[4]「1.」、bi27[6]「2.」），中文侧照录编号，与德文第 1/2 点一一对应。③ 逐句回源（126 句 DE/EN/ZH 三列并排 + zh/de 长度比）另修 4 处：bi35[2]「er」指无限者而非「内心与精神」（Gemüt 改「内心」）、bi5[1]「das Sein der Endlichkeit」→「有限性的存在」、bi25[3]「Befriedigung」→「满足自己」、bi22[9] 英文收紧（en/de 词数比 1.64→1.36）。④ qa-trans 对 w5/4 报 7 条＝6 条「Nichts」规则被 Nichtsein 前缀命中（分义误报；qa-trans 仍无机器门那套 ENTRIES_EXEMPT 豁免，全库同类误报 22 条以上，延续为待办）＋1 条 wirklich 加强义（分义，已登记）；另 1 条 en/de 词数比超阈已修。⑤ 机器门只保证「没写错字」，不保证「没写漏」「与前文同词同译」：本波 126 句仍逐句回源（导出 DE/EN/ZH 三列 + 长度比扫描，1 处低比句为德文长复合词的正常压缩，人工确认无漏译）。"
  ],
  "entries": [
   {
@@ -426,7 +428,7 @@
    "en": "limit",
    "zh": "界限",
    "type": "term",
-   "note": "复数 Schranken 作单数义“界限”"
+   "note": "复数 Schranken 作单数义「界限」；本卷默认「界限」，与 Grenze 并列互为规定的 4 句作「限度」（w5/4 bi10[2]–bi11[0]；wave53 裁定 ⑨ 与 w4/5 bi120 同型先例）；w5/1、w5/2 已入库 5 处「界限」不改，差异列入待裁决"
   },
   {
    "source": "Einheit",
@@ -860,7 +862,7 @@
    "en": "limit",
    "zh": "界限",
    "type": "term",
-   "note": "共享词表定译「界限」(ok)；与 Schranke（界限）同值，本卷两者均作「界限」；本卷 32 处全部命中"
+   "note": "共享词表定译「界限」(ok)；与 Schranke（界限）同值；本卷两者默认均作「界限」（全库 Grenze 30 处、Schranke 5 处已入库先例皆作「界限」），仅在同句内二者互为规定、否则中文将成为同义反复的 4 句作「界限、限度」（w5/4 bi10[2]、bi10[3]、bi10[4]、bi11[0]；同 w4/5 bi120「一个界限或者说一个限度」先例）"
   },
   {
    "source": "Negation",
@@ -952,6 +954,13 @@
    "zh": "自身内存在",
    "type": "term",
    "note": "共享词表定译「自身内存在」(ok，政策：与 Ansichsein 严格分开)；w5/1 存量 bi6[1] 已如此；本波把 w5/3 的 8 处 Insichsein 由「自在存在」回改为「自身内存在」"
+  },
+  {
+   "source": "Moralität",
+   "en": "morality",
+   "zh": "道德",
+   "type": "term",
+   "note": "全库 193 句 0 miss（与 Sittlichkeit＝伦理严格分开；共享词表同条 ok）；w5/4 bi19[0]、bi25[3] 已入库先例亦作「道德」"
   }
  ],
  "forbidden": [
